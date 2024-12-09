@@ -1,0 +1,113 @@
+{
+    "processing_time": 64.768,
+    "results": [
+        {
+            "box": {
+                "xmin": 305,
+                "ymin": 521,
+                "xmax": 449,
+                "ymax": 557
+            },
+            "plate": "gt1237",
+            "region": {
+                "code": "cn",
+                "score": 0.609
+            },
+            "score": 0.999,
+            "candidates": [
+                {
+                    "score": 0.999,
+                    "plate": "gt1237"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "gti237"
+                }
+            ],
+            "dscore": 0.831,
+            "vehicle": {
+                "score": 0.847,
+                "type": "Van",
+                "box": {
+                    "xmin": 62,
+                    "ymin": 2,
+                    "xmax": 657,
+                    "ymax": 597
+                }
+            }
+        },
+        {
+            "box": {
+                "xmin": 254,
+                "ymin": 0,
+                "xmax": 441,
+                "ymax": 46
+            },
+            "plate": "taxi",
+            "region": {
+                "code": "be",
+                "score": 0.015
+            },
+            "score": 0.979,
+            "candidates": [
+                {
+                    "score": 0.979,
+                    "plate": "taxi"
+                },
+                {
+                    "score": 0.827,
+                    "plate": "taxi2"
+                },
+                {
+                    "score": 0.804,
+                    "plate": "taxi1"
+                },
+                {
+                    "score": 0.794,
+                    "plate": "taxi6"
+                },
+                {
+                    "score": 0.793,
+                    "plate": "taxii"
+                },
+                {
+                    "score": 0.761,
+                    "plate": "tax1"
+                },
+                {
+                    "score": 0.707,
+                    "plate": "taxi12"
+                },
+                {
+                    "score": 0.698,
+                    "plate": "taxi62"
+                },
+                {
+                    "score": 0.697,
+                    "plate": "taxii2"
+                },
+                {
+                    "score": 0.679,
+                    "plate": "taxi16"
+                }
+            ],
+            "dscore": 0.323,
+            "vehicle": {
+                "score": 0.0,
+                "type": "Unknown",
+                "box": {
+                    "xmin": 0,
+                    "ymin": 0,
+                    "xmax": 0,
+                    "ymax": 0
+                }
+            }
+        }
+    ],
+    "filename": "1348_TfJqM_G1_110.jpg",
+    "version": 1,
+    "camera_id": null,
+    "timestamp": "2024-12-03T13:48:53.375585Z",
+    "image_width": 1082,
+    "image_height": 727
+}

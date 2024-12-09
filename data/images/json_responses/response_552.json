@@ -1,0 +1,46 @@
+{
+    "processing_time": 42.459,
+    "results": [
+        {
+            "box": {
+                "xmin": 60,
+                "ymin": 592,
+                "xmax": 226,
+                "ymax": 642
+            },
+            "plate": "gt1592",
+            "region": {
+                "code": "cn",
+                "score": 0.849
+            },
+            "score": 1.0,
+            "candidates": [
+                {
+                    "score": 1.0,
+                    "plate": "gt1592"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "gti592"
+                }
+            ],
+            "dscore": 0.837,
+            "vehicle": {
+                "score": 0.85,
+                "type": "Sedan",
+                "box": {
+                    "xmin": 1,
+                    "ymin": 30,
+                    "xmax": 462,
+                    "ymax": 725
+                }
+            }
+        }
+    ],
+    "filename": "1410_B19HG_G1_552.jpg",
+    "version": 1,
+    "camera_id": null,
+    "timestamp": "2024-12-03T14:10:06.936593Z",
+    "image_width": 1082,
+    "image_height": 727
+}

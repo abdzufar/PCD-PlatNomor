@@ -1,0 +1,78 @@
+{
+    "processing_time": 37.757,
+    "results": [
+        {
+            "box": {
+                "xmin": 64,
+                "ymin": 470,
+                "xmax": 213,
+                "ymax": 514
+            },
+            "plate": "g11669",
+            "region": {
+                "code": "cn",
+                "score": 0.139
+            },
+            "score": 0.925,
+            "candidates": [
+                {
+                    "score": 0.925,
+                    "plate": "g11669"
+                },
+                {
+                    "score": 0.874,
+                    "plate": "g71669"
+                },
+                {
+                    "score": 0.837,
+                    "plate": "gi1669"
+                },
+                {
+                    "score": 0.812,
+                    "plate": "gg11669"
+                },
+                {
+                    "score": 0.771,
+                    "plate": "g1i669"
+                },
+                {
+                    "score": 0.769,
+                    "plate": "gg71669"
+                },
+                {
+                    "score": 0.737,
+                    "plate": "ggi1669"
+                },
+                {
+                    "score": 0.72,
+                    "plate": "g7i669"
+                },
+                {
+                    "score": 0.683,
+                    "plate": "gii669"
+                },
+                {
+                    "score": 0.68,
+                    "plate": "gg1i669"
+                }
+            ],
+            "dscore": 0.762,
+            "vehicle": {
+                "score": 0.321,
+                "type": "Van",
+                "box": {
+                    "xmin": 0,
+                    "ymin": 0,
+                    "xmax": 457,
+                    "ymax": 600
+                }
+            }
+        }
+    ],
+    "filename": "1356_E1lvC_G1_264.jpg",
+    "version": 1,
+    "camera_id": null,
+    "timestamp": "2024-12-03T13:56:04.149947Z",
+    "image_width": 1082,
+    "image_height": 727
+}

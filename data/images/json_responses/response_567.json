@@ -1,0 +1,46 @@
+{
+    "processing_time": 38.775,
+    "results": [
+        {
+            "box": {
+                "xmin": 270,
+                "ymin": 606,
+                "xmax": 434,
+                "ymax": 651
+            },
+            "plate": "ggx998",
+            "region": {
+                "code": "cn",
+                "score": 0.749
+            },
+            "score": 0.999,
+            "candidates": [
+                {
+                    "score": 0.999,
+                    "plate": "ggx998"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "ggx99b"
+                }
+            ],
+            "dscore": 0.847,
+            "vehicle": {
+                "score": 0.805,
+                "type": "Sedan",
+                "box": {
+                    "xmin": 0,
+                    "ymin": 62,
+                    "xmax": 680,
+                    "ymax": 726
+                }
+            }
+        }
+    ],
+    "filename": "1410_kvqY4_G1_567.jpg",
+    "version": 1,
+    "camera_id": null,
+    "timestamp": "2024-12-03T14:10:45.020095Z",
+    "image_width": 1082,
+    "image_height": 727
+}

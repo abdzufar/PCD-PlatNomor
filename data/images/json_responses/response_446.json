@@ -1,0 +1,70 @@
+{
+    "processing_time": 87.436,
+    "results": [
+        {
+            "box": {
+                "xmin": 187,
+                "ymin": 584,
+                "xmax": 355,
+                "ymax": 632
+            },
+            "plate": "g03158",
+            "region": {
+                "code": "cn",
+                "score": 0.796
+            },
+            "score": 0.999,
+            "candidates": [
+                {
+                    "score": 0.999,
+                    "plate": "g03158"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "g0315b"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "g03i58"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "go3158"
+                },
+                {
+                    "score": 0.683,
+                    "plate": "g03i5b"
+                },
+                {
+                    "score": 0.683,
+                    "plate": "go315b"
+                },
+                {
+                    "score": 0.683,
+                    "plate": "go3i58"
+                },
+                {
+                    "score": 0.525,
+                    "plate": "go3i5b"
+                }
+            ],
+            "dscore": 0.843,
+            "vehicle": {
+                "score": 0.933,
+                "type": "Sedan",
+                "box": {
+                    "xmin": 0,
+                    "ymin": 25,
+                    "xmax": 631,
+                    "ymax": 719
+                }
+            }
+        }
+    ],
+    "filename": "1404_n3kZt_G1_446.jpg",
+    "version": 1,
+    "camera_id": null,
+    "timestamp": "2024-12-03T14:04:56.026561Z",
+    "image_width": 1082,
+    "image_height": 727
+}

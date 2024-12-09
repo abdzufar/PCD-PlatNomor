@@ -1,0 +1,46 @@
+{
+    "processing_time": 18.121,
+    "results": [
+        {
+            "box": {
+                "xmin": 114,
+                "ymin": 592,
+                "xmax": 287,
+                "ymax": 647
+            },
+            "plate": "g27382",
+            "region": {
+                "code": "cn",
+                "score": 0.859
+            },
+            "score": 1.0,
+            "candidates": [
+                {
+                    "score": 1.0,
+                    "plate": "g27382"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "g273b2"
+                }
+            ],
+            "dscore": 0.851,
+            "vehicle": {
+                "score": 0.881,
+                "type": "Sedan",
+                "box": {
+                    "xmin": 0,
+                    "ymin": 3,
+                    "xmax": 528,
+                    "ymax": 725
+                }
+            }
+        }
+    ],
+    "filename": "1419_kvEEb_G1_749.jpg",
+    "version": 1,
+    "camera_id": null,
+    "timestamp": "2024-12-03T14:19:54.007070Z",
+    "image_width": 1082,
+    "image_height": 727
+}

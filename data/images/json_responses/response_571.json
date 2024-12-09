@@ -1,0 +1,54 @@
+{
+    "processing_time": 22.299,
+    "results": [
+        {
+            "box": {
+                "xmin": 557,
+                "ymin": 614,
+                "xmax": 723,
+                "ymax": 658
+            },
+            "plate": "g07660",
+            "region": {
+                "code": "cn",
+                "score": 0.496
+            },
+            "score": 0.998,
+            "candidates": [
+                {
+                    "score": 0.998,
+                    "plate": "g07660"
+                },
+                {
+                    "score": 0.84,
+                    "plate": "g0766o"
+                },
+                {
+                    "score": 0.84,
+                    "plate": "go7660"
+                },
+                {
+                    "score": 0.683,
+                    "plate": "go766o"
+                }
+            ],
+            "dscore": 0.826,
+            "vehicle": {
+                "score": 0.802,
+                "type": "Sedan",
+                "box": {
+                    "xmin": 220,
+                    "ymin": 39,
+                    "xmax": 956,
+                    "ymax": 724
+                }
+            }
+        }
+    ],
+    "filename": "1410_C6rq3_G1_571.jpg",
+    "version": 1,
+    "camera_id": null,
+    "timestamp": "2024-12-03T14:10:56.178082Z",
+    "image_width": 1082,
+    "image_height": 727
+}

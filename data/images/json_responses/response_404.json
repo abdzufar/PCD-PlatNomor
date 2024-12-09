@@ -1,0 +1,54 @@
+{
+    "processing_time": 42.282,
+    "results": [
+        {
+            "box": {
+                "xmin": 22,
+                "ymin": 597,
+                "xmax": 195,
+                "ymax": 649
+            },
+            "plate": "gt1314",
+            "region": {
+                "code": "cn",
+                "score": 0.684
+            },
+            "score": 0.999,
+            "candidates": [
+                {
+                    "score": 0.999,
+                    "plate": "gt1314"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "gt13i4"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "gti314"
+                },
+                {
+                    "score": 0.683,
+                    "plate": "gti3i4"
+                }
+            ],
+            "dscore": 0.864,
+            "vehicle": {
+                "score": 0.905,
+                "type": "Sedan",
+                "box": {
+                    "xmin": 1,
+                    "ymin": 42,
+                    "xmax": 459,
+                    "ymax": 726
+                }
+            }
+        }
+    ],
+    "filename": "1402_PUMzN_G1_404.jpg",
+    "version": 1,
+    "camera_id": null,
+    "timestamp": "2024-12-03T14:02:41.815820Z",
+    "image_width": 1082,
+    "image_height": 727
+}

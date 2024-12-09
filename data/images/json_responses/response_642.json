@@ -1,0 +1,109 @@
+{
+    "processing_time": 48.39,
+    "results": [
+        {
+            "box": {
+                "xmin": 600,
+                "ymin": 544,
+                "xmax": 751,
+                "ymax": 584
+            },
+            "plate": "gt2293",
+            "region": {
+                "code": "cn",
+                "score": 0.824
+            },
+            "score": 1.0,
+            "candidates": [
+                {
+                    "score": 1.0,
+                    "plate": "gt2293"
+                }
+            ],
+            "dscore": 0.805,
+            "vehicle": {
+                "score": 0.827,
+                "type": "Sedan",
+                "box": {
+                    "xmin": 282,
+                    "ymin": 23,
+                    "xmax": 944,
+                    "ymax": 629
+                }
+            }
+        },
+        {
+            "box": {
+                "xmin": 499,
+                "ymin": 23,
+                "xmax": 678,
+                "ymax": 69
+            },
+            "plate": "taxi",
+            "region": {
+                "code": "ru",
+                "score": 0.021
+            },
+            "score": 0.73,
+            "candidates": [
+                {
+                    "score": 0.73,
+                    "plate": "taxi"
+                },
+                {
+                    "score": 0.71,
+                    "plate": "taxi8"
+                },
+                {
+                    "score": 0.694,
+                    "plate": "taxig"
+                },
+                {
+                    "score": 0.68,
+                    "plate": "taxib"
+                },
+                {
+                    "score": 0.674,
+                    "plate": "taxi8g"
+                },
+                {
+                    "score": 0.666,
+                    "plate": "tax1"
+                },
+                {
+                    "score": 0.663,
+                    "plate": "taxir"
+                },
+                {
+                    "score": 0.646,
+                    "plate": "taxi8r"
+                },
+                {
+                    "score": 0.646,
+                    "plate": "tax18"
+                },
+                {
+                    "score": 0.644,
+                    "plate": "taxibg"
+                }
+            ],
+            "dscore": 0.016,
+            "vehicle": {
+                "score": 0.0,
+                "type": "Unknown",
+                "box": {
+                    "xmin": 0,
+                    "ymin": 0,
+                    "xmax": 0,
+                    "ymax": 0
+                }
+            }
+        }
+    ],
+    "filename": "1414_43Fsk_G1_642.jpg",
+    "version": 1,
+    "camera_id": null,
+    "timestamp": "2024-12-03T14:14:25.575115Z",
+    "image_width": 1082,
+    "image_height": 727
+}

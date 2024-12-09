@@ -1,0 +1,54 @@
+{
+    "processing_time": 58.174,
+    "results": [
+        {
+            "box": {
+                "xmin": 277,
+                "ymin": 491,
+                "xmax": 423,
+                "ymax": 532
+            },
+            "plate": "gzj005",
+            "region": {
+                "code": "cn",
+                "score": 0.747
+            },
+            "score": 1.0,
+            "candidates": [
+                {
+                    "score": 1.0,
+                    "plate": "gzj005"
+                },
+                {
+                    "score": 0.842,
+                    "plate": "gzj0o5"
+                },
+                {
+                    "score": 0.842,
+                    "plate": "gzjo05"
+                },
+                {
+                    "score": 0.683,
+                    "plate": "gzjoo5"
+                }
+            ],
+            "dscore": 0.8,
+            "vehicle": {
+                "score": 0.503,
+                "type": "SUV",
+                "box": {
+                    "xmin": 40,
+                    "ymin": 0,
+                    "xmax": 655,
+                    "ymax": 618
+                }
+            }
+        }
+    ],
+    "filename": "1410_CCsN7_G1_556.jpg",
+    "version": 1,
+    "camera_id": null,
+    "timestamp": "2024-12-03T14:10:18.646575Z",
+    "image_width": 1082,
+    "image_height": 727
+}

@@ -1,0 +1,54 @@
+{
+    "processing_time": 38.875,
+    "results": [
+        {
+            "box": {
+                "xmin": 293,
+                "ymin": 509,
+                "xmax": 442,
+                "ymax": 557
+            },
+            "plate": "g95098",
+            "region": {
+                "code": "cn",
+                "score": 0.894
+            },
+            "score": 0.999,
+            "candidates": [
+                {
+                    "score": 0.999,
+                    "plate": "g95098"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "g9509b"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "g95o98"
+                },
+                {
+                    "score": 0.682,
+                    "plate": "g95o9b"
+                }
+            ],
+            "dscore": 0.84,
+            "vehicle": {
+                "score": 0.746,
+                "type": "Sedan",
+                "box": {
+                    "xmin": 48,
+                    "ymin": 0,
+                    "xmax": 664,
+                    "ymax": 633
+                }
+            }
+        }
+    ],
+    "filename": "1421_HEQJ2_G1_785.jpg",
+    "version": 1,
+    "camera_id": null,
+    "timestamp": "2024-12-03T14:21:34.802875Z",
+    "image_width": 1082,
+    "image_height": 727
+}

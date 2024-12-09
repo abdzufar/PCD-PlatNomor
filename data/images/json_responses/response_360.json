@@ -1,0 +1,78 @@
+{
+    "processing_time": 183.47,
+    "results": [
+        {
+            "box": {
+                "xmin": 84,
+                "ymin": 593,
+                "xmax": 257,
+                "ymax": 648
+            },
+            "plate": "0r60031",
+            "region": {
+                "code": "cn",
+                "score": 0.674
+            },
+            "score": 0.794,
+            "candidates": [
+                {
+                    "score": 0.794,
+                    "plate": "0r60031"
+                },
+                {
+                    "score": 0.783,
+                    "plate": "8r60031"
+                },
+                {
+                    "score": 0.753,
+                    "plate": "or60031"
+                },
+                {
+                    "score": 0.753,
+                    "plate": "br60031"
+                },
+                {
+                    "score": 0.742,
+                    "plate": "0r6003i"
+                },
+                {
+                    "score": 0.731,
+                    "plate": "8r6003i"
+                },
+                {
+                    "score": 0.706,
+                    "plate": "0rg0031"
+                },
+                {
+                    "score": 0.701,
+                    "plate": "or6003i"
+                },
+                {
+                    "score": 0.701,
+                    "plate": "br6003i"
+                },
+                {
+                    "score": 0.696,
+                    "plate": "8rg0031"
+                }
+            ],
+            "dscore": 0.842,
+            "vehicle": {
+                "score": 0.497,
+                "type": "Pickup Truck",
+                "box": {
+                    "xmin": 0,
+                    "ymin": 8,
+                    "xmax": 493,
+                    "ymax": 721
+                }
+            }
+        }
+    ],
+    "filename": "1400_HT00U_G1_360.jpg",
+    "version": 1,
+    "camera_id": null,
+    "timestamp": "2024-12-03T14:00:31.805792Z",
+    "image_width": 1082,
+    "image_height": 727
+}

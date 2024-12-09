@@ -1,0 +1,54 @@
+{
+    "processing_time": 38.403,
+    "results": [
+        {
+            "box": {
+                "xmin": 672,
+                "ymin": 562,
+                "xmax": 819,
+                "ymax": 599
+            },
+            "plate": "gt2161",
+            "region": {
+                "code": "cn",
+                "score": 0.69
+            },
+            "score": 1.0,
+            "candidates": [
+                {
+                    "score": 1.0,
+                    "plate": "gt2161"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "gt216i"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "gt2i61"
+                },
+                {
+                    "score": 0.683,
+                    "plate": "gt2i6i"
+                }
+            ],
+            "dscore": 0.819,
+            "vehicle": {
+                "score": 0.598,
+                "type": "Van",
+                "box": {
+                    "xmin": 433,
+                    "ymin": 36,
+                    "xmax": 1036,
+                    "ymax": 635
+                }
+            }
+        }
+    ],
+    "filename": "1413_xclGI_G1_622.jpg",
+    "version": 1,
+    "camera_id": null,
+    "timestamp": "2024-12-03T14:13:27.699767Z",
+    "image_width": 1082,
+    "image_height": 727
+}

@@ -1,0 +1,54 @@
+{
+    "processing_time": 45.785,
+    "results": [
+        {
+            "box": {
+                "xmin": 292,
+                "ymin": 618,
+                "xmax": 460,
+                "ymax": 673
+            },
+            "plate": "g92131",
+            "region": {
+                "code": "cn",
+                "score": 0.873
+            },
+            "score": 1.0,
+            "candidates": [
+                {
+                    "score": 1.0,
+                    "plate": "g92131"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "g9213i"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "g92i31"
+                },
+                {
+                    "score": 0.683,
+                    "plate": "g92i3i"
+                }
+            ],
+            "dscore": 0.849,
+            "vehicle": {
+                "score": 0.91,
+                "type": "Van",
+                "box": {
+                    "xmin": 29,
+                    "ymin": 0,
+                    "xmax": 705,
+                    "ymax": 722
+                }
+            }
+        }
+    ],
+    "filename": "1415_VhoJ7_G1_654.jpg",
+    "version": 1,
+    "camera_id": null,
+    "timestamp": "2024-12-03T14:15:00.328732Z",
+    "image_width": 1082,
+    "image_height": 727
+}

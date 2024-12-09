@@ -1,0 +1,54 @@
+{
+    "processing_time": 127.056,
+    "results": [
+        {
+            "box": {
+                "xmin": 231,
+                "ymin": 594,
+                "xmax": 401,
+                "ymax": 646
+            },
+            "plate": "gt9280",
+            "region": {
+                "code": "cn",
+                "score": 0.812
+            },
+            "score": 0.999,
+            "candidates": [
+                {
+                    "score": 0.999,
+                    "plate": "gt9280"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "gt928o"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "gt92b0"
+                },
+                {
+                    "score": 0.683,
+                    "plate": "gt92bo"
+                }
+            ],
+            "dscore": 0.879,
+            "vehicle": {
+                "score": 0.795,
+                "type": "Sedan",
+                "box": {
+                    "xmin": 2,
+                    "ymin": 41,
+                    "xmax": 624,
+                    "ymax": 726
+                }
+            }
+        }
+    ],
+    "filename": "1355_RhQJQ_G1_245.jpg",
+    "version": 1,
+    "camera_id": null,
+    "timestamp": "2024-12-03T13:55:09.559809Z",
+    "image_width": 1082,
+    "image_height": 727
+}

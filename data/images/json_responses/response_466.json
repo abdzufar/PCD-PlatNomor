@@ -1,0 +1,54 @@
+{
+    "processing_time": 35.352,
+    "results": [
+        {
+            "box": {
+                "xmin": 221,
+                "ymin": 510,
+                "xmax": 378,
+                "ymax": 550
+            },
+            "plate": "gc2y18",
+            "region": {
+                "code": "cn",
+                "score": 0.541
+            },
+            "score": 0.997,
+            "candidates": [
+                {
+                    "score": 0.997,
+                    "plate": "gc2y18"
+                },
+                {
+                    "score": 0.84,
+                    "plate": "gc2y1b"
+                },
+                {
+                    "score": 0.84,
+                    "plate": "gc2yi8"
+                },
+                {
+                    "score": 0.683,
+                    "plate": "gc2yib"
+                }
+            ],
+            "dscore": 0.801,
+            "vehicle": {
+                "score": 0.767,
+                "type": "Sedan",
+                "box": {
+                    "xmin": 0,
+                    "ymin": 0,
+                    "xmax": 605,
+                    "ymax": 596
+                }
+            }
+        }
+    ],
+    "filename": "1405_vHlvQ_G1_466.jpg",
+    "version": 1,
+    "camera_id": null,
+    "timestamp": "2024-12-03T14:05:55.734993Z",
+    "image_width": 1082,
+    "image_height": 727
+}

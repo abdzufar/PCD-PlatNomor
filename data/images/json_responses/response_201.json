@@ -1,0 +1,46 @@
+{
+    "processing_time": 31.494,
+    "results": [
+        {
+            "box": {
+                "xmin": 440,
+                "ymin": 524,
+                "xmax": 579,
+                "ymax": 563
+            },
+            "plate": "gt1755",
+            "region": {
+                "code": "cn",
+                "score": 0.657
+            },
+            "score": 0.999,
+            "candidates": [
+                {
+                    "score": 0.999,
+                    "plate": "gt1755"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "gti755"
+                }
+            ],
+            "dscore": 0.824,
+            "vehicle": {
+                "score": 0.666,
+                "type": "Sedan",
+                "box": {
+                    "xmin": 201,
+                    "ymin": 9,
+                    "xmax": 779,
+                    "ymax": 613
+                }
+            }
+        }
+    ],
+    "filename": "1353_XYJkg_G1_201.jpg",
+    "version": 1,
+    "camera_id": null,
+    "timestamp": "2024-12-03T13:53:07.706928Z",
+    "image_width": 1082,
+    "image_height": 727
+}

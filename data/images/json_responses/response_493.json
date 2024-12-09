@@ -1,0 +1,137 @@
+{
+    "processing_time": 86.04,
+    "results": [
+        {
+            "box": {
+                "xmin": 82,
+                "ymin": 506,
+                "xmax": 238,
+                "ymax": 547
+            },
+            "plate": "gt1288",
+            "region": {
+                "code": "cn",
+                "score": 0.683
+            },
+            "score": 0.999,
+            "candidates": [
+                {
+                    "score": 0.999,
+                    "plate": "gt1288"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "gti288"
+                },
+                {
+                    "score": 0.84,
+                    "plate": "gt128b"
+                },
+                {
+                    "score": 0.84,
+                    "plate": "gt12b8"
+                },
+                {
+                    "score": 0.683,
+                    "plate": "gti28b"
+                },
+                {
+                    "score": 0.683,
+                    "plate": "gti2b8"
+                },
+                {
+                    "score": 0.682,
+                    "plate": "gt12bb"
+                },
+                {
+                    "score": 0.525,
+                    "plate": "gti2bb"
+                }
+            ],
+            "dscore": 0.81,
+            "vehicle": {
+                "score": 0.522,
+                "type": "Sedan",
+                "box": {
+                    "xmin": 1,
+                    "ymin": 0,
+                    "xmax": 453,
+                    "ymax": 580
+                }
+            }
+        },
+        {
+            "box": {
+                "xmin": 58,
+                "ymin": 0,
+                "xmax": 243,
+                "ymax": 39
+            },
+            "plate": "taxi",
+            "region": {
+                "code": "us-ut",
+                "score": 0.014
+            },
+            "score": 0.85,
+            "candidates": [
+                {
+                    "score": 0.85,
+                    "plate": "taxi"
+                },
+                {
+                    "score": 0.788,
+                    "plate": "tax"
+                },
+                {
+                    "score": 0.76,
+                    "plate": "xtaxi"
+                },
+                {
+                    "score": 0.739,
+                    "plate": "tax1"
+                },
+                {
+                    "score": 0.714,
+                    "plate": "ataxi"
+                },
+                {
+                    "score": 0.711,
+                    "plate": "xtax"
+                },
+                {
+                    "score": 0.671,
+                    "plate": "xtax1"
+                },
+                {
+                    "score": 0.665,
+                    "plate": "atax"
+                },
+                {
+                    "score": 0.661,
+                    "plate": "axtaxi"
+                },
+                {
+                    "score": 0.635,
+                    "plate": "axi"
+                }
+            ],
+            "dscore": 0.018,
+            "vehicle": {
+                "score": 0.0,
+                "type": "Unknown",
+                "box": {
+                    "xmin": 0,
+                    "ymin": 0,
+                    "xmax": 0,
+                    "ymax": 0
+                }
+            }
+        }
+    ],
+    "filename": "1407_DsMnz_G1_493.jpg",
+    "version": 1,
+    "camera_id": null,
+    "timestamp": "2024-12-03T14:07:19.553491Z",
+    "image_width": 1082,
+    "image_height": 727
+}

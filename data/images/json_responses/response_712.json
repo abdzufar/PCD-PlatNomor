@@ -1,0 +1,70 @@
+{
+    "processing_time": 44.857,
+    "results": [
+        {
+            "box": {
+                "xmin": 546,
+                "ymin": 542,
+                "xmax": 704,
+                "ymax": 593
+            },
+            "plate": "g03802",
+            "region": {
+                "code": "cn",
+                "score": 0.707
+            },
+            "score": 0.999,
+            "candidates": [
+                {
+                    "score": 0.999,
+                    "plate": "g03802"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "g038o2"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "g03b02"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "go3802"
+                },
+                {
+                    "score": 0.683,
+                    "plate": "g03bo2"
+                },
+                {
+                    "score": 0.683,
+                    "plate": "go38o2"
+                },
+                {
+                    "score": 0.683,
+                    "plate": "go3b02"
+                },
+                {
+                    "score": 0.525,
+                    "plate": "go3bo2"
+                }
+            ],
+            "dscore": 0.824,
+            "vehicle": {
+                "score": 0.766,
+                "type": "Van",
+                "box": {
+                    "xmin": 143,
+                    "ymin": 0,
+                    "xmax": 1077,
+                    "ymax": 618
+                }
+            }
+        }
+    ],
+    "filename": "1417_0kz5t_G1_712.jpg",
+    "version": 1,
+    "camera_id": null,
+    "timestamp": "2024-12-03T14:17:58.005575Z",
+    "image_width": 1082,
+    "image_height": 727
+}

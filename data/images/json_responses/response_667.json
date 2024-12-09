@@ -1,0 +1,70 @@
+{
+    "processing_time": 44.604,
+    "results": [
+        {
+            "box": {
+                "xmin": 454,
+                "ymin": 595,
+                "xmax": 617,
+                "ymax": 639
+            },
+            "plate": "gcl888",
+            "region": {
+                "code": "cn",
+                "score": 0.575
+            },
+            "score": 1.0,
+            "candidates": [
+                {
+                    "score": 1.0,
+                    "plate": "gcl888"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "gcl88b"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "gcl8b8"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "gclb88"
+                },
+                {
+                    "score": 0.683,
+                    "plate": "gcl8bb"
+                },
+                {
+                    "score": 0.683,
+                    "plate": "gclb8b"
+                },
+                {
+                    "score": 0.683,
+                    "plate": "gclbb8"
+                },
+                {
+                    "score": 0.525,
+                    "plate": "gclbbb"
+                }
+            ],
+            "dscore": 0.822,
+            "vehicle": {
+                "score": 0.877,
+                "type": "Sedan",
+                "box": {
+                    "xmin": 109,
+                    "ymin": 53,
+                    "xmax": 851,
+                    "ymax": 720
+                }
+            }
+        }
+    ],
+    "filename": "1415_DXpUy_G1_667.jpg",
+    "version": 1,
+    "camera_id": null,
+    "timestamp": "2024-12-03T14:15:39.945533Z",
+    "image_width": 1082,
+    "image_height": 727
+}

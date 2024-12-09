@@ -1,0 +1,46 @@
+{
+    "processing_time": 41.659,
+    "results": [
+        {
+            "box": {
+                "xmin": 479,
+                "ymin": 570,
+                "xmax": 652,
+                "ymax": 625
+            },
+            "plate": "g05927",
+            "region": {
+                "code": "cn",
+                "score": 0.782
+            },
+            "score": 0.999,
+            "candidates": [
+                {
+                    "score": 0.999,
+                    "plate": "g05927"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "go5927"
+                }
+            ],
+            "dscore": 0.811,
+            "vehicle": {
+                "score": 0.436,
+                "type": "Van",
+                "box": {
+                    "xmin": 124,
+                    "ymin": 0,
+                    "xmax": 897,
+                    "ymax": 696
+                }
+            }
+        }
+    ],
+    "filename": "1354_E9fHw_G1_231.jpg",
+    "version": 1,
+    "camera_id": null,
+    "timestamp": "2024-12-03T13:54:31.213361Z",
+    "image_width": 1082,
+    "image_height": 727
+}

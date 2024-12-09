@@ -1,0 +1,54 @@
+{
+    "processing_time": 55.865,
+    "results": [
+        {
+            "box": {
+                "xmin": 463,
+                "ymin": 594,
+                "xmax": 627,
+                "ymax": 637
+            },
+            "plate": "g00227",
+            "region": {
+                "code": "cn",
+                "score": 0.678
+            },
+            "score": 0.997,
+            "candidates": [
+                {
+                    "score": 0.997,
+                    "plate": "g00227"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "go0227"
+                },
+                {
+                    "score": 0.839,
+                    "plate": "g0o227"
+                },
+                {
+                    "score": 0.683,
+                    "plate": "goo227"
+                }
+            ],
+            "dscore": 0.837,
+            "vehicle": {
+                "score": 0.903,
+                "type": "Sedan",
+                "box": {
+                    "xmin": 113,
+                    "ymin": 2,
+                    "xmax": 888,
+                    "ymax": 710
+                }
+            }
+        }
+    ],
+    "filename": "1346_ZUwZK_G1_62.jpg",
+    "version": 1,
+    "camera_id": null,
+    "timestamp": "2024-12-03T13:46:26.812610Z",
+    "image_width": 1082,
+    "image_height": 727
+}

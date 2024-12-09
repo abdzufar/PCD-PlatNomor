@@ -1,0 +1,70 @@
+{
+    "processing_time": 31.236,
+    "results": [
+        {
+            "box": {
+                "xmin": 241,
+                "ymin": 592,
+                "xmax": 412,
+                "ymax": 647
+            },
+            "plate": "gwk888",
+            "region": {
+                "code": "cn",
+                "score": 0.703
+            },
+            "score": 0.999,
+            "candidates": [
+                {
+                    "score": 0.999,
+                    "plate": "gwk888"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "gwk88b"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "gwk8b8"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "gwkb88"
+                },
+                {
+                    "score": 0.683,
+                    "plate": "gwk8bb"
+                },
+                {
+                    "score": 0.683,
+                    "plate": "gwkb8b"
+                },
+                {
+                    "score": 0.683,
+                    "plate": "gwkbb8"
+                },
+                {
+                    "score": 0.525,
+                    "plate": "gwkbbb"
+                }
+            ],
+            "dscore": 0.865,
+            "vehicle": {
+                "score": 0.883,
+                "type": "Sedan",
+                "box": {
+                    "xmin": 1,
+                    "ymin": 61,
+                    "xmax": 643,
+                    "ymax": 725
+                }
+            }
+        }
+    ],
+    "filename": "1401_B3cFc_G1_373.jpg",
+    "version": 1,
+    "camera_id": null,
+    "timestamp": "2024-12-03T14:01:07.410519Z",
+    "image_width": 1082,
+    "image_height": 727
+}

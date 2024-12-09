@@ -1,0 +1,54 @@
+{
+    "processing_time": 30.534,
+    "results": [
+        {
+            "box": {
+                "xmin": 326,
+                "ymin": 515,
+                "xmax": 469,
+                "ymax": 552
+            },
+            "plate": "g06731",
+            "region": {
+                "code": "cn",
+                "score": 0.636
+            },
+            "score": 0.999,
+            "candidates": [
+                {
+                    "score": 0.999,
+                    "plate": "g06731"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "g0673i"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "go6731"
+                },
+                {
+                    "score": 0.683,
+                    "plate": "go673i"
+                }
+            ],
+            "dscore": 0.832,
+            "vehicle": {
+                "score": 0.721,
+                "type": "Sedan",
+                "box": {
+                    "xmin": 74,
+                    "ymin": 7,
+                    "xmax": 691,
+                    "ymax": 650
+                }
+            }
+        }
+    ],
+    "filename": "1409_55EAx_G1_536.jpg",
+    "version": 1,
+    "camera_id": null,
+    "timestamp": "2024-12-03T14:09:16.934070Z",
+    "image_width": 1082,
+    "image_height": 727
+}

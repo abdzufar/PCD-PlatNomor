@@ -1,0 +1,54 @@
+{
+    "processing_time": 34.125,
+    "results": [
+        {
+            "box": {
+                "xmin": 451,
+                "ymin": 593,
+                "xmax": 614,
+                "ymax": 638
+            },
+            "plate": "g15039",
+            "region": {
+                "code": "cn",
+                "score": 0.661
+            },
+            "score": 0.999,
+            "candidates": [
+                {
+                    "score": 0.999,
+                    "plate": "g15039"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "g15o39"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "gi5039"
+                },
+                {
+                    "score": 0.683,
+                    "plate": "gi5o39"
+                }
+            ],
+            "dscore": 0.844,
+            "vehicle": {
+                "score": 0.877,
+                "type": "Sedan",
+                "box": {
+                    "xmin": 179,
+                    "ymin": 11,
+                    "xmax": 836,
+                    "ymax": 726
+                }
+            }
+        }
+    ],
+    "filename": "1409_Xf4FS_G1_534.jpg",
+    "version": 1,
+    "camera_id": null,
+    "timestamp": "2024-12-03T14:09:11.626661Z",
+    "image_width": 1082,
+    "image_height": 727
+}

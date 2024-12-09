@@ -1,0 +1,46 @@
+{
+    "processing_time": 19.317,
+    "results": [
+        {
+            "box": {
+                "xmin": 612,
+                "ymin": 583,
+                "xmax": 791,
+                "ymax": 645
+            },
+            "plate": "g96316",
+            "region": {
+                "code": "cn",
+                "score": 0.927
+            },
+            "score": 0.999,
+            "candidates": [
+                {
+                    "score": 0.999,
+                    "plate": "g96316"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "g963i6"
+                }
+            ],
+            "dscore": 0.801,
+            "vehicle": {
+                "score": 0.589,
+                "type": "Van",
+                "box": {
+                    "xmin": 340,
+                    "ymin": 0,
+                    "xmax": 997,
+                    "ymax": 722
+                }
+            }
+        }
+    ],
+    "filename": "1345_sCedd_G1_40.jpg",
+    "version": 1,
+    "camera_id": null,
+    "timestamp": "2024-12-03T13:45:25.011489Z",
+    "image_width": 1082,
+    "image_height": 727
+}

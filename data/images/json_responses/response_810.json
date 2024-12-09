@@ -1,0 +1,42 @@
+{
+    "processing_time": 147.421,
+    "results": [
+        {
+            "box": {
+                "xmin": 333,
+                "ymin": 597,
+                "xmax": 505,
+                "ymax": 650
+            },
+            "plate": "gt9336",
+            "region": {
+                "code": "cn",
+                "score": 0.843
+            },
+            "score": 1.0,
+            "candidates": [
+                {
+                    "score": 1.0,
+                    "plate": "gt9336"
+                }
+            ],
+            "dscore": 0.839,
+            "vehicle": {
+                "score": 0.892,
+                "type": "Sedan",
+                "box": {
+                    "xmin": 32,
+                    "ymin": 39,
+                    "xmax": 721,
+                    "ymax": 726
+                }
+            }
+        }
+    ],
+    "filename": "1422_2YsKb_G1_810.jpg",
+    "version": 1,
+    "camera_id": null,
+    "timestamp": "2024-12-03T14:22:55.986735Z",
+    "image_width": 1082,
+    "image_height": 727
+}

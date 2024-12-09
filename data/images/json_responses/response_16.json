@@ -1,0 +1,46 @@
+{
+    "processing_time": 51.258,
+    "results": [
+        {
+            "box": {
+                "xmin": 152,
+                "ymin": 509,
+                "xmax": 302,
+                "ymax": 555
+            },
+            "plate": "gt0325",
+            "region": {
+                "code": "cn",
+                "score": 0.89
+            },
+            "score": 1.0,
+            "candidates": [
+                {
+                    "score": 1.0,
+                    "plate": "gt0325"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "gto325"
+                }
+            ],
+            "dscore": 0.837,
+            "vehicle": {
+                "score": 0.894,
+                "type": "Sedan",
+                "box": {
+                    "xmin": 0,
+                    "ymin": 7,
+                    "xmax": 504,
+                    "ymax": 612
+                }
+            }
+        }
+    ],
+    "filename": "1344_eYqnQ_G1_16.jpg",
+    "version": 1,
+    "camera_id": null,
+    "timestamp": "2024-12-03T13:44:20.744194Z",
+    "image_width": 1082,
+    "image_height": 727
+}

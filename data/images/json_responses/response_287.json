@@ -1,0 +1,70 @@
+{
+    "processing_time": 83.174,
+    "results": [
+        {
+            "box": {
+                "xmin": 365,
+                "ymin": 590,
+                "xmax": 529,
+                "ymax": 635
+            },
+            "plate": "r02041",
+            "region": {
+                "code": "cn",
+                "score": 0.552
+            },
+            "score": 0.999,
+            "candidates": [
+                {
+                    "score": 0.999,
+                    "plate": "r02041"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "r0204i"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "r02o41"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "ro2041"
+                },
+                {
+                    "score": 0.683,
+                    "plate": "r02o4i"
+                },
+                {
+                    "score": 0.683,
+                    "plate": "ro204i"
+                },
+                {
+                    "score": 0.683,
+                    "plate": "ro2o41"
+                },
+                {
+                    "score": 0.525,
+                    "plate": "ro2o4i"
+                }
+            ],
+            "dscore": 0.866,
+            "vehicle": {
+                "score": 0.914,
+                "type": "Sedan",
+                "box": {
+                    "xmin": 37,
+                    "ymin": 43,
+                    "xmax": 763,
+                    "ymax": 712
+                }
+            }
+        }
+    ],
+    "filename": "1357_GhaW2_G1_287.jpg",
+    "version": 1,
+    "camera_id": null,
+    "timestamp": "2024-12-03T13:57:06.947484Z",
+    "image_width": 1082,
+    "image_height": 727
+}

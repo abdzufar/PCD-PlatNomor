@@ -1,0 +1,54 @@
+{
+    "processing_time": 110.533,
+    "results": [
+        {
+            "box": {
+                "xmin": 54,
+                "ymin": 593,
+                "xmax": 222,
+                "ymax": 644
+            },
+            "plate": "g00266",
+            "region": {
+                "code": "cn",
+                "score": 0.749
+            },
+            "score": 1.0,
+            "candidates": [
+                {
+                    "score": 1.0,
+                    "plate": "g00266"
+                },
+                {
+                    "score": 0.842,
+                    "plate": "go0266"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "g0o266"
+                },
+                {
+                    "score": 0.683,
+                    "plate": "goo266"
+                }
+            ],
+            "dscore": 0.82,
+            "vehicle": {
+                "score": 0.901,
+                "type": "Sedan",
+                "box": {
+                    "xmin": 1,
+                    "ymin": 11,
+                    "xmax": 420,
+                    "ymax": 726
+                }
+            }
+        }
+    ],
+    "filename": "1418_prfG6_G1_722.jpg",
+    "version": 1,
+    "camera_id": null,
+    "timestamp": "2024-12-03T14:18:25.662516Z",
+    "image_width": 1082,
+    "image_height": 727
+}

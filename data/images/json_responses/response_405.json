@@ -1,0 +1,46 @@
+{
+    "processing_time": 35.598,
+    "results": [
+        {
+            "box": {
+                "xmin": 421,
+                "ymin": 550,
+                "xmax": 588,
+                "ymax": 595
+            },
+            "plate": "g95093",
+            "region": {
+                "code": "cn",
+                "score": 0.787
+            },
+            "score": 0.999,
+            "candidates": [
+                {
+                    "score": 0.999,
+                    "plate": "g95093"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "g95o93"
+                }
+            ],
+            "dscore": 0.836,
+            "vehicle": {
+                "score": 0.588,
+                "type": "SUV",
+                "box": {
+                    "xmin": 78,
+                    "ymin": 0,
+                    "xmax": 839,
+                    "ymax": 726
+                }
+            }
+        }
+    ],
+    "filename": "1402_Vv1ma_G1_405.jpg",
+    "version": 1,
+    "camera_id": null,
+    "timestamp": "2024-12-03T14:02:48.445635Z",
+    "image_width": 1082,
+    "image_height": 727
+}

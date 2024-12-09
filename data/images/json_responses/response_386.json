@@ -1,0 +1,78 @@
+{
+    "processing_time": 31.702,
+    "results": [
+        {
+            "box": {
+                "xmin": 328,
+                "ymin": 599,
+                "xmax": 501,
+                "ymax": 650
+            },
+            "plate": "og0102",
+            "region": {
+                "code": "cn",
+                "score": 0.751
+            },
+            "score": 0.986,
+            "candidates": [
+                {
+                    "score": 0.986,
+                    "plate": "og0102"
+                },
+                {
+                    "score": 0.835,
+                    "plate": "ogo102"
+                },
+                {
+                    "score": 0.833,
+                    "plate": "0g0102"
+                },
+                {
+                    "score": 0.828,
+                    "plate": "og01o2"
+                },
+                {
+                    "score": 0.828,
+                    "plate": "og0i02"
+                },
+                {
+                    "score": 0.683,
+                    "plate": "0go102"
+                },
+                {
+                    "score": 0.677,
+                    "plate": "ogo1o2"
+                },
+                {
+                    "score": 0.677,
+                    "plate": "ogoi02"
+                },
+                {
+                    "score": 0.675,
+                    "plate": "0g01o2"
+                },
+                {
+                    "score": 0.675,
+                    "plate": "0g0i02"
+                }
+            ],
+            "dscore": 0.838,
+            "vehicle": {
+                "score": 0.778,
+                "type": "Sedan",
+                "box": {
+                    "xmin": 14,
+                    "ymin": 42,
+                    "xmax": 733,
+                    "ymax": 718
+                }
+            }
+        }
+    ],
+    "filename": "1401_35LFz_G1_386.jpg",
+    "version": 1,
+    "camera_id": null,
+    "timestamp": "2024-12-03T14:01:47.033093Z",
+    "image_width": 1082,
+    "image_height": 727
+}

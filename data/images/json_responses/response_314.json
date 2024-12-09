@@ -1,0 +1,46 @@
+{
+    "processing_time": 99.047,
+    "results": [
+        {
+            "box": {
+                "xmin": 219,
+                "ymin": 534,
+                "xmax": 393,
+                "ymax": 585
+            },
+            "plate": "g13463",
+            "region": {
+                "code": "cn",
+                "score": 0.73
+            },
+            "score": 0.999,
+            "candidates": [
+                {
+                    "score": 0.999,
+                    "plate": "g13463"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "gi3463"
+                }
+            ],
+            "dscore": 0.807,
+            "vehicle": {
+                "score": 0.383,
+                "type": "Pickup Truck",
+                "box": {
+                    "xmin": 0,
+                    "ymin": 0,
+                    "xmax": 671,
+                    "ymax": 682
+                }
+            }
+        }
+    ],
+    "filename": "1358_Yamqc_G1_314.jpg",
+    "version": 1,
+    "camera_id": null,
+    "timestamp": "2024-12-03T13:58:29.920259Z",
+    "image_width": 1082,
+    "image_height": 727
+}

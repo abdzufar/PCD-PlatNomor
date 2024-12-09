@@ -1,0 +1,70 @@
+{
+    "processing_time": 76.486,
+    "results": [
+        {
+            "box": {
+                "xmin": 291,
+                "ymin": 584,
+                "xmax": 460,
+                "ymax": 639
+            },
+            "plate": "gz888z",
+            "region": {
+                "code": "cn",
+                "score": 0.836
+            },
+            "score": 0.999,
+            "candidates": [
+                {
+                    "score": 0.999,
+                    "plate": "gz888z"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "gz88bz"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "gz8b8z"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "gzb88z"
+                },
+                {
+                    "score": 0.683,
+                    "plate": "gz8bbz"
+                },
+                {
+                    "score": 0.683,
+                    "plate": "gzb8bz"
+                },
+                {
+                    "score": 0.683,
+                    "plate": "gzbb8z"
+                },
+                {
+                    "score": 0.525,
+                    "plate": "gzbbbz"
+                }
+            ],
+            "dscore": 0.819,
+            "vehicle": {
+                "score": 0.793,
+                "type": "Sedan",
+                "box": {
+                    "xmin": 0,
+                    "ymin": 6,
+                    "xmax": 730,
+                    "ymax": 721
+                }
+            }
+        }
+    ],
+    "filename": "1348_9Ff59_G1_113.jpg",
+    "version": 1,
+    "camera_id": null,
+    "timestamp": "2024-12-03T13:48:59.353312Z",
+    "image_width": 1082,
+    "image_height": 727
+}

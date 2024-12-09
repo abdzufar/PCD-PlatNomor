@@ -1,0 +1,42 @@
+{
+    "processing_time": 167.38,
+    "results": [
+        {
+            "box": {
+                "xmin": 487,
+                "ymin": 608,
+                "xmax": 655,
+                "ymax": 652
+            },
+            "plate": "ga080",
+            "region": {
+                "code": "cn",
+                "score": 0.122
+            },
+            "score": 0.991,
+            "candidates": [
+                {
+                    "score": 0.991,
+                    "plate": "ga080"
+                }
+            ],
+            "dscore": 0.846,
+            "vehicle": {
+                "score": 0.824,
+                "type": "Sedan",
+                "box": {
+                    "xmin": 172,
+                    "ymin": 18,
+                    "xmax": 885,
+                    "ymax": 724
+                }
+            }
+        }
+    ],
+    "filename": "1354_XRhcq_G1_236.jpg",
+    "version": 1,
+    "camera_id": null,
+    "timestamp": "2024-12-03T13:54:44.702231Z",
+    "image_width": 1082,
+    "image_height": 727
+}

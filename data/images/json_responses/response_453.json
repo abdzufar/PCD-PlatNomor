@@ -1,0 +1,54 @@
+{
+    "processing_time": 39.047,
+    "results": [
+        {
+            "box": {
+                "xmin": 498,
+                "ymin": 620,
+                "xmax": 670,
+                "ymax": 675
+            },
+            "plate": "g13603",
+            "region": {
+                "code": "cn",
+                "score": 0.815
+            },
+            "score": 0.999,
+            "candidates": [
+                {
+                    "score": 0.999,
+                    "plate": "g13603"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "g136o3"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "gi3603"
+                },
+                {
+                    "score": 0.683,
+                    "plate": "gi36o3"
+                }
+            ],
+            "dscore": 0.857,
+            "vehicle": {
+                "score": 0.936,
+                "type": "Sedan",
+                "box": {
+                    "xmin": 164,
+                    "ymin": 50,
+                    "xmax": 900,
+                    "ymax": 725
+                }
+            }
+        }
+    ],
+    "filename": "1405_UWJzi_G1_453.jpg",
+    "version": 1,
+    "camera_id": null,
+    "timestamp": "2024-12-03T14:05:17.223504Z",
+    "image_width": 1082,
+    "image_height": 727
+}

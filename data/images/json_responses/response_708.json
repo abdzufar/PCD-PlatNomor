@@ -1,0 +1,70 @@
+{
+    "processing_time": 26.705,
+    "results": [
+        {
+            "box": {
+                "xmin": 360,
+                "ymin": 505,
+                "xmax": 516,
+                "ymax": 555
+            },
+            "plate": "g11033",
+            "region": {
+                "code": "cn",
+                "score": 0.804
+            },
+            "score": 0.994,
+            "candidates": [
+                {
+                    "score": 0.994,
+                    "plate": "g11033"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "gi1033"
+                },
+                {
+                    "score": 0.837,
+                    "plate": "g11o33"
+                },
+                {
+                    "score": 0.836,
+                    "plate": "g1i033"
+                },
+                {
+                    "score": 0.683,
+                    "plate": "gi1o33"
+                },
+                {
+                    "score": 0.682,
+                    "plate": "gii033"
+                },
+                {
+                    "score": 0.678,
+                    "plate": "g1io33"
+                },
+                {
+                    "score": 0.525,
+                    "plate": "giio33"
+                }
+            ],
+            "dscore": 0.786,
+            "vehicle": {
+                "score": 0.829,
+                "type": "Big Truck",
+                "box": {
+                    "xmin": 84,
+                    "ymin": 0,
+                    "xmax": 824,
+                    "ymax": 607
+                }
+            }
+        }
+    ],
+    "filename": "1417_wyvtj_G1_708.jpg",
+    "version": 1,
+    "camera_id": null,
+    "timestamp": "2024-12-03T14:17:45.266791Z",
+    "image_width": 1082,
+    "image_height": 727
+}

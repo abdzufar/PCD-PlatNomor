@@ -1,0 +1,54 @@
+{
+    "processing_time": 35.863,
+    "results": [
+        {
+            "box": {
+                "xmin": 362,
+                "ymin": 588,
+                "xmax": 535,
+                "ymax": 641
+            },
+            "plate": "g01962",
+            "region": {
+                "code": "cn",
+                "score": 0.66
+            },
+            "score": 0.99,
+            "candidates": [
+                {
+                    "score": 0.99,
+                    "plate": "g01962"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "go1962"
+                },
+                {
+                    "score": 0.832,
+                    "plate": "g0i962"
+                },
+                {
+                    "score": 0.683,
+                    "plate": "goi962"
+                }
+            ],
+            "dscore": 0.845,
+            "vehicle": {
+                "score": 0.878,
+                "type": "Sedan",
+                "box": {
+                    "xmin": 39,
+                    "ymin": 46,
+                    "xmax": 774,
+                    "ymax": 721
+                }
+            }
+        }
+    ],
+    "filename": "1356_RcPLQ_G1_282.jpg",
+    "version": 1,
+    "camera_id": null,
+    "timestamp": "2024-12-03T13:56:52.575344Z",
+    "image_width": 1082,
+    "image_height": 727
+}

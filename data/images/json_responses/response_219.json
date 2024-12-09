@@ -1,0 +1,46 @@
+{
+    "processing_time": 26.246,
+    "results": [
+        {
+            "box": {
+                "xmin": 523,
+                "ymin": 612,
+                "xmax": 690,
+                "ymax": 660
+            },
+            "plate": "g16379",
+            "region": {
+                "code": "cn",
+                "score": 0.838
+            },
+            "score": 0.999,
+            "candidates": [
+                {
+                    "score": 0.999,
+                    "plate": "g16379"
+                },
+                {
+                    "score": 0.84,
+                    "plate": "gi6379"
+                }
+            ],
+            "dscore": 0.848,
+            "vehicle": {
+                "score": 0.875,
+                "type": "Sedan",
+                "box": {
+                    "xmin": 217,
+                    "ymin": 35,
+                    "xmax": 927,
+                    "ymax": 726
+                }
+            }
+        }
+    ],
+    "filename": "1353_XnYZd_G1_219.jpg",
+    "version": 1,
+    "camera_id": null,
+    "timestamp": "2024-12-03T13:53:55.163386Z",
+    "image_width": 1082,
+    "image_height": 727
+}

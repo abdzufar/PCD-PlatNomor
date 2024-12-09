@@ -1,0 +1,46 @@
+{
+    "processing_time": 36.845,
+    "results": [
+        {
+            "box": {
+                "xmin": 102,
+                "ymin": 530,
+                "xmax": 248,
+                "ymax": 572
+            },
+            "plate": "ay1j66",
+            "region": {
+                "code": "cn",
+                "score": 0.187
+            },
+            "score": 0.999,
+            "candidates": [
+                {
+                    "score": 0.999,
+                    "plate": "ay1j66"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "ayij66"
+                }
+            ],
+            "dscore": 0.823,
+            "vehicle": {
+                "score": 0.897,
+                "type": "Sedan",
+                "box": {
+                    "xmin": 0,
+                    "ymin": 1,
+                    "xmax": 490,
+                    "ymax": 643
+                }
+            }
+        }
+    ],
+    "filename": "1409_BGcFc_G1_540.jpg",
+    "version": 1,
+    "camera_id": null,
+    "timestamp": "2024-12-03T14:09:29.387715Z",
+    "image_width": 1082,
+    "image_height": 727
+}

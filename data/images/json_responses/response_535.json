@@ -1,0 +1,54 @@
+{
+    "processing_time": 40.577,
+    "results": [
+        {
+            "box": {
+                "xmin": 339,
+                "ymin": 587,
+                "xmax": 509,
+                "ymax": 641
+            },
+            "plate": "gt9310",
+            "region": {
+                "code": "cn",
+                "score": 0.882
+            },
+            "score": 0.999,
+            "candidates": [
+                {
+                    "score": 0.999,
+                    "plate": "gt9310"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "gt931o"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "gt93i0"
+                },
+                {
+                    "score": 0.683,
+                    "plate": "gt93io"
+                }
+            ],
+            "dscore": 0.856,
+            "vehicle": {
+                "score": 0.899,
+                "type": "Sedan",
+                "box": {
+                    "xmin": 27,
+                    "ymin": 32,
+                    "xmax": 723,
+                    "ymax": 724
+                }
+            }
+        }
+    ],
+    "filename": "1409_YIpbS_G1_535.jpg",
+    "version": 1,
+    "camera_id": null,
+    "timestamp": "2024-12-03T14:09:14.575369Z",
+    "image_width": 1082,
+    "image_height": 727
+}

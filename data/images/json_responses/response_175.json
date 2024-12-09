@@ -1,0 +1,54 @@
+{
+    "processing_time": 46.022,
+    "results": [
+        {
+            "box": {
+                "xmin": 249,
+                "ymin": 514,
+                "xmax": 394,
+                "ymax": 557
+            },
+            "plate": "g07251",
+            "region": {
+                "code": "cn",
+                "score": 0.483
+            },
+            "score": 0.991,
+            "candidates": [
+                {
+                    "score": 0.991,
+                    "plate": "g07251"
+                },
+                {
+                    "score": 0.84,
+                    "plate": "g0725i"
+                },
+                {
+                    "score": 0.833,
+                    "plate": "go7251"
+                },
+                {
+                    "score": 0.683,
+                    "plate": "go725i"
+                }
+            ],
+            "dscore": 0.802,
+            "vehicle": {
+                "score": 0.897,
+                "type": "Sedan",
+                "box": {
+                    "xmin": 0,
+                    "ymin": 4,
+                    "xmax": 633,
+                    "ymax": 634
+                }
+            }
+        }
+    ],
+    "filename": "1351_vdsVx_G1_175.jpg",
+    "version": 1,
+    "camera_id": null,
+    "timestamp": "2024-12-03T13:51:56.121151Z",
+    "image_width": 1082,
+    "image_height": 727
+}

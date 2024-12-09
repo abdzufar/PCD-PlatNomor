@@ -1,0 +1,46 @@
+{
+    "processing_time": 33.249,
+    "results": [
+        {
+            "box": {
+                "xmin": 628,
+                "ymin": 585,
+                "xmax": 795,
+                "ymax": 637
+            },
+            "plate": "g16645",
+            "region": {
+                "code": "cn",
+                "score": 0.722
+            },
+            "score": 0.999,
+            "candidates": [
+                {
+                    "score": 0.999,
+                    "plate": "g16645"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "gi6645"
+                }
+            ],
+            "dscore": 0.858,
+            "vehicle": {
+                "score": 0.683,
+                "type": "Van",
+                "box": {
+                    "xmin": 322,
+                    "ymin": 0,
+                    "xmax": 1023,
+                    "ymax": 726
+                }
+            }
+        }
+    ],
+    "filename": "1405_wiYyL_G1_455.jpg",
+    "version": 1,
+    "camera_id": null,
+    "timestamp": "2024-12-03T14:05:24.270101Z",
+    "image_width": 1082,
+    "image_height": 727
+}

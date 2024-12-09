@@ -1,0 +1,42 @@
+{
+    "processing_time": 31.009,
+    "results": [
+        {
+            "box": {
+                "xmin": 461,
+                "ymin": 632,
+                "xmax": 627,
+                "ymax": 676
+            },
+            "plate": "gdj777",
+            "region": {
+                "code": "cn",
+                "score": 0.518
+            },
+            "score": 1.0,
+            "candidates": [
+                {
+                    "score": 1.0,
+                    "plate": "gdj777"
+                }
+            ],
+            "dscore": 0.833,
+            "vehicle": {
+                "score": 0.888,
+                "type": "Van",
+                "box": {
+                    "xmin": 182,
+                    "ymin": 0,
+                    "xmax": 876,
+                    "ymax": 726
+                }
+            }
+        }
+    ],
+    "filename": "1403_ub2I7_G1_412.jpg",
+    "version": 1,
+    "camera_id": null,
+    "timestamp": "2024-12-03T14:03:13.520703Z",
+    "image_width": 1082,
+    "image_height": 727
+}

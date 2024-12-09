@@ -1,0 +1,54 @@
+{
+    "processing_time": 86.926,
+    "results": [
+        {
+            "box": {
+                "xmin": 238,
+                "ymin": 506,
+                "xmax": 383,
+                "ymax": 550
+            },
+            "plate": "g03305",
+            "region": {
+                "code": "cn",
+                "score": 0.841
+            },
+            "score": 1.0,
+            "candidates": [
+                {
+                    "score": 1.0,
+                    "plate": "g03305"
+                },
+                {
+                    "score": 0.842,
+                    "plate": "g033o5"
+                },
+                {
+                    "score": 0.842,
+                    "plate": "go3305"
+                },
+                {
+                    "score": 0.683,
+                    "plate": "go33o5"
+                }
+            ],
+            "dscore": 0.797,
+            "vehicle": {
+                "score": 0.707,
+                "type": "Sedan",
+                "box": {
+                    "xmin": 2,
+                    "ymin": 3,
+                    "xmax": 606,
+                    "ymax": 612
+                }
+            }
+        }
+    ],
+    "filename": "1411_wPtkG_G1_592.jpg",
+    "version": 1,
+    "camera_id": null,
+    "timestamp": "2024-12-03T14:11:52.482853Z",
+    "image_width": 1082,
+    "image_height": 727
+}

@@ -1,0 +1,42 @@
+{
+    "processing_time": 64.459,
+    "results": [
+        {
+            "box": {
+                "xmin": 260,
+                "ymin": 515,
+                "xmax": 402,
+                "ymax": 552
+            },
+            "plate": "gzx555",
+            "region": {
+                "code": "cn",
+                "score": 0.419
+            },
+            "score": 1.0,
+            "candidates": [
+                {
+                    "score": 1.0,
+                    "plate": "gzx555"
+                }
+            ],
+            "dscore": 0.839,
+            "vehicle": {
+                "score": 0.884,
+                "type": "Sedan",
+                "box": {
+                    "xmin": 5,
+                    "ymin": 2,
+                    "xmax": 627,
+                    "ymax": 636
+                }
+            }
+        }
+    ],
+    "filename": "1358_bbqZj_G1_325.jpg",
+    "version": 1,
+    "camera_id": null,
+    "timestamp": "2024-12-03T13:58:57.493549Z",
+    "image_width": 1082,
+    "image_height": 727
+}

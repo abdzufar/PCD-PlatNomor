@@ -1,0 +1,66 @@
+{
+    "processing_time": 60.539,
+    "results": [
+        {
+            "box": {
+                "xmin": 432,
+                "ymin": 528,
+                "xmax": 583,
+                "ymax": 573
+            },
+            "plate": "60238",
+            "region": {
+                "code": "cn",
+                "score": 0.423
+            },
+            "score": 0.938,
+            "candidates": [
+                {
+                    "score": 0.938,
+                    "plate": "60238"
+                },
+                {
+                    "score": 0.846,
+                    "plate": "g0238"
+                },
+                {
+                    "score": 0.755,
+                    "plate": "6o238"
+                },
+                {
+                    "score": 0.748,
+                    "plate": "6023b"
+                },
+                {
+                    "score": 0.664,
+                    "plate": "go238"
+                },
+                {
+                    "score": 0.656,
+                    "plate": "g023b"
+                },
+                {
+                    "score": 0.565,
+                    "plate": "6o23b"
+                }
+            ],
+            "dscore": 0.831,
+            "vehicle": {
+                "score": 0.7,
+                "type": "Sedan",
+                "box": {
+                    "xmin": 184,
+                    "ymin": 11,
+                    "xmax": 788,
+                    "ymax": 623
+                }
+            }
+        }
+    ],
+    "filename": "1421_ywc4o_G1_787.jpg",
+    "version": 1,
+    "camera_id": null,
+    "timestamp": "2024-12-03T14:21:40.449848Z",
+    "image_width": 1082,
+    "image_height": 727
+}

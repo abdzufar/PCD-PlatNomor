@@ -1,0 +1,121 @@
+{
+    "processing_time": 103.269,
+    "results": [
+        {
+            "box": {
+                "xmin": 452,
+                "ymin": 602,
+                "xmax": 623,
+                "ymax": 650
+            },
+            "plate": "gt2112",
+            "region": {
+                "code": "cn",
+                "score": 0.852
+            },
+            "score": 1.0,
+            "candidates": [
+                {
+                    "score": 1.0,
+                    "plate": "gt2112"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "gt21i2"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "gt2i12"
+                },
+                {
+                    "score": 0.683,
+                    "plate": "gt2ii2"
+                }
+            ],
+            "dscore": 0.844,
+            "vehicle": {
+                "score": 0.892,
+                "type": "Sedan",
+                "box": {
+                    "xmin": 130,
+                    "ymin": 50,
+                    "xmax": 861,
+                    "ymax": 726
+                }
+            }
+        },
+        {
+            "box": {
+                "xmin": 362,
+                "ymin": 40,
+                "xmax": 580,
+                "ymax": 94
+            },
+            "plate": "taxig",
+            "region": {
+                "code": "ru",
+                "score": 0.096
+            },
+            "score": 0.801,
+            "candidates": [
+                {
+                    "score": 0.801,
+                    "plate": "taxig"
+                },
+                {
+                    "score": 0.758,
+                    "plate": "taxib"
+                },
+                {
+                    "score": 0.739,
+                    "plate": "taxi8"
+                },
+                {
+                    "score": 0.736,
+                    "plate": "tax1g"
+                },
+                {
+                    "score": 0.702,
+                    "plate": "taxige"
+                },
+                {
+                    "score": 0.694,
+                    "plate": "tax1b"
+                },
+                {
+                    "score": 0.687,
+                    "plate": "taxi9g"
+                },
+                {
+                    "score": 0.675,
+                    "plate": "tax18"
+                },
+                {
+                    "score": 0.666,
+                    "plate": "taxibe"
+                },
+                {
+                    "score": 0.652,
+                    "plate": "taxi9b"
+                }
+            ],
+            "dscore": 0.097,
+            "vehicle": {
+                "score": 0.0,
+                "type": "Unknown",
+                "box": {
+                    "xmin": 0,
+                    "ymin": 0,
+                    "xmax": 0,
+                    "ymax": 0
+                }
+            }
+        }
+    ],
+    "filename": "1417_ajyp1_G1_711.jpg",
+    "version": 1,
+    "camera_id": null,
+    "timestamp": "2024-12-03T14:17:55.071571Z",
+    "image_width": 1082,
+    "image_height": 727
+}

@@ -1,0 +1,46 @@
+{
+    "processing_time": 47.895,
+    "results": [
+        {
+            "box": {
+                "xmin": 294,
+                "ymin": 284,
+                "xmax": 443,
+                "ymax": 327
+            },
+            "plate": "gt2250",
+            "region": {
+                "code": "cn",
+                "score": 0.834
+            },
+            "score": 1.0,
+            "candidates": [
+                {
+                    "score": 1.0,
+                    "plate": "gt2250"
+                },
+                {
+                    "score": 0.842,
+                    "plate": "gt225o"
+                }
+            ],
+            "dscore": 0.818,
+            "vehicle": {
+                "score": 0.905,
+                "type": "Sedan",
+                "box": {
+                    "xmin": 29,
+                    "ymin": 0,
+                    "xmax": 658,
+                    "ymax": 394
+                }
+            }
+        }
+    ],
+    "filename": "1350_YXCXl_G1_144.jpg",
+    "version": 1,
+    "camera_id": null,
+    "timestamp": "2024-12-03T13:50:31.430816Z",
+    "image_width": 1082,
+    "image_height": 727
+}

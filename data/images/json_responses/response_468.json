@@ -1,0 +1,70 @@
+{
+    "processing_time": 68.021,
+    "results": [
+        {
+            "box": {
+                "xmin": 156,
+                "ymin": 572,
+                "xmax": 331,
+                "ymax": 628
+            },
+            "plate": "g01285",
+            "region": {
+                "code": "cn",
+                "score": 0.724
+            },
+            "score": 0.997,
+            "candidates": [
+                {
+                    "score": 0.997,
+                    "plate": "g01285"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "go1285"
+                },
+                {
+                    "score": 0.84,
+                    "plate": "g0i285"
+                },
+                {
+                    "score": 0.839,
+                    "plate": "g012b5"
+                },
+                {
+                    "score": 0.683,
+                    "plate": "go12b5"
+                },
+                {
+                    "score": 0.683,
+                    "plate": "goi285"
+                },
+                {
+                    "score": 0.682,
+                    "plate": "g0i2b5"
+                },
+                {
+                    "score": 0.525,
+                    "plate": "goi2b5"
+                }
+            ],
+            "dscore": 0.833,
+            "vehicle": {
+                "score": 0.919,
+                "type": "Sedan",
+                "box": {
+                    "xmin": 0,
+                    "ymin": 27,
+                    "xmax": 593,
+                    "ymax": 725
+                }
+            }
+        }
+    ],
+    "filename": "1406_uSUEL_G1_468.jpg",
+    "version": 1,
+    "camera_id": null,
+    "timestamp": "2024-12-03T14:06:00.886481Z",
+    "image_width": 1082,
+    "image_height": 727
+}

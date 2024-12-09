@@ -1,0 +1,70 @@
+{
+    "processing_time": 91.699,
+    "results": [
+        {
+            "box": {
+                "xmin": 363,
+                "ymin": 542,
+                "xmax": 511,
+                "ymax": 587
+            },
+            "plate": "g01431",
+            "region": {
+                "code": "cn",
+                "score": 0.809
+            },
+            "score": 0.999,
+            "candidates": [
+                {
+                    "score": 0.999,
+                    "plate": "g01431"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "g0143i"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "g0i431"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "go1431"
+                },
+                {
+                    "score": 0.683,
+                    "plate": "g0i43i"
+                },
+                {
+                    "score": 0.683,
+                    "plate": "go143i"
+                },
+                {
+                    "score": 0.683,
+                    "plate": "goi431"
+                },
+                {
+                    "score": 0.525,
+                    "plate": "goi43i"
+                }
+            ],
+            "dscore": 0.814,
+            "vehicle": {
+                "score": 0.94,
+                "type": "Van",
+                "box": {
+                    "xmin": 158,
+                    "ymin": 1,
+                    "xmax": 719,
+                    "ymax": 624
+                }
+            }
+        }
+    ],
+    "filename": "1346_8xDd3_G1_70.jpg",
+    "version": 1,
+    "camera_id": null,
+    "timestamp": "2024-12-03T13:46:51.224904Z",
+    "image_width": 1082,
+    "image_height": 727
+}

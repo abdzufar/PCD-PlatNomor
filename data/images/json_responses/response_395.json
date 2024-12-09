@@ -1,0 +1,46 @@
+{
+    "processing_time": 58.578,
+    "results": [
+        {
+            "box": {
+                "xmin": 531,
+                "ymin": 600,
+                "xmax": 701,
+                "ymax": 651
+            },
+            "plate": "gt0797",
+            "region": {
+                "code": "cn",
+                "score": 0.848
+            },
+            "score": 1.0,
+            "candidates": [
+                {
+                    "score": 1.0,
+                    "plate": "gt0797"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "gto797"
+                }
+            ],
+            "dscore": 0.862,
+            "vehicle": {
+                "score": 0.934,
+                "type": "Sedan",
+                "box": {
+                    "xmin": 202,
+                    "ymin": 47,
+                    "xmax": 932,
+                    "ymax": 725
+                }
+            }
+        }
+    ],
+    "filename": "1402_KHW5y_G1_395.jpg",
+    "version": 1,
+    "camera_id": null,
+    "timestamp": "2024-12-03T14:02:18.573360Z",
+    "image_width": 1082,
+    "image_height": 727
+}

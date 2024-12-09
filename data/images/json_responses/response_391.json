@@ -1,0 +1,46 @@
+{
+    "processing_time": 78.028,
+    "results": [
+        {
+            "box": {
+                "xmin": 127,
+                "ymin": 581,
+                "xmax": 302,
+                "ymax": 638
+            },
+            "plate": "duf069",
+            "region": {
+                "code": "cn",
+                "score": 0.481
+            },
+            "score": 1.0,
+            "candidates": [
+                {
+                    "score": 1.0,
+                    "plate": "duf069"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "dufo69"
+                }
+            ],
+            "dscore": 0.822,
+            "vehicle": {
+                "score": 0.923,
+                "type": "Sedan",
+                "box": {
+                    "xmin": 0,
+                    "ymin": 29,
+                    "xmax": 554,
+                    "ymax": 712
+                }
+            }
+        }
+    ],
+    "filename": "1402_vWzEe_G1_391.jpg",
+    "version": 1,
+    "camera_id": null,
+    "timestamp": "2024-12-03T14:02:02.721405Z",
+    "image_width": 1082,
+    "image_height": 727
+}

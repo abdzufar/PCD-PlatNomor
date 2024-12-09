@@ -1,0 +1,70 @@
+{
+    "processing_time": 34.89,
+    "results": [
+        {
+            "box": {
+                "xmin": 410,
+                "ymin": 608,
+                "xmax": 585,
+                "ymax": 660
+            },
+            "plate": "g06815",
+            "region": {
+                "code": "cn",
+                "score": 0.79
+            },
+            "score": 0.999,
+            "candidates": [
+                {
+                    "score": 0.999,
+                    "plate": "g06815"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "g068i5"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "g06b15"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "go6815"
+                },
+                {
+                    "score": 0.683,
+                    "plate": "g06bi5"
+                },
+                {
+                    "score": 0.683,
+                    "plate": "go68i5"
+                },
+                {
+                    "score": 0.683,
+                    "plate": "go6b15"
+                },
+                {
+                    "score": 0.525,
+                    "plate": "go6bi5"
+                }
+            ],
+            "dscore": 0.828,
+            "vehicle": {
+                "score": 0.813,
+                "type": "Sedan",
+                "box": {
+                    "xmin": 104,
+                    "ymin": 37,
+                    "xmax": 817,
+                    "ymax": 724
+                }
+            }
+        }
+    ],
+    "filename": "1353_qGv99_G1_218.jpg",
+    "version": 1,
+    "camera_id": null,
+    "timestamp": "2024-12-03T13:53:51.509843Z",
+    "image_width": 1082,
+    "image_height": 727
+}

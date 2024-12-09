@@ -1,0 +1,70 @@
+{
+    "processing_time": 24.182,
+    "results": [
+        {
+            "box": {
+                "xmin": 452,
+                "ymin": 611,
+                "xmax": 619,
+                "ymax": 663
+            },
+            "plate": "g05016",
+            "region": {
+                "code": "cn",
+                "score": 0.812
+            },
+            "score": 1.0,
+            "candidates": [
+                {
+                    "score": 1.0,
+                    "plate": "g05016"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "g050i6"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "g05o16"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "go5016"
+                },
+                {
+                    "score": 0.683,
+                    "plate": "g05oi6"
+                },
+                {
+                    "score": 0.683,
+                    "plate": "go50i6"
+                },
+                {
+                    "score": 0.683,
+                    "plate": "go5o16"
+                },
+                {
+                    "score": 0.525,
+                    "plate": "go5oi6"
+                }
+            ],
+            "dscore": 0.847,
+            "vehicle": {
+                "score": 0.958,
+                "type": "Sedan",
+                "box": {
+                    "xmin": 105,
+                    "ymin": 42,
+                    "xmax": 854,
+                    "ymax": 725
+                }
+            }
+        }
+    ],
+    "filename": "1343_8Ld7i_G1_5.jpg",
+    "version": 1,
+    "camera_id": null,
+    "timestamp": "2024-12-03T13:43:50.541923Z",
+    "image_width": 1082,
+    "image_height": 727
+}

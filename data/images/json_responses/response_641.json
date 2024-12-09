@@ -1,0 +1,54 @@
+{
+    "processing_time": 23.691,
+    "results": [
+        {
+            "box": {
+                "xmin": 226,
+                "ymin": 507,
+                "xmax": 376,
+                "ymax": 553
+            },
+            "plate": "gt2156",
+            "region": {
+                "code": "cn",
+                "score": 0.897
+            },
+            "score": 1.0,
+            "candidates": [
+                {
+                    "score": 1.0,
+                    "plate": "gt2156"
+                },
+                {
+                    "score": 0.874,
+                    "plate": "lgt2156"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "gt2i56"
+                },
+                {
+                    "score": 0.738,
+                    "plate": "lgt2i56"
+                }
+            ],
+            "dscore": 0.823,
+            "vehicle": {
+                "score": 0.9,
+                "type": "Sedan",
+                "box": {
+                    "xmin": 0,
+                    "ymin": 4,
+                    "xmax": 564,
+                    "ymax": 615
+                }
+            }
+        }
+    ],
+    "filename": "1414_9xcIm_G1_641.jpg",
+    "version": 1,
+    "camera_id": null,
+    "timestamp": "2024-12-03T14:14:22.701601Z",
+    "image_width": 1082,
+    "image_height": 727
+}

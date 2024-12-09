@@ -1,0 +1,46 @@
+{
+    "processing_time": 74.776,
+    "results": [
+        {
+            "box": {
+                "xmin": 375,
+                "ymin": 621,
+                "xmax": 541,
+                "ymax": 664
+            },
+            "plate": "g91337",
+            "region": {
+                "code": "cn",
+                "score": 0.662
+            },
+            "score": 1.0,
+            "candidates": [
+                {
+                    "score": 1.0,
+                    "plate": "g91337"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "g9i337"
+                }
+            ],
+            "dscore": 0.853,
+            "vehicle": {
+                "score": 0.896,
+                "type": "Sedan",
+                "box": {
+                    "xmin": 34,
+                    "ymin": 17,
+                    "xmax": 803,
+                    "ymax": 722
+                }
+            }
+        }
+    ],
+    "filename": "1402_RTNWQ_G1_396.jpg",
+    "version": 1,
+    "camera_id": null,
+    "timestamp": "2024-12-03T14:02:20.222413Z",
+    "image_width": 1082,
+    "image_height": 727
+}

@@ -1,0 +1,54 @@
+{
+    "processing_time": 76.648,
+    "results": [
+        {
+            "box": {
+                "xmin": 398,
+                "ymin": 503,
+                "xmax": 549,
+                "ymax": 550
+            },
+            "plate": "g06661",
+            "region": {
+                "code": "cn",
+                "score": 0.9
+            },
+            "score": 0.999,
+            "candidates": [
+                {
+                    "score": 0.999,
+                    "plate": "g06661"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "g0666i"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "go6661"
+                },
+                {
+                    "score": 0.683,
+                    "plate": "go666i"
+                }
+            ],
+            "dscore": 0.808,
+            "vehicle": {
+                "score": 0.792,
+                "type": "Big Truck",
+                "box": {
+                    "xmin": 9,
+                    "ymin": 0,
+                    "xmax": 969,
+                    "ymax": 588
+                }
+            }
+        }
+    ],
+    "filename": "1351_jcCmu_G1_154.jpg",
+    "version": 1,
+    "camera_id": null,
+    "timestamp": "2024-12-03T13:51:01.459458Z",
+    "image_width": 1082,
+    "image_height": 727
+}

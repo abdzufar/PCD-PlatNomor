@@ -1,0 +1,46 @@
+{
+    "processing_time": 96.422,
+    "results": [
+        {
+            "box": {
+                "xmin": 290,
+                "ymin": 602,
+                "xmax": 481,
+                "ymax": 648
+            },
+            "plate": "g15663",
+            "region": {
+                "code": "cn",
+                "score": 0.446
+            },
+            "score": 0.998,
+            "candidates": [
+                {
+                    "score": 0.998,
+                    "plate": "g15663"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "gi5663"
+                }
+            ],
+            "dscore": 0.791,
+            "vehicle": {
+                "score": 0.894,
+                "type": "Sedan",
+                "box": {
+                    "xmin": 0,
+                    "ymin": 37,
+                    "xmax": 714,
+                    "ymax": 725
+                }
+            }
+        }
+    ],
+    "filename": "1412_3M5X8_G1_599.jpg",
+    "version": 1,
+    "camera_id": null,
+    "timestamp": "2024-12-03T14:12:15.422427Z",
+    "image_width": 1082,
+    "image_height": 727
+}

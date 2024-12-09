@@ -1,0 +1,46 @@
+{
+    "processing_time": 62.658,
+    "results": [
+        {
+            "box": {
+                "xmin": 472,
+                "ymin": 546,
+                "xmax": 621,
+                "ymax": 592
+            },
+            "plate": "g26032",
+            "region": {
+                "code": "cn",
+                "score": 0.802
+            },
+            "score": 1.0,
+            "candidates": [
+                {
+                    "score": 1.0,
+                    "plate": "g26032"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "g26o32"
+                }
+            ],
+            "dscore": 0.833,
+            "vehicle": {
+                "score": 0.903,
+                "type": "Van",
+                "box": {
+                    "xmin": 230,
+                    "ymin": 0,
+                    "xmax": 822,
+                    "ymax": 656
+                }
+            }
+        }
+    ],
+    "filename": "1405_PKlzn_G1_452.jpg",
+    "version": 1,
+    "camera_id": null,
+    "timestamp": "2024-12-03T14:05:13.569846Z",
+    "image_width": 1082,
+    "image_height": 727
+}

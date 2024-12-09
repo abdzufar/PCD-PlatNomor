@@ -1,0 +1,70 @@
+{
+    "processing_time": 55.835,
+    "results": [
+        {
+            "box": {
+                "xmin": 169,
+                "ymin": 531,
+                "xmax": 309,
+                "ymax": 563
+            },
+            "plate": "gwl188",
+            "region": {
+                "code": "cn",
+                "score": 0.451
+            },
+            "score": 1.0,
+            "candidates": [
+                {
+                    "score": 1.0,
+                    "plate": "gwl188"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "gwl18b"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "gwl1b8"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "gwli88"
+                },
+                {
+                    "score": 0.683,
+                    "plate": "gwl1bb"
+                },
+                {
+                    "score": 0.683,
+                    "plate": "gwli8b"
+                },
+                {
+                    "score": 0.683,
+                    "plate": "gwlib8"
+                },
+                {
+                    "score": 0.525,
+                    "plate": "gwlibb"
+                }
+            ],
+            "dscore": 0.828,
+            "vehicle": {
+                "score": 0.738,
+                "type": "Sedan",
+                "box": {
+                    "xmin": 0,
+                    "ymin": 15,
+                    "xmax": 526,
+                    "ymax": 597
+                }
+            }
+        }
+    ],
+    "filename": "1400_I2C72_G1_361.jpg",
+    "version": 1,
+    "camera_id": null,
+    "timestamp": "2024-12-03T14:00:35.948216Z",
+    "image_width": 1082,
+    "image_height": 727
+}

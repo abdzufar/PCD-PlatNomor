@@ -1,0 +1,54 @@
+{
+    "processing_time": 53.426,
+    "results": [
+        {
+            "box": {
+                "xmin": 478,
+                "ymin": 494,
+                "xmax": 646,
+                "ymax": 547
+            },
+            "plate": "g15845",
+            "region": {
+                "code": "cn",
+                "score": 0.707
+            },
+            "score": 0.999,
+            "candidates": [
+                {
+                    "score": 0.999,
+                    "plate": "g15845"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "g15b45"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "gi5845"
+                },
+                {
+                    "score": 0.683,
+                    "plate": "gi5b45"
+                }
+            ],
+            "dscore": 0.839,
+            "vehicle": {
+                "score": 0.364,
+                "type": "SUV",
+                "box": {
+                    "xmin": 113,
+                    "ymin": 0,
+                    "xmax": 898,
+                    "ymax": 701
+                }
+            }
+        }
+    ],
+    "filename": "1356_gxFWo_G1_277.jpg",
+    "version": 1,
+    "camera_id": null,
+    "timestamp": "2024-12-03T13:56:39.215146Z",
+    "image_width": 1082,
+    "image_height": 727
+}

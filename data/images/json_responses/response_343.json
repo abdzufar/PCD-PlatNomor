@@ -1,0 +1,54 @@
+{
+    "processing_time": 120.852,
+    "results": [
+        {
+            "box": {
+                "xmin": 276,
+                "ymin": 599,
+                "xmax": 448,
+                "ymax": 653
+            },
+            "plate": "g17221",
+            "region": {
+                "code": "cn",
+                "score": 0.688
+            },
+            "score": 0.999,
+            "candidates": [
+                {
+                    "score": 0.999,
+                    "plate": "g17221"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "gi7221"
+                },
+                {
+                    "score": 0.84,
+                    "plate": "g1722i"
+                },
+                {
+                    "score": 0.683,
+                    "plate": "gi722i"
+                }
+            ],
+            "dscore": 0.875,
+            "vehicle": {
+                "score": 0.731,
+                "type": "Sedan",
+                "box": {
+                    "xmin": 1,
+                    "ymin": 6,
+                    "xmax": 714,
+                    "ymax": 709
+                }
+            }
+        }
+    ],
+    "filename": "1359_F5rEX_G1_343.jpg",
+    "version": 1,
+    "camera_id": null,
+    "timestamp": "2024-12-03T13:59:48.603151Z",
+    "image_width": 1082,
+    "image_height": 727
+}

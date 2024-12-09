@@ -1,0 +1,42 @@
+{
+    "processing_time": 25.348,
+    "results": [
+        {
+            "box": {
+                "xmin": 416,
+                "ymin": 574,
+                "xmax": 588,
+                "ymax": 627
+            },
+            "plate": "g92723",
+            "region": {
+                "code": "cn",
+                "score": 0.7
+            },
+            "score": 1.0,
+            "candidates": [
+                {
+                    "score": 1.0,
+                    "plate": "g92723"
+                }
+            ],
+            "dscore": 0.835,
+            "vehicle": {
+                "score": 0.909,
+                "type": "Sedan",
+                "box": {
+                    "xmin": 47,
+                    "ymin": 13,
+                    "xmax": 813,
+                    "ymax": 721
+                }
+            }
+        }
+    ],
+    "filename": "1414_4gPkg_G1_637.jpg",
+    "version": 1,
+    "camera_id": null,
+    "timestamp": "2024-12-03T14:14:13.618304Z",
+    "image_width": 1082,
+    "image_height": 727
+}

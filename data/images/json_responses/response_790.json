@@ -1,0 +1,54 @@
+{
+    "processing_time": 116.825,
+    "results": [
+        {
+            "box": {
+                "xmin": 456,
+                "ymin": 499,
+                "xmax": 598,
+                "ymax": 536
+            },
+            "plate": "ehb678",
+            "region": {
+                "code": "cn",
+                "score": 0.555
+            },
+            "score": 0.999,
+            "candidates": [
+                {
+                    "score": 0.999,
+                    "plate": "ehb678"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "ehb67b"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "eh8678"
+                },
+                {
+                    "score": 0.683,
+                    "plate": "eh867b"
+                }
+            ],
+            "dscore": 0.832,
+            "vehicle": {
+                "score": 0.843,
+                "type": "Sedan",
+                "box": {
+                    "xmin": 172,
+                    "ymin": 1,
+                    "xmax": 832,
+                    "ymax": 620
+                }
+            }
+        }
+    ],
+    "filename": "1421_w2aYF_G1_790.jpg",
+    "version": 1,
+    "camera_id": null,
+    "timestamp": "2024-12-03T14:21:50.704054Z",
+    "image_width": 1082,
+    "image_height": 727
+}

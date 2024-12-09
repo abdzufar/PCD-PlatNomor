@@ -1,0 +1,42 @@
+{
+    "processing_time": 52.023,
+    "results": [
+        {
+            "box": {
+                "xmin": 362,
+                "ymin": 572,
+                "xmax": 528,
+                "ymax": 621
+            },
+            "plate": "gj555j",
+            "region": {
+                "code": "cn",
+                "score": 0.647
+            },
+            "score": 1.0,
+            "candidates": [
+                {
+                    "score": 1.0,
+                    "plate": "gj555j"
+                }
+            ],
+            "dscore": 0.806,
+            "vehicle": {
+                "score": 0.763,
+                "type": "SUV",
+                "box": {
+                    "xmin": 2,
+                    "ymin": 0,
+                    "xmax": 839,
+                    "ymax": 722
+                }
+            }
+        }
+    ],
+    "filename": "1351_5duWe_G1_172.jpg",
+    "version": 1,
+    "camera_id": null,
+    "timestamp": "2024-12-03T13:51:50.199242Z",
+    "image_width": 1082,
+    "image_height": 727
+}

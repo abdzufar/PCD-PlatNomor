@@ -1,0 +1,70 @@
+{
+    "processing_time": 94.145,
+    "results": [
+        {
+            "box": {
+                "xmin": 362,
+                "ymin": 606,
+                "xmax": 525,
+                "ymax": 649
+            },
+            "plate": "g00033",
+            "region": {
+                "code": "cn",
+                "score": 0.562
+            },
+            "score": 0.997,
+            "candidates": [
+                {
+                    "score": 0.997,
+                    "plate": "g00033"
+                },
+                {
+                    "score": 0.839,
+                    "plate": "g00o33"
+                },
+                {
+                    "score": 0.839,
+                    "plate": "g0o033"
+                },
+                {
+                    "score": 0.839,
+                    "plate": "go0033"
+                },
+                {
+                    "score": 0.681,
+                    "plate": "g0oo33"
+                },
+                {
+                    "score": 0.681,
+                    "plate": "go0o33"
+                },
+                {
+                    "score": 0.681,
+                    "plate": "goo033"
+                },
+                {
+                    "score": 0.523,
+                    "plate": "gooo33"
+                }
+            ],
+            "dscore": 0.825,
+            "vehicle": {
+                "score": 0.86,
+                "type": "Sedan",
+                "box": {
+                    "xmin": 19,
+                    "ymin": 17,
+                    "xmax": 779,
+                    "ymax": 716
+                }
+            }
+        }
+    ],
+    "filename": "1347_skqFe_G1_74.jpg",
+    "version": 1,
+    "camera_id": null,
+    "timestamp": "2024-12-03T13:47:11.085685Z",
+    "image_width": 1082,
+    "image_height": 727
+}

@@ -1,0 +1,54 @@
+{
+    "processing_time": 31.495,
+    "results": [
+        {
+            "box": {
+                "xmin": 560,
+                "ymin": 620,
+                "xmax": 729,
+                "ymax": 667
+            },
+            "plate": "g07331",
+            "region": {
+                "code": "cn",
+                "score": 0.818
+            },
+            "score": 0.999,
+            "candidates": [
+                {
+                    "score": 0.999,
+                    "plate": "g07331"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "g0733i"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "go7331"
+                },
+                {
+                    "score": 0.683,
+                    "plate": "go733i"
+                }
+            ],
+            "dscore": 0.846,
+            "vehicle": {
+                "score": 0.64,
+                "type": "Big Truck",
+                "box": {
+                    "xmin": 141,
+                    "ymin": 0,
+                    "xmax": 1072,
+                    "ymax": 711
+                }
+            }
+        }
+    ],
+    "filename": "1355_S19QQ_G1_253.jpg",
+    "version": 1,
+    "camera_id": null,
+    "timestamp": "2024-12-03T13:55:33.106942Z",
+    "image_width": 1082,
+    "image_height": 727
+}

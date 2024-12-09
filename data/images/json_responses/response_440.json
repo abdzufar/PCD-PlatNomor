@@ -1,0 +1,70 @@
+{
+    "processing_time": 72.051,
+    "results": [
+        {
+            "box": {
+                "xmin": 293,
+                "ymin": 534,
+                "xmax": 440,
+                "ymax": 579
+            },
+            "plate": "g17083",
+            "region": {
+                "code": "cn",
+                "score": 0.735
+            },
+            "score": 0.999,
+            "candidates": [
+                {
+                    "score": 0.999,
+                    "plate": "g17083"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "g170b3"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "g17o83"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "gi7083"
+                },
+                {
+                    "score": 0.683,
+                    "plate": "gi70b3"
+                },
+                {
+                    "score": 0.683,
+                    "plate": "gi7o83"
+                },
+                {
+                    "score": 0.682,
+                    "plate": "g17ob3"
+                },
+                {
+                    "score": 0.525,
+                    "plate": "gi7ob3"
+                }
+            ],
+            "dscore": 0.832,
+            "vehicle": {
+                "score": 0.693,
+                "type": "Big Truck",
+                "box": {
+                    "xmin": 9,
+                    "ymin": 0,
+                    "xmax": 725,
+                    "ymax": 608
+                }
+            }
+        }
+    ],
+    "filename": "1404_26gas_G1_440.jpg",
+    "version": 1,
+    "camera_id": null,
+    "timestamp": "2024-12-03T14:04:34.733300Z",
+    "image_width": 1082,
+    "image_height": 727
+}

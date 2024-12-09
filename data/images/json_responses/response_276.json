@@ -1,0 +1,54 @@
+{
+    "processing_time": 57.266,
+    "results": [
+        {
+            "box": {
+                "xmin": 386,
+                "ymin": 584,
+                "xmax": 552,
+                "ymax": 629
+            },
+            "plate": "g04338",
+            "region": {
+                "code": "cn",
+                "score": 0.7
+            },
+            "score": 0.999,
+            "candidates": [
+                {
+                    "score": 0.999,
+                    "plate": "g04338"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "g0433b"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "go4338"
+                },
+                {
+                    "score": 0.683,
+                    "plate": "go433b"
+                }
+            ],
+            "dscore": 0.833,
+            "vehicle": {
+                "score": 0.896,
+                "type": "Sedan",
+                "box": {
+                    "xmin": 38,
+                    "ymin": 22,
+                    "xmax": 788,
+                    "ymax": 715
+                }
+            }
+        }
+    ],
+    "filename": "1356_Stp9Y_G1_276.jpg",
+    "version": 1,
+    "camera_id": null,
+    "timestamp": "2024-12-03T13:56:35.970093Z",
+    "image_width": 1082,
+    "image_height": 727
+}

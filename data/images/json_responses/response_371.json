@@ -1,0 +1,54 @@
+{
+    "processing_time": 76.21,
+    "results": [
+        {
+            "box": {
+                "xmin": 314,
+                "ymin": 566,
+                "xmax": 482,
+                "ymax": 620
+            },
+            "plate": "g01596",
+            "region": {
+                "code": "cn",
+                "score": 0.798
+            },
+            "score": 0.998,
+            "candidates": [
+                {
+                    "score": 0.998,
+                    "plate": "g01596"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "go1596"
+                },
+                {
+                    "score": 0.84,
+                    "plate": "g0i596"
+                },
+                {
+                    "score": 0.683,
+                    "plate": "goi596"
+                }
+            ],
+            "dscore": 0.852,
+            "vehicle": {
+                "score": 0.887,
+                "type": "Sedan",
+                "box": {
+                    "xmin": 0,
+                    "ymin": 15,
+                    "xmax": 744,
+                    "ymax": 710
+                }
+            }
+        }
+    ],
+    "filename": "1401_lz2Xr_G1_371.jpg",
+    "version": 1,
+    "camera_id": null,
+    "timestamp": "2024-12-03T14:01:01.990798Z",
+    "image_width": 1082,
+    "image_height": 727
+}

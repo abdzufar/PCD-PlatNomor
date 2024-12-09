@@ -1,0 +1,70 @@
+{
+    "processing_time": 32.978,
+    "results": [
+        {
+            "box": {
+                "xmin": 251,
+                "ymin": 443,
+                "xmax": 394,
+                "ymax": 484
+            },
+            "plate": "gll111",
+            "region": {
+                "code": "cn",
+                "score": 0.521
+            },
+            "score": 0.999,
+            "candidates": [
+                {
+                    "score": 0.999,
+                    "plate": "gll111"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "gll11i"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "glli11"
+                },
+                {
+                    "score": 0.84,
+                    "plate": "gll1i1"
+                },
+                {
+                    "score": 0.683,
+                    "plate": "gll1ii"
+                },
+                {
+                    "score": 0.683,
+                    "plate": "glli1i"
+                },
+                {
+                    "score": 0.682,
+                    "plate": "gllii1"
+                },
+                {
+                    "score": 0.525,
+                    "plate": "glliii"
+                }
+            ],
+            "dscore": 0.797,
+            "vehicle": {
+                "score": 0.608,
+                "type": "SUV",
+                "box": {
+                    "xmin": 3,
+                    "ymin": 1,
+                    "xmax": 644,
+                    "ymax": 607
+                }
+            }
+        }
+    ],
+    "filename": "1401_HlakE_G1_375.jpg",
+    "version": 1,
+    "camera_id": null,
+    "timestamp": "2024-12-03T14:01:13.164942Z",
+    "image_width": 1082,
+    "image_height": 727
+}

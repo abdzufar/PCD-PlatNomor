@@ -1,0 +1,42 @@
+{
+    "processing_time": 23.802,
+    "results": [
+        {
+            "box": {
+                "xmin": 333,
+                "ymin": 516,
+                "xmax": 481,
+                "ymax": 563
+            },
+            "plate": "g26522",
+            "region": {
+                "code": "cn",
+                "score": 0.658
+            },
+            "score": 1.0,
+            "candidates": [
+                {
+                    "score": 1.0,
+                    "plate": "g26522"
+                }
+            ],
+            "dscore": 0.812,
+            "vehicle": {
+                "score": 0.766,
+                "type": "Van",
+                "box": {
+                    "xmin": 155,
+                    "ymin": 0,
+                    "xmax": 722,
+                    "ymax": 607
+                }
+            }
+        }
+    ],
+    "filename": "1403_cI7GM_G1_419.jpg",
+    "version": 1,
+    "camera_id": null,
+    "timestamp": "2024-12-03T14:03:36.731492Z",
+    "image_width": 1082,
+    "image_height": 727
+}

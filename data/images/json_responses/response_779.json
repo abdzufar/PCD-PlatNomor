@@ -1,0 +1,54 @@
+{
+    "processing_time": 54.535,
+    "results": [
+        {
+            "box": {
+                "xmin": 311,
+                "ymin": 498,
+                "xmax": 457,
+                "ymax": 545
+            },
+            "plate": "gzf688",
+            "region": {
+                "code": "cn",
+                "score": 0.715
+            },
+            "score": 1.0,
+            "candidates": [
+                {
+                    "score": 1.0,
+                    "plate": "gzf688"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "gzf68b"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "gzf6b8"
+                },
+                {
+                    "score": 0.683,
+                    "plate": "gzf6bb"
+                }
+            ],
+            "dscore": 0.833,
+            "vehicle": {
+                "score": 0.913,
+                "type": "Sedan",
+                "box": {
+                    "xmin": 49,
+                    "ymin": 0,
+                    "xmax": 688,
+                    "ymax": 612
+                }
+            }
+        }
+    ],
+    "filename": "1421_33pl0_G1_779.jpg",
+    "version": 1,
+    "camera_id": null,
+    "timestamp": "2024-12-03T14:21:21.263980Z",
+    "image_width": 1082,
+    "image_height": 727
+}

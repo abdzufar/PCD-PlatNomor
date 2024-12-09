@@ -1,0 +1,77 @@
+{
+    "processing_time": 166.105,
+    "results": [
+        {
+            "box": {
+                "xmin": 320,
+                "ymin": 603,
+                "xmax": 490,
+                "ymax": 649
+            },
+            "plate": "gt1997",
+            "region": {
+                "code": "cn",
+                "score": 0.821
+            },
+            "score": 0.998,
+            "candidates": [
+                {
+                    "score": 0.998,
+                    "plate": "gt1997"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "gti997"
+                }
+            ],
+            "dscore": 0.847,
+            "vehicle": {
+                "score": 0.552,
+                "type": "Sedan",
+                "box": {
+                    "xmin": 2,
+                    "ymin": 51,
+                    "xmax": 716,
+                    "ymax": 708
+                }
+            }
+        },
+        {
+            "box": {
+                "xmin": 229,
+                "ymin": 28,
+                "xmax": 439,
+                "ymax": 77
+            },
+            "plate": "ax112",
+            "region": {
+                "code": "ru",
+                "score": 0.024
+            },
+            "score": 0.463,
+            "candidates": [
+                {
+                    "score": 0.463,
+                    "plate": "ax112"
+                }
+            ],
+            "dscore": 0.071,
+            "vehicle": {
+                "score": 0.0,
+                "type": "Unknown",
+                "box": {
+                    "xmin": 0,
+                    "ymin": 0,
+                    "xmax": 0,
+                    "ymax": 0
+                }
+            }
+        }
+    ],
+    "filename": "1349_3undI_G1_129.jpg",
+    "version": 1,
+    "camera_id": null,
+    "timestamp": "2024-12-03T13:49:46.837645Z",
+    "image_width": 1082,
+    "image_height": 727
+}

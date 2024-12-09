@@ -1,0 +1,54 @@
+{
+    "processing_time": 159.247,
+    "results": [
+        {
+            "box": {
+                "xmin": 376,
+                "ymin": 574,
+                "xmax": 548,
+                "ymax": 627
+            },
+            "plate": "g04845",
+            "region": {
+                "code": "cn",
+                "score": 0.469
+            },
+            "score": 1.0,
+            "candidates": [
+                {
+                    "score": 1.0,
+                    "plate": "g04845"
+                },
+                {
+                    "score": 0.842,
+                    "plate": "g04b45"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "go4845"
+                },
+                {
+                    "score": 0.683,
+                    "plate": "go4b45"
+                }
+            ],
+            "dscore": 0.803,
+            "vehicle": {
+                "score": 0.802,
+                "type": "Sedan",
+                "box": {
+                    "xmin": 50,
+                    "ymin": 3,
+                    "xmax": 813,
+                    "ymax": 712
+                }
+            }
+        }
+    ],
+    "filename": "1352_u2xWq_G1_178.jpg",
+    "version": 1,
+    "camera_id": null,
+    "timestamp": "2024-12-03T13:52:05.011172Z",
+    "image_width": 1082,
+    "image_height": 727
+}

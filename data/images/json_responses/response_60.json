@@ -1,0 +1,54 @@
+{
+    "processing_time": 61.76,
+    "results": [
+        {
+            "box": {
+                "xmin": 628,
+                "ymin": 608,
+                "xmax": 792,
+                "ymax": 654
+            },
+            "plate": "gt2028",
+            "region": {
+                "code": "cn",
+                "score": 0.738
+            },
+            "score": 1.0,
+            "candidates": [
+                {
+                    "score": 1.0,
+                    "plate": "gt2028"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "gt202b"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "gt2o28"
+                },
+                {
+                    "score": 0.683,
+                    "plate": "gt2o2b"
+                }
+            ],
+            "dscore": 0.837,
+            "vehicle": {
+                "score": 0.938,
+                "type": "Sedan",
+                "box": {
+                    "xmin": 302,
+                    "ymin": 52,
+                    "xmax": 1034,
+                    "ymax": 725
+                }
+            }
+        }
+    ],
+    "filename": "1346_0VAsq_G1_60.jpg",
+    "version": 1,
+    "camera_id": null,
+    "timestamp": "2024-12-03T13:46:20.678742Z",
+    "image_width": 1082,
+    "image_height": 727
+}

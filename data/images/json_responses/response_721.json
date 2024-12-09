@@ -1,0 +1,54 @@
+{
+    "processing_time": 108.472,
+    "results": [
+        {
+            "box": {
+                "xmin": 584,
+                "ymin": 535,
+                "xmax": 730,
+                "ymax": 580
+            },
+            "plate": "gt1585",
+            "region": {
+                "code": "cn",
+                "score": 0.871
+            },
+            "score": 0.999,
+            "candidates": [
+                {
+                    "score": 0.999,
+                    "plate": "gt1585"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "gt15b5"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "gti585"
+                },
+                {
+                    "score": 0.683,
+                    "plate": "gti5b5"
+                }
+            ],
+            "dscore": 0.841,
+            "vehicle": {
+                "score": 0.801,
+                "type": "Sedan",
+                "box": {
+                    "xmin": 347,
+                    "ymin": 27,
+                    "xmax": 929,
+                    "ymax": 629
+                }
+            }
+        }
+    ],
+    "filename": "1418_HL2Hl_G1_721.jpg",
+    "version": 1,
+    "camera_id": null,
+    "timestamp": "2024-12-03T14:18:24.158359Z",
+    "image_width": 1082,
+    "image_height": 727
+}

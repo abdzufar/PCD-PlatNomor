@@ -1,0 +1,42 @@
+{
+    "processing_time": 58.497,
+    "results": [
+        {
+            "box": {
+                "xmin": 443,
+                "ymin": 552,
+                "xmax": 590,
+                "ymax": 596
+            },
+            "plate": "g26322",
+            "region": {
+                "code": "cn",
+                "score": 0.715
+            },
+            "score": 1.0,
+            "candidates": [
+                {
+                    "score": 1.0,
+                    "plate": "g26322"
+                }
+            ],
+            "dscore": 0.826,
+            "vehicle": {
+                "score": 0.945,
+                "type": "Van",
+                "box": {
+                    "xmin": 215,
+                    "ymin": 0,
+                    "xmax": 806,
+                    "ymax": 627
+                }
+            }
+        }
+    ],
+    "filename": "1400_5bZi8_G1_367.jpg",
+    "version": 1,
+    "camera_id": null,
+    "timestamp": "2024-12-03T14:00:53.835711Z",
+    "image_width": 1082,
+    "image_height": 727
+}

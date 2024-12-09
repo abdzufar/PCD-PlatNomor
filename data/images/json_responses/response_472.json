@@ -1,0 +1,54 @@
+{
+    "processing_time": 51.118,
+    "results": [
+        {
+            "box": {
+                "xmin": 336,
+                "ymin": 527,
+                "xmax": 482,
+                "ymax": 570
+            },
+            "plate": "g90698",
+            "region": {
+                "code": "cn",
+                "score": 0.854
+            },
+            "score": 0.999,
+            "candidates": [
+                {
+                    "score": 0.999,
+                    "plate": "g90698"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "g9069b"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "g9o698"
+                },
+                {
+                    "score": 0.683,
+                    "plate": "g9o69b"
+                }
+            ],
+            "dscore": 0.825,
+            "vehicle": {
+                "score": 0.935,
+                "type": "Sedan",
+                "box": {
+                    "xmin": 83,
+                    "ymin": 7,
+                    "xmax": 700,
+                    "ymax": 630
+                }
+            }
+        }
+    ],
+    "filename": "1406_1bjdW_G1_472.jpg",
+    "version": 1,
+    "camera_id": null,
+    "timestamp": "2024-12-03T14:06:18.022240Z",
+    "image_width": 1082,
+    "image_height": 727
+}

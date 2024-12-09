@@ -1,0 +1,42 @@
+{
+    "processing_time": 92.974,
+    "results": [
+        {
+            "box": {
+                "xmin": 279,
+                "ymin": 546,
+                "xmax": 427,
+                "ymax": 588
+            },
+            "plate": "g92272",
+            "region": {
+                "code": "cn",
+                "score": 0.761
+            },
+            "score": 1.0,
+            "candidates": [
+                {
+                    "score": 1.0,
+                    "plate": "g92272"
+                }
+            ],
+            "dscore": 0.83,
+            "vehicle": {
+                "score": 0.771,
+                "type": "Van",
+                "box": {
+                    "xmin": 50,
+                    "ymin": 0,
+                    "xmax": 637,
+                    "ymax": 622
+                }
+            }
+        }
+    ],
+    "filename": "1351_o0u7a_G1_160.jpg",
+    "version": 1,
+    "camera_id": null,
+    "timestamp": "2024-12-03T13:51:16.896046Z",
+    "image_width": 1082,
+    "image_height": 727
+}

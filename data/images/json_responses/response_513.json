@@ -1,0 +1,62 @@
+{
+    "processing_time": 27.526,
+    "results": [
+        {
+            "box": {
+                "xmin": 523,
+                "ymin": 595,
+                "xmax": 696,
+                "ymax": 649
+            },
+            "plate": "g09719",
+            "region": {
+                "code": "cn",
+                "score": 0.428
+            },
+            "score": 0.911,
+            "candidates": [
+                {
+                    "score": 0.911,
+                    "plate": "g09719"
+                },
+                {
+                    "score": 0.905,
+                    "plate": "g097l9"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "g097i9"
+                },
+                {
+                    "score": 0.753,
+                    "plate": "go9719"
+                },
+                {
+                    "score": 0.747,
+                    "plate": "go97l9"
+                },
+                {
+                    "score": 0.682,
+                    "plate": "go97i9"
+                }
+            ],
+            "dscore": 0.842,
+            "vehicle": {
+                "score": 0.92,
+                "type": "Sedan",
+                "box": {
+                    "xmin": 184,
+                    "ymin": 34,
+                    "xmax": 941,
+                    "ymax": 723
+                }
+            }
+        }
+    ],
+    "filename": "1408_LeUva_G1_513.jpg",
+    "version": 1,
+    "camera_id": null,
+    "timestamp": "2024-12-03T14:08:10.715317Z",
+    "image_width": 1082,
+    "image_height": 727
+}

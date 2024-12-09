@@ -1,0 +1,54 @@
+{
+    "processing_time": 32.405,
+    "results": [
+        {
+            "box": {
+                "xmin": 319,
+                "ymin": 587,
+                "xmax": 489,
+                "ymax": 636
+            },
+            "plate": "g15152",
+            "region": {
+                "code": "cn",
+                "score": 0.651
+            },
+            "score": 1.0,
+            "candidates": [
+                {
+                    "score": 1.0,
+                    "plate": "g15152"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "g15i52"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "gi5152"
+                },
+                {
+                    "score": 0.683,
+                    "plate": "gi5i52"
+                }
+            ],
+            "dscore": 0.819,
+            "vehicle": {
+                "score": 0.935,
+                "type": "Sedan",
+                "box": {
+                    "xmin": 0,
+                    "ymin": 8,
+                    "xmax": 742,
+                    "ymax": 720
+                }
+            }
+        }
+    ],
+    "filename": "1345_pYWE1_G1_37.jpg",
+    "version": 1,
+    "camera_id": null,
+    "timestamp": "2024-12-03T13:45:16.397158Z",
+    "image_width": 1082,
+    "image_height": 727
+}

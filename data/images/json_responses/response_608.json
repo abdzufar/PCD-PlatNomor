@@ -1,0 +1,66 @@
+{
+    "processing_time": 78.407,
+    "results": [
+        {
+            "box": {
+                "xmin": 495,
+                "ymin": 608,
+                "xmax": 665,
+                "ymax": 665
+            },
+            "plate": "g0134",
+            "region": {
+                "code": "cn",
+                "score": 0.733
+            },
+            "score": 0.924,
+            "candidates": [
+                {
+                    "score": 0.924,
+                    "plate": "g0134"
+                },
+                {
+                    "score": 0.833,
+                    "plate": "go134"
+                },
+                {
+                    "score": 0.76,
+                    "plate": "60134"
+                },
+                {
+                    "score": 0.734,
+                    "plate": "g0i34"
+                },
+                {
+                    "score": 0.669,
+                    "plate": "6o134"
+                },
+                {
+                    "score": 0.57,
+                    "plate": "60i34"
+                },
+                {
+                    "score": 0.48,
+                    "plate": "6oi34"
+                }
+            ],
+            "dscore": 0.882,
+            "vehicle": {
+                "score": 0.839,
+                "type": "Van",
+                "box": {
+                    "xmin": 137,
+                    "ymin": 0,
+                    "xmax": 956,
+                    "ymax": 703
+                }
+            }
+        }
+    ],
+    "filename": "1412_8WleL_G1_608.jpg",
+    "version": 1,
+    "camera_id": null,
+    "timestamp": "2024-12-03T14:12:39.609812Z",
+    "image_width": 1082,
+    "image_height": 727
+}

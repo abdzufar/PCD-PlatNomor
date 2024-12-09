@@ -1,0 +1,54 @@
+{
+    "processing_time": 101.763,
+    "results": [
+        {
+            "box": {
+                "xmin": 67,
+                "ymin": 601,
+                "xmax": 231,
+                "ymax": 651
+            },
+            "plate": "gt2020",
+            "region": {
+                "code": "cn",
+                "score": 0.82
+            },
+            "score": 1.0,
+            "candidates": [
+                {
+                    "score": 1.0,
+                    "plate": "gt2020"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "gt202o"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "gt2o20"
+                },
+                {
+                    "score": 0.683,
+                    "plate": "gt2o2o"
+                }
+            ],
+            "dscore": 0.864,
+            "vehicle": {
+                "score": 0.897,
+                "type": "Sedan",
+                "box": {
+                    "xmin": 0,
+                    "ymin": 45,
+                    "xmax": 504,
+                    "ymax": 726
+                }
+            }
+        }
+    ],
+    "filename": "1400_Yjqmq_G1_350.jpg",
+    "version": 1,
+    "camera_id": null,
+    "timestamp": "2024-12-03T14:00:05.796700Z",
+    "image_width": 1082,
+    "image_height": 727
+}

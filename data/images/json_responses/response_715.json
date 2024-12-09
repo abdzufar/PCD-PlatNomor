@@ -1,0 +1,54 @@
+{
+    "processing_time": 95.492,
+    "results": [
+        {
+            "box": {
+                "xmin": 325,
+                "ymin": 598,
+                "xmax": 494,
+                "ymax": 647
+            },
+            "plate": "ghr002",
+            "region": {
+                "code": "cn",
+                "score": 0.828
+            },
+            "score": 0.999,
+            "candidates": [
+                {
+                    "score": 0.999,
+                    "plate": "ghr002"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "ghr0o2"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "ghro02"
+                },
+                {
+                    "score": 0.683,
+                    "plate": "ghroo2"
+                }
+            ],
+            "dscore": 0.878,
+            "vehicle": {
+                "score": 0.874,
+                "type": "Sedan",
+                "box": {
+                    "xmin": 11,
+                    "ymin": 28,
+                    "xmax": 754,
+                    "ymax": 715
+                }
+            }
+        }
+    ],
+    "filename": "1418_efIAi_G1_715.jpg",
+    "version": 1,
+    "camera_id": null,
+    "timestamp": "2024-12-03T14:18:04.785154Z",
+    "image_width": 1082,
+    "image_height": 727
+}

@@ -1,0 +1,54 @@
+{
+    "processing_time": 21.546,
+    "results": [
+        {
+            "box": {
+                "xmin": 444,
+                "ymin": 541,
+                "xmax": 594,
+                "ymax": 586
+            },
+            "plate": "e8s568",
+            "region": {
+                "code": "cn",
+                "score": 0.665
+            },
+            "score": 0.999,
+            "candidates": [
+                {
+                    "score": 0.999,
+                    "plate": "e8s568"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "e8s56b"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "ebs568"
+                },
+                {
+                    "score": 0.683,
+                    "plate": "ebs56b"
+                }
+            ],
+            "dscore": 0.797,
+            "vehicle": {
+                "score": 0.489,
+                "type": "Van",
+                "box": {
+                    "xmin": 188,
+                    "ymin": 0,
+                    "xmax": 822,
+                    "ymax": 659
+                }
+            }
+        }
+    ],
+    "filename": "1414_xFbNo_G1_634.jpg",
+    "version": 1,
+    "camera_id": null,
+    "timestamp": "2024-12-03T14:14:00.643939Z",
+    "image_width": 1082,
+    "image_height": 727
+}

@@ -1,0 +1,46 @@
+{
+    "processing_time": 109.803,
+    "results": [
+        {
+            "box": {
+                "xmin": 526,
+                "ymin": 592,
+                "xmax": 693,
+                "ymax": 641
+            },
+            "plate": "cga829",
+            "region": {
+                "code": "cn",
+                "score": 0.587
+            },
+            "score": 1.0,
+            "candidates": [
+                {
+                    "score": 1.0,
+                    "plate": "cga829"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "cgab29"
+                }
+            ],
+            "dscore": 0.832,
+            "vehicle": {
+                "score": 0.894,
+                "type": "Sedan",
+                "box": {
+                    "xmin": 144,
+                    "ymin": 19,
+                    "xmax": 939,
+                    "ymax": 715
+                }
+            }
+        }
+    ],
+    "filename": "1346_d5qYo_G1_67.jpg",
+    "version": 1,
+    "camera_id": null,
+    "timestamp": "2024-12-03T13:46:42.776078Z",
+    "image_width": 1082,
+    "image_height": 727
+}

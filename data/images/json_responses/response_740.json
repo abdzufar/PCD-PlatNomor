@@ -1,0 +1,46 @@
+{
+    "processing_time": 68.88,
+    "results": [
+        {
+            "box": {
+                "xmin": 263,
+                "ymin": 507,
+                "xmax": 412,
+                "ymax": 553
+            },
+            "plate": "aa3968",
+            "region": {
+                "code": "cn",
+                "score": 0.506
+            },
+            "score": 0.999,
+            "candidates": [
+                {
+                    "score": 0.999,
+                    "plate": "aa3968"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "aa396b"
+                }
+            ],
+            "dscore": 0.807,
+            "vehicle": {
+                "score": 0.851,
+                "type": "Sedan",
+                "box": {
+                    "xmin": 36,
+                    "ymin": 4,
+                    "xmax": 615,
+                    "ymax": 619
+                }
+            }
+        }
+    ],
+    "filename": "1419_zgb1T_G1_740.jpg",
+    "version": 1,
+    "camera_id": null,
+    "timestamp": "2024-12-03T14:19:25.877850Z",
+    "image_width": 1082,
+    "image_height": 727
+}

@@ -1,0 +1,78 @@
+{
+    "processing_time": 79.44,
+    "results": [
+        {
+            "box": {
+                "xmin": 569,
+                "ymin": 586,
+                "xmax": 736,
+                "ymax": 635
+            },
+            "plate": "b6d008",
+            "region": {
+                "code": "cn",
+                "score": 0.825
+            },
+            "score": 0.998,
+            "candidates": [
+                {
+                    "score": 0.998,
+                    "plate": "b6d008"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "b6d00b"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "b6d0o8"
+                },
+                {
+                    "score": 0.84,
+                    "plate": "b6do08"
+                },
+                {
+                    "score": 0.84,
+                    "plate": "86d008"
+                },
+                {
+                    "score": 0.683,
+                    "plate": "b6d0ob"
+                },
+                {
+                    "score": 0.683,
+                    "plate": "b6doo8"
+                },
+                {
+                    "score": 0.683,
+                    "plate": "86d0o8"
+                },
+                {
+                    "score": 0.682,
+                    "plate": "b6do0b"
+                },
+                {
+                    "score": 0.682,
+                    "plate": "86d00b"
+                }
+            ],
+            "dscore": 0.844,
+            "vehicle": {
+                "score": 0.91,
+                "type": "Sedan",
+                "box": {
+                    "xmin": 222,
+                    "ymin": 27,
+                    "xmax": 982,
+                    "ymax": 719
+                }
+            }
+        }
+    ],
+    "filename": "1419_XZ1kT_G1_748.jpg",
+    "version": 1,
+    "camera_id": null,
+    "timestamp": "2024-12-03T14:19:51.241163Z",
+    "image_width": 1082,
+    "image_height": 727
+}

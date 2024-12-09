@@ -1,0 +1,54 @@
+{
+    "processing_time": 22.968,
+    "results": [
+        {
+            "box": {
+                "xmin": 227,
+                "ymin": 598,
+                "xmax": 405,
+                "ymax": 648
+            },
+            "plate": "m63102",
+            "region": {
+                "code": "cn",
+                "score": 0.61
+            },
+            "score": 1.0,
+            "candidates": [
+                {
+                    "score": 1.0,
+                    "plate": "m63102"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "m631o2"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "m63i02"
+                },
+                {
+                    "score": 0.683,
+                    "plate": "m63io2"
+                }
+            ],
+            "dscore": 0.816,
+            "vehicle": {
+                "score": 0.942,
+                "type": "Sedan",
+                "box": {
+                    "xmin": 0,
+                    "ymin": 45,
+                    "xmax": 666,
+                    "ymax": 726
+                }
+            }
+        }
+    ],
+    "filename": "1419_hV8xL_G1_751.jpg",
+    "version": 1,
+    "camera_id": null,
+    "timestamp": "2024-12-03T14:19:56.930373Z",
+    "image_width": 1082,
+    "image_height": 727
+}

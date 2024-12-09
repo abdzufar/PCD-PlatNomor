@@ -1,0 +1,46 @@
+{
+    "processing_time": 47.911,
+    "results": [
+        {
+            "box": {
+                "xmin": 652,
+                "ymin": 610,
+                "xmax": 821,
+                "ymax": 656
+            },
+            "plate": "gt1929",
+            "region": {
+                "code": "cn",
+                "score": 0.633
+            },
+            "score": 0.999,
+            "candidates": [
+                {
+                    "score": 0.999,
+                    "plate": "gt1929"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "gti929"
+                }
+            ],
+            "dscore": 0.867,
+            "vehicle": {
+                "score": 0.95,
+                "type": "Sedan",
+                "box": {
+                    "xmin": 323,
+                    "ymin": 48,
+                    "xmax": 1056,
+                    "ymax": 726
+                }
+            }
+        }
+    ],
+    "filename": "1344_6GsrF_G1_28.jpg",
+    "version": 1,
+    "camera_id": null,
+    "timestamp": "2024-12-03T13:44:50.046473Z",
+    "image_width": 1082,
+    "image_height": 727
+}

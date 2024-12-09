@@ -1,0 +1,46 @@
+{
+    "processing_time": 34.785,
+    "results": [
+        {
+            "box": {
+                "xmin": 444,
+                "ymin": 509,
+                "xmax": 587,
+                "ymax": 553
+            },
+            "plate": "gtt606",
+            "region": {
+                "code": "cn",
+                "score": 0.694
+            },
+            "score": 1.0,
+            "candidates": [
+                {
+                    "score": 1.0,
+                    "plate": "gtt606"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "gtt6o6"
+                }
+            ],
+            "dscore": 0.802,
+            "vehicle": {
+                "score": 0.69,
+                "type": "Sedan",
+                "box": {
+                    "xmin": 179,
+                    "ymin": 1,
+                    "xmax": 807,
+                    "ymax": 611
+                }
+            }
+        }
+    ],
+    "filename": "1405_hqmvN_G1_463.jpg",
+    "version": 1,
+    "camera_id": null,
+    "timestamp": "2024-12-03T14:05:44.021782Z",
+    "image_width": 1082,
+    "image_height": 727
+}

@@ -1,0 +1,70 @@
+{
+    "processing_time": 26.103,
+    "results": [
+        {
+            "box": {
+                "xmin": 237,
+                "ymin": 494,
+                "xmax": 380,
+                "ymax": 530
+            },
+            "plate": "gcc008",
+            "region": {
+                "code": "cn",
+                "score": 0.736
+            },
+            "score": 0.997,
+            "candidates": [
+                {
+                    "score": 0.997,
+                    "plate": "gcc008"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "gcco08"
+                },
+                {
+                    "score": 0.84,
+                    "plate": "gcc0o8"
+                },
+                {
+                    "score": 0.839,
+                    "plate": "gcc00b"
+                },
+                {
+                    "score": 0.683,
+                    "plate": "gccoo8"
+                },
+                {
+                    "score": 0.682,
+                    "plate": "gcco0b"
+                },
+                {
+                    "score": 0.681,
+                    "plate": "gcc0ob"
+                },
+                {
+                    "score": 0.525,
+                    "plate": "gccoob"
+                }
+            ],
+            "dscore": 0.833,
+            "vehicle": {
+                "score": 0.83,
+                "type": "Van",
+                "box": {
+                    "xmin": 11,
+                    "ymin": 0,
+                    "xmax": 592,
+                    "ymax": 615
+                }
+            }
+        }
+    ],
+    "filename": "1356_sLXFf_G1_273.jpg",
+    "version": 1,
+    "camera_id": null,
+    "timestamp": "2024-12-03T13:56:27.151545Z",
+    "image_width": 1082,
+    "image_height": 727
+}

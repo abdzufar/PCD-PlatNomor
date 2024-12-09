@@ -1,0 +1,78 @@
+{
+    "processing_time": 61.777,
+    "results": [
+        {
+            "box": {
+                "xmin": 740,
+                "ymin": 575,
+                "xmax": 889,
+                "ymax": 614
+            },
+            "plate": "gt0570",
+            "region": {
+                "code": "cn",
+                "score": 0.343
+            },
+            "score": 0.989,
+            "candidates": [
+                {
+                    "score": 0.989,
+                    "plate": "gt0570"
+                },
+                {
+                    "score": 0.842,
+                    "plate": "g10570"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "gi0570"
+                },
+                {
+                    "score": 0.831,
+                    "plate": "gt057o"
+                },
+                {
+                    "score": 0.831,
+                    "plate": "gto570"
+                },
+                {
+                    "score": 0.684,
+                    "plate": "g1057o"
+                },
+                {
+                    "score": 0.684,
+                    "plate": "g1o570"
+                },
+                {
+                    "score": 0.683,
+                    "plate": "gi057o"
+                },
+                {
+                    "score": 0.683,
+                    "plate": "gio570"
+                },
+                {
+                    "score": 0.672,
+                    "plate": "gto57o"
+                }
+            ],
+            "dscore": 0.819,
+            "vehicle": {
+                "score": 0.811,
+                "type": "Sedan",
+                "box": {
+                    "xmin": 425,
+                    "ymin": 42,
+                    "xmax": 1079,
+                    "ymax": 656
+                }
+            }
+        }
+    ],
+    "filename": "1407_TgOdv_G1_501.jpg",
+    "version": 1,
+    "camera_id": null,
+    "timestamp": "2024-12-03T14:07:41.870122Z",
+    "image_width": 1082,
+    "image_height": 727
+}

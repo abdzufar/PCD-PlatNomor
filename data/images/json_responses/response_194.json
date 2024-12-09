@@ -1,0 +1,54 @@
+{
+    "processing_time": 39.148,
+    "results": [
+        {
+            "box": {
+                "xmin": 388,
+                "ymin": 515,
+                "xmax": 531,
+                "ymax": 556
+            },
+            "plate": "a1650s",
+            "region": {
+                "code": "cn",
+                "score": 0.751
+            },
+            "score": 0.999,
+            "candidates": [
+                {
+                    "score": 0.999,
+                    "plate": "a1650s"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "a165os"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "ai650s"
+                },
+                {
+                    "score": 0.683,
+                    "plate": "ai65os"
+                }
+            ],
+            "dscore": 0.806,
+            "vehicle": {
+                "score": 0.831,
+                "type": "Sedan",
+                "box": {
+                    "xmin": 123,
+                    "ymin": 0,
+                    "xmax": 768,
+                    "ymax": 616
+                }
+            }
+        }
+    ],
+    "filename": "1352_tgLRp_G1_194.jpg",
+    "version": 1,
+    "camera_id": null,
+    "timestamp": "2024-12-03T13:52:50.583780Z",
+    "image_width": 1082,
+    "image_height": 727
+}

@@ -1,0 +1,46 @@
+{
+    "processing_time": 37.245,
+    "results": [
+        {
+            "box": {
+                "xmin": 126,
+                "ymin": 628,
+                "xmax": 296,
+                "ymax": 678
+            },
+            "plate": "g25938",
+            "region": {
+                "code": "cn",
+                "score": 0.815
+            },
+            "score": 0.999,
+            "candidates": [
+                {
+                    "score": 0.999,
+                    "plate": "g25938"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "g2593b"
+                }
+            ],
+            "dscore": 0.864,
+            "vehicle": {
+                "score": 0.427,
+                "type": "Pickup Truck",
+                "box": {
+                    "xmin": 1,
+                    "ymin": 26,
+                    "xmax": 549,
+                    "ymax": 726
+                }
+            }
+        }
+    ],
+    "filename": "1405_RuVSf_G1_458.jpg",
+    "version": 1,
+    "camera_id": null,
+    "timestamp": "2024-12-03T14:05:31.915859Z",
+    "image_width": 1082,
+    "image_height": 727
+}

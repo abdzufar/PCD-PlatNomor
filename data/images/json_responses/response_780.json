@@ -1,0 +1,42 @@
+{
+    "processing_time": 19.898,
+    "results": [
+        {
+            "box": {
+                "xmin": 324,
+                "ymin": 468,
+                "xmax": 474,
+                "ymax": 513
+            },
+            "plate": "g97342",
+            "region": {
+                "code": "cn",
+                "score": 0.841
+            },
+            "score": 1.0,
+            "candidates": [
+                {
+                    "score": 1.0,
+                    "plate": "g97342"
+                }
+            ],
+            "dscore": 0.821,
+            "vehicle": {
+                "score": 0.779,
+                "type": "Van",
+                "box": {
+                    "xmin": 92,
+                    "ymin": 0,
+                    "xmax": 704,
+                    "ymax": 612
+                }
+            }
+        }
+    ],
+    "filename": "1421_f2oEZ_G1_780.jpg",
+    "version": 1,
+    "camera_id": null,
+    "timestamp": "2024-12-03T14:21:23.827962Z",
+    "image_width": 1082,
+    "image_height": 727
+}

@@ -1,0 +1,58 @@
+{
+    "processing_time": 57.989,
+    "results": [
+        {
+            "box": {
+                "xmin": 399,
+                "ymin": 598,
+                "xmax": 566,
+                "ymax": 647
+            },
+            "plate": "gb008",
+            "region": {
+                "code": "cn",
+                "score": 0.178
+            },
+            "score": 0.904,
+            "candidates": [
+                {
+                    "score": 0.904,
+                    "plate": "gb008"
+                },
+                {
+                    "score": 0.714,
+                    "plate": "g8008"
+                },
+                {
+                    "score": 0.66,
+                    "plate": "g8o08"
+                },
+                {
+                    "score": 0.558,
+                    "plate": "g80o8"
+                },
+                {
+                    "score": 0.524,
+                    "plate": "g800b"
+                }
+            ],
+            "dscore": 0.824,
+            "vehicle": {
+                "score": 0.903,
+                "type": "Sedan",
+                "box": {
+                    "xmin": 79,
+                    "ymin": 6,
+                    "xmax": 811,
+                    "ymax": 712
+                }
+            }
+        }
+    ],
+    "filename": "1349_cgPpL_G1_114.jpg",
+    "version": 1,
+    "camera_id": null,
+    "timestamp": "2024-12-03T13:49:02.353219Z",
+    "image_width": 1082,
+    "image_height": 727
+}

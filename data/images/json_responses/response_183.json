@@ -1,0 +1,46 @@
+{
+    "processing_time": 62.289,
+    "results": [
+        {
+            "box": {
+                "xmin": 793,
+                "ymin": 578,
+                "xmax": 945,
+                "ymax": 622
+            },
+            "plate": "gt2135",
+            "region": {
+                "code": "cn",
+                "score": 0.878
+            },
+            "score": 1.0,
+            "candidates": [
+                {
+                    "score": 1.0,
+                    "plate": "gt2135"
+                },
+                {
+                    "score": 0.842,
+                    "plate": "gt2i35"
+                }
+            ],
+            "dscore": 0.851,
+            "vehicle": {
+                "score": 0.906,
+                "type": "Sedan",
+                "box": {
+                    "xmin": 496,
+                    "ymin": 60,
+                    "xmax": 1081,
+                    "ymax": 681
+                }
+            }
+        }
+    ],
+    "filename": "1352_28xm6_G1_183.jpg",
+    "version": 1,
+    "camera_id": null,
+    "timestamp": "2024-12-03T13:52:17.537465Z",
+    "image_width": 1082,
+    "image_height": 727
+}

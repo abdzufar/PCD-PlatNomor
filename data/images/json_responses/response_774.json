@@ -1,0 +1,54 @@
+{
+    "processing_time": 67.585,
+    "results": [
+        {
+            "box": {
+                "xmin": 673,
+                "ymin": 555,
+                "xmax": 823,
+                "ymax": 600
+            },
+            "plate": "gt1350",
+            "region": {
+                "code": "cn",
+                "score": 0.793
+            },
+            "score": 1.0,
+            "candidates": [
+                {
+                    "score": 1.0,
+                    "plate": "gt1350"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "gt135o"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "gti350"
+                },
+                {
+                    "score": 0.683,
+                    "plate": "gti35o"
+                }
+            ],
+            "dscore": 0.852,
+            "vehicle": {
+                "score": 0.906,
+                "type": "Sedan",
+                "box": {
+                    "xmin": 383,
+                    "ymin": 32,
+                    "xmax": 1018,
+                    "ymax": 652
+                }
+            }
+        }
+    ],
+    "filename": "1421_YUQi3_G1_774.jpg",
+    "version": 1,
+    "camera_id": null,
+    "timestamp": "2024-12-03T14:21:06.477953Z",
+    "image_width": 1082,
+    "image_height": 727
+}

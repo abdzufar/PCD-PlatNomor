@@ -1,0 +1,54 @@
+{
+    "processing_time": 80.019,
+    "results": [
+        {
+            "box": {
+                "xmin": 82,
+                "ymin": 502,
+                "xmax": 229,
+                "ymax": 547
+            },
+            "plate": "g90837",
+            "region": {
+                "code": "cn",
+                "score": 0.313
+            },
+            "score": 0.999,
+            "candidates": [
+                {
+                    "score": 0.999,
+                    "plate": "g90837"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "g90b37"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "g9o837"
+                },
+                {
+                    "score": 0.683,
+                    "plate": "g9ob37"
+                }
+            ],
+            "dscore": 0.759,
+            "vehicle": {
+                "score": 0.408,
+                "type": "Van",
+                "box": {
+                    "xmin": 1,
+                    "ymin": 0,
+                    "xmax": 550,
+                    "ymax": 605
+                }
+            }
+        }
+    ],
+    "filename": "1407_GkjTf_G1_500.jpg",
+    "version": 1,
+    "camera_id": null,
+    "timestamp": "2024-12-03T14:07:39.492805Z",
+    "image_width": 1082,
+    "image_height": 727
+}

@@ -1,0 +1,54 @@
+{
+    "processing_time": 22.288,
+    "results": [
+        {
+            "box": {
+                "xmin": 458,
+                "ymin": 600,
+                "xmax": 621,
+                "ymax": 646
+            },
+            "plate": "g03317",
+            "region": {
+                "code": "cn",
+                "score": 0.849
+            },
+            "score": 0.999,
+            "candidates": [
+                {
+                    "score": 0.999,
+                    "plate": "g03317"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "g033i7"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "go3317"
+                },
+                {
+                    "score": 0.683,
+                    "plate": "go33i7"
+                }
+            ],
+            "dscore": 0.856,
+            "vehicle": {
+                "score": 0.91,
+                "type": "Sedan",
+                "box": {
+                    "xmin": 137,
+                    "ymin": 51,
+                    "xmax": 848,
+                    "ymax": 716
+                }
+            }
+        }
+    ],
+    "filename": "1418_XCIHV_G1_718.jpg",
+    "version": 1,
+    "camera_id": null,
+    "timestamp": "2024-12-03T14:18:14.461774Z",
+    "image_width": 1082,
+    "image_height": 727
+}

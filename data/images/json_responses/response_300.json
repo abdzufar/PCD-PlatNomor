@@ -1,0 +1,54 @@
+{
+    "processing_time": 60.224,
+    "results": [
+        {
+            "box": {
+                "xmin": 688,
+                "ymin": 643,
+                "xmax": 858,
+                "ymax": 698
+            },
+            "plate": "g13053",
+            "region": {
+                "code": "cn",
+                "score": 0.846
+            },
+            "score": 0.999,
+            "candidates": [
+                {
+                    "score": 0.999,
+                    "plate": "g13053"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "g13o53"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "gi3053"
+                },
+                {
+                    "score": 0.683,
+                    "plate": "gi3o53"
+                }
+            ],
+            "dscore": 0.845,
+            "vehicle": {
+                "score": 0.85,
+                "type": "Van",
+                "box": {
+                    "xmin": 348,
+                    "ymin": 0,
+                    "xmax": 1078,
+                    "ymax": 726
+                }
+            }
+        }
+    ],
+    "filename": "1357_OHvyX_G1_300.jpg",
+    "version": 1,
+    "camera_id": null,
+    "timestamp": "2024-12-03T13:57:50.115932Z",
+    "image_width": 1082,
+    "image_height": 727
+}

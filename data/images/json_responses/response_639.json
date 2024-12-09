@@ -1,0 +1,54 @@
+{
+    "processing_time": 33.516,
+    "results": [
+        {
+            "box": {
+                "xmin": 466,
+                "ymin": 515,
+                "xmax": 613,
+                "ymax": 558
+            },
+            "plate": "gt2089",
+            "region": {
+                "code": "cn",
+                "score": 0.766
+            },
+            "score": 1.0,
+            "candidates": [
+                {
+                    "score": 1.0,
+                    "plate": "gt2089"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "gt20b9"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "gt2o89"
+                },
+                {
+                    "score": 0.683,
+                    "plate": "gt2ob9"
+                }
+            ],
+            "dscore": 0.83,
+            "vehicle": {
+                "score": 0.914,
+                "type": "Sedan",
+                "box": {
+                    "xmin": 234,
+                    "ymin": 18,
+                    "xmax": 857,
+                    "ymax": 623
+                }
+            }
+        }
+    ],
+    "filename": "1414_Dglet_G1_639.jpg",
+    "version": 1,
+    "camera_id": null,
+    "timestamp": "2024-12-03T14:14:18.311112Z",
+    "image_width": 1082,
+    "image_height": 727
+}

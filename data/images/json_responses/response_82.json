@@ -1,0 +1,46 @@
+{
+    "processing_time": 27.296,
+    "results": [
+        {
+            "box": {
+                "xmin": 398,
+                "ymin": 617,
+                "xmax": 567,
+                "ymax": 668
+            },
+            "plate": "g09959",
+            "region": {
+                "code": "cn",
+                "score": 0.781
+            },
+            "score": 0.999,
+            "candidates": [
+                {
+                    "score": 0.999,
+                    "plate": "g09959"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "go9959"
+                }
+            ],
+            "dscore": 0.882,
+            "vehicle": {
+                "score": 0.761,
+                "type": "Van",
+                "box": {
+                    "xmin": 121,
+                    "ymin": 0,
+                    "xmax": 817,
+                    "ymax": 724
+                }
+            }
+        }
+    ],
+    "filename": "1347_TNayu_G1_82.jpg",
+    "version": 1,
+    "camera_id": null,
+    "timestamp": "2024-12-03T13:47:35.979530Z",
+    "image_width": 1082,
+    "image_height": 727
+}

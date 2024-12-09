@@ -1,0 +1,46 @@
+{
+    "processing_time": 60.356,
+    "results": [
+        {
+            "box": {
+                "xmin": 612,
+                "ymin": 552,
+                "xmax": 755,
+                "ymax": 594
+            },
+            "plate": "gjj321",
+            "region": {
+                "code": "cn",
+                "score": 0.774
+            },
+            "score": 1.0,
+            "candidates": [
+                {
+                    "score": 1.0,
+                    "plate": "gjj321"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "gjj32i"
+                }
+            ],
+            "dscore": 0.855,
+            "vehicle": {
+                "score": 0.881,
+                "type": "Sedan",
+                "box": {
+                    "xmin": 340,
+                    "ymin": 1,
+                    "xmax": 977,
+                    "ymax": 655
+                }
+            }
+        }
+    ],
+    "filename": "1403_RYt9l_G1_415.jpg",
+    "version": 1,
+    "camera_id": null,
+    "timestamp": "2024-12-03T14:03:22.473043Z",
+    "image_width": 1082,
+    "image_height": 727
+}

@@ -1,0 +1,54 @@
+{
+    "processing_time": 37.11,
+    "results": [
+        {
+            "box": {
+                "xmin": 552,
+                "ymin": 527,
+                "xmax": 702,
+                "ymax": 574
+            },
+            "plate": "g02521",
+            "region": {
+                "code": "cn",
+                "score": 0.885
+            },
+            "score": 1.0,
+            "candidates": [
+                {
+                    "score": 1.0,
+                    "plate": "g02521"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "g0252i"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "go2521"
+                },
+                {
+                    "score": 0.683,
+                    "plate": "go252i"
+                }
+            ],
+            "dscore": 0.86,
+            "vehicle": {
+                "score": 0.925,
+                "type": "Sedan",
+                "box": {
+                    "xmin": 267,
+                    "ymin": 15,
+                    "xmax": 908,
+                    "ymax": 625
+                }
+            }
+        }
+    ],
+    "filename": "1400_OimgO_G1_356.jpg",
+    "version": 1,
+    "camera_id": null,
+    "timestamp": "2024-12-03T14:00:21.734313Z",
+    "image_width": 1082,
+    "image_height": 727
+}

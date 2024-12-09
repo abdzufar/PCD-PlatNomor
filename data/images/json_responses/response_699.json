@@ -1,0 +1,54 @@
+{
+    "processing_time": 105.873,
+    "results": [
+        {
+            "box": {
+                "xmin": 603,
+                "ymin": 595,
+                "xmax": 777,
+                "ymax": 653
+            },
+            "plate": "g07570",
+            "region": {
+                "code": "cn",
+                "score": 0.885
+            },
+            "score": 0.999,
+            "candidates": [
+                {
+                    "score": 0.999,
+                    "plate": "g07570"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "g0757o"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "go7570"
+                },
+                {
+                    "score": 0.683,
+                    "plate": "go757o"
+                }
+            ],
+            "dscore": 0.833,
+            "vehicle": {
+                "score": 0.729,
+                "type": "Van",
+                "box": {
+                    "xmin": 263,
+                    "ymin": 0,
+                    "xmax": 1051,
+                    "ymax": 694
+                }
+            }
+        }
+    ],
+    "filename": "1417_biJl8_G1_699.jpg",
+    "version": 1,
+    "camera_id": null,
+    "timestamp": "2024-12-03T14:17:23.860209Z",
+    "image_width": 1082,
+    "image_height": 727
+}

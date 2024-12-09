@@ -1,0 +1,50 @@
+{
+    "processing_time": 83.811,
+    "results": [
+        {
+            "box": {
+                "xmin": 278,
+                "ymin": 596,
+                "xmax": 443,
+                "ymax": 643
+            },
+            "plate": "g0305",
+            "region": {
+                "code": "cn",
+                "score": 0.17
+            },
+            "score": 0.959,
+            "candidates": [
+                {
+                    "score": 0.959,
+                    "plate": "g0305"
+                },
+                {
+                    "score": 0.84,
+                    "plate": "go305"
+                },
+                {
+                    "score": 0.769,
+                    "plate": "g03o5"
+                }
+            ],
+            "dscore": 0.852,
+            "vehicle": {
+                "score": 0.583,
+                "type": "Sedan",
+                "box": {
+                    "xmin": 1,
+                    "ymin": 6,
+                    "xmax": 695,
+                    "ymax": 710
+                }
+            }
+        }
+    ],
+    "filename": "1344_afDrk_G1_21.jpg",
+    "version": 1,
+    "camera_id": null,
+    "timestamp": "2024-12-03T13:44:33.045936Z",
+    "image_width": 1082,
+    "image_height": 727
+}

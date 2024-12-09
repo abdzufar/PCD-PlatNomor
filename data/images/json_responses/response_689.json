@@ -1,0 +1,78 @@
+{
+    "processing_time": 48.111,
+    "results": [
+        {
+            "box": {
+                "xmin": 545,
+                "ymin": 608,
+                "xmax": 717,
+                "ymax": 663
+            },
+            "plate": "g00211",
+            "region": {
+                "code": "cn",
+                "score": 0.741
+            },
+            "score": 0.998,
+            "candidates": [
+                {
+                    "score": 0.998,
+                    "plate": "g00211"
+                },
+                {
+                    "score": 0.84,
+                    "plate": "g0021i"
+                },
+                {
+                    "score": 0.84,
+                    "plate": "g002i1"
+                },
+                {
+                    "score": 0.84,
+                    "plate": "g0o211"
+                },
+                {
+                    "score": 0.84,
+                    "plate": "go0211"
+                },
+                {
+                    "score": 0.683,
+                    "plate": "go021i"
+                },
+                {
+                    "score": 0.682,
+                    "plate": "g002ii"
+                },
+                {
+                    "score": 0.682,
+                    "plate": "g0o21i"
+                },
+                {
+                    "score": 0.682,
+                    "plate": "g0o2i1"
+                },
+                {
+                    "score": 0.682,
+                    "plate": "go02i1"
+                }
+            ],
+            "dscore": 0.807,
+            "vehicle": {
+                "score": 0.9,
+                "type": "Sedan",
+                "box": {
+                    "xmin": 205,
+                    "ymin": 50,
+                    "xmax": 970,
+                    "ymax": 726
+                }
+            }
+        }
+    ],
+    "filename": "1416_ch5f2_G1_689.jpg",
+    "version": 1,
+    "camera_id": null,
+    "timestamp": "2024-12-03T14:16:49.347461Z",
+    "image_width": 1082,
+    "image_height": 727
+}

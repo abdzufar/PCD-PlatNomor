@@ -1,0 +1,46 @@
+{
+    "processing_time": 170.224,
+    "results": [
+        {
+            "box": {
+                "xmin": 540,
+                "ymin": 598,
+                "xmax": 705,
+                "ymax": 642
+            },
+            "plate": "g21299",
+            "region": {
+                "code": "cn",
+                "score": 0.779
+            },
+            "score": 1.0,
+            "candidates": [
+                {
+                    "score": 1.0,
+                    "plate": "g21299"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "g2i299"
+                }
+            ],
+            "dscore": 0.854,
+            "vehicle": {
+                "score": 0.917,
+                "type": "Sedan",
+                "box": {
+                    "xmin": 201,
+                    "ymin": 62,
+                    "xmax": 933,
+                    "ymax": 726
+                }
+            }
+        }
+    ],
+    "filename": "1411_YVDJJ_G1_580.jpg",
+    "version": 1,
+    "camera_id": null,
+    "timestamp": "2024-12-03T14:11:17.886014Z",
+    "image_width": 1082,
+    "image_height": 727
+}

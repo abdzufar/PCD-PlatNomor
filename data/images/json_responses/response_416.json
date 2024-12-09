@@ -1,0 +1,46 @@
+{
+    "processing_time": 22.425,
+    "results": [
+        {
+            "box": {
+                "xmin": 502,
+                "ymin": 619,
+                "xmax": 666,
+                "ymax": 660
+            },
+            "plate": "g15645",
+            "region": {
+                "code": "cn",
+                "score": 0.438
+            },
+            "score": 0.999,
+            "candidates": [
+                {
+                    "score": 0.999,
+                    "plate": "g15645"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "gi5645"
+                }
+            ],
+            "dscore": 0.809,
+            "vehicle": {
+                "score": 0.788,
+                "type": "Sedan",
+                "box": {
+                    "xmin": 170,
+                    "ymin": 15,
+                    "xmax": 899,
+                    "ymax": 726
+                }
+            }
+        }
+    ],
+    "filename": "1403_TZTIr_G1_416.jpg",
+    "version": 1,
+    "camera_id": null,
+    "timestamp": "2024-12-03T14:03:26.788079Z",
+    "image_width": 1082,
+    "image_height": 727
+}

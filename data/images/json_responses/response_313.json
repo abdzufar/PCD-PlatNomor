@@ -1,0 +1,70 @@
+{
+    "processing_time": 94.616,
+    "results": [
+        {
+            "box": {
+                "xmin": 512,
+                "ymin": 564,
+                "xmax": 684,
+                "ymax": 615
+            },
+            "plate": "gwg888",
+            "region": {
+                "code": "cn",
+                "score": 0.638
+            },
+            "score": 1.0,
+            "candidates": [
+                {
+                    "score": 1.0,
+                    "plate": "gwg888"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "gwg88b"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "gwg8b8"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "gwgb88"
+                },
+                {
+                    "score": 0.683,
+                    "plate": "gwg8bb"
+                },
+                {
+                    "score": 0.683,
+                    "plate": "gwgb8b"
+                },
+                {
+                    "score": 0.683,
+                    "plate": "gwgbb8"
+                },
+                {
+                    "score": 0.525,
+                    "plate": "gwgbbb"
+                }
+            ],
+            "dscore": 0.833,
+            "vehicle": {
+                "score": 0.571,
+                "type": "Sedan",
+                "box": {
+                    "xmin": 195,
+                    "ymin": 0,
+                    "xmax": 918,
+                    "ymax": 718
+                }
+            }
+        }
+    ],
+    "filename": "1358_m4BEL_G1_313.jpg",
+    "version": 1,
+    "camera_id": null,
+    "timestamp": "2024-12-03T13:58:28.255454Z",
+    "image_width": 1082,
+    "image_height": 727
+}

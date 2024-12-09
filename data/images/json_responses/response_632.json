@@ -1,0 +1,54 @@
+{
+    "processing_time": 30.723,
+    "results": [
+        {
+            "box": {
+                "xmin": 170,
+                "ymin": 538,
+                "xmax": 319,
+                "ymax": 576
+            },
+            "plate": "g04385",
+            "region": {
+                "code": "cn",
+                "score": 0.699
+            },
+            "score": 0.999,
+            "candidates": [
+                {
+                    "score": 0.999,
+                    "plate": "g04385"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "g043b5"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "go4385"
+                },
+                {
+                    "score": 0.683,
+                    "plate": "go43b5"
+                }
+            ],
+            "dscore": 0.82,
+            "vehicle": {
+                "score": 0.628,
+                "type": "Big Truck",
+                "box": {
+                    "xmin": 1,
+                    "ymin": 0,
+                    "xmax": 599,
+                    "ymax": 594
+                }
+            }
+        }
+    ],
+    "filename": "1413_AqOIH_G1_632.jpg",
+    "version": 1,
+    "camera_id": null,
+    "timestamp": "2024-12-03T14:13:54.685194Z",
+    "image_width": 1082,
+    "image_height": 727
+}

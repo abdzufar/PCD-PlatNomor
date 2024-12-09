@@ -1,0 +1,42 @@
+{
+    "processing_time": 129.723,
+    "results": [
+        {
+            "box": {
+                "xmin": 473,
+                "ymin": 605,
+                "xmax": 643,
+                "ymax": 650
+            },
+            "plate": "g93272",
+            "region": {
+                "code": "cn",
+                "score": 0.693
+            },
+            "score": 0.999,
+            "candidates": [
+                {
+                    "score": 0.999,
+                    "plate": "g93272"
+                }
+            ],
+            "dscore": 0.839,
+            "vehicle": {
+                "score": 0.823,
+                "type": "Sedan",
+                "box": {
+                    "xmin": 138,
+                    "ymin": 12,
+                    "xmax": 869,
+                    "ymax": 725
+                }
+            }
+        }
+    ],
+    "filename": "1411_I1bVq_G1_587.jpg",
+    "version": 1,
+    "camera_id": null,
+    "timestamp": "2024-12-03T14:11:36.880222Z",
+    "image_width": 1082,
+    "image_height": 727
+}

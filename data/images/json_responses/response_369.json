@@ -1,0 +1,46 @@
+{
+    "processing_time": 78.975,
+    "results": [
+        {
+            "box": {
+                "xmin": 176,
+                "ymin": 529,
+                "xmax": 326,
+                "ymax": 575
+            },
+            "plate": "g17365",
+            "region": {
+                "code": "cn",
+                "score": 0.698
+            },
+            "score": 0.999,
+            "candidates": [
+                {
+                    "score": 0.999,
+                    "plate": "g17365"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "gi7365"
+                }
+            ],
+            "dscore": 0.842,
+            "vehicle": {
+                "score": 0.791,
+                "type": "Sedan",
+                "box": {
+                    "xmin": 0,
+                    "ymin": 7,
+                    "xmax": 563,
+                    "ymax": 611
+                }
+            }
+        }
+    ],
+    "filename": "1400_PbfLR_G1_369.jpg",
+    "version": 1,
+    "camera_id": null,
+    "timestamp": "2024-12-03T14:00:57.059671Z",
+    "image_width": 1082,
+    "image_height": 727
+}

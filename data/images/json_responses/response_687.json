@@ -1,0 +1,97 @@
+{
+    "processing_time": 194.121,
+    "results": [
+        {
+            "box": {
+                "xmin": 56,
+                "ymin": 507,
+                "xmax": 200,
+                "ymax": 544
+            },
+            "plate": "gt1540",
+            "region": {
+                "code": "cn",
+                "score": 0.779
+            },
+            "score": 0.999,
+            "candidates": [
+                {
+                    "score": 0.999,
+                    "plate": "gt1540"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "gt154o"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "gti540"
+                },
+                {
+                    "score": 0.682,
+                    "plate": "gti54o"
+                }
+            ],
+            "dscore": 0.815,
+            "vehicle": {
+                "score": 0.79,
+                "type": "Sedan",
+                "box": {
+                    "xmin": 0,
+                    "ymin": 3,
+                    "xmax": 417,
+                    "ymax": 616
+                }
+            }
+        },
+        {
+            "box": {
+                "xmin": 35,
+                "ymin": 0,
+                "xmax": 211,
+                "ymax": 50
+            },
+            "plate": "taxi",
+            "region": {
+                "code": "ru",
+                "score": 0.039
+            },
+            "score": 0.96,
+            "candidates": [
+                {
+                    "score": 0.96,
+                    "plate": "taxi"
+                },
+                {
+                    "score": 0.786,
+                    "plate": "taxi6"
+                },
+                {
+                    "score": 0.778,
+                    "plate": "tax1"
+                },
+                {
+                    "score": 0.641,
+                    "plate": "tax16"
+                }
+            ],
+            "dscore": 0.052,
+            "vehicle": {
+                "score": 0.0,
+                "type": "Unknown",
+                "box": {
+                    "xmin": 0,
+                    "ymin": 0,
+                    "xmax": 0,
+                    "ymax": 0
+                }
+            }
+        }
+    ],
+    "filename": "1416_gcNIB_G1_687.jpg",
+    "version": 1,
+    "camera_id": null,
+    "timestamp": "2024-12-03T14:16:43.020902Z",
+    "image_width": 1082,
+    "image_height": 727
+}

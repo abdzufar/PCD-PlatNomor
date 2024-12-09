@@ -1,0 +1,46 @@
+{
+    "processing_time": 55.576,
+    "results": [
+        {
+            "box": {
+                "xmin": 195,
+                "ymin": 598,
+                "xmax": 364,
+                "ymax": 643
+            },
+            "plate": "gt1649",
+            "region": {
+                "code": "cn",
+                "score": 0.68
+            },
+            "score": 0.999,
+            "candidates": [
+                {
+                    "score": 0.999,
+                    "plate": "gt1649"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "gti649"
+                }
+            ],
+            "dscore": 0.824,
+            "vehicle": {
+                "score": 0.903,
+                "type": "Sedan",
+                "box": {
+                    "xmin": 0,
+                    "ymin": 43,
+                    "xmax": 582,
+                    "ymax": 725
+                }
+            }
+        }
+    ],
+    "filename": "1413_b21RM_G1_624.jpg",
+    "version": 1,
+    "camera_id": null,
+    "timestamp": "2024-12-03T14:13:32.737801Z",
+    "image_width": 1082,
+    "image_height": 727
+}

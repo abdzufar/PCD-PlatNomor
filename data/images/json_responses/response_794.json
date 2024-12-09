@@ -1,0 +1,121 @@
+{
+    "processing_time": 102.453,
+    "results": [
+        {
+            "box": {
+                "xmin": 326,
+                "ymin": 599,
+                "xmax": 497,
+                "ymax": 644
+            },
+            "plate": "gt1902",
+            "region": {
+                "code": "cn",
+                "score": 0.59
+            },
+            "score": 0.999,
+            "candidates": [
+                {
+                    "score": 0.999,
+                    "plate": "gt1902"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "gt19o2"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "gti902"
+                },
+                {
+                    "score": 0.683,
+                    "plate": "gti9o2"
+                }
+            ],
+            "dscore": 0.819,
+            "vehicle": {
+                "score": 0.688,
+                "type": "Sedan",
+                "box": {
+                    "xmin": 13,
+                    "ymin": 40,
+                    "xmax": 726,
+                    "ymax": 718
+                }
+            }
+        },
+        {
+            "box": {
+                "xmin": 231,
+                "ymin": 30,
+                "xmax": 455,
+                "ymax": 81
+            },
+            "plate": "taxig",
+            "region": {
+                "code": "ru",
+                "score": 0.039
+            },
+            "score": 0.741,
+            "candidates": [
+                {
+                    "score": 0.741,
+                    "plate": "taxig"
+                },
+                {
+                    "score": 0.734,
+                    "plate": "taxi0"
+                },
+                {
+                    "score": 0.724,
+                    "plate": "taxigr"
+                },
+                {
+                    "score": 0.716,
+                    "plate": "taxi0r"
+                },
+                {
+                    "score": 0.71,
+                    "plate": "taxio"
+                },
+                {
+                    "score": 0.692,
+                    "plate": "taxior"
+                },
+                {
+                    "score": 0.63,
+                    "plate": "tax1g"
+                },
+                {
+                    "score": 0.623,
+                    "plate": "tax10"
+                },
+                {
+                    "score": 0.613,
+                    "plate": "tax1gr"
+                },
+                {
+                    "score": 0.606,
+                    "plate": "tax10r"
+                }
+            ],
+            "dscore": 0.049,
+            "vehicle": {
+                "score": 0.0,
+                "type": "Unknown",
+                "box": {
+                    "xmin": 0,
+                    "ymin": 0,
+                    "xmax": 0,
+                    "ymax": 0
+                }
+            }
+        }
+    ],
+    "filename": "1422_QEpNz_G1_794.jpg",
+    "version": 1,
+    "camera_id": null,
+    "timestamp": "2024-12-03T14:22:02.808168Z",
+    "image_width": 1082,
+    "image_height": 727
+}

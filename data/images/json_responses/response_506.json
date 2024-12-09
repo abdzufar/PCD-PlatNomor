@@ -1,0 +1,113 @@
+{
+    "processing_time": 45.534,
+    "results": [
+        {
+            "box": {
+                "xmin": 515,
+                "ymin": 598,
+                "xmax": 688,
+                "ymax": 650
+            },
+            "plate": "gt1961",
+            "region": {
+                "code": "cn",
+                "score": 0.594
+            },
+            "score": 0.999,
+            "candidates": [
+                {
+                    "score": 0.999,
+                    "plate": "gt1961"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "gt196i"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "gti961"
+                },
+                {
+                    "score": 0.683,
+                    "plate": "gti96i"
+                }
+            ],
+            "dscore": 0.845,
+            "vehicle": {
+                "score": 0.851,
+                "type": "Sedan",
+                "box": {
+                    "xmin": 206,
+                    "ymin": 35,
+                    "xmax": 918,
+                    "ymax": 719
+                }
+            }
+        },
+        {
+            "box": {
+                "xmin": 435,
+                "ymin": 31,
+                "xmax": 659,
+                "ymax": 82
+            },
+            "plate": "taxi",
+            "region": {
+                "code": "by",
+                "score": 0.018
+            },
+            "score": 0.836,
+            "candidates": [
+                {
+                    "score": 0.836,
+                    "plate": "taxi"
+                },
+                {
+                    "score": 0.778,
+                    "plate": "taxie"
+                },
+                {
+                    "score": 0.73,
+                    "plate": "taxi2"
+                },
+                {
+                    "score": 0.705,
+                    "plate": "tax1"
+                },
+                {
+                    "score": 0.681,
+                    "plate": "taxie2"
+                },
+                {
+                    "score": 0.646,
+                    "plate": "tax1e"
+                },
+                {
+                    "score": 0.62,
+                    "plate": "tax12"
+                },
+                {
+                    "score": 0.571,
+                    "plate": "tax1e2"
+                }
+            ],
+            "dscore": 0.097,
+            "vehicle": {
+                "score": 0.0,
+                "type": "Unknown",
+                "box": {
+                    "xmin": 0,
+                    "ymin": 0,
+                    "xmax": 0,
+                    "ymax": 0
+                }
+            }
+        }
+    ],
+    "filename": "1407_33pAH_G1_506.jpg",
+    "version": 1,
+    "camera_id": null,
+    "timestamp": "2024-12-03T14:07:51.526608Z",
+    "image_width": 1082,
+    "image_height": 727
+}

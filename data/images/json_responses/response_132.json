@@ -1,0 +1,70 @@
+{
+    "processing_time": 39.652,
+    "results": [
+        {
+            "box": {
+                "xmin": 444,
+                "ymin": 509,
+                "xmax": 592,
+                "ymax": 554
+            },
+            "plate": "gt9011",
+            "region": {
+                "code": "cn",
+                "score": 0.817
+            },
+            "score": 0.999,
+            "candidates": [
+                {
+                    "score": 0.999,
+                    "plate": "gt9011"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "gt901i"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "gt90i1"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "gt9o11"
+                },
+                {
+                    "score": 0.683,
+                    "plate": "gt90ii"
+                },
+                {
+                    "score": 0.683,
+                    "plate": "gt9o1i"
+                },
+                {
+                    "score": 0.683,
+                    "plate": "gt9oi1"
+                },
+                {
+                    "score": 0.525,
+                    "plate": "gt9oii"
+                }
+            ],
+            "dscore": 0.802,
+            "vehicle": {
+                "score": 0.861,
+                "type": "Sedan",
+                "box": {
+                    "xmin": 200,
+                    "ymin": 4,
+                    "xmax": 785,
+                    "ymax": 614
+                }
+            }
+        }
+    ],
+    "filename": "1349_oYQG8_G1_132.jpg",
+    "version": 1,
+    "camera_id": null,
+    "timestamp": "2024-12-03T13:49:55.513030Z",
+    "image_width": 1082,
+    "image_height": 727
+}

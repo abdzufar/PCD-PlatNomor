@@ -1,0 +1,70 @@
+{
+    "processing_time": 73.238,
+    "results": [
+        {
+            "box": {
+                "xmin": 312,
+                "ymin": 499,
+                "xmax": 456,
+                "ymax": 538
+            },
+            "plate": "g91860",
+            "region": {
+                "code": "cn",
+                "score": 0.68
+            },
+            "score": 0.999,
+            "candidates": [
+                {
+                    "score": 0.999,
+                    "plate": "g91860"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "g9186o"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "g91b60"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "g9i860"
+                },
+                {
+                    "score": 0.683,
+                    "plate": "g91b6o"
+                },
+                {
+                    "score": 0.683,
+                    "plate": "g9i86o"
+                },
+                {
+                    "score": 0.683,
+                    "plate": "g9ib60"
+                },
+                {
+                    "score": 0.525,
+                    "plate": "g9ib6o"
+                }
+            ],
+            "dscore": 0.809,
+            "vehicle": {
+                "score": 0.643,
+                "type": "Sedan",
+                "box": {
+                    "xmin": 38,
+                    "ymin": 0,
+                    "xmax": 712,
+                    "ymax": 597
+                }
+            }
+        }
+    ],
+    "filename": "1407_NNuiN_G1_504.jpg",
+    "version": 1,
+    "camera_id": null,
+    "timestamp": "2024-12-03T14:07:47.952384Z",
+    "image_width": 1082,
+    "image_height": 727
+}

@@ -1,0 +1,129 @@
+{
+    "processing_time": 251.481,
+    "results": [
+        {
+            "box": {
+                "xmin": 196,
+                "ymin": 519,
+                "xmax": 345,
+                "ymax": 560
+            },
+            "plate": "gt1021",
+            "region": {
+                "code": "cn",
+                "score": 0.778
+            },
+            "score": 0.999,
+            "candidates": [
+                {
+                    "score": 0.999,
+                    "plate": "gt1021"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "gt102i"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "gt1o21"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "gti021"
+                },
+                {
+                    "score": 0.683,
+                    "plate": "gt1o2i"
+                },
+                {
+                    "score": 0.683,
+                    "plate": "gti02i"
+                },
+                {
+                    "score": 0.683,
+                    "plate": "gtio21"
+                },
+                {
+                    "score": 0.525,
+                    "plate": "gtio2i"
+                }
+            ],
+            "dscore": 0.814,
+            "vehicle": {
+                "score": 0.542,
+                "type": "Van",
+                "box": {
+                    "xmin": 0,
+                    "ymin": 4,
+                    "xmax": 550,
+                    "ymax": 594
+                }
+            }
+        },
+        {
+            "box": {
+                "xmin": 149,
+                "ymin": 0,
+                "xmax": 332,
+                "ymax": 50
+            },
+            "plate": "taxi",
+            "region": {
+                "code": "ru",
+                "score": 0.021
+            },
+            "score": 0.83,
+            "candidates": [
+                {
+                    "score": 0.83,
+                    "plate": "taxi"
+                },
+                {
+                    "score": 0.781,
+                    "plate": "taxig"
+                },
+                {
+                    "score": 0.713,
+                    "plate": "tax1"
+                },
+                {
+                    "score": 0.71,
+                    "plate": "taxi9"
+                },
+                {
+                    "score": 0.669,
+                    "plate": "taxi9g"
+                },
+                {
+                    "score": 0.663,
+                    "plate": "tax1g"
+                },
+                {
+                    "score": 0.612,
+                    "plate": "tax19"
+                },
+                {
+                    "score": 0.571,
+                    "plate": "tax19g"
+                }
+            ],
+            "dscore": 0.036,
+            "vehicle": {
+                "score": 0.0,
+                "type": "Unknown",
+                "box": {
+                    "xmin": 0,
+                    "ymin": 0,
+                    "xmax": 0,
+                    "ymax": 0
+                }
+            }
+        }
+    ],
+    "filename": "1356_OK22U_G1_278.jpg",
+    "version": 1,
+    "camera_id": null,
+    "timestamp": "2024-12-03T13:56:42.773303Z",
+    "image_width": 1082,
+    "image_height": 727
+}

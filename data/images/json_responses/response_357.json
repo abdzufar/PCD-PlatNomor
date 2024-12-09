@@ -1,0 +1,46 @@
+{
+    "processing_time": 93.121,
+    "results": [
+        {
+            "box": {
+                "xmin": 350,
+                "ymin": 582,
+                "xmax": 520,
+                "ymax": 631
+            },
+            "plate": "gxk166",
+            "region": {
+                "code": "cn",
+                "score": 0.702
+            },
+            "score": 0.999,
+            "candidates": [
+                {
+                    "score": 0.999,
+                    "plate": "gxk166"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "gxki66"
+                }
+            ],
+            "dscore": 0.833,
+            "vehicle": {
+                "score": 0.83,
+                "type": "Sedan",
+                "box": {
+                    "xmin": 32,
+                    "ymin": 17,
+                    "xmax": 771,
+                    "ymax": 720
+                }
+            }
+        }
+    ],
+    "filename": "1400_s7RTy_G1_357.jpg",
+    "version": 1,
+    "camera_id": null,
+    "timestamp": "2024-12-03T14:00:23.149288Z",
+    "image_width": 1082,
+    "image_height": 727
+}

@@ -1,0 +1,42 @@
+{
+    "processing_time": 129.979,
+    "results": [
+        {
+            "box": {
+                "xmin": 193,
+                "ymin": 534,
+                "xmax": 339,
+                "ymax": 571
+            },
+            "plate": "g93779",
+            "region": {
+                "code": "cn",
+                "score": 0.731
+            },
+            "score": 0.999,
+            "candidates": [
+                {
+                    "score": 0.999,
+                    "plate": "g93779"
+                }
+            ],
+            "dscore": 0.781,
+            "vehicle": {
+                "score": 0.876,
+                "type": "Van",
+                "box": {
+                    "xmin": 0,
+                    "ymin": 0,
+                    "xmax": 560,
+                    "ymax": 625
+                }
+            }
+        }
+    ],
+    "filename": "1346_YKBkK_G1_69.jpg",
+    "version": 1,
+    "camera_id": null,
+    "timestamp": "2024-12-03T13:46:47.634583Z",
+    "image_width": 1082,
+    "image_height": 727
+}

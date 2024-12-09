@@ -1,0 +1,54 @@
+{
+    "processing_time": 80.136,
+    "results": [
+        {
+            "box": {
+                "xmin": 203,
+                "ymin": 506,
+                "xmax": 351,
+                "ymax": 550
+            },
+            "plate": "gt1606",
+            "region": {
+                "code": "cn",
+                "score": 0.85
+            },
+            "score": 1.0,
+            "candidates": [
+                {
+                    "score": 1.0,
+                    "plate": "gt1606"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "gt16o6"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "gti606"
+                },
+                {
+                    "score": 0.683,
+                    "plate": "gti6o6"
+                }
+            ],
+            "dscore": 0.845,
+            "vehicle": {
+                "score": 0.613,
+                "type": "Sedan",
+                "box": {
+                    "xmin": 1,
+                    "ymin": 7,
+                    "xmax": 559,
+                    "ymax": 608
+                }
+            }
+        }
+    ],
+    "filename": "1406_wz6a6_G1_473.jpg",
+    "version": 1,
+    "camera_id": null,
+    "timestamp": "2024-12-03T14:06:22.525697Z",
+    "image_width": 1082,
+    "image_height": 727
+}

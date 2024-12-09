@@ -1,0 +1,46 @@
+{
+    "processing_time": 60.664,
+    "results": [
+        {
+            "box": {
+                "xmin": 397,
+                "ymin": 597,
+                "xmax": 567,
+                "ymax": 648
+            },
+            "plate": "gt2387",
+            "region": {
+                "code": "cn",
+                "score": 0.855
+            },
+            "score": 1.0,
+            "candidates": [
+                {
+                    "score": 1.0,
+                    "plate": "gt2387"
+                },
+                {
+                    "score": 0.842,
+                    "plate": "gt23b7"
+                }
+            ],
+            "dscore": 0.871,
+            "vehicle": {
+                "score": 0.939,
+                "type": "Sedan",
+                "box": {
+                    "xmin": 71,
+                    "ymin": 42,
+                    "xmax": 798,
+                    "ymax": 724
+                }
+            }
+        }
+    ],
+    "filename": "1345_gBUwM_G1_46.jpg",
+    "version": 1,
+    "camera_id": null,
+    "timestamp": "2024-12-03T13:45:39.190482Z",
+    "image_width": 1082,
+    "image_height": 727
+}

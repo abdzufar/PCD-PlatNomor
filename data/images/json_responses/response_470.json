@@ -1,0 +1,46 @@
+{
+    "processing_time": 88.171,
+    "results": [
+        {
+            "box": {
+                "xmin": 448,
+                "ymin": 515,
+                "xmax": 597,
+                "ymax": 561
+            },
+            "plate": "gt2072",
+            "region": {
+                "code": "cn",
+                "score": 0.772
+            },
+            "score": 1.0,
+            "candidates": [
+                {
+                    "score": 1.0,
+                    "plate": "gt2072"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "gt2o72"
+                }
+            ],
+            "dscore": 0.873,
+            "vehicle": {
+                "score": 0.779,
+                "type": "Sedan",
+                "box": {
+                    "xmin": 222,
+                    "ymin": 13,
+                    "xmax": 797,
+                    "ymax": 624
+                }
+            }
+        }
+    ],
+    "filename": "1406_Yf4Dz_G1_470.jpg",
+    "version": 1,
+    "camera_id": null,
+    "timestamp": "2024-12-03T14:06:11.125661Z",
+    "image_width": 1082,
+    "image_height": 727
+}

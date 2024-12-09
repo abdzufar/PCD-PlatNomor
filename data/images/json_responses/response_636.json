@@ -1,0 +1,42 @@
+{
+    "processing_time": 86.199,
+    "results": [
+        {
+            "box": {
+                "xmin": 197,
+                "ymin": 477,
+                "xmax": 344,
+                "ymax": 522
+            },
+            "plate": "ghw666",
+            "region": {
+                "code": "cn",
+                "score": 0.683
+            },
+            "score": 0.999,
+            "candidates": [
+                {
+                    "score": 0.999,
+                    "plate": "ghw666"
+                }
+            ],
+            "dscore": 0.862,
+            "vehicle": {
+                "score": 0.891,
+                "type": "Sedan",
+                "box": {
+                    "xmin": 0,
+                    "ymin": 0,
+                    "xmax": 586,
+                    "ymax": 609
+                }
+            }
+        }
+    ],
+    "filename": "1414_gNtOE_G1_636.jpg",
+    "version": 1,
+    "camera_id": null,
+    "timestamp": "2024-12-03T14:14:08.813657Z",
+    "image_width": 1082,
+    "image_height": 727
+}

@@ -1,0 +1,54 @@
+{
+    "processing_time": 82.156,
+    "results": [
+        {
+            "box": {
+                "xmin": 189,
+                "ymin": 593,
+                "xmax": 363,
+                "ymax": 646
+            },
+            "plate": "gt1917",
+            "region": {
+                "code": "cn",
+                "score": 0.877
+            },
+            "score": 1.0,
+            "candidates": [
+                {
+                    "score": 1.0,
+                    "plate": "gt1917"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "gt19i7"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "gti917"
+                },
+                {
+                    "score": 0.683,
+                    "plate": "gti9i7"
+                }
+            ],
+            "dscore": 0.861,
+            "vehicle": {
+                "score": 0.935,
+                "type": "Sedan",
+                "box": {
+                    "xmin": 0,
+                    "ymin": 42,
+                    "xmax": 616,
+                    "ymax": 725
+                }
+            }
+        }
+    ],
+    "filename": "1413_XSBzM_G1_630.jpg",
+    "version": 1,
+    "camera_id": null,
+    "timestamp": "2024-12-03T14:13:50.030549Z",
+    "image_width": 1082,
+    "image_height": 727
+}

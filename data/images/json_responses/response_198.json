@@ -1,0 +1,54 @@
+{
+    "processing_time": 20.852,
+    "results": [
+        {
+            "box": {
+                "xmin": 587,
+                "ymin": 532,
+                "xmax": 755,
+                "ymax": 585
+            },
+            "plate": "g07199",
+            "region": {
+                "code": "cn",
+                "score": 0.746
+            },
+            "score": 0.997,
+            "candidates": [
+                {
+                    "score": 0.997,
+                    "plate": "g07199"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "go7199"
+                },
+                {
+                    "score": 0.838,
+                    "plate": "g07i99"
+                },
+                {
+                    "score": 0.683,
+                    "plate": "go7i99"
+                }
+            ],
+            "dscore": 0.836,
+            "vehicle": {
+                "score": 0.778,
+                "type": "Sedan",
+                "box": {
+                    "xmin": 235,
+                    "ymin": 0,
+                    "xmax": 1004,
+                    "ymax": 694
+                }
+            }
+        }
+    ],
+    "filename": "1353_W8gKi_G1_198.jpg",
+    "version": 1,
+    "camera_id": null,
+    "timestamp": "2024-12-03T13:53:01.214453Z",
+    "image_width": 1082,
+    "image_height": 727
+}

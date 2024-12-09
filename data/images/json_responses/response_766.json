@@ -1,0 +1,70 @@
+{
+    "processing_time": 103.178,
+    "results": [
+        {
+            "box": {
+                "xmin": 369,
+                "ymin": 572,
+                "xmax": 538,
+                "ymax": 621
+            },
+            "plate": "b3917q",
+            "region": {
+                "code": "cn",
+                "score": 0.429
+            },
+            "score": 0.994,
+            "candidates": [
+                {
+                    "score": 0.994,
+                    "plate": "b3917q"
+                },
+                {
+                    "score": 0.872,
+                    "plate": "hb3917q"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "b39i7q"
+                },
+                {
+                    "score": 0.835,
+                    "plate": "83917q"
+                },
+                {
+                    "score": 0.741,
+                    "plate": "hb39i7q"
+                },
+                {
+                    "score": 0.736,
+                    "plate": "h83917q"
+                },
+                {
+                    "score": 0.683,
+                    "plate": "839i7q"
+                },
+                {
+                    "score": 0.605,
+                    "plate": "h839i7q"
+                }
+            ],
+            "dscore": 0.791,
+            "vehicle": {
+                "score": 0.921,
+                "type": "Sedan",
+                "box": {
+                    "xmin": 0,
+                    "ymin": 2,
+                    "xmax": 777,
+                    "ymax": 716
+                }
+            }
+        }
+    ],
+    "filename": "1420_9UY30_G1_766.jpg",
+    "version": 1,
+    "camera_id": null,
+    "timestamp": "2024-12-03T14:20:44.110534Z",
+    "image_width": 1082,
+    "image_height": 727
+}

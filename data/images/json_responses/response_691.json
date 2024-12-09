@@ -1,0 +1,70 @@
+{
+    "processing_time": 43.397,
+    "results": [
+        {
+            "box": {
+                "xmin": 398,
+                "ymin": 493,
+                "xmax": 543,
+                "ymax": 538
+            },
+            "plate": "gyl888",
+            "region": {
+                "code": "cn",
+                "score": 0.686
+            },
+            "score": 1.0,
+            "candidates": [
+                {
+                    "score": 1.0,
+                    "plate": "gyl888"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "gyl88b"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "gyl8b8"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "gylb88"
+                },
+                {
+                    "score": 0.683,
+                    "plate": "gyl8bb"
+                },
+                {
+                    "score": 0.683,
+                    "plate": "gylb8b"
+                },
+                {
+                    "score": 0.683,
+                    "plate": "gylbb8"
+                },
+                {
+                    "score": 0.525,
+                    "plate": "gylbbb"
+                }
+            ],
+            "dscore": 0.839,
+            "vehicle": {
+                "score": 0.901,
+                "type": "Van",
+                "box": {
+                    "xmin": 199,
+                    "ymin": 1,
+                    "xmax": 743,
+                    "ymax": 604
+                }
+            }
+        }
+    ],
+    "filename": "1416_R4xbx_G1_691.jpg",
+    "version": 1,
+    "camera_id": null,
+    "timestamp": "2024-12-03T14:16:53.728833Z",
+    "image_width": 1082,
+    "image_height": 727
+}

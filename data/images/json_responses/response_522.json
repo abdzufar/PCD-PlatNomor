@@ -1,0 +1,70 @@
+{
+    "processing_time": 29.959,
+    "results": [
+        {
+            "box": {
+                "xmin": 105,
+                "ymin": 597,
+                "xmax": 272,
+                "ymax": 646
+            },
+            "plate": "gt2000",
+            "region": {
+                "code": "cn",
+                "score": 0.859
+            },
+            "score": 1.0,
+            "candidates": [
+                {
+                    "score": 1.0,
+                    "plate": "gt2000"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "gt200o"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "gt20o0"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "gt2o00"
+                },
+                {
+                    "score": 0.683,
+                    "plate": "gt20oo"
+                },
+                {
+                    "score": 0.683,
+                    "plate": "gt2o0o"
+                },
+                {
+                    "score": 0.683,
+                    "plate": "gt2oo0"
+                },
+                {
+                    "score": 0.525,
+                    "plate": "gt2ooo"
+                }
+            ],
+            "dscore": 0.843,
+            "vehicle": {
+                "score": 0.879,
+                "type": "Sedan",
+                "box": {
+                    "xmin": 0,
+                    "ymin": 41,
+                    "xmax": 527,
+                    "ymax": 726
+                }
+            }
+        }
+    ],
+    "filename": "1408_R73U8_G1_522.jpg",
+    "version": 1,
+    "camera_id": null,
+    "timestamp": "2024-12-03T14:08:30.292821Z",
+    "image_width": 1082,
+    "image_height": 727
+}

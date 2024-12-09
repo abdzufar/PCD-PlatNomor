@@ -1,0 +1,109 @@
+{
+    "processing_time": 92.036,
+    "results": [
+        {
+            "box": {
+                "xmin": 319,
+                "ymin": 600,
+                "xmax": 493,
+                "ymax": 641
+            },
+            "plate": "gt1051",
+            "region": {
+                "code": "cn",
+                "score": 0.625
+            },
+            "score": 0.999,
+            "candidates": [
+                {
+                    "score": 0.999,
+                    "plate": "gt1051"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "gt105i"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "gt1o51"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "gti051"
+                },
+                {
+                    "score": 0.683,
+                    "plate": "gt1o5i"
+                },
+                {
+                    "score": 0.683,
+                    "plate": "gti05i"
+                },
+                {
+                    "score": 0.683,
+                    "plate": "gtio51"
+                },
+                {
+                    "score": 0.525,
+                    "plate": "gtio5i"
+                }
+            ],
+            "dscore": 0.813,
+            "vehicle": {
+                "score": 0.762,
+                "type": "Sedan",
+                "box": {
+                    "xmin": 1,
+                    "ymin": 25,
+                    "xmax": 718,
+                    "ymax": 710
+                }
+            }
+        },
+        {
+            "box": {
+                "xmin": 239,
+                "ymin": 22,
+                "xmax": 451,
+                "ymax": 77
+            },
+            "plate": "ax186",
+            "region": {
+                "code": "ru",
+                "score": 0.086
+            },
+            "score": 0.427,
+            "candidates": [
+                {
+                    "score": 0.427,
+                    "plate": "ax186"
+                },
+                {
+                    "score": 0.418,
+                    "plate": "ax146"
+                },
+                {
+                    "score": 0.382,
+                    "plate": "ax148"
+                }
+            ],
+            "dscore": 0.01,
+            "vehicle": {
+                "score": 0.0,
+                "type": "Unknown",
+                "box": {
+                    "xmin": 0,
+                    "ymin": 0,
+                    "xmax": 0,
+                    "ymax": 0
+                }
+            }
+        }
+    ],
+    "filename": "1359_G1ts4_G1_342.jpg",
+    "version": 1,
+    "camera_id": null,
+    "timestamp": "2024-12-03T13:59:46.257669Z",
+    "image_width": 1082,
+    "image_height": 727
+}

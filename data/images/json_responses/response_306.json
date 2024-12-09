@@ -1,0 +1,97 @@
+{
+    "processing_time": 76.082,
+    "results": [
+        {
+            "box": {
+                "xmin": 351,
+                "ymin": 531,
+                "xmax": 498,
+                "ymax": 567
+            },
+            "plate": "gt1837",
+            "region": {
+                "code": "cn",
+                "score": 0.674
+            },
+            "score": 0.998,
+            "candidates": [
+                {
+                    "score": 0.998,
+                    "plate": "gt1837"
+                },
+                {
+                    "score": 0.84,
+                    "plate": "gt1b37"
+                },
+                {
+                    "score": 0.84,
+                    "plate": "gti837"
+                },
+                {
+                    "score": 0.682,
+                    "plate": "gtib37"
+                }
+            ],
+            "dscore": 0.81,
+            "vehicle": {
+                "score": 0.708,
+                "type": "Van",
+                "box": {
+                    "xmin": 118,
+                    "ymin": 1,
+                    "xmax": 715,
+                    "ymax": 602
+                }
+            }
+        },
+        {
+            "box": {
+                "xmin": 311,
+                "ymin": 1,
+                "xmax": 494,
+                "ymax": 44
+            },
+            "plate": "taxi",
+            "region": {
+                "code": "ru",
+                "score": 0.009
+            },
+            "score": 0.967,
+            "candidates": [
+                {
+                    "score": 0.967,
+                    "plate": "taxi"
+                },
+                {
+                    "score": 0.785,
+                    "plate": "taxia"
+                },
+                {
+                    "score": 0.767,
+                    "plate": "tax1"
+                },
+                {
+                    "score": 0.625,
+                    "plate": "tax1a"
+                }
+            ],
+            "dscore": 0.256,
+            "vehicle": {
+                "score": 0.0,
+                "type": "Unknown",
+                "box": {
+                    "xmin": 0,
+                    "ymin": 0,
+                    "xmax": 0,
+                    "ymax": 0
+                }
+            }
+        }
+    ],
+    "filename": "1358_PtgmG_G1_306.jpg",
+    "version": 1,
+    "camera_id": null,
+    "timestamp": "2024-12-03T13:58:09.273249Z",
+    "image_width": 1082,
+    "image_height": 727
+}

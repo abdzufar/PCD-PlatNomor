@@ -1,0 +1,70 @@
+{
+    "processing_time": 78.024,
+    "results": [
+        {
+            "box": {
+                "xmin": 176,
+                "ymin": 479,
+                "xmax": 320,
+                "ymax": 517
+            },
+            "plate": "g04160",
+            "region": {
+                "code": "cn",
+                "score": 0.773
+            },
+            "score": 0.999,
+            "candidates": [
+                {
+                    "score": 0.999,
+                    "plate": "g04160"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "g0416o"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "g04i60"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "go4160"
+                },
+                {
+                    "score": 0.683,
+                    "plate": "g04i6o"
+                },
+                {
+                    "score": 0.683,
+                    "plate": "go416o"
+                },
+                {
+                    "score": 0.683,
+                    "plate": "go4i60"
+                },
+                {
+                    "score": 0.525,
+                    "plate": "go4i6o"
+                }
+            ],
+            "dscore": 0.812,
+            "vehicle": {
+                "score": 0.54,
+                "type": "Pickup Truck",
+                "box": {
+                    "xmin": 1,
+                    "ymin": 0,
+                    "xmax": 565,
+                    "ymax": 625
+                }
+            }
+        }
+    ],
+    "filename": "1408_364av_G1_527.jpg",
+    "version": 1,
+    "camera_id": null,
+    "timestamp": "2024-12-03T14:08:46.364304Z",
+    "image_width": 1082,
+    "image_height": 727
+}

@@ -1,0 +1,46 @@
+{
+    "processing_time": 173.637,
+    "results": [
+        {
+            "box": {
+                "xmin": 22,
+                "ymin": 601,
+                "xmax": 193,
+                "ymax": 656
+            },
+            "plate": "gt1527",
+            "region": {
+                "code": "cn",
+                "score": 0.778
+            },
+            "score": 0.999,
+            "candidates": [
+                {
+                    "score": 0.999,
+                    "plate": "gt1527"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "gti527"
+                }
+            ],
+            "dscore": 0.888,
+            "vehicle": {
+                "score": 0.756,
+                "type": "Sedan",
+                "box": {
+                    "xmin": 0,
+                    "ymin": 45,
+                    "xmax": 460,
+                    "ymax": 726
+                }
+            }
+        }
+    ],
+    "filename": "1348_L6njI_G1_97.jpg",
+    "version": 1,
+    "camera_id": null,
+    "timestamp": "2024-12-03T13:48:19.162877Z",
+    "image_width": 1082,
+    "image_height": 727
+}

@@ -1,0 +1,70 @@
+{
+    "processing_time": 38.219,
+    "results": [
+        {
+            "box": {
+                "xmin": 337,
+                "ymin": 523,
+                "xmax": 486,
+                "ymax": 562
+            },
+            "plate": "g02105",
+            "region": {
+                "code": "cn",
+                "score": 0.405
+            },
+            "score": 0.999,
+            "candidates": [
+                {
+                    "score": 0.999,
+                    "plate": "g02105"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "g021o5"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "g02i05"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "go2105"
+                },
+                {
+                    "score": 0.683,
+                    "plate": "g02io5"
+                },
+                {
+                    "score": 0.683,
+                    "plate": "go21o5"
+                },
+                {
+                    "score": 0.683,
+                    "plate": "go2i05"
+                },
+                {
+                    "score": 0.525,
+                    "plate": "go2io5"
+                }
+            ],
+            "dscore": 0.829,
+            "vehicle": {
+                "score": 0.813,
+                "type": "Big Truck",
+                "box": {
+                    "xmin": 0,
+                    "ymin": 0,
+                    "xmax": 897,
+                    "ymax": 617
+                }
+            }
+        }
+    ],
+    "filename": "1410_Ow5Bf_G1_551.jpg",
+    "version": 1,
+    "camera_id": null,
+    "timestamp": "2024-12-03T14:10:03.696223Z",
+    "image_width": 1082,
+    "image_height": 727
+}

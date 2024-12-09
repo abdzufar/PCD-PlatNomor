@@ -1,0 +1,70 @@
+{
+    "processing_time": 70.718,
+    "results": [
+        {
+            "box": {
+                "xmin": 441,
+                "ymin": 598,
+                "xmax": 613,
+                "ymax": 652
+            },
+            "plate": "gt1830",
+            "region": {
+                "code": "cn",
+                "score": 0.825
+            },
+            "score": 0.999,
+            "candidates": [
+                {
+                    "score": 0.999,
+                    "plate": "gt1830"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "gt183o"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "gt1b30"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "gti830"
+                },
+                {
+                    "score": 0.683,
+                    "plate": "gt1b3o"
+                },
+                {
+                    "score": 0.683,
+                    "plate": "gti83o"
+                },
+                {
+                    "score": 0.683,
+                    "plate": "gtib30"
+                },
+                {
+                    "score": 0.525,
+                    "plate": "gtib3o"
+                }
+            ],
+            "dscore": 0.856,
+            "vehicle": {
+                "score": 0.914,
+                "type": "Sedan",
+                "box": {
+                    "xmin": 118,
+                    "ymin": 51,
+                    "xmax": 847,
+                    "ymax": 726
+                }
+            }
+        }
+    ],
+    "filename": "1402_wDcSd_G1_394.jpg",
+    "version": 1,
+    "camera_id": null,
+    "timestamp": "2024-12-03T14:02:15.332294Z",
+    "image_width": 1082,
+    "image_height": 727
+}

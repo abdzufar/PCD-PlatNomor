@@ -1,0 +1,46 @@
+{
+    "processing_time": 54.223,
+    "results": [
+        {
+            "box": {
+                "xmin": 403,
+                "ymin": 511,
+                "xmax": 552,
+                "ymax": 556
+            },
+            "plate": "gt9502",
+            "region": {
+                "code": "cn",
+                "score": 0.858
+            },
+            "score": 1.0,
+            "candidates": [
+                {
+                    "score": 1.0,
+                    "plate": "gt9502"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "gt95o2"
+                }
+            ],
+            "dscore": 0.831,
+            "vehicle": {
+                "score": 0.774,
+                "type": "Sedan",
+                "box": {
+                    "xmin": 190,
+                    "ymin": 17,
+                    "xmax": 757,
+                    "ymax": 610
+                }
+            }
+        }
+    ],
+    "filename": "1400_o6yfZ_G1_358.jpg",
+    "version": 1,
+    "camera_id": null,
+    "timestamp": "2024-12-03T14:00:26.545138Z",
+    "image_width": 1082,
+    "image_height": 727
+}

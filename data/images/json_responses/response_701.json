@@ -1,0 +1,54 @@
+{
+    "processing_time": 120.502,
+    "results": [
+        {
+            "box": {
+                "xmin": 172,
+                "ymin": 583,
+                "xmax": 343,
+                "ymax": 637
+            },
+            "plate": "gt2109",
+            "region": {
+                "code": "cn",
+                "score": 0.866
+            },
+            "score": 1.0,
+            "candidates": [
+                {
+                    "score": 1.0,
+                    "plate": "gt2109"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "gt21o9"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "gt2i09"
+                },
+                {
+                    "score": 0.683,
+                    "plate": "gt2io9"
+                }
+            ],
+            "dscore": 0.856,
+            "vehicle": {
+                "score": 0.816,
+                "type": "Sedan",
+                "box": {
+                    "xmin": 2,
+                    "ymin": 50,
+                    "xmax": 579,
+                    "ymax": 721
+                }
+            }
+        }
+    ],
+    "filename": "1417_Cgkir_G1_701.jpg",
+    "version": 1,
+    "camera_id": null,
+    "timestamp": "2024-12-03T14:17:29.646203Z",
+    "image_width": 1082,
+    "image_height": 727
+}

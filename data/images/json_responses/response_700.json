@@ -1,0 +1,54 @@
+{
+    "processing_time": 21.959,
+    "results": [
+        {
+            "box": {
+                "xmin": 215,
+                "ymin": 508,
+                "xmax": 366,
+                "ymax": 555
+            },
+            "plate": "g02865",
+            "region": {
+                "code": "cn",
+                "score": 0.772
+            },
+            "score": 0.999,
+            "candidates": [
+                {
+                    "score": 0.999,
+                    "plate": "g02865"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "g02b65"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "go2865"
+                },
+                {
+                    "score": 0.683,
+                    "plate": "go2b65"
+                }
+            ],
+            "dscore": 0.811,
+            "vehicle": {
+                "score": 0.548,
+                "type": "Big Truck",
+                "box": {
+                    "xmin": 0,
+                    "ymin": 0,
+                    "xmax": 641,
+                    "ymax": 601
+                }
+            }
+        }
+    ],
+    "filename": "1417_2Kcnt_G1_700.jpg",
+    "version": 1,
+    "camera_id": null,
+    "timestamp": "2024-12-03T14:17:27.046891Z",
+    "image_width": 1082,
+    "image_height": 727
+}

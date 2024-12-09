@@ -1,0 +1,54 @@
+{
+    "processing_time": 35.294,
+    "results": [
+        {
+            "box": {
+                "xmin": 350,
+                "ymin": 511,
+                "xmax": 501,
+                "ymax": 556
+            },
+            "plate": "g04126",
+            "region": {
+                "code": "cn",
+                "score": 0.833
+            },
+            "score": 1.0,
+            "candidates": [
+                {
+                    "score": 1.0,
+                    "plate": "g04126"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "g04i26"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "go4126"
+                },
+                {
+                    "score": 0.683,
+                    "plate": "go4i26"
+                }
+            ],
+            "dscore": 0.824,
+            "vehicle": {
+                "score": 0.89,
+                "type": "Big Truck",
+                "box": {
+                    "xmin": 65,
+                    "ymin": 1,
+                    "xmax": 784,
+                    "ymax": 611
+                }
+            }
+        }
+    ],
+    "filename": "1344_Xjza6_G1_9.jpg",
+    "version": 1,
+    "camera_id": null,
+    "timestamp": "2024-12-03T13:44:01.779269Z",
+    "image_width": 1082,
+    "image_height": 727
+}

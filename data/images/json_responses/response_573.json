@@ -1,0 +1,54 @@
+{
+    "processing_time": 42.045,
+    "results": [
+        {
+            "box": {
+                "xmin": 450,
+                "ymin": 598,
+                "xmax": 616,
+                "ymax": 646
+            },
+            "plate": "g20067",
+            "region": {
+                "code": "cn",
+                "score": 0.643
+            },
+            "score": 0.999,
+            "candidates": [
+                {
+                    "score": 0.999,
+                    "plate": "g20067"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "g20o67"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "g2o067"
+                },
+                {
+                    "score": 0.683,
+                    "plate": "g2oo67"
+                }
+            ],
+            "dscore": 0.859,
+            "vehicle": {
+                "score": 0.815,
+                "type": "Sedan",
+                "box": {
+                    "xmin": 122,
+                    "ymin": 16,
+                    "xmax": 853,
+                    "ymax": 726
+                }
+            }
+        }
+    ],
+    "filename": "1411_XHJB5_G1_573.jpg",
+    "version": 1,
+    "camera_id": null,
+    "timestamp": "2024-12-03T14:11:01.211694Z",
+    "image_width": 1082,
+    "image_height": 727
+}

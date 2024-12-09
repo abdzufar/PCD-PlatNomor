@@ -1,0 +1,54 @@
+{
+    "processing_time": 34.475,
+    "results": [
+        {
+            "box": {
+                "xmin": 443,
+                "ymin": 565,
+                "xmax": 615,
+                "ymax": 619
+            },
+            "plate": "gkk116",
+            "region": {
+                "code": "cn",
+                "score": 0.854
+            },
+            "score": 0.999,
+            "candidates": [
+                {
+                    "score": 0.999,
+                    "plate": "gkk116"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "gkk1i6"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "gkki16"
+                },
+                {
+                    "score": 0.683,
+                    "plate": "gkkii6"
+                }
+            ],
+            "dscore": 0.832,
+            "vehicle": {
+                "score": 0.522,
+                "type": "Sedan",
+                "box": {
+                    "xmin": 113,
+                    "ymin": 0,
+                    "xmax": 853,
+                    "ymax": 708
+                }
+            }
+        }
+    ],
+    "filename": "1418_jeLft_G1_728.jpg",
+    "version": 1,
+    "camera_id": null,
+    "timestamp": "2024-12-03T14:18:42.401727Z",
+    "image_width": 1082,
+    "image_height": 727
+}

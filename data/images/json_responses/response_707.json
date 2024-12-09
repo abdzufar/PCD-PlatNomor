@@ -1,0 +1,46 @@
+{
+    "processing_time": 77.128,
+    "results": [
+        {
+            "box": {
+                "xmin": 223,
+                "ymin": 557,
+                "xmax": 401,
+                "ymax": 611
+            },
+            "plate": "a62920",
+            "region": {
+                "code": "cn",
+                "score": 0.843
+            },
+            "score": 1.0,
+            "candidates": [
+                {
+                    "score": 1.0,
+                    "plate": "a62920"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "a6292o"
+                }
+            ],
+            "dscore": 0.83,
+            "vehicle": {
+                "score": 0.345,
+                "type": "Van",
+                "box": {
+                    "xmin": 0,
+                    "ymin": 0,
+                    "xmax": 668,
+                    "ymax": 689
+                }
+            }
+        }
+    ],
+    "filename": "1417_VJjzw_G1_707.jpg",
+    "version": 1,
+    "camera_id": null,
+    "timestamp": "2024-12-03T14:17:42.658401Z",
+    "image_width": 1082,
+    "image_height": 727
+}

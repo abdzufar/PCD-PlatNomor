@@ -1,0 +1,101 @@
+{
+    "processing_time": 56.618,
+    "results": [
+        {
+            "box": {
+                "xmin": 227,
+                "ymin": 519,
+                "xmax": 369,
+                "ymax": 559
+            },
+            "plate": "gt1581",
+            "region": {
+                "code": "cn",
+                "score": 0.847
+            },
+            "score": 0.999,
+            "candidates": [
+                {
+                    "score": 0.999,
+                    "plate": "gt1581"
+                },
+                {
+                    "score": 0.84,
+                    "plate": "gt158i"
+                },
+                {
+                    "score": 0.84,
+                    "plate": "gt15b1"
+                },
+                {
+                    "score": 0.84,
+                    "plate": "gti581"
+                },
+                {
+                    "score": 0.682,
+                    "plate": "gt15bi"
+                },
+                {
+                    "score": 0.682,
+                    "plate": "gti58i"
+                },
+                {
+                    "score": 0.682,
+                    "plate": "gti5b1"
+                },
+                {
+                    "score": 0.524,
+                    "plate": "gti5bi"
+                }
+            ],
+            "dscore": 0.802,
+            "vehicle": {
+                "score": 0.668,
+                "type": "Sedan",
+                "box": {
+                    "xmin": 2,
+                    "ymin": 6,
+                    "xmax": 574,
+                    "ymax": 612
+                }
+            }
+        },
+        {
+            "box": {
+                "xmin": 194,
+                "ymin": 8,
+                "xmax": 371,
+                "ymax": 51
+            },
+            "plate": "ax161",
+            "region": {
+                "code": "ru",
+                "score": 0.01
+            },
+            "score": 0.385,
+            "candidates": [
+                {
+                    "score": 0.385,
+                    "plate": "ax161"
+                }
+            ],
+            "dscore": 0.031,
+            "vehicle": {
+                "score": 0.0,
+                "type": "Unknown",
+                "box": {
+                    "xmin": 0,
+                    "ymin": 0,
+                    "xmax": 0,
+                    "ymax": 0
+                }
+            }
+        }
+    ],
+    "filename": "1403_7XUhJ_G1_414.jpg",
+    "version": 1,
+    "camera_id": null,
+    "timestamp": "2024-12-03T14:03:19.522700Z",
+    "image_width": 1082,
+    "image_height": 727
+}

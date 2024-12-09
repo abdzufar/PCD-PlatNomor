@@ -1,0 +1,109 @@
+{
+    "processing_time": 87.594,
+    "results": [
+        {
+            "box": {
+                "xmin": 394,
+                "ymin": 518,
+                "xmax": 542,
+                "ymax": 558
+            },
+            "plate": "gt9576",
+            "region": {
+                "code": "cn",
+                "score": 0.762
+            },
+            "score": 0.999,
+            "candidates": [
+                {
+                    "score": 0.999,
+                    "plate": "gt9576"
+                }
+            ],
+            "dscore": 0.819,
+            "vehicle": {
+                "score": 0.529,
+                "type": "Van",
+                "box": {
+                    "xmin": 151,
+                    "ymin": 5,
+                    "xmax": 745,
+                    "ymax": 594
+                }
+            }
+        },
+        {
+            "box": {
+                "xmin": 341,
+                "ymin": 0,
+                "xmax": 525,
+                "ymax": 46
+            },
+            "plate": "taxi",
+            "region": {
+                "code": "us-ut",
+                "score": 0.009
+            },
+            "score": 0.976,
+            "candidates": [
+                {
+                    "score": 0.976,
+                    "plate": "taxi"
+                },
+                {
+                    "score": 0.814,
+                    "plate": "taxi1"
+                },
+                {
+                    "score": 0.802,
+                    "plate": "taxi2"
+                },
+                {
+                    "score": 0.793,
+                    "plate": "taxi8"
+                },
+                {
+                    "score": 0.791,
+                    "plate": "taxig"
+                },
+                {
+                    "score": 0.791,
+                    "plate": "taxii"
+                },
+                {
+                    "score": 0.791,
+                    "plate": "taxib"
+                },
+                {
+                    "score": 0.763,
+                    "plate": "tax1"
+                },
+                {
+                    "score": 0.696,
+                    "plate": "taxi12"
+                },
+                {
+                    "score": 0.688,
+                    "plate": "taxi81"
+                }
+            ],
+            "dscore": 0.33,
+            "vehicle": {
+                "score": 0.0,
+                "type": "Unknown",
+                "box": {
+                    "xmin": 0,
+                    "ymin": 0,
+                    "xmax": 0,
+                    "ymax": 0
+                }
+            }
+        }
+    ],
+    "filename": "1350_bdqt0_G1_134.jpg",
+    "version": 1,
+    "camera_id": null,
+    "timestamp": "2024-12-03T13:50:00.838103Z",
+    "image_width": 1082,
+    "image_height": 727
+}

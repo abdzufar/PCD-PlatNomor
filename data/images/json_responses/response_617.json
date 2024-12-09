@@ -1,0 +1,54 @@
+{
+    "processing_time": 46.98,
+    "results": [
+        {
+            "box": {
+                "xmin": 299,
+                "ymin": 536,
+                "xmax": 445,
+                "ymax": 578
+            },
+            "plate": "g98139",
+            "region": {
+                "code": "cn",
+                "score": 0.862
+            },
+            "score": 0.999,
+            "candidates": [
+                {
+                    "score": 0.999,
+                    "plate": "g98139"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "g98i39"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "g9b139"
+                },
+                {
+                    "score": 0.683,
+                    "plate": "g9bi39"
+                }
+            ],
+            "dscore": 0.846,
+            "vehicle": {
+                "score": 0.706,
+                "type": "Sedan",
+                "box": {
+                    "xmin": 36,
+                    "ymin": 0,
+                    "xmax": 658,
+                    "ymax": 613
+                }
+            }
+        }
+    ],
+    "filename": "1413_pJlxq_G1_617.jpg",
+    "version": 1,
+    "camera_id": null,
+    "timestamp": "2024-12-03T14:13:13.510110Z",
+    "image_width": 1082,
+    "image_height": 727
+}

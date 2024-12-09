@@ -1,0 +1,78 @@
+{
+    "processing_time": 209.92,
+    "results": [
+        {
+            "box": {
+                "xmin": 368,
+                "ymin": 602,
+                "xmax": 541,
+                "ymax": 652
+            },
+            "plate": "go110",
+            "region": {
+                "code": "cn",
+                "score": 0.331
+            },
+            "score": 0.796,
+            "candidates": [
+                {
+                    "score": 0.796,
+                    "plate": "go110"
+                },
+                {
+                    "score": 0.757,
+                    "plate": "g0110"
+                },
+                {
+                    "score": 0.737,
+                    "plate": "6o110"
+                },
+                {
+                    "score": 0.698,
+                    "plate": "60110"
+                },
+                {
+                    "score": 0.602,
+                    "plate": "g011o"
+                },
+                {
+                    "score": 0.586,
+                    "plate": "g01i0"
+                },
+                {
+                    "score": 0.586,
+                    "plate": "g0i10"
+                },
+                {
+                    "score": 0.583,
+                    "plate": "6o11o"
+                },
+                {
+                    "score": 0.567,
+                    "plate": "6oi10"
+                },
+                {
+                    "score": 0.543,
+                    "plate": "6011o"
+                }
+            ],
+            "dscore": 0.846,
+            "vehicle": {
+                "score": 0.831,
+                "type": "Sedan",
+                "box": {
+                    "xmin": 57,
+                    "ymin": 29,
+                    "xmax": 766,
+                    "ymax": 725
+                }
+            }
+        }
+    ],
+    "filename": "1422_1lfaD_G1_807.jpg",
+    "version": 1,
+    "camera_id": null,
+    "timestamp": "2024-12-03T14:22:47.335043Z",
+    "image_width": 1082,
+    "image_height": 727
+}

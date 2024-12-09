@@ -1,0 +1,54 @@
+{
+    "processing_time": 102.444,
+    "results": [
+        {
+            "box": {
+                "xmin": 649,
+                "ymin": 588,
+                "xmax": 798,
+                "ymax": 634
+            },
+            "plate": "g90157",
+            "region": {
+                "code": "cn",
+                "score": 0.917
+            },
+            "score": 0.999,
+            "candidates": [
+                {
+                    "score": 0.999,
+                    "plate": "g90157"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "g90i57"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "g9o157"
+                },
+                {
+                    "score": 0.683,
+                    "plate": "g9oi57"
+                }
+            ],
+            "dscore": 0.863,
+            "vehicle": {
+                "score": 0.953,
+                "type": "Van",
+                "box": {
+                    "xmin": 408,
+                    "ymin": 0,
+                    "xmax": 1005,
+                    "ymax": 672
+                }
+            }
+        }
+    ],
+    "filename": "1410_uomvz_G1_566.jpg",
+    "version": 1,
+    "camera_id": null,
+    "timestamp": "2024-12-03T14:10:43.088206Z",
+    "image_width": 1082,
+    "image_height": 727
+}

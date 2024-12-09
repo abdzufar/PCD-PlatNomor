@@ -1,0 +1,46 @@
+{
+    "processing_time": 201.441,
+    "results": [
+        {
+            "box": {
+                "xmin": 281,
+                "ymin": 238,
+                "xmax": 428,
+                "ymax": 282
+            },
+            "plate": "gt2250",
+            "region": {
+                "code": "cn",
+                "score": 0.864
+            },
+            "score": 1.0,
+            "candidates": [
+                {
+                    "score": 1.0,
+                    "plate": "gt2250"
+                },
+                {
+                    "score": 0.842,
+                    "plate": "gt225o"
+                }
+            ],
+            "dscore": 0.827,
+            "vehicle": {
+                "score": 0.893,
+                "type": "Sedan",
+                "box": {
+                    "xmin": 24,
+                    "ymin": 0,
+                    "xmax": 639,
+                    "ymax": 351
+                }
+            }
+        }
+    ],
+    "filename": "1350_iEodC_G1_145.jpg",
+    "version": 1,
+    "camera_id": null,
+    "timestamp": "2024-12-03T13:50:36.300387Z",
+    "image_width": 1082,
+    "image_height": 727
+}

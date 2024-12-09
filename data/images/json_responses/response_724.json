@@ -1,0 +1,54 @@
+{
+    "processing_time": 64.488,
+    "results": [
+        {
+            "box": {
+                "xmin": 431,
+                "ymin": 590,
+                "xmax": 601,
+                "ymax": 640
+            },
+            "plate": "gqq028",
+            "region": {
+                "code": "cn",
+                "score": 0.741
+            },
+            "score": 0.987,
+            "candidates": [
+                {
+                    "score": 0.987,
+                    "plate": "gqq028"
+                },
+                {
+                    "score": 0.831,
+                    "plate": "gqqo28"
+                },
+                {
+                    "score": 0.829,
+                    "plate": "gqq02b"
+                },
+                {
+                    "score": 0.673,
+                    "plate": "gqqo2b"
+                }
+            ],
+            "dscore": 0.83,
+            "vehicle": {
+                "score": 0.897,
+                "type": "Sedan",
+                "box": {
+                    "xmin": 81,
+                    "ymin": 13,
+                    "xmax": 851,
+                    "ymax": 717
+                }
+            }
+        }
+    ],
+    "filename": "1418_UxbqL_G1_724.jpg",
+    "version": 1,
+    "camera_id": null,
+    "timestamp": "2024-12-03T14:18:30.960156Z",
+    "image_width": 1082,
+    "image_height": 727
+}

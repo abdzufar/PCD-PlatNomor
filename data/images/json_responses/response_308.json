@@ -1,0 +1,46 @@
+{
+    "processing_time": 51.912,
+    "results": [
+        {
+            "box": {
+                "xmin": 14,
+                "ymin": 587,
+                "xmax": 186,
+                "ymax": 642
+            },
+            "plate": "gt9313",
+            "region": {
+                "code": "cn",
+                "score": 0.395
+            },
+            "score": 0.999,
+            "candidates": [
+                {
+                    "score": 0.999,
+                    "plate": "gt9313"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "gt93i3"
+                }
+            ],
+            "dscore": 0.857,
+            "vehicle": {
+                "score": 0.682,
+                "type": "Sedan",
+                "box": {
+                    "xmin": 0,
+                    "ymin": 54,
+                    "xmax": 428,
+                    "ymax": 726
+                }
+            }
+        }
+    ],
+    "filename": "1358_oDb96_G1_308.jpg",
+    "version": 1,
+    "camera_id": null,
+    "timestamp": "2024-12-03T13:58:15.077508Z",
+    "image_width": 1082,
+    "image_height": 727
+}

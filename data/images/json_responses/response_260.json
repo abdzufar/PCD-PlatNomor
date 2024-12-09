@@ -1,0 +1,113 @@
+{
+    "processing_time": 64.723,
+    "results": [
+        {
+            "box": {
+                "xmin": 408,
+                "ymin": 586,
+                "xmax": 580,
+                "ymax": 643
+            },
+            "plate": "gt2167",
+            "region": {
+                "code": "cn",
+                "score": 0.846
+            },
+            "score": 1.0,
+            "candidates": [
+                {
+                    "score": 1.0,
+                    "plate": "gt2167"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "gt2i67"
+                }
+            ],
+            "dscore": 0.863,
+            "vehicle": {
+                "score": 0.9,
+                "type": "Sedan",
+                "box": {
+                    "xmin": 116,
+                    "ymin": 40,
+                    "xmax": 799,
+                    "ymax": 726
+                }
+            }
+        },
+        {
+            "box": {
+                "xmin": 339,
+                "ymin": 34,
+                "xmax": 553,
+                "ymax": 84
+            },
+            "plate": "taxibe",
+            "region": {
+                "code": "ru",
+                "score": 0.08
+            },
+            "score": 0.722,
+            "candidates": [
+                {
+                    "score": 0.722,
+                    "plate": "taxibe"
+                },
+                {
+                    "score": 0.691,
+                    "plate": "taxide"
+                },
+                {
+                    "score": 0.686,
+                    "plate": "taxi4be"
+                },
+                {
+                    "score": 0.678,
+                    "plate": "taxib"
+                },
+                {
+                    "score": 0.675,
+                    "plate": "taxi8e"
+                },
+                {
+                    "score": 0.655,
+                    "plate": "taxi4de"
+                },
+                {
+                    "score": 0.648,
+                    "plate": "taxid"
+                },
+                {
+                    "score": 0.643,
+                    "plate": "taxi8be"
+                },
+                {
+                    "score": 0.642,
+                    "plate": "taxi4b"
+                },
+                {
+                    "score": 0.639,
+                    "plate": "taxi48e"
+                }
+            ],
+            "dscore": 0.017,
+            "vehicle": {
+                "score": 0.0,
+                "type": "Unknown",
+                "box": {
+                    "xmin": 0,
+                    "ymin": 0,
+                    "xmax": 0,
+                    "ymax": 0
+                }
+            }
+        }
+    ],
+    "filename": "1355_AW6jY_G1_260.jpg",
+    "version": 1,
+    "camera_id": null,
+    "timestamp": "2024-12-03T13:55:52.830677Z",
+    "image_width": 1082,
+    "image_height": 727
+}

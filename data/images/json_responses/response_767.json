@@ -1,0 +1,54 @@
+{
+    "processing_time": 107.743,
+    "results": [
+        {
+            "box": {
+                "xmin": 475,
+                "ymin": 596,
+                "xmax": 645,
+                "ymax": 648
+            },
+            "plate": "g02032",
+            "region": {
+                "code": "cn",
+                "score": 0.642
+            },
+            "score": 1.0,
+            "candidates": [
+                {
+                    "score": 1.0,
+                    "plate": "g02032"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "g02o32"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "go2032"
+                },
+                {
+                    "score": 0.683,
+                    "plate": "go2o32"
+                }
+            ],
+            "dscore": 0.824,
+            "vehicle": {
+                "score": 0.892,
+                "type": "Sedan",
+                "box": {
+                    "xmin": 135,
+                    "ymin": 31,
+                    "xmax": 894,
+                    "ymax": 722
+                }
+            }
+        }
+    ],
+    "filename": "1420_wrrZe_G1_767.jpg",
+    "version": 1,
+    "camera_id": null,
+    "timestamp": "2024-12-03T14:20:47.415159Z",
+    "image_width": 1082,
+    "image_height": 727
+}

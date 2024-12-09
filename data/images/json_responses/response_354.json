@@ -1,0 +1,70 @@
+{
+    "processing_time": 76.929,
+    "results": [
+        {
+            "box": {
+                "xmin": 446,
+                "ymin": 525,
+                "xmax": 588,
+                "ymax": 561
+            },
+            "plate": "gt1610",
+            "region": {
+                "code": "cn",
+                "score": 0.681
+            },
+            "score": 0.998,
+            "candidates": [
+                {
+                    "score": 0.998,
+                    "plate": "gt1610"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "gti610"
+                },
+                {
+                    "score": 0.84,
+                    "plate": "gt161o"
+                },
+                {
+                    "score": 0.84,
+                    "plate": "gt16i0"
+                },
+                {
+                    "score": 0.683,
+                    "plate": "gti61o"
+                },
+                {
+                    "score": 0.683,
+                    "plate": "gti6i0"
+                },
+                {
+                    "score": 0.682,
+                    "plate": "gt16io"
+                },
+                {
+                    "score": 0.525,
+                    "plate": "gti6io"
+                }
+            ],
+            "dscore": 0.798,
+            "vehicle": {
+                "score": 0.534,
+                "type": "Van",
+                "box": {
+                    "xmin": 200,
+                    "ymin": 16,
+                    "xmax": 800,
+                    "ymax": 608
+                }
+            }
+        }
+    ],
+    "filename": "1400_EfJu6_G1_354.jpg",
+    "version": 1,
+    "camera_id": null,
+    "timestamp": "2024-12-03T14:00:16.830686Z",
+    "image_width": 1082,
+    "image_height": 727
+}

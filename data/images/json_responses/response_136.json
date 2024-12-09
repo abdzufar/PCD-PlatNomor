@@ -1,0 +1,46 @@
+{
+    "processing_time": 51.786,
+    "results": [
+        {
+            "box": {
+                "xmin": 132,
+                "ymin": 520,
+                "xmax": 302,
+                "ymax": 569
+            },
+            "plate": "g06742",
+            "region": {
+                "code": "cn",
+                "score": 0.67
+            },
+            "score": 0.999,
+            "candidates": [
+                {
+                    "score": 0.999,
+                    "plate": "g06742"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "go6742"
+                }
+            ],
+            "dscore": 0.835,
+            "vehicle": {
+                "score": 0.593,
+                "type": "Sedan",
+                "box": {
+                    "xmin": 1,
+                    "ymin": 21,
+                    "xmax": 584,
+                    "ymax": 706
+                }
+            }
+        }
+    ],
+    "filename": "1350_zCTe0_G1_136.jpg",
+    "version": 1,
+    "camera_id": null,
+    "timestamp": "2024-12-03T13:50:09.340604Z",
+    "image_width": 1082,
+    "image_height": 727
+}

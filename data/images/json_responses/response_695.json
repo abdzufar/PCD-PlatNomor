@@ -1,0 +1,78 @@
+{
+    "processing_time": 32.948,
+    "results": [
+        {
+            "box": {
+                "xmin": 457,
+                "ymin": 593,
+                "xmax": 626,
+                "ymax": 646
+            },
+            "plate": "0r60031",
+            "region": {
+                "code": "cn",
+                "score": 0.754
+            },
+            "score": 0.847,
+            "candidates": [
+                {
+                    "score": 0.847,
+                    "plate": "0r60031"
+                },
+                {
+                    "score": 0.802,
+                    "plate": "060031"
+                },
+                {
+                    "score": 0.785,
+                    "plate": "0rg0031"
+                },
+                {
+                    "score": 0.754,
+                    "plate": "00r60031"
+                },
+                {
+                    "score": 0.74,
+                    "plate": "0g0031"
+                },
+                {
+                    "score": 0.736,
+                    "plate": "8r60031"
+                },
+                {
+                    "score": 0.734,
+                    "plate": "or60031"
+                },
+                {
+                    "score": 0.734,
+                    "plate": "br60031"
+                },
+                {
+                    "score": 0.721,
+                    "plate": "0r6003i"
+                },
+                {
+                    "score": 0.717,
+                    "plate": "0r6o031"
+                }
+            ],
+            "dscore": 0.857,
+            "vehicle": {
+                "score": 0.555,
+                "type": "Sedan",
+                "box": {
+                    "xmin": 132,
+                    "ymin": 0,
+                    "xmax": 847,
+                    "ymax": 721
+                }
+            }
+        }
+    ],
+    "filename": "1417_zTrWq_G1_695.jpg",
+    "version": 1,
+    "camera_id": null,
+    "timestamp": "2024-12-03T14:17:08.526326Z",
+    "image_width": 1082,
+    "image_height": 727
+}

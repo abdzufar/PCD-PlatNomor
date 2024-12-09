@@ -1,0 +1,50 @@
+{
+    "processing_time": 61.682,
+    "results": [
+        {
+            "box": {
+                "xmin": 287,
+                "ymin": 584,
+                "xmax": 456,
+                "ymax": 634
+            },
+            "plate": "gb057",
+            "region": {
+                "code": "cn",
+                "score": 0.242
+            },
+            "score": 0.986,
+            "candidates": [
+                {
+                    "score": 0.986,
+                    "plate": "gb057"
+                },
+                {
+                    "score": 0.796,
+                    "plate": "g8057"
+                },
+                {
+                    "score": 0.621,
+                    "plate": "g8o57"
+                }
+            ],
+            "dscore": 0.836,
+            "vehicle": {
+                "score": 0.806,
+                "type": "Sedan",
+                "box": {
+                    "xmin": 0,
+                    "ymin": 5,
+                    "xmax": 719,
+                    "ymax": 721
+                }
+            }
+        }
+    ],
+    "filename": "1409_I8rdY_G1_533.jpg",
+    "version": 1,
+    "camera_id": null,
+    "timestamp": "2024-12-03T14:09:05.357294Z",
+    "image_width": 1082,
+    "image_height": 727
+}

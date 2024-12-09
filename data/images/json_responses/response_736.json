@@ -1,0 +1,70 @@
+{
+    "processing_time": 140.716,
+    "results": [
+        {
+            "box": {
+                "xmin": 131,
+                "ymin": 570,
+                "xmax": 302,
+                "ymax": 627
+            },
+            "plate": "og9070",
+            "region": {
+                "code": "cn",
+                "score": 0.52
+            },
+            "score": 0.995,
+            "candidates": [
+                {
+                    "score": 0.995,
+                    "plate": "og9070"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "0g9070"
+                },
+                {
+                    "score": 0.837,
+                    "plate": "og907o"
+                },
+                {
+                    "score": 0.837,
+                    "plate": "og9o70"
+                },
+                {
+                    "score": 0.683,
+                    "plate": "0g907o"
+                },
+                {
+                    "score": 0.683,
+                    "plate": "0g9o70"
+                },
+                {
+                    "score": 0.679,
+                    "plate": "og9o7o"
+                },
+                {
+                    "score": 0.525,
+                    "plate": "0g9o7o"
+                }
+            ],
+            "dscore": 0.825,
+            "vehicle": {
+                "score": 0.925,
+                "type": "Sedan",
+                "box": {
+                    "xmin": 0,
+                    "ymin": 6,
+                    "xmax": 563,
+                    "ymax": 719
+                }
+            }
+        }
+    ],
+    "filename": "1419_G6eGG_G1_736.jpg",
+    "version": 1,
+    "camera_id": null,
+    "timestamp": "2024-12-03T14:19:12.047890Z",
+    "image_width": 1082,
+    "image_height": 727
+}

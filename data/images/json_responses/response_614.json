@@ -1,0 +1,46 @@
+{
+    "processing_time": 54.043,
+    "results": [
+        {
+            "box": {
+                "xmin": 280,
+                "ymin": 618,
+                "xmax": 450,
+                "ymax": 670
+            },
+            "plate": "g17225",
+            "region": {
+                "code": "cn",
+                "score": 0.581
+            },
+            "score": 0.998,
+            "candidates": [
+                {
+                    "score": 0.998,
+                    "plate": "g17225"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "gi7225"
+                }
+            ],
+            "dscore": 0.842,
+            "vehicle": {
+                "score": 0.843,
+                "type": "Van",
+                "box": {
+                    "xmin": 26,
+                    "ymin": 0,
+                    "xmax": 700,
+                    "ymax": 710
+                }
+            }
+        }
+    ],
+    "filename": "1413_z3Hgq_G1_614.jpg",
+    "version": 1,
+    "camera_id": null,
+    "timestamp": "2024-12-03T14:13:01.373970Z",
+    "image_width": 1082,
+    "image_height": 727
+}

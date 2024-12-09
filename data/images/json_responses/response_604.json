@@ -1,0 +1,46 @@
+{
+    "processing_time": 48.237,
+    "results": [
+        {
+            "box": {
+                "xmin": 327,
+                "ymin": 583,
+                "xmax": 496,
+                "ymax": 637
+            },
+            "plate": "gt0257",
+            "region": {
+                "code": "cn",
+                "score": 0.865
+            },
+            "score": 1.0,
+            "candidates": [
+                {
+                    "score": 1.0,
+                    "plate": "gt0257"
+                },
+                {
+                    "score": 0.842,
+                    "plate": "gto257"
+                }
+            ],
+            "dscore": 0.831,
+            "vehicle": {
+                "score": 0.865,
+                "type": "Sedan",
+                "box": {
+                    "xmin": 0,
+                    "ymin": 6,
+                    "xmax": 737,
+                    "ymax": 707
+                }
+            }
+        }
+    ],
+    "filename": "1412_v35UG_G1_604.jpg",
+    "version": 1,
+    "camera_id": null,
+    "timestamp": "2024-12-03T14:12:29.212805Z",
+    "image_width": 1082,
+    "image_height": 727
+}

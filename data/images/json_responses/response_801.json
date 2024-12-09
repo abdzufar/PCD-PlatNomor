@@ -1,0 +1,46 @@
+{
+    "processing_time": 23.188,
+    "results": [
+        {
+            "box": {
+                "xmin": 318,
+                "ymin": 588,
+                "xmax": 488,
+                "ymax": 641
+            },
+            "plate": "gcc615",
+            "region": {
+                "code": "cn",
+                "score": 0.863
+            },
+            "score": 1.0,
+            "candidates": [
+                {
+                    "score": 1.0,
+                    "plate": "gcc615"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "gcc6i5"
+                }
+            ],
+            "dscore": 0.877,
+            "vehicle": {
+                "score": 0.825,
+                "type": "Sedan",
+                "box": {
+                    "xmin": 0,
+                    "ymin": 22,
+                    "xmax": 745,
+                    "ymax": 726
+                }
+            }
+        }
+    ],
+    "filename": "1422_MfodC_G1_801.jpg",
+    "version": 1,
+    "camera_id": null,
+    "timestamp": "2024-12-03T14:22:22.573131Z",
+    "image_width": 1082,
+    "image_height": 727
+}

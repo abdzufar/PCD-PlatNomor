@@ -1,0 +1,42 @@
+{
+    "processing_time": 38.181,
+    "results": [
+        {
+            "box": {
+                "xmin": 429,
+                "ymin": 621,
+                "xmax": 597,
+                "ymax": 674
+            },
+            "plate": "g92257",
+            "region": {
+                "code": "cn",
+                "score": 0.868
+            },
+            "score": 1.0,
+            "candidates": [
+                {
+                    "score": 1.0,
+                    "plate": "g92257"
+                }
+            ],
+            "dscore": 0.849,
+            "vehicle": {
+                "score": 0.789,
+                "type": "Van",
+                "box": {
+                    "xmin": 139,
+                    "ymin": 0,
+                    "xmax": 833,
+                    "ymax": 726
+                }
+            }
+        }
+    ],
+    "filename": "1402_G0HPt_G1_406.jpg",
+    "version": 1,
+    "camera_id": null,
+    "timestamp": "2024-12-03T14:02:51.369335Z",
+    "image_width": 1082,
+    "image_height": 727
+}

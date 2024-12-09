@@ -1,0 +1,46 @@
+{
+    "processing_time": 31.986,
+    "results": [
+        {
+            "box": {
+                "xmin": 278,
+                "ymin": 511,
+                "xmax": 426,
+                "ymax": 553
+            },
+            "plate": "gt2125",
+            "region": {
+                "code": "cn",
+                "score": 0.717
+            },
+            "score": 1.0,
+            "candidates": [
+                {
+                    "score": 1.0,
+                    "plate": "gt2125"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "gt2i25"
+                }
+            ],
+            "dscore": 0.823,
+            "vehicle": {
+                "score": 0.915,
+                "type": "Sedan",
+                "box": {
+                    "xmin": 41,
+                    "ymin": 10,
+                    "xmax": 661,
+                    "ymax": 613
+                }
+            }
+        }
+    ],
+    "filename": "1344_IUjAg_G1_26.jpg",
+    "version": 1,
+    "camera_id": null,
+    "timestamp": "2024-12-03T13:44:44.885812Z",
+    "image_width": 1082,
+    "image_height": 727
+}

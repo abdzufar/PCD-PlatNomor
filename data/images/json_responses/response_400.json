@@ -1,0 +1,54 @@
+{
+    "processing_time": 140.999,
+    "results": [
+        {
+            "box": {
+                "xmin": 216,
+                "ymin": 619,
+                "xmax": 382,
+                "ymax": 662
+            },
+            "plate": "g01377",
+            "region": {
+                "code": "cn",
+                "score": 0.625
+            },
+            "score": 0.999,
+            "candidates": [
+                {
+                    "score": 0.999,
+                    "plate": "g01377"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "g0i377"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "go1377"
+                },
+                {
+                    "score": 0.683,
+                    "plate": "goi377"
+                }
+            ],
+            "dscore": 0.849,
+            "vehicle": {
+                "score": 0.825,
+                "type": "Sedan",
+                "box": {
+                    "xmin": 2,
+                    "ymin": 34,
+                    "xmax": 634,
+                    "ymax": 726
+                }
+            }
+        }
+    ],
+    "filename": "1402_NotYC_G1_400.jpg",
+    "version": 1,
+    "camera_id": null,
+    "timestamp": "2024-12-03T14:02:32.253312Z",
+    "image_width": 1082,
+    "image_height": 727
+}

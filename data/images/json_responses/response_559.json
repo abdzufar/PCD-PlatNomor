@@ -1,0 +1,46 @@
+{
+    "processing_time": 31.392,
+    "results": [
+        {
+            "box": {
+                "xmin": 189,
+                "ymin": 597,
+                "xmax": 365,
+                "ymax": 656
+            },
+            "plate": "aml719",
+            "region": {
+                "code": "cn",
+                "score": 0.609
+            },
+            "score": 1.0,
+            "candidates": [
+                {
+                    "score": 1.0,
+                    "plate": "aml719"
+                },
+                {
+                    "score": 0.842,
+                    "plate": "aml7i9"
+                }
+            ],
+            "dscore": 0.808,
+            "vehicle": {
+                "score": 0.825,
+                "type": "Sedan",
+                "box": {
+                    "xmin": 0,
+                    "ymin": 41,
+                    "xmax": 601,
+                    "ymax": 719
+                }
+            }
+        }
+    ],
+    "filename": "1410_pgzeX_G1_559.jpg",
+    "version": 1,
+    "camera_id": null,
+    "timestamp": "2024-12-03T14:10:24.764393Z",
+    "image_width": 1082,
+    "image_height": 727
+}

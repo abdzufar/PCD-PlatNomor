@@ -1,0 +1,54 @@
+{
+    "processing_time": 97.618,
+    "results": [
+        {
+            "box": {
+                "xmin": 471,
+                "ymin": 530,
+                "xmax": 647,
+                "ymax": 585
+            },
+            "plate": "g27120",
+            "region": {
+                "code": "cn",
+                "score": 0.812
+            },
+            "score": 1.0,
+            "candidates": [
+                {
+                    "score": 1.0,
+                    "plate": "g27120"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "g2712o"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "g27i20"
+                },
+                {
+                    "score": 0.683,
+                    "plate": "g27i2o"
+                }
+            ],
+            "dscore": 0.848,
+            "vehicle": {
+                "score": 0.767,
+                "type": "Sedan",
+                "box": {
+                    "xmin": 151,
+                    "ymin": 2,
+                    "xmax": 903,
+                    "ymax": 722
+                }
+            }
+        }
+    ],
+    "filename": "1409_kCgwf_G1_532.jpg",
+    "version": 1,
+    "camera_id": null,
+    "timestamp": "2024-12-03T14:09:02.100395Z",
+    "image_width": 1082,
+    "image_height": 727
+}

@@ -1,0 +1,54 @@
+{
+    "processing_time": 62.726,
+    "results": [
+        {
+            "box": {
+                "xmin": 484,
+                "ymin": 588,
+                "xmax": 656,
+                "ymax": 642
+            },
+            "plate": "gt0920",
+            "region": {
+                "code": "cn",
+                "score": 0.859
+            },
+            "score": 0.999,
+            "candidates": [
+                {
+                    "score": 0.999,
+                    "plate": "gt0920"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "gt092o"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "gto920"
+                },
+                {
+                    "score": 0.683,
+                    "plate": "gto92o"
+                }
+            ],
+            "dscore": 0.855,
+            "vehicle": {
+                "score": 0.855,
+                "type": "Sedan",
+                "box": {
+                    "xmin": 190,
+                    "ymin": 37,
+                    "xmax": 876,
+                    "ymax": 719
+                }
+            }
+        }
+    ],
+    "filename": "1358_E3v12_G1_307.jpg",
+    "version": 1,
+    "camera_id": null,
+    "timestamp": "2024-12-03T13:58:13.484546Z",
+    "image_width": 1082,
+    "image_height": 727
+}

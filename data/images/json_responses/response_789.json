@@ -1,0 +1,54 @@
+{
+    "processing_time": 24.05,
+    "results": [
+        {
+            "box": {
+                "xmin": 432,
+                "ymin": 594,
+                "xmax": 600,
+                "ymax": 647
+            },
+            "plate": "g92191",
+            "region": {
+                "code": "cn",
+                "score": 0.863
+            },
+            "score": 1.0,
+            "candidates": [
+                {
+                    "score": 1.0,
+                    "plate": "g92191"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "g9219i"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "g92i91"
+                },
+                {
+                    "score": 0.683,
+                    "plate": "g92i9i"
+                }
+            ],
+            "dscore": 0.832,
+            "vehicle": {
+                "score": 0.855,
+                "type": "Sedan",
+                "box": {
+                    "xmin": 92,
+                    "ymin": 25,
+                    "xmax": 848,
+                    "ymax": 725
+                }
+            }
+        }
+    ],
+    "filename": "1421_j8Jng_G1_789.jpg",
+    "version": 1,
+    "camera_id": null,
+    "timestamp": "2024-12-03T14:21:47.680888Z",
+    "image_width": 1082,
+    "image_height": 727
+}

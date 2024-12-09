@@ -1,0 +1,54 @@
+{
+    "processing_time": 58.113,
+    "results": [
+        {
+            "box": {
+                "xmin": 555,
+                "ymin": 506,
+                "xmax": 702,
+                "ymax": 553
+            },
+            "plate": "gwr518",
+            "region": {
+                "code": "cn",
+                "score": 0.8
+            },
+            "score": 0.999,
+            "candidates": [
+                {
+                    "score": 0.999,
+                    "plate": "gwr518"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "gwr51b"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "gwr5i8"
+                },
+                {
+                    "score": 0.683,
+                    "plate": "gwr5ib"
+                }
+            ],
+            "dscore": 0.786,
+            "vehicle": {
+                "score": 0.885,
+                "type": "Sedan",
+                "box": {
+                    "xmin": 243,
+                    "ymin": 0,
+                    "xmax": 925,
+                    "ymax": 617
+                }
+            }
+        }
+    ],
+    "filename": "1351_okjqm_G1_158.jpg",
+    "version": 1,
+    "camera_id": null,
+    "timestamp": "2024-12-03T13:51:12.048089Z",
+    "image_width": 1082,
+    "image_height": 727
+}

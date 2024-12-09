@@ -1,0 +1,70 @@
+{
+    "processing_time": 27.21,
+    "results": [
+        {
+            "box": {
+                "xmin": 505,
+                "ymin": 593,
+                "xmax": 675,
+                "ymax": 642
+            },
+            "plate": "gt1002",
+            "region": {
+                "code": "cn",
+                "score": 0.842
+            },
+            "score": 0.999,
+            "candidates": [
+                {
+                    "score": 0.999,
+                    "plate": "gt1002"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "gt10o2"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "gt1o02"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "gti002"
+                },
+                {
+                    "score": 0.683,
+                    "plate": "gt1oo2"
+                },
+                {
+                    "score": 0.683,
+                    "plate": "gti0o2"
+                },
+                {
+                    "score": 0.683,
+                    "plate": "gtio02"
+                },
+                {
+                    "score": 0.525,
+                    "plate": "gtioo2"
+                }
+            ],
+            "dscore": 0.865,
+            "vehicle": {
+                "score": 0.931,
+                "type": "Sedan",
+                "box": {
+                    "xmin": 183,
+                    "ymin": 42,
+                    "xmax": 913,
+                    "ymax": 723
+                }
+            }
+        }
+    ],
+    "filename": "1344_jUkn0_G1_20.jpg",
+    "version": 1,
+    "camera_id": null,
+    "timestamp": "2024-12-03T13:44:31.596057Z",
+    "image_width": 1082,
+    "image_height": 727
+}

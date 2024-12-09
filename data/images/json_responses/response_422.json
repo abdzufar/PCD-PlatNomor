@@ -1,0 +1,70 @@
+{
+    "processing_time": 83.171,
+    "results": [
+        {
+            "box": {
+                "xmin": 64,
+                "ymin": 515,
+                "xmax": 208,
+                "ymax": 556
+            },
+            "plate": "g11985",
+            "region": {
+                "code": "cn",
+                "score": 0.57
+            },
+            "score": 0.999,
+            "candidates": [
+                {
+                    "score": 0.999,
+                    "plate": "g11985"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "g119b5"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "g1i985"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "gi1985"
+                },
+                {
+                    "score": 0.683,
+                    "plate": "g1i9b5"
+                },
+                {
+                    "score": 0.683,
+                    "plate": "gi19b5"
+                },
+                {
+                    "score": 0.683,
+                    "plate": "gii985"
+                },
+                {
+                    "score": 0.525,
+                    "plate": "gii9b5"
+                }
+            ],
+            "dscore": 0.797,
+            "vehicle": {
+                "score": 0.463,
+                "type": "Van",
+                "box": {
+                    "xmin": 0,
+                    "ymin": 1,
+                    "xmax": 468,
+                    "ymax": 603
+                }
+            }
+        }
+    ],
+    "filename": "1403_lkpUm_G1_422.jpg",
+    "version": 1,
+    "camera_id": null,
+    "timestamp": "2024-12-03T14:03:42.973469Z",
+    "image_width": 1082,
+    "image_height": 727
+}

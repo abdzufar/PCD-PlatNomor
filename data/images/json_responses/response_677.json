@@ -1,0 +1,42 @@
+{
+    "processing_time": 28.712,
+    "results": [
+        {
+            "box": {
+                "xmin": 568,
+                "ymin": 598,
+                "xmax": 737,
+                "ymax": 652
+            },
+            "plate": "gt9297",
+            "region": {
+                "code": "cn",
+                "score": 0.893
+            },
+            "score": 1.0,
+            "candidates": [
+                {
+                    "score": 1.0,
+                    "plate": "gt9297"
+                }
+            ],
+            "dscore": 0.866,
+            "vehicle": {
+                "score": 0.908,
+                "type": "Sedan",
+                "box": {
+                    "xmin": 228,
+                    "ymin": 38,
+                    "xmax": 944,
+                    "ymax": 726
+                }
+            }
+        }
+    ],
+    "filename": "1416_QdLHf_G1_677.jpg",
+    "version": 1,
+    "camera_id": null,
+    "timestamp": "2024-12-03T14:16:08.348052Z",
+    "image_width": 1082,
+    "image_height": 727
+}

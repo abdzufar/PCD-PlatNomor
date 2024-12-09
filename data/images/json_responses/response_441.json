@@ -1,0 +1,54 @@
+{
+    "processing_time": 49.667,
+    "results": [
+        {
+            "box": {
+                "xmin": 272,
+                "ymin": 627,
+                "xmax": 442,
+                "ymax": 675
+            },
+            "plate": "g12857",
+            "region": {
+                "code": "cn",
+                "score": 0.602
+            },
+            "score": 0.999,
+            "candidates": [
+                {
+                    "score": 0.999,
+                    "plate": "g12857"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "gi2857"
+                },
+                {
+                    "score": 0.84,
+                    "plate": "g12b57"
+                },
+                {
+                    "score": 0.683,
+                    "plate": "gi2b57"
+                }
+            ],
+            "dscore": 0.831,
+            "vehicle": {
+                "score": 0.832,
+                "type": "Van",
+                "box": {
+                    "xmin": 1,
+                    "ymin": 5,
+                    "xmax": 697,
+                    "ymax": 726
+                }
+            }
+        }
+    ],
+    "filename": "1404_cOAG0_G1_441.jpg",
+    "version": 1,
+    "camera_id": null,
+    "timestamp": "2024-12-03T14:04:36.931388Z",
+    "image_width": 1082,
+    "image_height": 727
+}

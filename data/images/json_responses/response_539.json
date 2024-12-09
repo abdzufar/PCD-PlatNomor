@@ -1,0 +1,54 @@
+{
+    "processing_time": 49.078,
+    "results": [
+        {
+            "box": {
+                "xmin": 221,
+                "ymin": 580,
+                "xmax": 395,
+                "ymax": 633
+            },
+            "plate": "bph165",
+            "region": {
+                "code": "cn",
+                "score": 0.52
+            },
+            "score": 0.999,
+            "candidates": [
+                {
+                    "score": 0.999,
+                    "plate": "bph165"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "bphi65"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "8ph165"
+                },
+                {
+                    "score": 0.683,
+                    "plate": "8phi65"
+                }
+            ],
+            "dscore": 0.826,
+            "vehicle": {
+                "score": 0.925,
+                "type": "Sedan",
+                "box": {
+                    "xmin": 1,
+                    "ymin": 19,
+                    "xmax": 656,
+                    "ymax": 723
+                }
+            }
+        }
+    ],
+    "filename": "1409_s4yFv_G1_539.jpg",
+    "version": 1,
+    "camera_id": null,
+    "timestamp": "2024-12-03T14:09:27.444219Z",
+    "image_width": 1082,
+    "image_height": 727
+}

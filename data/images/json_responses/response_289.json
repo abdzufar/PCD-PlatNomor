@@ -1,0 +1,78 @@
+{
+    "processing_time": 56.173,
+    "results": [
+        {
+            "box": {
+                "xmin": 367,
+                "ymin": 486,
+                "xmax": 517,
+                "ymax": 532
+            },
+            "plate": "g00381",
+            "region": {
+                "code": "cn",
+                "score": 0.905
+            },
+            "score": 0.992,
+            "candidates": [
+                {
+                    "score": 0.992,
+                    "plate": "g00381"
+                },
+                {
+                    "score": 0.839,
+                    "plate": "g0o381"
+                },
+                {
+                    "score": 0.835,
+                    "plate": "go0381"
+                },
+                {
+                    "score": 0.834,
+                    "plate": "g0038i"
+                },
+                {
+                    "score": 0.833,
+                    "plate": "g003b1"
+                },
+                {
+                    "score": 0.682,
+                    "plate": "g0o38i"
+                },
+                {
+                    "score": 0.682,
+                    "plate": "goo381"
+                },
+                {
+                    "score": 0.681,
+                    "plate": "g0o3b1"
+                },
+                {
+                    "score": 0.677,
+                    "plate": "go038i"
+                },
+                {
+                    "score": 0.676,
+                    "plate": "g003bi"
+                }
+            ],
+            "dscore": 0.841,
+            "vehicle": {
+                "score": 0.869,
+                "type": "Van",
+                "box": {
+                    "xmin": 43,
+                    "ymin": 0,
+                    "xmax": 800,
+                    "ymax": 604
+                }
+            }
+        }
+    ],
+    "filename": "1357_Hd7QA_G1_289.jpg",
+    "version": 1,
+    "camera_id": null,
+    "timestamp": "2024-12-03T13:57:12.926605Z",
+    "image_width": 1082,
+    "image_height": 727
+}

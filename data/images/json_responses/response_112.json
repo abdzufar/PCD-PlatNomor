@@ -1,0 +1,70 @@
+{
+    "processing_time": 57.716,
+    "results": [
+        {
+            "box": {
+                "xmin": 400,
+                "ymin": 594,
+                "xmax": 561,
+                "ymax": 636
+            },
+            "plate": "gee888",
+            "region": {
+                "code": "cn",
+                "score": 0.312
+            },
+            "score": 1.0,
+            "candidates": [
+                {
+                    "score": 1.0,
+                    "plate": "gee888"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "gee88b"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "gee8b8"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "geeb88"
+                },
+                {
+                    "score": 0.683,
+                    "plate": "gee8bb"
+                },
+                {
+                    "score": 0.683,
+                    "plate": "geeb8b"
+                },
+                {
+                    "score": 0.683,
+                    "plate": "geebb8"
+                },
+                {
+                    "score": 0.525,
+                    "plate": "geebbb"
+                }
+            ],
+            "dscore": 0.806,
+            "vehicle": {
+                "score": 0.844,
+                "type": "Sedan",
+                "box": {
+                    "xmin": 57,
+                    "ymin": 3,
+                    "xmax": 827,
+                    "ymax": 711
+                }
+            }
+        }
+    ],
+    "filename": "1348_yQ0vN_G1_112.jpg",
+    "version": 1,
+    "camera_id": null,
+    "timestamp": "2024-12-03T13:48:57.337591Z",
+    "image_width": 1082,
+    "image_height": 727
+}

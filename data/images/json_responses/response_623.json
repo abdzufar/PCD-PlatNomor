@@ -1,0 +1,70 @@
+{
+    "processing_time": 23.878,
+    "results": [
+        {
+            "box": {
+                "xmin": 151,
+                "ymin": 596,
+                "xmax": 315,
+                "ymax": 640
+            },
+            "plate": "g00074",
+            "region": {
+                "code": "cn",
+                "score": 0.757
+            },
+            "score": 1.0,
+            "candidates": [
+                {
+                    "score": 1.0,
+                    "plate": "g00074"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "g00o74"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "g0o074"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "go0074"
+                },
+                {
+                    "score": 0.683,
+                    "plate": "g0oo74"
+                },
+                {
+                    "score": 0.683,
+                    "plate": "go0o74"
+                },
+                {
+                    "score": 0.683,
+                    "plate": "goo074"
+                },
+                {
+                    "score": 0.525,
+                    "plate": "gooo74"
+                }
+            ],
+            "dscore": 0.818,
+            "vehicle": {
+                "score": 0.801,
+                "type": "Sedan",
+                "box": {
+                    "xmin": 1,
+                    "ymin": 16,
+                    "xmax": 580,
+                    "ymax": 726
+                }
+            }
+        }
+    ],
+    "filename": "1413_vKglT_G1_623.jpg",
+    "version": 1,
+    "camera_id": null,
+    "timestamp": "2024-12-03T14:13:29.967069Z",
+    "image_width": 1082,
+    "image_height": 727
+}

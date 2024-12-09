@@ -1,0 +1,50 @@
+{
+    "processing_time": 39.905,
+    "results": [
+        {
+            "box": {
+                "xmin": 468,
+                "ymin": 605,
+                "xmax": 636,
+                "ymax": 656
+            },
+            "plate": "go139",
+            "region": {
+                "code": "cn",
+                "score": 0.314
+            },
+            "score": 0.954,
+            "candidates": [
+                {
+                    "score": 0.954,
+                    "plate": "go139"
+                },
+                {
+                    "score": 0.806,
+                    "plate": "g0139"
+                },
+                {
+                    "score": 0.639,
+                    "plate": "g0i39"
+                }
+            ],
+            "dscore": 0.831,
+            "vehicle": {
+                "score": 0.814,
+                "type": "Sedan",
+                "box": {
+                    "xmin": 154,
+                    "ymin": 23,
+                    "xmax": 871,
+                    "ymax": 717
+                }
+            }
+        }
+    ],
+    "filename": "1416_ibnT5_G1_683.jpg",
+    "version": 1,
+    "camera_id": null,
+    "timestamp": "2024-12-03T14:16:30.369157Z",
+    "image_width": 1082,
+    "image_height": 727
+}

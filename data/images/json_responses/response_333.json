@@ -1,0 +1,54 @@
+{
+    "processing_time": 42.288,
+    "results": [
+        {
+            "box": {
+                "xmin": 63,
+                "ymin": 609,
+                "xmax": 236,
+                "ymax": 665
+            },
+            "plate": "gte006",
+            "region": {
+                "code": "cn",
+                "score": 0.849
+            },
+            "score": 0.999,
+            "candidates": [
+                {
+                    "score": 0.999,
+                    "plate": "gte006"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "gte0o6"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "gteo06"
+                },
+                {
+                    "score": 0.683,
+                    "plate": "gteoo6"
+                }
+            ],
+            "dscore": 0.846,
+            "vehicle": {
+                "score": 0.901,
+                "type": "Sedan",
+                "box": {
+                    "xmin": 0,
+                    "ymin": 25,
+                    "xmax": 513,
+                    "ymax": 725
+                }
+            }
+        }
+    ],
+    "filename": "1359_lWbKl_G1_333.jpg",
+    "version": 1,
+    "camera_id": null,
+    "timestamp": "2024-12-03T13:59:24.272471Z",
+    "image_width": 1082,
+    "image_height": 727
+}

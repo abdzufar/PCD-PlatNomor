@@ -1,0 +1,46 @@
+{
+    "processing_time": 107.845,
+    "results": [
+        {
+            "box": {
+                "xmin": 451,
+                "ymin": 524,
+                "xmax": 589,
+                "ymax": 561
+            },
+            "plate": "gt1975",
+            "region": {
+                "code": "cn",
+                "score": 0.648
+            },
+            "score": 0.999,
+            "candidates": [
+                {
+                    "score": 0.999,
+                    "plate": "gt1975"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "gti975"
+                }
+            ],
+            "dscore": 0.849,
+            "vehicle": {
+                "score": 0.684,
+                "type": "Sedan",
+                "box": {
+                    "xmin": 216,
+                    "ymin": 15,
+                    "xmax": 791,
+                    "ymax": 614
+                }
+            }
+        }
+    ],
+    "filename": "1415_teciJ_G1_659.jpg",
+    "version": 1,
+    "camera_id": null,
+    "timestamp": "2024-12-03T14:15:15.695679Z",
+    "image_width": 1082,
+    "image_height": 727
+}

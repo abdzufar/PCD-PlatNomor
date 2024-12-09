@@ -1,0 +1,46 @@
+{
+    "processing_time": 29.873,
+    "results": [
+        {
+            "box": {
+                "xmin": 493,
+                "ymin": 524,
+                "xmax": 641,
+                "ymax": 569
+            },
+            "plate": "gt9029",
+            "region": {
+                "code": "cn",
+                "score": 0.882
+            },
+            "score": 1.0,
+            "candidates": [
+                {
+                    "score": 1.0,
+                    "plate": "gt9029"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "gt9o29"
+                }
+            ],
+            "dscore": 0.841,
+            "vehicle": {
+                "score": 0.589,
+                "type": "Sedan",
+                "box": {
+                    "xmin": 250,
+                    "ymin": 17,
+                    "xmax": 835,
+                    "ymax": 623
+                }
+            }
+        }
+    ],
+    "filename": "1420_86bW4_G1_754.jpg",
+    "version": 1,
+    "camera_id": null,
+    "timestamp": "2024-12-03T14:20:11.040090Z",
+    "image_width": 1082,
+    "image_height": 727
+}

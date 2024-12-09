@@ -1,0 +1,78 @@
+{
+    "processing_time": 67.472,
+    "results": [
+        {
+            "box": {
+                "xmin": 432,
+                "ymin": 532,
+                "xmax": 584,
+                "ymax": 575
+            },
+            "plate": "0g0238",
+            "region": {
+                "code": "cn",
+                "score": 0.457
+            },
+            "score": 0.884,
+            "candidates": [
+                {
+                    "score": 0.884,
+                    "plate": "0g0238"
+                },
+                {
+                    "score": 0.855,
+                    "plate": "00g0238"
+                },
+                {
+                    "score": 0.842,
+                    "plate": "80g0238"
+                },
+                {
+                    "score": 0.808,
+                    "plate": "og0238"
+                },
+                {
+                    "score": 0.79,
+                    "plate": "o0g0238"
+                },
+                {
+                    "score": 0.79,
+                    "plate": "b0g0238"
+                },
+                {
+                    "score": 0.787,
+                    "plate": "000g0238"
+                },
+                {
+                    "score": 0.775,
+                    "plate": "080g0238"
+                },
+                {
+                    "score": 0.773,
+                    "plate": "8g0238"
+                },
+                {
+                    "score": 0.765,
+                    "plate": "0og0238"
+                }
+            ],
+            "dscore": 0.829,
+            "vehicle": {
+                "score": 0.871,
+                "type": "Sedan",
+                "box": {
+                    "xmin": 183,
+                    "ymin": 11,
+                    "xmax": 795,
+                    "ymax": 614
+                }
+            }
+        }
+    ],
+    "filename": "1350_gGCLe_G1_138.jpg",
+    "version": 1,
+    "camera_id": null,
+    "timestamp": "2024-12-03T13:50:14.017797Z",
+    "image_width": 1082,
+    "image_height": 727
+}

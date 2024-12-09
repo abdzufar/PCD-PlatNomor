@@ -1,0 +1,54 @@
+{
+    "processing_time": 202.129,
+    "results": [
+        {
+            "box": {
+                "xmin": 213,
+                "ymin": 582,
+                "xmax": 385,
+                "ymax": 637
+            },
+            "plate": "gt2107",
+            "region": {
+                "code": "cn",
+                "score": 0.871
+            },
+            "score": 1.0,
+            "candidates": [
+                {
+                    "score": 1.0,
+                    "plate": "gt2107"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "gt21o7"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "gt2i07"
+                },
+                {
+                    "score": 0.683,
+                    "plate": "gt2io7"
+                }
+            ],
+            "dscore": 0.862,
+            "vehicle": {
+                "score": 0.845,
+                "type": "Sedan",
+                "box": {
+                    "xmin": 0,
+                    "ymin": 48,
+                    "xmax": 606,
+                    "ymax": 723
+                }
+            }
+        }
+    ],
+    "filename": "1356_xZ6kB_G1_268.jpg",
+    "version": 1,
+    "camera_id": null,
+    "timestamp": "2024-12-03T13:56:14.773843Z",
+    "image_width": 1082,
+    "image_height": 727
+}

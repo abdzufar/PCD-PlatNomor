@@ -1,0 +1,46 @@
+{
+    "processing_time": 18.487,
+    "results": [
+        {
+            "box": {
+                "xmin": 552,
+                "ymin": 590,
+                "xmax": 722,
+                "ymax": 645
+            },
+            "plate": "gfk321",
+            "region": {
+                "code": "cn",
+                "score": 0.712
+            },
+            "score": 0.999,
+            "candidates": [
+                {
+                    "score": 0.999,
+                    "plate": "gfk321"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "gfk32i"
+                }
+            ],
+            "dscore": 0.841,
+            "vehicle": {
+                "score": 0.89,
+                "type": "Sedan",
+                "box": {
+                    "xmin": 220,
+                    "ymin": 31,
+                    "xmax": 938,
+                    "ymax": 718
+                }
+            }
+        }
+    ],
+    "filename": "1417_mDhSt_G1_698.jpg",
+    "version": 1,
+    "camera_id": null,
+    "timestamp": "2024-12-03T14:17:20.273941Z",
+    "image_width": 1082,
+    "image_height": 727
+}

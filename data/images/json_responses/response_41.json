@@ -1,0 +1,46 @@
+{
+    "processing_time": 73.533,
+    "results": [
+        {
+            "box": {
+                "xmin": 241,
+                "ymin": 470,
+                "xmax": 391,
+                "ymax": 514
+            },
+            "plate": "g06746",
+            "region": {
+                "code": "cn",
+                "score": 0.61
+            },
+            "score": 1.0,
+            "candidates": [
+                {
+                    "score": 1.0,
+                    "plate": "g06746"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "go6746"
+                }
+            ],
+            "dscore": 0.809,
+            "vehicle": {
+                "score": 0.725,
+                "type": "Van",
+                "box": {
+                    "xmin": 14,
+                    "ymin": 0,
+                    "xmax": 626,
+                    "ymax": 596
+                }
+            }
+        }
+    ],
+    "filename": "1345_QUx56_G1_41.jpg",
+    "version": 1,
+    "camera_id": null,
+    "timestamp": "2024-12-03T13:45:27.976980Z",
+    "image_width": 1082,
+    "image_height": 727
+}

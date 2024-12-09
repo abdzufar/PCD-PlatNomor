@@ -1,0 +1,70 @@
+{
+    "processing_time": 33.734,
+    "results": [
+        {
+            "box": {
+                "xmin": 304,
+                "ymin": 611,
+                "xmax": 471,
+                "ymax": 663
+            },
+            "plate": "g00571",
+            "region": {
+                "code": "cn",
+                "score": 0.826
+            },
+            "score": 0.999,
+            "candidates": [
+                {
+                    "score": 0.999,
+                    "plate": "g00571"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "g0057i"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "go0571"
+                },
+                {
+                    "score": 0.84,
+                    "plate": "g0o571"
+                },
+                {
+                    "score": 0.683,
+                    "plate": "g0o57i"
+                },
+                {
+                    "score": 0.683,
+                    "plate": "go057i"
+                },
+                {
+                    "score": 0.682,
+                    "plate": "goo571"
+                },
+                {
+                    "score": 0.525,
+                    "plate": "goo57i"
+                }
+            ],
+            "dscore": 0.842,
+            "vehicle": {
+                "score": 0.602,
+                "type": "Van",
+                "box": {
+                    "xmin": 19,
+                    "ymin": 0,
+                    "xmax": 715,
+                    "ymax": 708
+                }
+            }
+        }
+    ],
+    "filename": "1422_a6V16_G1_808.jpg",
+    "version": 1,
+    "camera_id": null,
+    "timestamp": "2024-12-03T14:22:50.094309Z",
+    "image_width": 1082,
+    "image_height": 727
+}

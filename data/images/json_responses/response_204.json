@@ -1,0 +1,70 @@
+{
+    "processing_time": 96.015,
+    "results": [
+        {
+            "box": {
+                "xmin": 381,
+                "ymin": 591,
+                "xmax": 550,
+                "ymax": 639
+            },
+            "plate": "g11319",
+            "region": {
+                "code": "cn",
+                "score": 0.537
+            },
+            "score": 0.999,
+            "candidates": [
+                {
+                    "score": 0.999,
+                    "plate": "g11319"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "g113i9"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "g1i319"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "gi1319"
+                },
+                {
+                    "score": 0.683,
+                    "plate": "gi13i9"
+                },
+                {
+                    "score": 0.683,
+                    "plate": "gii319"
+                },
+                {
+                    "score": 0.682,
+                    "plate": "g1i3i9"
+                },
+                {
+                    "score": 0.525,
+                    "plate": "gii3i9"
+                }
+            ],
+            "dscore": 0.784,
+            "vehicle": {
+                "score": 0.902,
+                "type": "Sedan",
+                "box": {
+                    "xmin": 56,
+                    "ymin": 37,
+                    "xmax": 789,
+                    "ymax": 723
+                }
+            }
+        }
+    ],
+    "filename": "1353_F0tVG_G1_204.jpg",
+    "version": 1,
+    "camera_id": null,
+    "timestamp": "2024-12-03T13:53:15.280050Z",
+    "image_width": 1082,
+    "image_height": 727
+}

@@ -1,0 +1,46 @@
+{
+    "processing_time": 25.259,
+    "results": [
+        {
+            "box": {
+                "xmin": 397,
+                "ymin": 532,
+                "xmax": 546,
+                "ymax": 576
+            },
+            "plate": "ghg826",
+            "region": {
+                "code": "cn",
+                "score": 0.707
+            },
+            "score": 0.999,
+            "candidates": [
+                {
+                    "score": 0.999,
+                    "plate": "ghg826"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "ghgb26"
+                }
+            ],
+            "dscore": 0.811,
+            "vehicle": {
+                "score": 0.878,
+                "type": "Sedan",
+                "box": {
+                    "xmin": 140,
+                    "ymin": 17,
+                    "xmax": 773,
+                    "ymax": 628
+                }
+            }
+        }
+    ],
+    "filename": "1357_v264k_G1_303.jpg",
+    "version": 1,
+    "camera_id": null,
+    "timestamp": "2024-12-03T13:57:58.920703Z",
+    "image_width": 1082,
+    "image_height": 727
+}

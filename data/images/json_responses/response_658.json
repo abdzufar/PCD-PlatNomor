@@ -1,0 +1,46 @@
+{
+    "processing_time": 56.072,
+    "results": [
+        {
+            "box": {
+                "xmin": 180,
+                "ymin": 599,
+                "xmax": 351,
+                "ymax": 648
+            },
+            "plate": "gt0662",
+            "region": {
+                "code": "cn",
+                "score": 0.762
+            },
+            "score": 0.999,
+            "candidates": [
+                {
+                    "score": 0.999,
+                    "plate": "gt0662"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "gto662"
+                }
+            ],
+            "dscore": 0.846,
+            "vehicle": {
+                "score": 0.68,
+                "type": "Sedan",
+                "box": {
+                    "xmin": 0,
+                    "ymin": 55,
+                    "xmax": 584,
+                    "ymax": 726
+                }
+            }
+        }
+    ],
+    "filename": "1415_NIQUj_G1_658.jpg",
+    "version": 1,
+    "camera_id": null,
+    "timestamp": "2024-12-03T14:15:12.116485Z",
+    "image_width": 1082,
+    "image_height": 727
+}

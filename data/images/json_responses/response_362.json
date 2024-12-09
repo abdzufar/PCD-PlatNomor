@@ -1,0 +1,46 @@
+{
+    "processing_time": 92.731,
+    "results": [
+        {
+            "box": {
+                "xmin": 682,
+                "ymin": 555,
+                "xmax": 829,
+                "ymax": 598
+            },
+            "plate": "gt1729",
+            "region": {
+                "code": "cn",
+                "score": 0.741
+            },
+            "score": 0.999,
+            "candidates": [
+                {
+                    "score": 0.999,
+                    "plate": "gt1729"
+                },
+                {
+                    "score": 0.84,
+                    "plate": "gti729"
+                }
+            ],
+            "dscore": 0.854,
+            "vehicle": {
+                "score": 0.916,
+                "type": "Sedan",
+                "box": {
+                    "xmin": 411,
+                    "ymin": 40,
+                    "xmax": 1044,
+                    "ymax": 655
+                }
+            }
+        }
+    ],
+    "filename": "1400_wMWz1_G1_362.jpg",
+    "version": 1,
+    "camera_id": null,
+    "timestamp": "2024-12-03T14:00:38.647604Z",
+    "image_width": 1082,
+    "image_height": 727
+}

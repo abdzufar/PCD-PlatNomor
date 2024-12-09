@@ -1,0 +1,46 @@
+{
+    "processing_time": 122.277,
+    "results": [
+        {
+            "box": {
+                "xmin": 238,
+                "ymin": 616,
+                "xmax": 405,
+                "ymax": 664
+            },
+            "plate": "ga678a",
+            "region": {
+                "code": "cn",
+                "score": 0.753
+            },
+            "score": 0.999,
+            "candidates": [
+                {
+                    "score": 0.999,
+                    "plate": "ga678a"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "ga67ba"
+                }
+            ],
+            "dscore": 0.865,
+            "vehicle": {
+                "score": 0.882,
+                "type": "Sedan",
+                "box": {
+                    "xmin": 1,
+                    "ymin": 16,
+                    "xmax": 666,
+                    "ymax": 721
+                }
+            }
+        }
+    ],
+    "filename": "1346_35PnP_G1_72.jpg",
+    "version": 1,
+    "camera_id": null,
+    "timestamp": "2024-12-03T13:46:57.260660Z",
+    "image_width": 1082,
+    "image_height": 727
+}

@@ -1,0 +1,54 @@
+{
+    "processing_time": 84.118,
+    "results": [
+        {
+            "box": {
+                "xmin": 431,
+                "ymin": 463,
+                "xmax": 578,
+                "ymax": 504
+            },
+            "plate": "gqq058",
+            "region": {
+                "code": "cn",
+                "score": 0.732
+            },
+            "score": 0.997,
+            "candidates": [
+                {
+                    "score": 0.997,
+                    "plate": "gqq058"
+                },
+                {
+                    "score": 0.84,
+                    "plate": "gqqo58"
+                },
+                {
+                    "score": 0.839,
+                    "plate": "gqq05b"
+                },
+                {
+                    "score": 0.681,
+                    "plate": "gqqo5b"
+                }
+            ],
+            "dscore": 0.849,
+            "vehicle": {
+                "score": 0.595,
+                "type": "Sedan",
+                "box": {
+                    "xmin": 209,
+                    "ymin": 0,
+                    "xmax": 789,
+                    "ymax": 625
+                }
+            }
+        }
+    ],
+    "filename": "1408_2w84L_G1_512.jpg",
+    "version": 1,
+    "camera_id": null,
+    "timestamp": "2024-12-03T14:08:08.854114Z",
+    "image_width": 1082,
+    "image_height": 727
+}

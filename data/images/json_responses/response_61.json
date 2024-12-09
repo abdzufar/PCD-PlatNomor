@@ -1,0 +1,70 @@
+{
+    "processing_time": 120.593,
+    "results": [
+        {
+            "box": {
+                "xmin": 316,
+                "ymin": 569,
+                "xmax": 481,
+                "ymax": 614
+            },
+            "plate": "g11930",
+            "region": {
+                "code": "cn",
+                "score": 0.586
+            },
+            "score": 0.998,
+            "candidates": [
+                {
+                    "score": 0.998,
+                    "plate": "g11930"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "gi1930"
+                },
+                {
+                    "score": 0.84,
+                    "plate": "g1193o"
+                },
+                {
+                    "score": 0.839,
+                    "plate": "g1i930"
+                },
+                {
+                    "score": 0.683,
+                    "plate": "gi193o"
+                },
+                {
+                    "score": 0.682,
+                    "plate": "g1i93o"
+                },
+                {
+                    "score": 0.682,
+                    "plate": "gii930"
+                },
+                {
+                    "score": 0.525,
+                    "plate": "gii93o"
+                }
+            ],
+            "dscore": 0.848,
+            "vehicle": {
+                "score": 0.462,
+                "type": "Sedan",
+                "box": {
+                    "xmin": 0,
+                    "ymin": 0,
+                    "xmax": 735,
+                    "ymax": 707
+                }
+            }
+        }
+    ],
+    "filename": "1346_oH2dY_G1_61.jpg",
+    "version": 1,
+    "camera_id": null,
+    "timestamp": "2024-12-03T13:46:23.651044Z",
+    "image_width": 1082,
+    "image_height": 727
+}

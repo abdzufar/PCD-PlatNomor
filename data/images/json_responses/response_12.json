@@ -1,0 +1,46 @@
+{
+    "processing_time": 72.52,
+    "results": [
+        {
+            "box": {
+                "xmin": 806,
+                "ymin": 645,
+                "xmax": 973,
+                "ymax": 691
+            },
+            "plate": "ckj213",
+            "region": {
+                "code": "cn",
+                "score": 0.706
+            },
+            "score": 0.999,
+            "candidates": [
+                {
+                    "score": 0.999,
+                    "plate": "ckj213"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "ckj2i3"
+                }
+            ],
+            "dscore": 0.796,
+            "vehicle": {
+                "score": 0.326,
+                "type": "Big Truck",
+                "box": {
+                    "xmin": 256,
+                    "ymin": 0,
+                    "xmax": 1081,
+                    "ymax": 722
+                }
+            }
+        }
+    ],
+    "filename": "1344_JllgZ_G1_12.jpg",
+    "version": 1,
+    "camera_id": null,
+    "timestamp": "2024-12-03T13:44:10.523419Z",
+    "image_width": 1082,
+    "image_height": 727
+}

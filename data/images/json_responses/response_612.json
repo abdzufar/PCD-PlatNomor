@@ -1,0 +1,54 @@
+{
+    "processing_time": 31.324,
+    "results": [
+        {
+            "box": {
+                "xmin": 449,
+                "ymin": 635,
+                "xmax": 617,
+                "ymax": 684
+            },
+            "plate": "g16686",
+            "region": {
+                "code": "cn",
+                "score": 0.757
+            },
+            "score": 0.999,
+            "candidates": [
+                {
+                    "score": 0.999,
+                    "plate": "g16686"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "g166b6"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "gi6686"
+                },
+                {
+                    "score": 0.683,
+                    "plate": "gi66b6"
+                }
+            ],
+            "dscore": 0.832,
+            "vehicle": {
+                "score": 0.748,
+                "type": "Van",
+                "box": {
+                    "xmin": 158,
+                    "ymin": 0,
+                    "xmax": 863,
+                    "ymax": 726
+                }
+            }
+        }
+    ],
+    "filename": "1412_EUvME_G1_612.jpg",
+    "version": 1,
+    "camera_id": null,
+    "timestamp": "2024-12-03T14:12:55.242184Z",
+    "image_width": 1082,
+    "image_height": 727
+}

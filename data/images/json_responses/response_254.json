@@ -1,0 +1,78 @@
+{
+    "processing_time": 22.64,
+    "results": [
+        {
+            "box": {
+                "xmin": 336,
+                "ymin": 565,
+                "xmax": 508,
+                "ymax": 620
+            },
+            "plate": "g08886",
+            "region": {
+                "code": "cn",
+                "score": 0.822
+            },
+            "score": 0.999,
+            "candidates": [
+                {
+                    "score": 0.999,
+                    "plate": "g08886"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "g088b6"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "g08b86"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "g0b886"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "go8886"
+                },
+                {
+                    "score": 0.683,
+                    "plate": "g08bb6"
+                },
+                {
+                    "score": 0.683,
+                    "plate": "g0b8b6"
+                },
+                {
+                    "score": 0.683,
+                    "plate": "g0bb86"
+                },
+                {
+                    "score": 0.683,
+                    "plate": "go88b6"
+                },
+                {
+                    "score": 0.683,
+                    "plate": "go8b86"
+                }
+            ],
+            "dscore": 0.815,
+            "vehicle": {
+                "score": 0.938,
+                "type": "Sedan",
+                "box": {
+                    "xmin": 0,
+                    "ymin": 7,
+                    "xmax": 765,
+                    "ymax": 713
+                }
+            }
+        }
+    ],
+    "filename": "1355_cB4l1_G1_254.jpg",
+    "version": 1,
+    "camera_id": null,
+    "timestamp": "2024-12-03T13:55:35.246299Z",
+    "image_width": 1082,
+    "image_height": 727
+}

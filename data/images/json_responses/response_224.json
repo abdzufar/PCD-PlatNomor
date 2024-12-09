@@ -1,0 +1,54 @@
+{
+    "processing_time": 59.393,
+    "results": [
+        {
+            "box": {
+                "xmin": 735,
+                "ymin": 566,
+                "xmax": 885,
+                "ymax": 613
+            },
+            "plate": "gt1839",
+            "region": {
+                "code": "cn",
+                "score": 0.869
+            },
+            "score": 0.999,
+            "candidates": [
+                {
+                    "score": 0.999,
+                    "plate": "gt1839"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "gt1b39"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "gti839"
+                },
+                {
+                    "score": 0.683,
+                    "plate": "gtib39"
+                }
+            ],
+            "dscore": 0.854,
+            "vehicle": {
+                "score": 0.899,
+                "type": "Sedan",
+                "box": {
+                    "xmin": 418,
+                    "ymin": 34,
+                    "xmax": 1053,
+                    "ymax": 660
+                }
+            }
+        }
+    ],
+    "filename": "1354_0r7Y1_G1_224.jpg",
+    "version": 1,
+    "camera_id": null,
+    "timestamp": "2024-12-03T13:54:11.436982Z",
+    "image_width": 1082,
+    "image_height": 727
+}

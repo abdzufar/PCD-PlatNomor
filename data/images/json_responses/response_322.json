@@ -1,0 +1,101 @@
+{
+    "processing_time": 63.772,
+    "results": [
+        {
+            "box": {
+                "xmin": 296,
+                "ymin": 512,
+                "xmax": 441,
+                "ymax": 552
+            },
+            "plate": "gt2239",
+            "region": {
+                "code": "cn",
+                "score": 0.815
+            },
+            "score": 1.0,
+            "candidates": [
+                {
+                    "score": 1.0,
+                    "plate": "gt2239"
+                }
+            ],
+            "dscore": 0.814,
+            "vehicle": {
+                "score": 0.925,
+                "type": "Sedan",
+                "box": {
+                    "xmin": 46,
+                    "ymin": 9,
+                    "xmax": 665,
+                    "ymax": 615
+                }
+            }
+        },
+        {
+            "box": {
+                "xmin": 255,
+                "ymin": 3,
+                "xmax": 443,
+                "ymax": 49
+            },
+            "plate": "taxi",
+            "region": {
+                "code": "ru",
+                "score": 0.012
+            },
+            "score": 0.905,
+            "candidates": [
+                {
+                    "score": 0.905,
+                    "plate": "taxi"
+                },
+                {
+                    "score": 0.819,
+                    "plate": "tax1"
+                },
+                {
+                    "score": 0.763,
+                    "plate": "taxia"
+                },
+                {
+                    "score": 0.74,
+                    "plate": "taxig"
+                },
+                {
+                    "score": 0.694,
+                    "plate": "tax1a"
+                },
+                {
+                    "score": 0.671,
+                    "plate": "tax1g"
+                },
+                {
+                    "score": 0.65,
+                    "plate": "taxiga"
+                },
+                {
+                    "score": 0.592,
+                    "plate": "tax1ga"
+                }
+            ],
+            "dscore": 0.169,
+            "vehicle": {
+                "score": 0.0,
+                "type": "Unknown",
+                "box": {
+                    "xmin": 0,
+                    "ymin": 0,
+                    "xmax": 0,
+                    "ymax": 0
+                }
+            }
+        }
+    ],
+    "filename": "1358_jrLFW_G1_322.jpg",
+    "version": 1,
+    "camera_id": null,
+    "timestamp": "2024-12-03T13:58:49.534285Z",
+    "image_width": 1082,
+    "image_height": 727
+}

@@ -1,0 +1,113 @@
+{
+    "processing_time": 42.223,
+    "results": [
+        {
+            "box": {
+                "xmin": 73,
+                "ymin": 592,
+                "xmax": 242,
+                "ymax": 645
+            },
+            "plate": "gt9571",
+            "region": {
+                "code": "cn",
+                "score": 0.87
+            },
+            "score": 0.999,
+            "candidates": [
+                {
+                    "score": 0.999,
+                    "plate": "gt9571"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "gt957i"
+                }
+            ],
+            "dscore": 0.862,
+            "vehicle": {
+                "score": 0.643,
+                "type": "Sedan",
+                "box": {
+                    "xmin": 1,
+                    "ymin": 41,
+                    "xmax": 489,
+                    "ymax": 725
+                }
+            }
+        },
+        {
+            "box": {
+                "xmin": 33,
+                "ymin": 41,
+                "xmax": 249,
+                "ymax": 89
+            },
+            "plate": "taxi100e",
+            "region": {
+                "code": "ru",
+                "score": 0.031
+            },
+            "score": 0.736,
+            "candidates": [
+                {
+                    "score": 0.736,
+                    "plate": "taxi100e"
+                },
+                {
+                    "score": 0.706,
+                    "plate": "taxi106e"
+                },
+                {
+                    "score": 0.699,
+                    "plate": "taxi10e"
+                },
+                {
+                    "score": 0.677,
+                    "plate": "taxia00e"
+                },
+                {
+                    "score": 0.668,
+                    "plate": "taxi16e"
+                },
+                {
+                    "score": 0.646,
+                    "plate": "taxi1002"
+                },
+                {
+                    "score": 0.646,
+                    "plate": "taxia06e"
+                },
+                {
+                    "score": 0.644,
+                    "plate": "tax1100e"
+                },
+                {
+                    "score": 0.639,
+                    "plate": "taxia0e"
+                },
+                {
+                    "score": 0.634,
+                    "plate": "axi100e"
+                }
+            ],
+            "dscore": 0.018,
+            "vehicle": {
+                "score": 0.0,
+                "type": "Unknown",
+                "box": {
+                    "xmin": 0,
+                    "ymin": 0,
+                    "xmax": 0,
+                    "ymax": 0
+                }
+            }
+        }
+    ],
+    "filename": "1343_cSMM5_G1_2.jpg",
+    "version": 1,
+    "camera_id": null,
+    "timestamp": "2024-12-03T13:43:43.017348Z",
+    "image_width": 1082,
+    "image_height": 727
+}

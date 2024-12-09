@@ -1,0 +1,54 @@
+{
+    "processing_time": 60.089,
+    "results": [
+        {
+            "box": {
+                "xmin": 460,
+                "ymin": 566,
+                "xmax": 627,
+                "ymax": 622
+            },
+            "plate": "g25116",
+            "region": {
+                "code": "cn",
+                "score": 0.867
+            },
+            "score": 0.999,
+            "candidates": [
+                {
+                    "score": 0.999,
+                    "plate": "g25116"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "g251i6"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "g25i16"
+                },
+                {
+                    "score": 0.683,
+                    "plate": "g25ii6"
+                }
+            ],
+            "dscore": 0.838,
+            "vehicle": {
+                "score": 0.841,
+                "type": "Sedan",
+                "box": {
+                    "xmin": 124,
+                    "ymin": 21,
+                    "xmax": 890,
+                    "ymax": 708
+                }
+            }
+        }
+    ],
+    "filename": "1349_Ej4ny_G1_115.jpg",
+    "version": 1,
+    "camera_id": null,
+    "timestamp": "2024-12-03T13:49:05.522740Z",
+    "image_width": 1082,
+    "image_height": 727
+}

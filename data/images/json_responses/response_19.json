@@ -1,0 +1,46 @@
+{
+    "processing_time": 79.189,
+    "results": [
+        {
+            "box": {
+                "xmin": 357,
+                "ymin": 585,
+                "xmax": 529,
+                "ymax": 639
+            },
+            "plate": "g90232",
+            "region": {
+                "code": "cn",
+                "score": 0.864
+            },
+            "score": 0.999,
+            "candidates": [
+                {
+                    "score": 0.999,
+                    "plate": "g90232"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "g9o232"
+                }
+            ],
+            "dscore": 0.843,
+            "vehicle": {
+                "score": 0.913,
+                "type": "Sedan",
+                "box": {
+                    "xmin": 37,
+                    "ymin": 26,
+                    "xmax": 766,
+                    "ymax": 719
+                }
+            }
+        }
+    ],
+    "filename": "1344_Zpv5R_G1_19.jpg",
+    "version": 1,
+    "camera_id": null,
+    "timestamp": "2024-12-03T13:44:29.696112Z",
+    "image_width": 1082,
+    "image_height": 727
+}

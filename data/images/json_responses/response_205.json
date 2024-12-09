@@ -1,0 +1,54 @@
+{
+    "processing_time": 19.803,
+    "results": [
+        {
+            "box": {
+                "xmin": 229,
+                "ymin": 494,
+                "xmax": 372,
+                "ymax": 533
+            },
+            "plate": "g00939",
+            "region": {
+                "code": "cn",
+                "score": 0.805
+            },
+            "score": 0.996,
+            "candidates": [
+                {
+                    "score": 0.996,
+                    "plate": "g00939"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "go0939"
+                },
+                {
+                    "score": 0.838,
+                    "plate": "g0o939"
+                },
+                {
+                    "score": 0.682,
+                    "plate": "goo939"
+                }
+            ],
+            "dscore": 0.814,
+            "vehicle": {
+                "score": 0.686,
+                "type": "Van",
+                "box": {
+                    "xmin": 1,
+                    "ymin": 0,
+                    "xmax": 626,
+                    "ymax": 600
+                }
+            }
+        }
+    ],
+    "filename": "1353_ze5Ke_G1_205.jpg",
+    "version": 1,
+    "camera_id": null,
+    "timestamp": "2024-12-03T13:53:17.886623Z",
+    "image_width": 1082,
+    "image_height": 727
+}

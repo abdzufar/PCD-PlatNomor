@@ -1,0 +1,54 @@
+{
+    "processing_time": 53.38,
+    "results": [
+        {
+            "box": {
+                "xmin": 637,
+                "ymin": 626,
+                "xmax": 808,
+                "ymax": 680
+            },
+            "plate": "gys889",
+            "region": {
+                "code": "cn",
+                "score": 0.838
+            },
+            "score": 1.0,
+            "candidates": [
+                {
+                    "score": 1.0,
+                    "plate": "gys889"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "gys8b9"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "gysb89"
+                },
+                {
+                    "score": 0.683,
+                    "plate": "gysbb9"
+                }
+            ],
+            "dscore": 0.859,
+            "vehicle": {
+                "score": 0.735,
+                "type": "Van",
+                "box": {
+                    "xmin": 335,
+                    "ymin": 5,
+                    "xmax": 1026,
+                    "ymax": 724
+                }
+            }
+        }
+    ],
+    "filename": "1350_6Fwem_G1_146.jpg",
+    "version": 1,
+    "camera_id": null,
+    "timestamp": "2024-12-03T13:50:40.290231Z",
+    "image_width": 1082,
+    "image_height": 727
+}

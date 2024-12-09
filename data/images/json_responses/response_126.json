@@ -1,0 +1,97 @@
+{
+    "processing_time": 86.915,
+    "results": [
+        {
+            "box": {
+                "xmin": 445,
+                "ymin": 512,
+                "xmax": 590,
+                "ymax": 551
+            },
+            "plate": "gt0905",
+            "region": {
+                "code": "cn",
+                "score": 0.717
+            },
+            "score": 0.999,
+            "candidates": [
+                {
+                    "score": 0.999,
+                    "plate": "gt0905"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "gt09o5"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "gto905"
+                },
+                {
+                    "score": 0.683,
+                    "plate": "gto9o5"
+                }
+            ],
+            "dscore": 0.779,
+            "vehicle": {
+                "score": 0.743,
+                "type": "Sedan",
+                "box": {
+                    "xmin": 177,
+                    "ymin": 20,
+                    "xmax": 789,
+                    "ymax": 594
+                }
+            }
+        },
+        {
+            "box": {
+                "xmin": 367,
+                "ymin": 6,
+                "xmax": 552,
+                "ymax": 51
+            },
+            "plate": "taxi",
+            "region": {
+                "code": "ru",
+                "score": 0.012
+            },
+            "score": 0.924,
+            "candidates": [
+                {
+                    "score": 0.924,
+                    "plate": "taxi"
+                },
+                {
+                    "score": 0.813,
+                    "plate": "tax1"
+                },
+                {
+                    "score": 0.751,
+                    "plate": "taxid"
+                },
+                {
+                    "score": 0.663,
+                    "plate": "tax1d"
+                }
+            ],
+            "dscore": 0.066,
+            "vehicle": {
+                "score": 0.0,
+                "type": "Unknown",
+                "box": {
+                    "xmin": 0,
+                    "ymin": 0,
+                    "xmax": 0,
+                    "ymax": 0
+                }
+            }
+        }
+    ],
+    "filename": "1349_NoA0V_G1_126.jpg",
+    "version": 1,
+    "camera_id": null,
+    "timestamp": "2024-12-03T13:49:38.310379Z",
+    "image_width": 1082,
+    "image_height": 727
+}

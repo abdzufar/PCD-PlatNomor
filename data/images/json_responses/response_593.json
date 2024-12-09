@@ -1,0 +1,54 @@
+{
+    "processing_time": 67.15,
+    "results": [
+        {
+            "box": {
+                "xmin": 477,
+                "ymin": 591,
+                "xmax": 651,
+                "ymax": 647
+            },
+            "plate": "g10427",
+            "region": {
+                "code": "cn",
+                "score": 0.853
+            },
+            "score": 0.999,
+            "candidates": [
+                {
+                    "score": 0.999,
+                    "plate": "g10427"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "g1o427"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "gi0427"
+                },
+                {
+                    "score": 0.683,
+                    "plate": "gio427"
+                }
+            ],
+            "dscore": 0.879,
+            "vehicle": {
+                "score": 0.508,
+                "type": "Van",
+                "box": {
+                    "xmin": 153,
+                    "ymin": 0,
+                    "xmax": 888,
+                    "ymax": 702
+                }
+            }
+        }
+    ],
+    "filename": "1411_jHfQL_G1_593.jpg",
+    "version": 1,
+    "camera_id": null,
+    "timestamp": "2024-12-03T14:11:58.451467Z",
+    "image_width": 1082,
+    "image_height": 727
+}

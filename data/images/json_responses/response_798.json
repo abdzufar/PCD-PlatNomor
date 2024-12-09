@@ -1,0 +1,46 @@
+{
+    "processing_time": 117.965,
+    "results": [
+        {
+            "box": {
+                "xmin": 253,
+                "ymin": 594,
+                "xmax": 419,
+                "ymax": 645
+            },
+            "plate": "gt9538",
+            "region": {
+                "code": "cn",
+                "score": 0.89
+            },
+            "score": 0.969,
+            "candidates": [
+                {
+                    "score": 0.969,
+                    "plate": "gt9538"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "gt953b"
+                }
+            ],
+            "dscore": 0.874,
+            "vehicle": {
+                "score": 0.651,
+                "type": "Sedan",
+                "box": {
+                    "xmin": 2,
+                    "ymin": 35,
+                    "xmax": 635,
+                    "ymax": 726
+                }
+            }
+        }
+    ],
+    "filename": "1422_HmMZv_G1_798.jpg",
+    "version": 1,
+    "camera_id": null,
+    "timestamp": "2024-12-03T14:22:14.463401Z",
+    "image_width": 1082,
+    "image_height": 727
+}

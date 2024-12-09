@@ -1,0 +1,46 @@
+{
+    "processing_time": 70.909,
+    "results": [
+        {
+            "box": {
+                "xmin": 263,
+                "ymin": 593,
+                "xmax": 433,
+                "ymax": 640
+            },
+            "plate": "g91422",
+            "region": {
+                "code": "cn",
+                "score": 0.593
+            },
+            "score": 0.999,
+            "candidates": [
+                {
+                    "score": 0.999,
+                    "plate": "g91422"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "g9i422"
+                }
+            ],
+            "dscore": 0.836,
+            "vehicle": {
+                "score": 0.866,
+                "type": "Sedan",
+                "box": {
+                    "xmin": 1,
+                    "ymin": 15,
+                    "xmax": 701,
+                    "ymax": 723
+                }
+            }
+        }
+    ],
+    "filename": "1357_Sqrkw_G1_301.jpg",
+    "version": 1,
+    "camera_id": null,
+    "timestamp": "2024-12-03T13:57:53.702519Z",
+    "image_width": 1082,
+    "image_height": 727
+}

@@ -1,0 +1,70 @@
+{
+    "processing_time": 106.124,
+    "results": [
+        {
+            "box": {
+                "xmin": 274,
+                "ymin": 551,
+                "xmax": 447,
+                "ymax": 604
+            },
+            "plate": "g08258",
+            "region": {
+                "code": "cn",
+                "score": 0.869
+            },
+            "score": 0.999,
+            "candidates": [
+                {
+                    "score": 0.999,
+                    "plate": "g08258"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "g0825b"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "g0b258"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "go8258"
+                },
+                {
+                    "score": 0.683,
+                    "plate": "g0b25b"
+                },
+                {
+                    "score": 0.683,
+                    "plate": "go825b"
+                },
+                {
+                    "score": 0.683,
+                    "plate": "gob258"
+                },
+                {
+                    "score": 0.525,
+                    "plate": "gob25b"
+                }
+            ],
+            "dscore": 0.843,
+            "vehicle": {
+                "score": 0.815,
+                "type": "Van",
+                "box": {
+                    "xmin": 0,
+                    "ymin": 0,
+                    "xmax": 871,
+                    "ymax": 636
+                }
+            }
+        }
+    ],
+    "filename": "1405_XrJ7h_G1_456.jpg",
+    "version": 1,
+    "camera_id": null,
+    "timestamp": "2024-12-03T14:05:28.129743Z",
+    "image_width": 1082,
+    "image_height": 727
+}

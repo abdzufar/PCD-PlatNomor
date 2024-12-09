@@ -1,0 +1,54 @@
+{
+    "processing_time": 175.593,
+    "results": [
+        {
+            "box": {
+                "xmin": 734,
+                "ymin": 574,
+                "xmax": 879,
+                "ymax": 612
+            },
+            "plate": "gt0844",
+            "region": {
+                "code": "cn",
+                "score": 0.722
+            },
+            "score": 0.999,
+            "candidates": [
+                {
+                    "score": 0.999,
+                    "plate": "gt0844"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "gt0b44"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "gto844"
+                },
+                {
+                    "score": 0.683,
+                    "plate": "gtob44"
+                }
+            ],
+            "dscore": 0.82,
+            "vehicle": {
+                "score": 0.556,
+                "type": "Van",
+                "box": {
+                    "xmin": 464,
+                    "ymin": 49,
+                    "xmax": 1081,
+                    "ymax": 654
+                }
+            }
+        }
+    ],
+    "filename": "1348_cbyKd_G1_99.jpg",
+    "version": 1,
+    "camera_id": null,
+    "timestamp": "2024-12-03T13:48:24.159399Z",
+    "image_width": 1082,
+    "image_height": 727
+}

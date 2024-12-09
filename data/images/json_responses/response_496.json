@@ -1,0 +1,70 @@
+{
+    "processing_time": 53.387,
+    "results": [
+        {
+            "box": {
+                "xmin": 298,
+                "ymin": 525,
+                "xmax": 448,
+                "ymax": 564
+            },
+            "plate": "gt0388",
+            "region": {
+                "code": "cn",
+                "score": 0.821
+            },
+            "score": 1.0,
+            "candidates": [
+                {
+                    "score": 1.0,
+                    "plate": "gt0388"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "gt038b"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "gt03b8"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "gto388"
+                },
+                {
+                    "score": 0.683,
+                    "plate": "gt03bb"
+                },
+                {
+                    "score": 0.683,
+                    "plate": "gto38b"
+                },
+                {
+                    "score": 0.683,
+                    "plate": "gto3b8"
+                },
+                {
+                    "score": 0.525,
+                    "plate": "gto3bb"
+                }
+            ],
+            "dscore": 0.825,
+            "vehicle": {
+                "score": 0.733,
+                "type": "Van",
+                "box": {
+                    "xmin": 74,
+                    "ymin": 12,
+                    "xmax": 669,
+                    "ymax": 594
+                }
+            }
+        }
+    ],
+    "filename": "1407_Y6LtR_G1_496.jpg",
+    "version": 1,
+    "camera_id": null,
+    "timestamp": "2024-12-03T14:07:27.644757Z",
+    "image_width": 1082,
+    "image_height": 727
+}

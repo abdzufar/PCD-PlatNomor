@@ -1,0 +1,78 @@
+{
+    "processing_time": 58.829,
+    "results": [
+        {
+            "box": {
+                "xmin": 296,
+                "ymin": 587,
+                "xmax": 466,
+                "ymax": 640
+            },
+            "plate": "gt1810",
+            "region": {
+                "code": "cn",
+                "score": 0.912
+            },
+            "score": 0.999,
+            "candidates": [
+                {
+                    "score": 0.999,
+                    "plate": "gt1810"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "gt181o"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "gt18i0"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "gt1b10"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "gti810"
+                },
+                {
+                    "score": 0.683,
+                    "plate": "gt18io"
+                },
+                {
+                    "score": 0.683,
+                    "plate": "gt1b1o"
+                },
+                {
+                    "score": 0.683,
+                    "plate": "gt1bi0"
+                },
+                {
+                    "score": 0.683,
+                    "plate": "gti81o"
+                },
+                {
+                    "score": 0.683,
+                    "plate": "gti8i0"
+                }
+            ],
+            "dscore": 0.846,
+            "vehicle": {
+                "score": 0.907,
+                "type": "Sedan",
+                "box": {
+                    "xmin": 1,
+                    "ymin": 41,
+                    "xmax": 685,
+                    "ymax": 723
+                }
+            }
+        }
+    ],
+    "filename": "1404_pnS1N_G1_436.jpg",
+    "version": 1,
+    "camera_id": null,
+    "timestamp": "2024-12-03T14:04:24.196864Z",
+    "image_width": 1082,
+    "image_height": 727
+}

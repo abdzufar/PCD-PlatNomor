@@ -1,0 +1,70 @@
+{
+    "processing_time": 61.39,
+    "results": [
+        {
+            "box": {
+                "xmin": 399,
+                "ymin": 519,
+                "xmax": 547,
+                "ymax": 565
+            },
+            "plate": "g06518",
+            "region": {
+                "code": "cn",
+                "score": 0.852
+            },
+            "score": 0.999,
+            "candidates": [
+                {
+                    "score": 0.999,
+                    "plate": "g06518"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "g0651b"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "g065i8"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "go6518"
+                },
+                {
+                    "score": 0.683,
+                    "plate": "g065ib"
+                },
+                {
+                    "score": 0.683,
+                    "plate": "go651b"
+                },
+                {
+                    "score": 0.683,
+                    "plate": "go65i8"
+                },
+                {
+                    "score": 0.525,
+                    "plate": "go65ib"
+                }
+            ],
+            "dscore": 0.822,
+            "vehicle": {
+                "score": 0.912,
+                "type": "Sedan",
+                "box": {
+                    "xmin": 119,
+                    "ymin": 0,
+                    "xmax": 773,
+                    "ymax": 614
+                }
+            }
+        }
+    ],
+    "filename": "1351_zW0k9_G1_162.jpg",
+    "version": 1,
+    "camera_id": null,
+    "timestamp": "2024-12-03T13:51:22.619533Z",
+    "image_width": 1082,
+    "image_height": 727
+}

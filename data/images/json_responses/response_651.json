@@ -1,0 +1,70 @@
+{
+    "processing_time": 49.073,
+    "results": [
+        {
+            "box": {
+                "xmin": 481,
+                "ymin": 514,
+                "xmax": 624,
+                "ymax": 553
+            },
+            "plate": "gzz001",
+            "region": {
+                "code": "cn",
+                "score": 0.638
+            },
+            "score": 0.994,
+            "candidates": [
+                {
+                    "score": 0.994,
+                    "plate": "gzz001"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "gzzo01"
+                },
+                {
+                    "score": 0.837,
+                    "plate": "gzz0o1"
+                },
+                {
+                    "score": 0.836,
+                    "plate": "gzz00i"
+                },
+                {
+                    "score": 0.683,
+                    "plate": "gzzoo1"
+                },
+                {
+                    "score": 0.682,
+                    "plate": "gzzo0i"
+                },
+                {
+                    "score": 0.679,
+                    "plate": "gzz0oi"
+                },
+                {
+                    "score": 0.525,
+                    "plate": "gzzooi"
+                }
+            ],
+            "dscore": 0.799,
+            "vehicle": {
+                "score": 0.94,
+                "type": "Sedan",
+                "box": {
+                    "xmin": 190,
+                    "ymin": 4,
+                    "xmax": 849,
+                    "ymax": 617
+                }
+            }
+        }
+    ],
+    "filename": "1414_o7rsa_G1_651.jpg",
+    "version": 1,
+    "camera_id": null,
+    "timestamp": "2024-12-03T14:14:53.392006Z",
+    "image_width": 1082,
+    "image_height": 727
+}

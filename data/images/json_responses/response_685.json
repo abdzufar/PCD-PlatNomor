@@ -1,0 +1,46 @@
+{
+    "processing_time": 149.953,
+    "results": [
+        {
+            "box": {
+                "xmin": 471,
+                "ymin": 519,
+                "xmax": 615,
+                "ymax": 564
+            },
+            "plate": "gt9617",
+            "region": {
+                "code": "cn",
+                "score": 0.881
+            },
+            "score": 0.999,
+            "candidates": [
+                {
+                    "score": 0.999,
+                    "plate": "gt9617"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "gt96i7"
+                }
+            ],
+            "dscore": 0.837,
+            "vehicle": {
+                "score": 0.657,
+                "type": "Van",
+                "box": {
+                    "xmin": 248,
+                    "ymin": 16,
+                    "xmax": 817,
+                    "ymax": 617
+                }
+            }
+        }
+    ],
+    "filename": "1416_9dISD_G1_685.jpg",
+    "version": 1,
+    "camera_id": null,
+    "timestamp": "2024-12-03T14:16:36.873442Z",
+    "image_width": 1082,
+    "image_height": 727
+}

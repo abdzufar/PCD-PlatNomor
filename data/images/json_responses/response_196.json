@@ -1,0 +1,42 @@
+{
+    "processing_time": 77.029,
+    "results": [
+        {
+            "box": {
+                "xmin": 374,
+                "ymin": 594,
+                "xmax": 538,
+                "ymax": 640
+            },
+            "plate": "g22973",
+            "region": {
+                "code": "cn",
+                "score": 0.747
+            },
+            "score": 0.999,
+            "candidates": [
+                {
+                    "score": 0.999,
+                    "plate": "g22973"
+                }
+            ],
+            "dscore": 0.859,
+            "vehicle": {
+                "score": 0.87,
+                "type": "Sedan",
+                "box": {
+                    "xmin": 38,
+                    "ymin": 0,
+                    "xmax": 773,
+                    "ymax": 708
+                }
+            }
+        }
+    ],
+    "filename": "1352_TrBx0_G1_196.jpg",
+    "version": 1,
+    "camera_id": null,
+    "timestamp": "2024-12-03T13:52:56.558070Z",
+    "image_width": 1082,
+    "image_height": 727
+}

@@ -1,0 +1,54 @@
+{
+    "processing_time": 32.911,
+    "results": [
+        {
+            "box": {
+                "xmin": 353,
+                "ymin": 511,
+                "xmax": 498,
+                "ymax": 554
+            },
+            "plate": "g12758",
+            "region": {
+                "code": "cn",
+                "score": 0.609
+            },
+            "score": 0.999,
+            "candidates": [
+                {
+                    "score": 0.999,
+                    "plate": "g12758"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "g1275b"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "gi2758"
+                },
+                {
+                    "score": 0.683,
+                    "plate": "gi275b"
+                }
+            ],
+            "dscore": 0.825,
+            "vehicle": {
+                "score": 0.416,
+                "type": "SUV",
+                "box": {
+                    "xmin": 48,
+                    "ymin": 0,
+                    "xmax": 716,
+                    "ymax": 615
+                }
+            }
+        }
+    ],
+    "filename": "1343_gCs22_G1_4.jpg",
+    "version": 1,
+    "camera_id": null,
+    "timestamp": "2024-12-03T13:43:48.348320Z",
+    "image_width": 1082,
+    "image_height": 727
+}

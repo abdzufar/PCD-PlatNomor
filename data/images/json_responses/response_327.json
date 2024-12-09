@@ -1,0 +1,42 @@
+{
+    "processing_time": 53.775,
+    "results": [
+        {
+            "box": {
+                "xmin": 194,
+                "ymin": 586,
+                "xmax": 362,
+                "ymax": 638
+            },
+            "plate": "gg999x",
+            "region": {
+                "code": "cn",
+                "score": 0.758
+            },
+            "score": 1.0,
+            "candidates": [
+                {
+                    "score": 1.0,
+                    "plate": "gg999x"
+                }
+            ],
+            "dscore": 0.828,
+            "vehicle": {
+                "score": 0.87,
+                "type": "Sedan",
+                "box": {
+                    "xmin": 0,
+                    "ymin": 14,
+                    "xmax": 618,
+                    "ymax": 716
+                }
+            }
+        }
+    ],
+    "filename": "1359_WUk3T_G1_327.jpg",
+    "version": 1,
+    "camera_id": null,
+    "timestamp": "2024-12-03T13:59:03.605644Z",
+    "image_width": 1082,
+    "image_height": 727
+}

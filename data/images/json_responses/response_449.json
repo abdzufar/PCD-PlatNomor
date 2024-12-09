@@ -1,0 +1,54 @@
+{
+    "processing_time": 61.324,
+    "results": [
+        {
+            "box": {
+                "xmin": 383,
+                "ymin": 592,
+                "xmax": 551,
+                "ymax": 641
+            },
+            "plate": "gt2116",
+            "region": {
+                "code": "cn",
+                "score": 0.885
+            },
+            "score": 1.0,
+            "candidates": [
+                {
+                    "score": 1.0,
+                    "plate": "gt2116"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "gt21i6"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "gt2i16"
+                },
+                {
+                    "score": 0.683,
+                    "plate": "gt2ii6"
+                }
+            ],
+            "dscore": 0.827,
+            "vehicle": {
+                "score": 0.917,
+                "type": "Sedan",
+                "box": {
+                    "xmin": 72,
+                    "ymin": 39,
+                    "xmax": 765,
+                    "ymax": 725
+                }
+            }
+        }
+    ],
+    "filename": "1405_LdF56_G1_449.jpg",
+    "version": 1,
+    "camera_id": null,
+    "timestamp": "2024-12-03T14:05:05.984474Z",
+    "image_width": 1082,
+    "image_height": 727
+}

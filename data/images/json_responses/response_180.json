@@ -1,0 +1,70 @@
+{
+    "processing_time": 69.156,
+    "results": [
+        {
+            "box": {
+                "xmin": 499,
+                "ymin": 504,
+                "xmax": 652,
+                "ymax": 551
+            },
+            "plate": "g01302",
+            "region": {
+                "code": "cn",
+                "score": 0.809
+            },
+            "score": 0.998,
+            "candidates": [
+                {
+                    "score": 0.998,
+                    "plate": "g01302"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "go1302"
+                },
+                {
+                    "score": 0.84,
+                    "plate": "g0i302"
+                },
+                {
+                    "score": 0.839,
+                    "plate": "g013o2"
+                },
+                {
+                    "score": 0.683,
+                    "plate": "go13o2"
+                },
+                {
+                    "score": 0.683,
+                    "plate": "goi302"
+                },
+                {
+                    "score": 0.681,
+                    "plate": "g0i3o2"
+                },
+                {
+                    "score": 0.525,
+                    "plate": "goi3o2"
+                }
+            ],
+            "dscore": 0.832,
+            "vehicle": {
+                "score": 0.544,
+                "type": "Big Truck",
+                "box": {
+                    "xmin": 93,
+                    "ymin": 0,
+                    "xmax": 1037,
+                    "ymax": 595
+                }
+            }
+        }
+    ],
+    "filename": "1352_e55xW_G1_180.jpg",
+    "version": 1,
+    "camera_id": null,
+    "timestamp": "2024-12-03T13:52:10.850956Z",
+    "image_width": 1082,
+    "image_height": 727
+}

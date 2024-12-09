@@ -1,0 +1,54 @@
+{
+    "processing_time": 50.157,
+    "results": [
+        {
+            "box": {
+                "xmin": 286,
+                "ymin": 499,
+                "xmax": 435,
+                "ymax": 542
+            },
+            "plate": "g98149",
+            "region": {
+                "code": "cn",
+                "score": 0.873
+            },
+            "score": 1.0,
+            "candidates": [
+                {
+                    "score": 1.0,
+                    "plate": "g98149"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "g98i49"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "g9b149"
+                },
+                {
+                    "score": 0.683,
+                    "plate": "g9bi49"
+                }
+            ],
+            "dscore": 0.795,
+            "vehicle": {
+                "score": 0.526,
+                "type": "Sedan",
+                "box": {
+                    "xmin": 51,
+                    "ymin": 0,
+                    "xmax": 660,
+                    "ymax": 613
+                }
+            }
+        }
+    ],
+    "filename": "1353_mAUP2_G1_203.jpg",
+    "version": 1,
+    "camera_id": null,
+    "timestamp": "2024-12-03T13:53:12.743860Z",
+    "image_width": 1082,
+    "image_height": 727
+}

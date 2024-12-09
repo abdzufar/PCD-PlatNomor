@@ -1,0 +1,54 @@
+{
+    "processing_time": 69.593,
+    "results": [
+        {
+            "box": {
+                "xmin": 200,
+                "ymin": 565,
+                "xmax": 370,
+                "ymax": 614
+            },
+            "plate": "g17630",
+            "region": {
+                "code": "cn",
+                "score": 0.624
+            },
+            "score": 0.999,
+            "candidates": [
+                {
+                    "score": 0.999,
+                    "plate": "g17630"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "g1763o"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "gi7630"
+                },
+                {
+                    "score": 0.683,
+                    "plate": "gi763o"
+                }
+            ],
+            "dscore": 0.794,
+            "vehicle": {
+                "score": 0.538,
+                "type": "SUV",
+                "box": {
+                    "xmin": 2,
+                    "ymin": 2,
+                    "xmax": 636,
+                    "ymax": 717
+                }
+            }
+        }
+    ],
+    "filename": "1418_QcQ5g_G1_729.jpg",
+    "version": 1,
+    "camera_id": null,
+    "timestamp": "2024-12-03T14:18:44.398855Z",
+    "image_width": 1082,
+    "image_height": 727
+}

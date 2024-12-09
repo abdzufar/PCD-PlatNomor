@@ -1,0 +1,78 @@
+{
+    "processing_time": 24.865,
+    "results": [
+        {
+            "box": {
+                "xmin": 490,
+                "ymin": 621,
+                "xmax": 658,
+                "ymax": 670
+            },
+            "plate": "gxb188",
+            "region": {
+                "code": "cn",
+                "score": 0.84
+            },
+            "score": 0.999,
+            "candidates": [
+                {
+                    "score": 0.999,
+                    "plate": "gxb188"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "gxb18b"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "gxb1b8"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "gxbi88"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "gx8188"
+                },
+                {
+                    "score": 0.683,
+                    "plate": "gxb1bb"
+                },
+                {
+                    "score": 0.683,
+                    "plate": "gxbi8b"
+                },
+                {
+                    "score": 0.683,
+                    "plate": "gxbib8"
+                },
+                {
+                    "score": 0.683,
+                    "plate": "gx818b"
+                },
+                {
+                    "score": 0.683,
+                    "plate": "gx81b8"
+                }
+            ],
+            "dscore": 0.878,
+            "vehicle": {
+                "score": 0.849,
+                "type": "Van",
+                "box": {
+                    "xmin": 180,
+                    "ymin": 0,
+                    "xmax": 907,
+                    "ymax": 726
+                }
+            }
+        }
+    ],
+    "filename": "1355_ENpRA_G1_262.jpg",
+    "version": 1,
+    "camera_id": null,
+    "timestamp": "2024-12-03T13:55:57.847878Z",
+    "image_width": 1082,
+    "image_height": 727
+}

@@ -1,0 +1,46 @@
+{
+    "processing_time": 30.556,
+    "results": [
+        {
+            "box": {
+                "xmin": 578,
+                "ymin": 564,
+                "xmax": 741,
+                "ymax": 607
+            },
+            "plate": "g07957",
+            "region": {
+                "code": "cn",
+                "score": 0.562
+            },
+            "score": 0.999,
+            "candidates": [
+                {
+                    "score": 0.999,
+                    "plate": "g07957"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "go7957"
+                }
+            ],
+            "dscore": 0.849,
+            "vehicle": {
+                "score": 0.58,
+                "type": "SUV",
+                "box": {
+                    "xmin": 225,
+                    "ymin": 5,
+                    "xmax": 1001,
+                    "ymax": 698
+                }
+            }
+        }
+    ],
+    "filename": "1402_sRe5Q_G1_409.jpg",
+    "version": 1,
+    "camera_id": null,
+    "timestamp": "2024-12-03T14:02:59.636780Z",
+    "image_width": 1082,
+    "image_height": 727
+}

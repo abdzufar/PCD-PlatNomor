@@ -1,0 +1,70 @@
+{
+    "processing_time": 78.078,
+    "results": [
+        {
+            "box": {
+                "xmin": 232,
+                "ymin": 618,
+                "xmax": 404,
+                "ymax": 672
+            },
+            "plate": "g17187",
+            "region": {
+                "code": "cn",
+                "score": 0.734
+            },
+            "score": 0.994,
+            "candidates": [
+                {
+                    "score": 0.994,
+                    "plate": "g17187"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "gi7187"
+                },
+                {
+                    "score": 0.836,
+                    "plate": "g171b7"
+                },
+                {
+                    "score": 0.836,
+                    "plate": "g17i87"
+                },
+                {
+                    "score": 0.683,
+                    "plate": "gi71b7"
+                },
+                {
+                    "score": 0.683,
+                    "plate": "gi7i87"
+                },
+                {
+                    "score": 0.677,
+                    "plate": "g17ib7"
+                },
+                {
+                    "score": 0.524,
+                    "plate": "gi7ib7"
+                }
+            ],
+            "dscore": 0.831,
+            "vehicle": {
+                "score": 0.897,
+                "type": "Van",
+                "box": {
+                    "xmin": 0,
+                    "ymin": 0,
+                    "xmax": 653,
+                    "ymax": 723
+                }
+            }
+        }
+    ],
+    "filename": "1406_Kkjcm_G1_474.jpg",
+    "version": 1,
+    "camera_id": null,
+    "timestamp": "2024-12-03T14:06:25.528167Z",
+    "image_width": 1082,
+    "image_height": 727
+}

@@ -1,0 +1,54 @@
+{
+    "processing_time": 36.757,
+    "results": [
+        {
+            "box": {
+                "xmin": 421,
+                "ymin": 600,
+                "xmax": 587,
+                "ymax": 643
+            },
+            "plate": "gt0212",
+            "region": {
+                "code": "cn",
+                "score": 0.82
+            },
+            "score": 0.999,
+            "candidates": [
+                {
+                    "score": 0.999,
+                    "plate": "gt0212"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "gt02i2"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "gto212"
+                },
+                {
+                    "score": 0.683,
+                    "plate": "gto2i2"
+                }
+            ],
+            "dscore": 0.805,
+            "vehicle": {
+                "score": 0.675,
+                "type": "Sedan",
+                "box": {
+                    "xmin": 109,
+                    "ymin": 44,
+                    "xmax": 819,
+                    "ymax": 707
+                }
+            }
+        }
+    ],
+    "filename": "1406_dTDDK_G1_477.jpg",
+    "version": 1,
+    "camera_id": null,
+    "timestamp": "2024-12-03T14:06:36.640703Z",
+    "image_width": 1082,
+    "image_height": 727
+}

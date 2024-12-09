@@ -1,0 +1,78 @@
+{
+    "processing_time": 57.699,
+    "results": [
+        {
+            "box": {
+                "xmin": 417,
+                "ymin": 521,
+                "xmax": 561,
+                "ymax": 561
+            },
+            "plate": "gt1003",
+            "region": {
+                "code": "cn",
+                "score": 0.771
+            },
+            "score": 0.999,
+            "candidates": [
+                {
+                    "score": 0.999,
+                    "plate": "gt1003"
+                },
+                {
+                    "score": 0.864,
+                    "plate": "ggt1003"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "gt10o3"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "gt1o03"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "gti003"
+                },
+                {
+                    "score": 0.728,
+                    "plate": "ggt10o3"
+                },
+                {
+                    "score": 0.728,
+                    "plate": "ggt1o03"
+                },
+                {
+                    "score": 0.728,
+                    "plate": "ggti003"
+                },
+                {
+                    "score": 0.683,
+                    "plate": "gt1oo3"
+                },
+                {
+                    "score": 0.683,
+                    "plate": "gti0o3"
+                }
+            ],
+            "dscore": 0.82,
+            "vehicle": {
+                "score": 0.92,
+                "type": "Sedan",
+                "box": {
+                    "xmin": 156,
+                    "ymin": 13,
+                    "xmax": 775,
+                    "ymax": 623
+                }
+            }
+        }
+    ],
+    "filename": "1356_BR7GC_G1_281.jpg",
+    "version": 1,
+    "camera_id": null,
+    "timestamp": "2024-12-03T13:56:49.539864Z",
+    "image_width": 1082,
+    "image_height": 727
+}

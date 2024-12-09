@@ -1,0 +1,121 @@
+{
+    "processing_time": 33.799,
+    "results": [
+        {
+            "box": {
+                "xmin": 267,
+                "ymin": 509,
+                "xmax": 414,
+                "ymax": 555
+            },
+            "plate": "gt1907",
+            "region": {
+                "code": "cn",
+                "score": 0.826
+            },
+            "score": 0.999,
+            "candidates": [
+                {
+                    "score": 0.999,
+                    "plate": "gt1907"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "gt19o7"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "gti907"
+                },
+                {
+                    "score": 0.683,
+                    "plate": "gti9o7"
+                }
+            ],
+            "dscore": 0.816,
+            "vehicle": {
+                "score": 0.852,
+                "type": "Sedan",
+                "box": {
+                    "xmin": 47,
+                    "ymin": 3,
+                    "xmax": 615,
+                    "ymax": 621
+                }
+            }
+        },
+        {
+            "box": {
+                "xmin": 227,
+                "ymin": 1,
+                "xmax": 411,
+                "ymax": 50
+            },
+            "plate": "taxi",
+            "region": {
+                "code": "gb",
+                "score": 0.014
+            },
+            "score": 0.975,
+            "candidates": [
+                {
+                    "score": 0.975,
+                    "plate": "taxi"
+                },
+                {
+                    "score": 0.838,
+                    "plate": "taxi1"
+                },
+                {
+                    "score": 0.811,
+                    "plate": "taxi2"
+                },
+                {
+                    "score": 0.791,
+                    "plate": "taxi8"
+                },
+                {
+                    "score": 0.79,
+                    "plate": "taxii"
+                },
+                {
+                    "score": 0.79,
+                    "plate": "taxib"
+                },
+                {
+                    "score": 0.75,
+                    "plate": "tax1"
+                },
+                {
+                    "score": 0.724,
+                    "plate": "taxi12"
+                },
+                {
+                    "score": 0.707,
+                    "plate": "taxi81"
+                },
+                {
+                    "score": 0.707,
+                    "plate": "taxib1"
+                }
+            ],
+            "dscore": 0.064,
+            "vehicle": {
+                "score": 0.0,
+                "type": "Unknown",
+                "box": {
+                    "xmin": 0,
+                    "ymin": 0,
+                    "xmax": 0,
+                    "ymax": 0
+                }
+            }
+        }
+    ],
+    "filename": "1352_Dovcc_G1_179.jpg",
+    "version": 1,
+    "camera_id": null,
+    "timestamp": "2024-12-03T13:52:07.945325Z",
+    "image_width": 1082,
+    "image_height": 727
+}

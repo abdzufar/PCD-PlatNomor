@@ -1,0 +1,54 @@
+{
+    "processing_time": 51.767,
+    "results": [
+        {
+            "box": {
+                "xmin": 483,
+                "ymin": 573,
+                "xmax": 661,
+                "ymax": 628
+            },
+            "plate": "gzd886",
+            "region": {
+                "code": "cn",
+                "score": 0.533
+            },
+            "score": 0.999,
+            "candidates": [
+                {
+                    "score": 0.999,
+                    "plate": "gzd886"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "gzd8b6"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "gzdb86"
+                },
+                {
+                    "score": 0.683,
+                    "plate": "gzdbb6"
+                }
+            ],
+            "dscore": 0.834,
+            "vehicle": {
+                "score": 0.937,
+                "type": "Sedan",
+                "box": {
+                    "xmin": 170,
+                    "ymin": 34,
+                    "xmax": 874,
+                    "ymax": 726
+                }
+            }
+        }
+    ],
+    "filename": "1408_5dntN_G1_519.jpg",
+    "version": 1,
+    "camera_id": null,
+    "timestamp": "2024-12-03T14:08:23.322282Z",
+    "image_width": 1082,
+    "image_height": 727
+}

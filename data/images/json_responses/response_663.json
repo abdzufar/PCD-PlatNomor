@@ -1,0 +1,54 @@
+{
+    "processing_time": 53.395,
+    "results": [
+        {
+            "box": {
+                "xmin": 187,
+                "ymin": 608,
+                "xmax": 352,
+                "ymax": 655
+            },
+            "plate": "g15917",
+            "region": {
+                "code": "cn",
+                "score": 0.619
+            },
+            "score": 0.999,
+            "candidates": [
+                {
+                    "score": 0.999,
+                    "plate": "g15917"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "g159i7"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "gi5917"
+                },
+                {
+                    "score": 0.683,
+                    "plate": "gi59i7"
+                }
+            ],
+            "dscore": 0.828,
+            "vehicle": {
+                "score": 0.853,
+                "type": "Sedan",
+                "box": {
+                    "xmin": 2,
+                    "ymin": 56,
+                    "xmax": 606,
+                    "ymax": 726
+                }
+            }
+        }
+    ],
+    "filename": "1415_QX0Oy_G1_663.jpg",
+    "version": 1,
+    "camera_id": null,
+    "timestamp": "2024-12-03T14:15:28.135646Z",
+    "image_width": 1082,
+    "image_height": 727
+}

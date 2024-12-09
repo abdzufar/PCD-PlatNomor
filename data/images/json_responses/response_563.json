@@ -1,0 +1,42 @@
+{
+    "processing_time": 43.004,
+    "results": [
+        {
+            "box": {
+                "xmin": 252,
+                "ymin": 613,
+                "xmax": 423,
+                "ymax": 664
+            },
+            "plate": "g93952",
+            "region": {
+                "code": "cn",
+                "score": 0.89
+            },
+            "score": 0.999,
+            "candidates": [
+                {
+                    "score": 0.999,
+                    "plate": "g93952"
+                }
+            ],
+            "dscore": 0.861,
+            "vehicle": {
+                "score": 0.833,
+                "type": "Van",
+                "box": {
+                    "xmin": 1,
+                    "ymin": 0,
+                    "xmax": 636,
+                    "ymax": 726
+                }
+            }
+        }
+    ],
+    "filename": "1410_5Mc4X_G1_563.jpg",
+    "version": 1,
+    "camera_id": null,
+    "timestamp": "2024-12-03T14:10:33.533473Z",
+    "image_width": 1082,
+    "image_height": 727
+}

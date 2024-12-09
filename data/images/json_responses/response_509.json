@@ -1,0 +1,77 @@
+{
+    "processing_time": 48.664,
+    "results": [
+        {
+            "box": {
+                "xmin": 197,
+                "ymin": 511,
+                "xmax": 340,
+                "ymax": 548
+            },
+            "plate": "gt2238",
+            "region": {
+                "code": "cn",
+                "score": 0.736
+            },
+            "score": 0.999,
+            "candidates": [
+                {
+                    "score": 0.999,
+                    "plate": "gt2238"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "gt223b"
+                }
+            ],
+            "dscore": 0.838,
+            "vehicle": {
+                "score": 0.93,
+                "type": "Sedan",
+                "box": {
+                    "xmin": 0,
+                    "ymin": 7,
+                    "xmax": 567,
+                    "ymax": 611
+                }
+            }
+        },
+        {
+            "box": {
+                "xmin": 153,
+                "ymin": 4,
+                "xmax": 340,
+                "ymax": 48
+            },
+            "plate": "ax164",
+            "region": {
+                "code": "ru",
+                "score": 0.016
+            },
+            "score": 0.408,
+            "candidates": [
+                {
+                    "score": 0.408,
+                    "plate": "ax164"
+                }
+            ],
+            "dscore": 0.084,
+            "vehicle": {
+                "score": 0.0,
+                "type": "Unknown",
+                "box": {
+                    "xmin": 0,
+                    "ymin": 0,
+                    "xmax": 0,
+                    "ymax": 0
+                }
+            }
+        }
+    ],
+    "filename": "1407_J51J3_G1_509.jpg",
+    "version": 1,
+    "camera_id": null,
+    "timestamp": "2024-12-03T14:07:59.948093Z",
+    "image_width": 1082,
+    "image_height": 727
+}

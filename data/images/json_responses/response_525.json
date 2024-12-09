@@ -1,0 +1,70 @@
+{
+    "processing_time": 61.312,
+    "results": [
+        {
+            "box": {
+                "xmin": 43,
+                "ymin": 582,
+                "xmax": 208,
+                "ymax": 635
+            },
+            "plate": "g03119",
+            "region": {
+                "code": "cn",
+                "score": 0.738
+            },
+            "score": 0.999,
+            "candidates": [
+                {
+                    "score": 0.999,
+                    "plate": "g03119"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "g031i9"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "g03i19"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "go3119"
+                },
+                {
+                    "score": 0.683,
+                    "plate": "g03ii9"
+                },
+                {
+                    "score": 0.683,
+                    "plate": "go31i9"
+                },
+                {
+                    "score": 0.683,
+                    "plate": "go3i19"
+                },
+                {
+                    "score": 0.525,
+                    "plate": "go3ii9"
+                }
+            ],
+            "dscore": 0.813,
+            "vehicle": {
+                "score": 0.877,
+                "type": "Sedan",
+                "box": {
+                    "xmin": 0,
+                    "ymin": 16,
+                    "xmax": 513,
+                    "ymax": 723
+                }
+            }
+        }
+    ],
+    "filename": "1408_tkwRF_G1_525.jpg",
+    "version": 1,
+    "camera_id": null,
+    "timestamp": "2024-12-03T14:08:37.993842Z",
+    "image_width": 1082,
+    "image_height": 727
+}

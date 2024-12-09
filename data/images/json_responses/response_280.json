@@ -1,0 +1,54 @@
+{
+    "processing_time": 84.439,
+    "results": [
+        {
+            "box": {
+                "xmin": 391,
+                "ymin": 598,
+                "xmax": 555,
+                "ymax": 642
+            },
+            "plate": "g12268",
+            "region": {
+                "code": "cn",
+                "score": 0.598
+            },
+            "score": 0.997,
+            "candidates": [
+                {
+                    "score": 0.997,
+                    "plate": "g12268"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "gi2268"
+                },
+                {
+                    "score": 0.838,
+                    "plate": "g1226b"
+                },
+                {
+                    "score": 0.683,
+                    "plate": "gi226b"
+                }
+            ],
+            "dscore": 0.849,
+            "vehicle": {
+                "score": 0.721,
+                "type": "Van",
+                "box": {
+                    "xmin": 57,
+                    "ymin": 1,
+                    "xmax": 844,
+                    "ymax": 724
+                }
+            }
+        }
+    ],
+    "filename": "1356_hQW4Q_G1_280.jpg",
+    "version": 1,
+    "camera_id": null,
+    "timestamp": "2024-12-03T13:56:48.035404Z",
+    "image_width": 1082,
+    "image_height": 727
+}

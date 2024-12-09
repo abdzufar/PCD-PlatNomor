@@ -1,0 +1,46 @@
+{
+    "processing_time": 96.933,
+    "results": [
+        {
+            "box": {
+                "xmin": 179,
+                "ymin": 504,
+                "xmax": 329,
+                "ymax": 551
+            },
+            "plate": "gt1326",
+            "region": {
+                "code": "cn",
+                "score": 0.849
+            },
+            "score": 1.0,
+            "candidates": [
+                {
+                    "score": 1.0,
+                    "plate": "gt1326"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "gti326"
+                }
+            ],
+            "dscore": 0.823,
+            "vehicle": {
+                "score": 0.792,
+                "type": "Sedan",
+                "box": {
+                    "xmin": 0,
+                    "ymin": 1,
+                    "xmax": 526,
+                    "ymax": 605
+                }
+            }
+        }
+    ],
+    "filename": "1410_PZceE_G1_572.jpg",
+    "version": 1,
+    "camera_id": null,
+    "timestamp": "2024-12-03T14:10:58.283356Z",
+    "image_width": 1082,
+    "image_height": 727
+}

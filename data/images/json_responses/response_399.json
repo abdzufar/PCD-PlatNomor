@@ -1,0 +1,46 @@
+{
+    "processing_time": 57.808,
+    "results": [
+        {
+            "box": {
+                "xmin": 20,
+                "ymin": 511,
+                "xmax": 169,
+                "ymax": 556
+            },
+            "plate": "gt2197",
+            "region": {
+                "code": "cn",
+                "score": 0.797
+            },
+            "score": 1.0,
+            "candidates": [
+                {
+                    "score": 1.0,
+                    "plate": "gt2197"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "gt2i97"
+                }
+            ],
+            "dscore": 0.865,
+            "vehicle": {
+                "score": 0.95,
+                "type": "Sedan",
+                "box": {
+                    "xmin": 0,
+                    "ymin": 6,
+                    "xmax": 413,
+                    "ymax": 612
+                }
+            }
+        }
+    ],
+    "filename": "1402_traxb_G1_399.jpg",
+    "version": 1,
+    "camera_id": null,
+    "timestamp": "2024-12-03T14:02:28.256033Z",
+    "image_width": 1082,
+    "image_height": 727
+}

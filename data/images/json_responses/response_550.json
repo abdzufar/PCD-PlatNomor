@@ -1,0 +1,70 @@
+{
+    "processing_time": 52.982,
+    "results": [
+        {
+            "box": {
+                "xmin": 619,
+                "ymin": 623,
+                "xmax": 788,
+                "ymax": 671
+            },
+            "plate": "g17610",
+            "region": {
+                "code": "cn",
+                "score": 0.502
+            },
+            "score": 0.999,
+            "candidates": [
+                {
+                    "score": 0.999,
+                    "plate": "g17610"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "g1761o"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "gi7610"
+                },
+                {
+                    "score": 0.84,
+                    "plate": "g176i0"
+                },
+                {
+                    "score": 0.683,
+                    "plate": "g176io"
+                },
+                {
+                    "score": 0.683,
+                    "plate": "gi761o"
+                },
+                {
+                    "score": 0.682,
+                    "plate": "gi76i0"
+                },
+                {
+                    "score": 0.524,
+                    "plate": "gi76io"
+                }
+            ],
+            "dscore": 0.807,
+            "vehicle": {
+                "score": 0.921,
+                "type": "Sedan",
+                "box": {
+                    "xmin": 256,
+                    "ymin": 47,
+                    "xmax": 1032,
+                    "ymax": 726
+                }
+            }
+        }
+    ],
+    "filename": "1410_EjTzW_G1_550.jpg",
+    "version": 1,
+    "camera_id": null,
+    "timestamp": "2024-12-03T14:10:01.558881Z",
+    "image_width": 1082,
+    "image_height": 727
+}

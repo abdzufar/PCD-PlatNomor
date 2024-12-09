@@ -1,0 +1,42 @@
+{
+    "processing_time": 67.644,
+    "results": [
+        {
+            "box": {
+                "xmin": 447,
+                "ymin": 590,
+                "xmax": 618,
+                "ymax": 644
+            },
+            "plate": "g26327",
+            "region": {
+                "code": "cn",
+                "score": 0.753
+            },
+            "score": 1.0,
+            "candidates": [
+                {
+                    "score": 1.0,
+                    "plate": "g26327"
+                }
+            ],
+            "dscore": 0.844,
+            "vehicle": {
+                "score": 0.887,
+                "type": "Sedan",
+                "box": {
+                    "xmin": 115,
+                    "ymin": 19,
+                    "xmax": 865,
+                    "ymax": 726
+                }
+            }
+        }
+    ],
+    "filename": "1414_onidy_G1_652.jpg",
+    "version": 1,
+    "camera_id": null,
+    "timestamp": "2024-12-03T14:14:55.794506Z",
+    "image_width": 1082,
+    "image_height": 727
+}

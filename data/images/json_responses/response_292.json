@@ -1,0 +1,54 @@
+{
+    "processing_time": 73.31,
+    "results": [
+        {
+            "box": {
+                "xmin": 469,
+                "ymin": 596,
+                "xmax": 638,
+                "ymax": 647
+            },
+            "plate": "gt2201",
+            "region": {
+                "code": "cn",
+                "score": 0.799
+            },
+            "score": 1.0,
+            "candidates": [
+                {
+                    "score": 1.0,
+                    "plate": "gt2201"
+                },
+                {
+                    "score": 0.842,
+                    "plate": "gt220i"
+                },
+                {
+                    "score": 0.842,
+                    "plate": "gt22o1"
+                },
+                {
+                    "score": 0.683,
+                    "plate": "gt22oi"
+                }
+            ],
+            "dscore": 0.874,
+            "vehicle": {
+                "score": 0.908,
+                "type": "Sedan",
+                "box": {
+                    "xmin": 138,
+                    "ymin": 48,
+                    "xmax": 868,
+                    "ymax": 725
+                }
+            }
+        }
+    ],
+    "filename": "1357_Lj7kq_G1_292.jpg",
+    "version": 1,
+    "camera_id": null,
+    "timestamp": "2024-12-03T13:57:22.912463Z",
+    "image_width": 1082,
+    "image_height": 727
+}

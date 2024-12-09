@@ -1,0 +1,46 @@
+{
+    "processing_time": 49.029,
+    "results": [
+        {
+            "box": {
+                "xmin": 386,
+                "ymin": 594,
+                "xmax": 559,
+                "ymax": 646
+            },
+            "plate": "gt1793",
+            "region": {
+                "code": "cn",
+                "score": 0.823
+            },
+            "score": 0.999,
+            "candidates": [
+                {
+                    "score": 0.999,
+                    "plate": "gt1793"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "gti793"
+                }
+            ],
+            "dscore": 0.846,
+            "vehicle": {
+                "score": 0.942,
+                "type": "Sedan",
+                "box": {
+                    "xmin": 65,
+                    "ymin": 36,
+                    "xmax": 791,
+                    "ymax": 725
+                }
+            }
+        }
+    ],
+    "filename": "1404_4M8gr_G1_443.jpg",
+    "version": 1,
+    "camera_id": null,
+    "timestamp": "2024-12-03T14:04:44.259938Z",
+    "image_width": 1082,
+    "image_height": 727
+}

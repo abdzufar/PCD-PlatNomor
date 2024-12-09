@@ -1,0 +1,46 @@
+{
+    "processing_time": 41.965,
+    "results": [
+        {
+            "box": {
+                "xmin": 362,
+                "ymin": 579,
+                "xmax": 529,
+                "ymax": 628
+            },
+            "plate": "g16236",
+            "region": {
+                "code": "cn",
+                "score": 0.859
+            },
+            "score": 0.998,
+            "candidates": [
+                {
+                    "score": 0.998,
+                    "plate": "g16236"
+                },
+                {
+                    "score": 0.84,
+                    "plate": "gi6236"
+                }
+            ],
+            "dscore": 0.86,
+            "vehicle": {
+                "score": 0.608,
+                "type": "Van",
+                "box": {
+                    "xmin": 17,
+                    "ymin": 5,
+                    "xmax": 763,
+                    "ymax": 717
+                }
+            }
+        }
+    ],
+    "filename": "1417_2lbFj_G1_706.jpg",
+    "version": 1,
+    "camera_id": null,
+    "timestamp": "2024-12-03T14:17:39.739785Z",
+    "image_width": 1082,
+    "image_height": 727
+}

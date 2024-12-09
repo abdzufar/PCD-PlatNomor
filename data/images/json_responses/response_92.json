@@ -1,0 +1,54 @@
+{
+    "processing_time": 109.009,
+    "results": [
+        {
+            "box": {
+                "xmin": 196,
+                "ymin": 548,
+                "xmax": 338,
+                "ymax": 583
+            },
+            "plate": "g13621",
+            "region": {
+                "code": "cn",
+                "score": 0.618
+            },
+            "score": 0.999,
+            "candidates": [
+                {
+                    "score": 0.999,
+                    "plate": "g13621"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "g1362i"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "gi3621"
+                },
+                {
+                    "score": 0.683,
+                    "plate": "gi362i"
+                }
+            ],
+            "dscore": 0.841,
+            "vehicle": {
+                "score": 0.93,
+                "type": "Van",
+                "box": {
+                    "xmin": 0,
+                    "ymin": 0,
+                    "xmax": 557,
+                    "ymax": 620
+                }
+            }
+        }
+    ],
+    "filename": "1348_700sm_G1_92.jpg",
+    "version": 1,
+    "camera_id": null,
+    "timestamp": "2024-12-03T13:48:07.194173Z",
+    "image_width": 1082,
+    "image_height": 727
+}

@@ -1,0 +1,42 @@
+{
+    "processing_time": 56.397,
+    "results": [
+        {
+            "box": {
+                "xmin": 495,
+                "ymin": 609,
+                "xmax": 663,
+                "ymax": 654
+            },
+            "plate": "g95223",
+            "region": {
+                "code": "cn",
+                "score": 0.806
+            },
+            "score": 0.999,
+            "candidates": [
+                {
+                    "score": 0.999,
+                    "plate": "g95223"
+                }
+            ],
+            "dscore": 0.836,
+            "vehicle": {
+                "score": 0.922,
+                "type": "Sedan",
+                "box": {
+                    "xmin": 166,
+                    "ymin": 19,
+                    "xmax": 926,
+                    "ymax": 720
+                }
+            }
+        }
+    ],
+    "filename": "1413_aIz98_G1_631.jpg",
+    "version": 1,
+    "camera_id": null,
+    "timestamp": "2024-12-03T14:13:51.446486Z",
+    "image_width": 1082,
+    "image_height": 727
+}

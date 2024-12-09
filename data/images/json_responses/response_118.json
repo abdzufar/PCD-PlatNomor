@@ -1,0 +1,46 @@
+{
+    "processing_time": 121.016,
+    "results": [
+        {
+            "box": {
+                "xmin": 574,
+                "ymin": 596,
+                "xmax": 746,
+                "ymax": 649
+            },
+            "plate": "gt2315",
+            "region": {
+                "code": "cn",
+                "score": 0.848
+            },
+            "score": 1.0,
+            "candidates": [
+                {
+                    "score": 1.0,
+                    "plate": "gt2315"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "gt23i5"
+                }
+            ],
+            "dscore": 0.871,
+            "vehicle": {
+                "score": 0.852,
+                "type": "Sedan",
+                "box": {
+                    "xmin": 262,
+                    "ymin": 40,
+                    "xmax": 957,
+                    "ymax": 724
+                }
+            }
+        }
+    ],
+    "filename": "1349_uJTtd_G1_118.jpg",
+    "version": 1,
+    "camera_id": null,
+    "timestamp": "2024-12-03T13:49:15.623234Z",
+    "image_width": 1082,
+    "image_height": 727
+}

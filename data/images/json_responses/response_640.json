@@ -1,0 +1,70 @@
+{
+    "processing_time": 77.197,
+    "results": [
+        {
+            "box": {
+                "xmin": 376,
+                "ymin": 594,
+                "xmax": 540,
+                "ymax": 644
+            },
+            "plate": "g04812",
+            "region": {
+                "code": "cn",
+                "score": 0.833
+            },
+            "score": 0.999,
+            "candidates": [
+                {
+                    "score": 0.999,
+                    "plate": "g04812"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "g048i2"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "g04b12"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "go4812"
+                },
+                {
+                    "score": 0.683,
+                    "plate": "g04bi2"
+                },
+                {
+                    "score": 0.683,
+                    "plate": "go48i2"
+                },
+                {
+                    "score": 0.683,
+                    "plate": "go4b12"
+                },
+                {
+                    "score": 0.525,
+                    "plate": "go4bi2"
+                }
+            ],
+            "dscore": 0.855,
+            "vehicle": {
+                "score": 0.923,
+                "type": "Sedan",
+                "box": {
+                    "xmin": 38,
+                    "ymin": 31,
+                    "xmax": 788,
+                    "ymax": 719
+                }
+            }
+        }
+    ],
+    "filename": "1414_tUUHa_G1_640.jpg",
+    "version": 1,
+    "camera_id": null,
+    "timestamp": "2024-12-03T14:14:20.764372Z",
+    "image_width": 1082,
+    "image_height": 727
+}

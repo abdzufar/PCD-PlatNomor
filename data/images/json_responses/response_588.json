@@ -1,0 +1,54 @@
+{
+    "processing_time": 86.221,
+    "results": [
+        {
+            "box": {
+                "xmin": 396,
+                "ymin": 594,
+                "xmax": 560,
+                "ymax": 638
+            },
+            "plate": "gt2380",
+            "region": {
+                "code": "cn",
+                "score": 0.844
+            },
+            "score": 0.999,
+            "candidates": [
+                {
+                    "score": 0.999,
+                    "plate": "gt2380"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "gt238o"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "gt23b0"
+                },
+                {
+                    "score": 0.683,
+                    "plate": "gt23bo"
+                }
+            ],
+            "dscore": 0.85,
+            "vehicle": {
+                "score": 0.915,
+                "type": "Sedan",
+                "box": {
+                    "xmin": 71,
+                    "ymin": 42,
+                    "xmax": 797,
+                    "ymax": 718
+                }
+            }
+        }
+    ],
+    "filename": "1411_72kbi_G1_588.jpg",
+    "version": 1,
+    "camera_id": null,
+    "timestamp": "2024-12-03T14:11:39.583276Z",
+    "image_width": 1082,
+    "image_height": 727
+}

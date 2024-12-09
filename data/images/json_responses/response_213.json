@@ -1,0 +1,42 @@
+{
+    "processing_time": 49.074,
+    "results": [
+        {
+            "box": {
+                "xmin": 382,
+                "ymin": 598,
+                "xmax": 553,
+                "ymax": 647
+            },
+            "plate": "gt9333",
+            "region": {
+                "code": "cn",
+                "score": 0.824
+            },
+            "score": 1.0,
+            "candidates": [
+                {
+                    "score": 1.0,
+                    "plate": "gt9333"
+                }
+            ],
+            "dscore": 0.829,
+            "vehicle": {
+                "score": 0.849,
+                "type": "Sedan",
+                "box": {
+                    "xmin": 69,
+                    "ymin": 38,
+                    "xmax": 780,
+                    "ymax": 710
+                }
+            }
+        }
+    ],
+    "filename": "1353_EoCwr_G1_213.jpg",
+    "version": 1,
+    "camera_id": null,
+    "timestamp": "2024-12-03T13:53:38.675909Z",
+    "image_width": 1082,
+    "image_height": 727
+}

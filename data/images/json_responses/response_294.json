@@ -1,0 +1,46 @@
+{
+    "processing_time": 21.904,
+    "results": [
+        {
+            "box": {
+                "xmin": 274,
+                "ymin": 562,
+                "xmax": 449,
+                "ymax": 616
+            },
+            "plate": "g17769",
+            "region": {
+                "code": "cn",
+                "score": 0.653
+            },
+            "score": 0.999,
+            "candidates": [
+                {
+                    "score": 0.999,
+                    "plate": "g17769"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "gi7769"
+                }
+            ],
+            "dscore": 0.823,
+            "vehicle": {
+                "score": 0.43,
+                "type": "Van",
+                "box": {
+                    "xmin": 0,
+                    "ymin": 0,
+                    "xmax": 802,
+                    "ymax": 683
+                }
+            }
+        }
+    ],
+    "filename": "1357_GLR1X_G1_294.jpg",
+    "version": 1,
+    "camera_id": null,
+    "timestamp": "2024-12-03T13:57:32.315130Z",
+    "image_width": 1082,
+    "image_height": 727
+}

@@ -1,0 +1,54 @@
+{
+    "processing_time": 38.851,
+    "results": [
+        {
+            "box": {
+                "xmin": 112,
+                "ymin": 531,
+                "xmax": 271,
+                "ymax": 583
+            },
+            "plate": "g05920",
+            "region": {
+                "code": "cn",
+                "score": 0.902
+            },
+            "score": 0.999,
+            "candidates": [
+                {
+                    "score": 0.999,
+                    "plate": "g05920"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "g0592o"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "go5920"
+                },
+                {
+                    "score": 0.683,
+                    "plate": "go592o"
+                }
+            ],
+            "dscore": 0.828,
+            "vehicle": {
+                "score": 0.372,
+                "type": "Bus",
+                "box": {
+                    "xmin": 0,
+                    "ymin": 0,
+                    "xmax": 637,
+                    "ymax": 608
+                }
+            }
+        }
+    ],
+    "filename": "1405_x9nFW_G1_460.jpg",
+    "version": 1,
+    "camera_id": null,
+    "timestamp": "2024-12-03T14:05:37.651414Z",
+    "image_width": 1082,
+    "image_height": 727
+}

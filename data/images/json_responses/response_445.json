@@ -1,0 +1,46 @@
+{
+    "processing_time": 40.324,
+    "results": [
+        {
+            "box": {
+                "xmin": 483,
+                "ymin": 515,
+                "xmax": 630,
+                "ymax": 563
+            },
+            "plate": "g95790",
+            "region": {
+                "code": "cn",
+                "score": 0.866
+            },
+            "score": 0.997,
+            "candidates": [
+                {
+                    "score": 0.997,
+                    "plate": "g95790"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "g9579o"
+                }
+            ],
+            "dscore": 0.805,
+            "vehicle": {
+                "score": 0.675,
+                "type": "Sedan",
+                "box": {
+                    "xmin": 245,
+                    "ymin": 0,
+                    "xmax": 884,
+                    "ymax": 626
+                }
+            }
+        }
+    ],
+    "filename": "1404_OXyE9_G1_445.jpg",
+    "version": 1,
+    "camera_id": null,
+    "timestamp": "2024-12-03T14:04:52.640550Z",
+    "image_width": 1082,
+    "image_height": 727
+}

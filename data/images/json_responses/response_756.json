@@ -1,0 +1,54 @@
+{
+    "processing_time": 38.997,
+    "results": [
+        {
+            "box": {
+                "xmin": 467,
+                "ymin": 505,
+                "xmax": 613,
+                "ymax": 545
+            },
+            "plate": "n28066",
+            "region": {
+                "code": "cn",
+                "score": 0.659
+            },
+            "score": 0.999,
+            "candidates": [
+                {
+                    "score": 0.999,
+                    "plate": "n28066"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "n28o66"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "n2b066"
+                },
+                {
+                    "score": 0.683,
+                    "plate": "n2bo66"
+                }
+            ],
+            "dscore": 0.801,
+            "vehicle": {
+                "score": 0.933,
+                "type": "Sedan",
+                "box": {
+                    "xmin": 186,
+                    "ymin": 1,
+                    "xmax": 839,
+                    "ymax": 622
+                }
+            }
+        }
+    ],
+    "filename": "1420_eoDzE_G1_756.jpg",
+    "version": 1,
+    "camera_id": null,
+    "timestamp": "2024-12-03T14:20:16.287271Z",
+    "image_width": 1082,
+    "image_height": 727
+}

@@ -1,0 +1,46 @@
+{
+    "processing_time": 85.166,
+    "results": [
+        {
+            "box": {
+                "xmin": 219,
+                "ymin": 499,
+                "xmax": 368,
+                "ymax": 546
+            },
+            "plate": "ghs991",
+            "region": {
+                "code": "cn",
+                "score": 0.878
+            },
+            "score": 1.0,
+            "candidates": [
+                {
+                    "score": 1.0,
+                    "plate": "ghs991"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "ghs99i"
+                }
+            ],
+            "dscore": 0.835,
+            "vehicle": {
+                "score": 0.459,
+                "type": "Bus",
+                "box": {
+                    "xmin": 0,
+                    "ymin": 0,
+                    "xmax": 659,
+                    "ymax": 602
+                }
+            }
+        }
+    ],
+    "filename": "1359_x04UO_G1_346.jpg",
+    "version": 1,
+    "camera_id": null,
+    "timestamp": "2024-12-03T13:59:54.429688Z",
+    "image_width": 1082,
+    "image_height": 727
+}

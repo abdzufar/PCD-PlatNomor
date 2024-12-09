@@ -1,0 +1,70 @@
+{
+    "processing_time": 153.227,
+    "results": [
+        {
+            "box": {
+                "xmin": 152,
+                "ymin": 513,
+                "xmax": 301,
+                "ymax": 558
+            },
+            "plate": "g00609",
+            "region": {
+                "code": "cn",
+                "score": 0.882
+            },
+            "score": 0.999,
+            "candidates": [
+                {
+                    "score": 0.999,
+                    "plate": "g00609"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "g006o9"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "g0o609"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "go0609"
+                },
+                {
+                    "score": 0.683,
+                    "plate": "g0o6o9"
+                },
+                {
+                    "score": 0.683,
+                    "plate": "go06o9"
+                },
+                {
+                    "score": 0.683,
+                    "plate": "goo609"
+                },
+                {
+                    "score": 0.524,
+                    "plate": "goo6o9"
+                }
+            ],
+            "dscore": 0.803,
+            "vehicle": {
+                "score": 0.65,
+                "type": "Sedan",
+                "box": {
+                    "xmin": 0,
+                    "ymin": 0,
+                    "xmax": 557,
+                    "ymax": 595
+                }
+            }
+        }
+    ],
+    "filename": "1412_we8oG_G1_598.jpg",
+    "version": 1,
+    "camera_id": null,
+    "timestamp": "2024-12-03T14:12:12.695326Z",
+    "image_width": 1082,
+    "image_height": 727
+}

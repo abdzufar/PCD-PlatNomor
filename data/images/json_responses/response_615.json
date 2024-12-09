@@ -1,0 +1,42 @@
+{
+    "processing_time": 34.545,
+    "results": [
+        {
+            "box": {
+                "xmin": 288,
+                "ymin": 595,
+                "xmax": 452,
+                "ymax": 641
+            },
+            "plate": "au666u",
+            "region": {
+                "code": "cn",
+                "score": 0.359
+            },
+            "score": 1.0,
+            "candidates": [
+                {
+                    "score": 1.0,
+                    "plate": "au666u"
+                }
+            ],
+            "dscore": 0.837,
+            "vehicle": {
+                "score": 0.922,
+                "type": "Sedan",
+                "box": {
+                    "xmin": 0,
+                    "ymin": 39,
+                    "xmax": 696,
+                    "ymax": 726
+                }
+            }
+        }
+    ],
+    "filename": "1413_moA2K_G1_615.jpg",
+    "version": 1,
+    "camera_id": null,
+    "timestamp": "2024-12-03T14:13:08.834833Z",
+    "image_width": 1082,
+    "image_height": 727
+}

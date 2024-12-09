@@ -1,0 +1,70 @@
+{
+    "processing_time": 40.535,
+    "results": [
+        {
+            "box": {
+                "xmin": 95,
+                "ymin": 597,
+                "xmax": 270,
+                "ymax": 654
+            },
+            "plate": "g02003",
+            "region": {
+                "code": "cn",
+                "score": 0.875
+            },
+            "score": 1.0,
+            "candidates": [
+                {
+                    "score": 1.0,
+                    "plate": "g02003"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "g020o3"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "g02o03"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "go2003"
+                },
+                {
+                    "score": 0.683,
+                    "plate": "g02oo3"
+                },
+                {
+                    "score": 0.683,
+                    "plate": "go20o3"
+                },
+                {
+                    "score": 0.683,
+                    "plate": "go2o03"
+                },
+                {
+                    "score": 0.525,
+                    "plate": "go2oo3"
+                }
+            ],
+            "dscore": 0.856,
+            "vehicle": {
+                "score": 0.638,
+                "type": "Sedan",
+                "box": {
+                    "xmin": 1,
+                    "ymin": 27,
+                    "xmax": 539,
+                    "ymax": 726
+                }
+            }
+        }
+    ],
+    "filename": "1343_tNNjj_G1_3.jpg",
+    "version": 1,
+    "camera_id": null,
+    "timestamp": "2024-12-03T13:43:45.408231Z",
+    "image_width": 1082,
+    "image_height": 727
+}

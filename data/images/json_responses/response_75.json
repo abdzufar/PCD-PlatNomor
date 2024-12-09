@@ -1,0 +1,46 @@
+{
+    "processing_time": 73.598,
+    "results": [
+        {
+            "box": {
+                "xmin": 422,
+                "ymin": 513,
+                "xmax": 573,
+                "ymax": 557
+            },
+            "plate": "gt2196",
+            "region": {
+                "code": "cn",
+                "score": 0.885
+            },
+            "score": 1.0,
+            "candidates": [
+                {
+                    "score": 1.0,
+                    "plate": "gt2196"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "gt2i96"
+                }
+            ],
+            "dscore": 0.837,
+            "vehicle": {
+                "score": 0.944,
+                "type": "Sedan",
+                "box": {
+                    "xmin": 161,
+                    "ymin": 14,
+                    "xmax": 780,
+                    "ymax": 615
+                }
+            }
+        }
+    ],
+    "filename": "1347_FPqJZ_G1_75.jpg",
+    "version": 1,
+    "camera_id": null,
+    "timestamp": "2024-12-03T13:47:14.709190Z",
+    "image_width": 1082,
+    "image_height": 727
+}

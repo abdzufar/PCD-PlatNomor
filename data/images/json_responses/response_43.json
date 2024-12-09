@@ -1,0 +1,70 @@
+{
+    "processing_time": 28.171,
+    "results": [
+        {
+            "box": {
+                "xmin": 430,
+                "ymin": 624,
+                "xmax": 604,
+                "ymax": 678
+            },
+            "plate": "g91112",
+            "region": {
+                "code": "cn",
+                "score": 0.631
+            },
+            "score": 1.0,
+            "candidates": [
+                {
+                    "score": 1.0,
+                    "plate": "g91112"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "g911i2"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "g91i12"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "g9i112"
+                },
+                {
+                    "score": 0.683,
+                    "plate": "g91ii2"
+                },
+                {
+                    "score": 0.683,
+                    "plate": "g9i1i2"
+                },
+                {
+                    "score": 0.683,
+                    "plate": "g9ii12"
+                },
+                {
+                    "score": 0.525,
+                    "plate": "g9iii2"
+                }
+            ],
+            "dscore": 0.827,
+            "vehicle": {
+                "score": 0.908,
+                "type": "Sedan",
+                "box": {
+                    "xmin": 92,
+                    "ymin": 20,
+                    "xmax": 859,
+                    "ymax": 724
+                }
+            }
+        }
+    ],
+    "filename": "1345_KcGBt_G1_43.jpg",
+    "version": 1,
+    "camera_id": null,
+    "timestamp": "2024-12-03T13:45:33.201971Z",
+    "image_width": 1082,
+    "image_height": 727
+}

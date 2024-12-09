@@ -1,0 +1,42 @@
+{
+    "processing_time": 87.038,
+    "results": [
+        {
+            "box": {
+                "xmin": 594,
+                "ymin": 540,
+                "xmax": 746,
+                "ymax": 586
+            },
+            "plate": "gt9345",
+            "region": {
+                "code": "cn",
+                "score": 0.841
+            },
+            "score": 1.0,
+            "candidates": [
+                {
+                    "score": 1.0,
+                    "plate": "gt9345"
+                }
+            ],
+            "dscore": 0.823,
+            "vehicle": {
+                "score": 0.547,
+                "type": "Van",
+                "box": {
+                    "xmin": 341,
+                    "ymin": 25,
+                    "xmax": 945,
+                    "ymax": 624
+                }
+            }
+        }
+    ],
+    "filename": "1422_qAkcV_G1_803.jpg",
+    "version": 1,
+    "camera_id": null,
+    "timestamp": "2024-12-03T14:22:28.335362Z",
+    "image_width": 1082,
+    "image_height": 727
+}

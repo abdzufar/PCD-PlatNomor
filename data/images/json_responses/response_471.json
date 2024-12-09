@@ -1,0 +1,46 @@
+{
+    "processing_time": 41.233,
+    "results": [
+        {
+            "box": {
+                "xmin": 65,
+                "ymin": 563,
+                "xmax": 248,
+                "ymax": 621
+            },
+            "plate": "g16537",
+            "region": {
+                "code": "cn",
+                "score": 0.606
+            },
+            "score": 0.994,
+            "candidates": [
+                {
+                    "score": 0.994,
+                    "plate": "g16537"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "gi6537"
+                }
+            ],
+            "dscore": 0.797,
+            "vehicle": {
+                "score": 0.432,
+                "type": "Van",
+                "box": {
+                    "xmin": 0,
+                    "ymin": 0,
+                    "xmax": 474,
+                    "ymax": 726
+                }
+            }
+        }
+    ],
+    "filename": "1406_fQ7mE_G1_471.jpg",
+    "version": 1,
+    "camera_id": null,
+    "timestamp": "2024-12-03T14:06:14.144382Z",
+    "image_width": 1082,
+    "image_height": 727
+}

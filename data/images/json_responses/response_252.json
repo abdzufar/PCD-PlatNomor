@@ -1,0 +1,46 @@
+{
+    "processing_time": 63.479,
+    "results": [
+        {
+            "box": {
+                "xmin": 459,
+                "ymin": 601,
+                "xmax": 625,
+                "ymax": 653
+            },
+            "plate": "ghc509",
+            "region": {
+                "code": "cn",
+                "score": 0.859
+            },
+            "score": 1.0,
+            "candidates": [
+                {
+                    "score": 1.0,
+                    "plate": "ghc509"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "ghc5o9"
+                }
+            ],
+            "dscore": 0.81,
+            "vehicle": {
+                "score": 0.742,
+                "type": "Sedan",
+                "box": {
+                    "xmin": 103,
+                    "ymin": 1,
+                    "xmax": 858,
+                    "ymax": 726
+                }
+            }
+        }
+    ],
+    "filename": "1355_sHbWn_G1_252.jpg",
+    "version": 1,
+    "camera_id": null,
+    "timestamp": "2024-12-03T13:55:29.658368Z",
+    "image_width": 1082,
+    "image_height": 727
+}

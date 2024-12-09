@@ -1,0 +1,78 @@
+{
+    "processing_time": 70.94,
+    "results": [
+        {
+            "box": {
+                "xmin": 366,
+                "ymin": 559,
+                "xmax": 533,
+                "ymax": 610
+            },
+            "plate": "08ga067",
+            "region": {
+                "code": "cn",
+                "score": 0.644
+            },
+            "score": 0.878,
+            "candidates": [
+                {
+                    "score": 0.878,
+                    "plate": "08ga067"
+                },
+                {
+                    "score": 0.873,
+                    "plate": "09ga067"
+                },
+                {
+                    "score": 0.851,
+                    "plate": "0bga067"
+                },
+                {
+                    "score": 0.798,
+                    "plate": "008ga067"
+                },
+                {
+                    "score": 0.794,
+                    "plate": "009ga067"
+                },
+                {
+                    "score": 0.775,
+                    "plate": "00bga067"
+                },
+                {
+                    "score": 0.775,
+                    "plate": "o08ga067"
+                },
+                {
+                    "score": 0.771,
+                    "plate": "o09ga067"
+                },
+                {
+                    "score": 0.753,
+                    "plate": "o8ga067"
+                },
+                {
+                    "score": 0.751,
+                    "plate": "o0bga067"
+                }
+            ],
+            "dscore": 0.891,
+            "vehicle": {
+                "score": 0.922,
+                "type": "Sedan",
+                "box": {
+                    "xmin": 34,
+                    "ymin": 4,
+                    "xmax": 778,
+                    "ymax": 686
+                }
+            }
+        }
+    ],
+    "filename": "1348_3Hck0_G1_107.jpg",
+    "version": 1,
+    "camera_id": null,
+    "timestamp": "2024-12-03T13:48:45.969545Z",
+    "image_width": 1082,
+    "image_height": 727
+}

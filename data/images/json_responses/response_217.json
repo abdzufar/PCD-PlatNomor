@@ -1,0 +1,70 @@
+{
+    "processing_time": 67.979,
+    "results": [
+        {
+            "box": {
+                "xmin": 333,
+                "ymin": 590,
+                "xmax": 502,
+                "ymax": 643
+            },
+            "plate": "f7a086",
+            "region": {
+                "code": "cn",
+                "score": 0.604
+            },
+            "score": 0.985,
+            "candidates": [
+                {
+                    "score": 0.985,
+                    "plate": "f7a086"
+                },
+                {
+                    "score": 0.842,
+                    "plate": "f74086"
+                },
+                {
+                    "score": 0.827,
+                    "plate": "f7a0b6"
+                },
+                {
+                    "score": 0.827,
+                    "plate": "f7ao86"
+                },
+                {
+                    "score": 0.684,
+                    "plate": "f740b6"
+                },
+                {
+                    "score": 0.684,
+                    "plate": "f74o86"
+                },
+                {
+                    "score": 0.668,
+                    "plate": "f7aob6"
+                },
+                {
+                    "score": 0.526,
+                    "plate": "f74ob6"
+                }
+            ],
+            "dscore": 0.84,
+            "vehicle": {
+                "score": 0.846,
+                "type": "Sedan",
+                "box": {
+                    "xmin": 26,
+                    "ymin": 2,
+                    "xmax": 745,
+                    "ymax": 726
+                }
+            }
+        }
+    ],
+    "filename": "1353_PGB2H_G1_217.jpg",
+    "version": 1,
+    "camera_id": null,
+    "timestamp": "2024-12-03T13:53:47.930243Z",
+    "image_width": 1082,
+    "image_height": 727
+}

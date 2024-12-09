@@ -1,0 +1,70 @@
+{
+    "processing_time": 42.816,
+    "results": [
+        {
+            "box": {
+                "xmin": 289,
+                "ymin": 491,
+                "xmax": 440,
+                "ymax": 538
+            },
+            "plate": "g00738",
+            "region": {
+                "code": "cn",
+                "score": 0.894
+            },
+            "score": 0.995,
+            "candidates": [
+                {
+                    "score": 0.995,
+                    "plate": "g00738"
+                },
+                {
+                    "score": 0.84,
+                    "plate": "go0738"
+                },
+                {
+                    "score": 0.838,
+                    "plate": "g0o738"
+                },
+                {
+                    "score": 0.837,
+                    "plate": "g0073b"
+                },
+                {
+                    "score": 0.682,
+                    "plate": "goo738"
+                },
+                {
+                    "score": 0.681,
+                    "plate": "go073b"
+                },
+                {
+                    "score": 0.68,
+                    "plate": "g0o73b"
+                },
+                {
+                    "score": 0.524,
+                    "plate": "goo73b"
+                }
+            ],
+            "dscore": 0.849,
+            "vehicle": {
+                "score": 0.84,
+                "type": "Big Truck",
+                "box": {
+                    "xmin": 0,
+                    "ymin": 0,
+                    "xmax": 840,
+                    "ymax": 572
+                }
+            }
+        }
+    ],
+    "filename": "1358_EeaBl_G1_320.jpg",
+    "version": 1,
+    "camera_id": null,
+    "timestamp": "2024-12-03T13:58:43.803617Z",
+    "image_width": 1082,
+    "image_height": 727
+}

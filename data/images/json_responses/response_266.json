@@ -1,0 +1,42 @@
+{
+    "processing_time": 43.575,
+    "results": [
+        {
+            "box": {
+                "xmin": 106,
+                "ymin": 533,
+                "xmax": 253,
+                "ymax": 577
+            },
+            "plate": "g93749",
+            "region": {
+                "code": "cn",
+                "score": 0.821
+            },
+            "score": 1.0,
+            "candidates": [
+                {
+                    "score": 1.0,
+                    "plate": "g93749"
+                }
+            ],
+            "dscore": 0.826,
+            "vehicle": {
+                "score": 0.752,
+                "type": "Van",
+                "box": {
+                    "xmin": 1,
+                    "ymin": 0,
+                    "xmax": 478,
+                    "ymax": 605
+                }
+            }
+        }
+    ],
+    "filename": "1356_1p2ix_G1_266.jpg",
+    "version": 1,
+    "camera_id": null,
+    "timestamp": "2024-12-03T13:56:09.697044Z",
+    "image_width": 1082,
+    "image_height": 727
+}

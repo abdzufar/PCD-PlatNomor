@@ -1,0 +1,42 @@
+{
+    "processing_time": 61.508,
+    "results": [
+        {
+            "box": {
+                "xmin": 178,
+                "ymin": 592,
+                "xmax": 352,
+                "ymax": 646
+            },
+            "plate": "gw666r",
+            "region": {
+                "code": "cn",
+                "score": 0.497
+            },
+            "score": 0.998,
+            "candidates": [
+                {
+                    "score": 0.998,
+                    "plate": "gw666r"
+                }
+            ],
+            "dscore": 0.846,
+            "vehicle": {
+                "score": 0.745,
+                "type": "Van",
+                "box": {
+                    "xmin": 0,
+                    "ymin": 0,
+                    "xmax": 616,
+                    "ymax": 704
+                }
+            }
+        }
+    ],
+    "filename": "1403_keO7O_G1_411.jpg",
+    "version": 1,
+    "camera_id": null,
+    "timestamp": "2024-12-03T14:03:05.192576Z",
+    "image_width": 1082,
+    "image_height": 727
+}

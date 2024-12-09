@@ -1,0 +1,54 @@
+{
+    "processing_time": 107.874,
+    "results": [
+        {
+            "box": {
+                "xmin": 531,
+                "ymin": 520,
+                "xmax": 684,
+                "ymax": 570
+            },
+            "plate": "g01233",
+            "region": {
+                "code": "cn",
+                "score": 0.931
+            },
+            "score": 0.996,
+            "candidates": [
+                {
+                    "score": 0.996,
+                    "plate": "g01233"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "go1233"
+                },
+                {
+                    "score": 0.838,
+                    "plate": "g0i233"
+                },
+                {
+                    "score": 0.683,
+                    "plate": "goi233"
+                }
+            ],
+            "dscore": 0.838,
+            "vehicle": {
+                "score": 0.593,
+                "type": "Big Truck",
+                "box": {
+                    "xmin": 145,
+                    "ymin": 1,
+                    "xmax": 1058,
+                    "ymax": 606
+                }
+            }
+        }
+    ],
+    "filename": "1359_xM898_G1_344.jpg",
+    "version": 1,
+    "camera_id": null,
+    "timestamp": "2024-12-03T13:59:51.282615Z",
+    "image_width": 1082,
+    "image_height": 727
+}

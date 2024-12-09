@@ -1,0 +1,105 @@
+{
+    "processing_time": 38.94,
+    "results": [
+        {
+            "box": {
+                "xmin": 157,
+                "ymin": 586,
+                "xmax": 329,
+                "ymax": 641
+            },
+            "plate": "gt0073",
+            "region": {
+                "code": "cn",
+                "score": 0.904
+            },
+            "score": 1.0,
+            "candidates": [
+                {
+                    "score": 1.0,
+                    "plate": "gt0073"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "gt0o73"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "gto073"
+                },
+                {
+                    "score": 0.683,
+                    "plate": "gtoo73"
+                }
+            ],
+            "dscore": 0.817,
+            "vehicle": {
+                "score": 0.843,
+                "type": "Sedan",
+                "box": {
+                    "xmin": 0,
+                    "ymin": 7,
+                    "xmax": 581,
+                    "ymax": 716
+                }
+            }
+        },
+        {
+            "box": {
+                "xmin": 81,
+                "ymin": 0,
+                "xmax": 310,
+                "ymax": 40
+            },
+            "plate": "taxi",
+            "region": {
+                "code": "be",
+                "score": 0.011
+            },
+            "score": 0.785,
+            "candidates": [
+                {
+                    "score": 0.785,
+                    "plate": "taxi"
+                },
+                {
+                    "score": 0.734,
+                    "plate": "1axi"
+                },
+                {
+                    "score": 0.711,
+                    "plate": "tax1"
+                },
+                {
+                    "score": 0.659,
+                    "plate": "1ax1"
+                },
+                {
+                    "score": 0.655,
+                    "plate": "iaxi"
+                },
+                {
+                    "score": 0.58,
+                    "plate": "iax1"
+                }
+            ],
+            "dscore": 0.018,
+            "vehicle": {
+                "score": 0.0,
+                "type": "Unknown",
+                "box": {
+                    "xmin": 0,
+                    "ymin": 0,
+                    "xmax": 0,
+                    "ymax": 0
+                }
+            }
+        }
+    ],
+    "filename": "1412_FhiiQ_G1_595.jpg",
+    "version": 1,
+    "camera_id": null,
+    "timestamp": "2024-12-03T14:12:03.858313Z",
+    "image_width": 1082,
+    "image_height": 727
+}

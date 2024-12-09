@@ -1,0 +1,54 @@
+{
+    "processing_time": 30.862,
+    "results": [
+        {
+            "box": {
+                "xmin": 463,
+                "ymin": 514,
+                "xmax": 609,
+                "ymax": 555
+            },
+            "plate": "gfy668",
+            "region": {
+                "code": "cn",
+                "score": 0.629
+            },
+            "score": 0.999,
+            "candidates": [
+                {
+                    "score": 0.999,
+                    "plate": "gfy668"
+                },
+                {
+                    "score": 0.864,
+                    "plate": "ggfy668"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "gfy66b"
+                },
+                {
+                    "score": 0.729,
+                    "plate": "ggfy66b"
+                }
+            ],
+            "dscore": 0.834,
+            "vehicle": {
+                "score": 0.595,
+                "type": "Sedan",
+                "box": {
+                    "xmin": 169,
+                    "ymin": 1,
+                    "xmax": 871,
+                    "ymax": 616
+                }
+            }
+        }
+    ],
+    "filename": "1357_ZivXX_G1_299.jpg",
+    "version": 1,
+    "camera_id": null,
+    "timestamp": "2024-12-03T13:57:46.357470Z",
+    "image_width": 1082,
+    "image_height": 727
+}

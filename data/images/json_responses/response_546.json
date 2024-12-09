@@ -1,0 +1,113 @@
+{
+    "processing_time": 74.264,
+    "results": [
+        {
+            "box": {
+                "xmin": 399,
+                "ymin": 514,
+                "xmax": 539,
+                "ymax": 550
+            },
+            "plate": "gt9205",
+            "region": {
+                "code": "cn",
+                "score": 0.691
+            },
+            "score": 0.999,
+            "candidates": [
+                {
+                    "score": 0.999,
+                    "plate": "gt9205"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "gt92o5"
+                }
+            ],
+            "dscore": 0.815,
+            "vehicle": {
+                "score": 0.724,
+                "type": "Van",
+                "box": {
+                    "xmin": 155,
+                    "ymin": 1,
+                    "xmax": 747,
+                    "ymax": 592
+                }
+            }
+        },
+        {
+            "box": {
+                "xmin": 346,
+                "ymin": 0,
+                "xmax": 528,
+                "ymax": 44
+            },
+            "plate": "taxi",
+            "region": {
+                "code": "us-ut",
+                "score": 0.017
+            },
+            "score": 0.731,
+            "candidates": [
+                {
+                    "score": 0.731,
+                    "plate": "taxi"
+                },
+                {
+                    "score": 0.72,
+                    "plate": "taxi0"
+                },
+                {
+                    "score": 0.693,
+                    "plate": "taxio"
+                },
+                {
+                    "score": 0.687,
+                    "plate": "taxia"
+                },
+                {
+                    "score": 0.685,
+                    "plate": "taxi7"
+                },
+                {
+                    "score": 0.676,
+                    "plate": "taxi0a"
+                },
+                {
+                    "score": 0.674,
+                    "plate": "taxi70"
+                },
+                {
+                    "score": 0.651,
+                    "plate": "taxi8"
+                },
+                {
+                    "score": 0.649,
+                    "plate": "taxioa"
+                },
+                {
+                    "score": 0.647,
+                    "plate": "taxi7o"
+                }
+            ],
+            "dscore": 0.119,
+            "vehicle": {
+                "score": 0.0,
+                "type": "Unknown",
+                "box": {
+                    "xmin": 0,
+                    "ymin": 0,
+                    "xmax": 0,
+                    "ymax": 0
+                }
+            }
+        }
+    ],
+    "filename": "1409_ycvs7_G1_546.jpg",
+    "version": 1,
+    "camera_id": null,
+    "timestamp": "2024-12-03T14:09:51.507107Z",
+    "image_width": 1082,
+    "image_height": 727
+}

@@ -1,0 +1,78 @@
+{
+    "processing_time": 84.459,
+    "results": [
+        {
+            "box": {
+                "xmin": 410,
+                "ymin": 575,
+                "xmax": 583,
+                "ymax": 632
+            },
+            "plate": "g08120",
+            "region": {
+                "code": "cn",
+                "score": 0.864
+            },
+            "score": 0.999,
+            "candidates": [
+                {
+                    "score": 0.999,
+                    "plate": "g08120"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "g08i20"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "g0b120"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "go8120"
+                },
+                {
+                    "score": 0.84,
+                    "plate": "g0812o"
+                },
+                {
+                    "score": 0.683,
+                    "plate": "g0bi20"
+                },
+                {
+                    "score": 0.682,
+                    "plate": "g08i2o"
+                },
+                {
+                    "score": 0.682,
+                    "plate": "g0b12o"
+                },
+                {
+                    "score": 0.682,
+                    "plate": "go812o"
+                },
+                {
+                    "score": 0.682,
+                    "plate": "go8i20"
+                }
+            ],
+            "dscore": 0.85,
+            "vehicle": {
+                "score": 0.498,
+                "type": "Van",
+                "box": {
+                    "xmin": 8,
+                    "ymin": 0,
+                    "xmax": 959,
+                    "ymax": 653
+                }
+            }
+        }
+    ],
+    "filename": "1351_R7Yit_G1_163.jpg",
+    "version": 1,
+    "camera_id": null,
+    "timestamp": "2024-12-03T13:51:26.672068Z",
+    "image_width": 1082,
+    "image_height": 727
+}

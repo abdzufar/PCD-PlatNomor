@@ -1,0 +1,46 @@
+{
+    "processing_time": 121.977,
+    "results": [
+        {
+            "box": {
+                "xmin": 409,
+                "ymin": 589,
+                "xmax": 581,
+                "ymax": 644
+            },
+            "plate": "g92990",
+            "region": {
+                "code": "cn",
+                "score": 0.859
+            },
+            "score": 0.999,
+            "candidates": [
+                {
+                    "score": 0.999,
+                    "plate": "g92990"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "g9299o"
+                }
+            ],
+            "dscore": 0.858,
+            "vehicle": {
+                "score": 0.888,
+                "type": "Sedan",
+                "box": {
+                    "xmin": 72,
+                    "ymin": 35,
+                    "xmax": 823,
+                    "ymax": 725
+                }
+            }
+        }
+    ],
+    "filename": "1353_M670r_G1_200.jpg",
+    "version": 1,
+    "camera_id": null,
+    "timestamp": "2024-12-03T13:53:05.666706Z",
+    "image_width": 1082,
+    "image_height": 727
+}

@@ -1,0 +1,46 @@
+{
+    "processing_time": 33.457,
+    "results": [
+        {
+            "box": {
+                "xmin": 448,
+                "ymin": 606,
+                "xmax": 617,
+                "ymax": 657
+            },
+            "plate": "gt1325",
+            "region": {
+                "code": "cn",
+                "score": 0.805
+            },
+            "score": 1.0,
+            "candidates": [
+                {
+                    "score": 1.0,
+                    "plate": "gt1325"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "gti325"
+                }
+            ],
+            "dscore": 0.855,
+            "vehicle": {
+                "score": 0.919,
+                "type": "Sedan",
+                "box": {
+                    "xmin": 124,
+                    "ymin": 41,
+                    "xmax": 852,
+                    "ymax": 726
+                }
+            }
+        }
+    ],
+    "filename": "1414_yGmNQ_G1_635.jpg",
+    "version": 1,
+    "camera_id": null,
+    "timestamp": "2024-12-03T14:14:04.087652Z",
+    "image_width": 1082,
+    "image_height": 727
+}

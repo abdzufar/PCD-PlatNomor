@@ -1,0 +1,46 @@
+{
+    "processing_time": 92.271,
+    "results": [
+        {
+            "box": {
+                "xmin": 49,
+                "ymin": 604,
+                "xmax": 218,
+                "ymax": 653
+            },
+            "plate": "gt2205",
+            "region": {
+                "code": "cn",
+                "score": 0.844
+            },
+            "score": 1.0,
+            "candidates": [
+                {
+                    "score": 1.0,
+                    "plate": "gt2205"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "gt22o5"
+                }
+            ],
+            "dscore": 0.853,
+            "vehicle": {
+                "score": 0.502,
+                "type": "Sedan",
+                "box": {
+                    "xmin": 0,
+                    "ymin": 42,
+                    "xmax": 464,
+                    "ymax": 721
+                }
+            }
+        }
+    ],
+    "filename": "1345_v0oSq_G1_39.jpg",
+    "version": 1,
+    "camera_id": null,
+    "timestamp": "2024-12-03T13:45:22.047369Z",
+    "image_width": 1082,
+    "image_height": 727
+}

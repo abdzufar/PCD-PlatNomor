@@ -1,0 +1,54 @@
+{
+    "processing_time": 56.658,
+    "results": [
+        {
+            "box": {
+                "xmin": 304,
+                "ymin": 592,
+                "xmax": 479,
+                "ymax": 642
+            },
+            "plate": "g06136",
+            "region": {
+                "code": "cn",
+                "score": 0.558
+            },
+            "score": 0.999,
+            "candidates": [
+                {
+                    "score": 0.999,
+                    "plate": "g06136"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "g06i36"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "go6136"
+                },
+                {
+                    "score": 0.683,
+                    "plate": "go6i36"
+                }
+            ],
+            "dscore": 0.83,
+            "vehicle": {
+                "score": 0.472,
+                "type": "Bus",
+                "box": {
+                    "xmin": 1,
+                    "ymin": 0,
+                    "xmax": 919,
+                    "ymax": 698
+                }
+            }
+        }
+    ],
+    "filename": "1408_0zAFR_G1_523.jpg",
+    "version": 1,
+    "camera_id": null,
+    "timestamp": "2024-12-03T14:08:32.161796Z",
+    "image_width": 1082,
+    "image_height": 727
+}

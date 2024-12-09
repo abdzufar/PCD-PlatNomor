@@ -1,0 +1,70 @@
+{
+    "processing_time": 31.32,
+    "results": [
+        {
+            "box": {
+                "xmin": 300,
+                "ymin": 593,
+                "xmax": 465,
+                "ymax": 642
+            },
+            "plate": "ba5158",
+            "region": {
+                "code": "cn",
+                "score": 0.763
+            },
+            "score": 1.0,
+            "candidates": [
+                {
+                    "score": 1.0,
+                    "plate": "ba5158"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "ba515b"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "ba5i58"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "8a5158"
+                },
+                {
+                    "score": 0.683,
+                    "plate": "ba5i5b"
+                },
+                {
+                    "score": 0.683,
+                    "plate": "8a515b"
+                },
+                {
+                    "score": 0.683,
+                    "plate": "8a5i58"
+                },
+                {
+                    "score": 0.525,
+                    "plate": "8a5i5b"
+                }
+            ],
+            "dscore": 0.865,
+            "vehicle": {
+                "score": 0.92,
+                "type": "Sedan",
+                "box": {
+                    "xmin": 0,
+                    "ymin": 51,
+                    "xmax": 713,
+                    "ymax": 719
+                }
+            }
+        }
+    ],
+    "filename": "1402_kA4RL_G1_403.jpg",
+    "version": 1,
+    "camera_id": null,
+    "timestamp": "2024-12-03T14:02:40.447690Z",
+    "image_width": 1082,
+    "image_height": 727
+}

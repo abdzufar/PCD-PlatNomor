@@ -1,0 +1,54 @@
+{
+    "processing_time": 83.737,
+    "results": [
+        {
+            "box": {
+                "xmin": 468,
+                "ymin": 610,
+                "xmax": 636,
+                "ymax": 663
+            },
+            "plate": "g95161",
+            "region": {
+                "code": "cn",
+                "score": 0.897
+            },
+            "score": 0.999,
+            "candidates": [
+                {
+                    "score": 0.999,
+                    "plate": "g95161"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "g9516i"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "g95i61"
+                },
+                {
+                    "score": 0.683,
+                    "plate": "g95i6i"
+                }
+            ],
+            "dscore": 0.863,
+            "vehicle": {
+                "score": 0.941,
+                "type": "Sedan",
+                "box": {
+                    "xmin": 135,
+                    "ymin": 36,
+                    "xmax": 865,
+                    "ymax": 726
+                }
+            }
+        }
+    ],
+    "filename": "1344_HEHqb_G1_11.jpg",
+    "version": 1,
+    "camera_id": null,
+    "timestamp": "2024-12-03T13:44:07.045699Z",
+    "image_width": 1082,
+    "image_height": 727
+}

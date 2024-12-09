@@ -1,0 +1,113 @@
+{
+    "processing_time": 115.639,
+    "results": [
+        {
+            "box": {
+                "xmin": 458,
+                "ymin": 527,
+                "xmax": 609,
+                "ymax": 569
+            },
+            "plate": "gt1899",
+            "region": {
+                "code": "cn",
+                "score": 0.745
+            },
+            "score": 0.999,
+            "candidates": [
+                {
+                    "score": 0.999,
+                    "plate": "gt1899"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "gt1b99"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "gti899"
+                },
+                {
+                    "score": 0.683,
+                    "plate": "gtib99"
+                }
+            ],
+            "dscore": 0.822,
+            "vehicle": {
+                "score": 0.596,
+                "type": "Sedan",
+                "box": {
+                    "xmin": 217,
+                    "ymin": 14,
+                    "xmax": 816,
+                    "ymax": 606
+                }
+            }
+        },
+        {
+            "box": {
+                "xmin": 412,
+                "ymin": 1,
+                "xmax": 596,
+                "ymax": 49
+            },
+            "plate": "taxi",
+            "region": {
+                "code": "ru",
+                "score": 0.014
+            },
+            "score": 0.934,
+            "candidates": [
+                {
+                    "score": 0.934,
+                    "plate": "taxi"
+                },
+                {
+                    "score": 0.793,
+                    "plate": "tax1"
+                },
+                {
+                    "score": 0.781,
+                    "plate": "taxid"
+                },
+                {
+                    "score": 0.761,
+                    "plate": "taxia"
+                },
+                {
+                    "score": 0.668,
+                    "plate": "tax1d"
+                },
+                {
+                    "score": 0.662,
+                    "plate": "taxida"
+                },
+                {
+                    "score": 0.648,
+                    "plate": "tax1a"
+                },
+                {
+                    "score": 0.568,
+                    "plate": "tax1da"
+                }
+            ],
+            "dscore": 0.164,
+            "vehicle": {
+                "score": 0.0,
+                "type": "Unknown",
+                "box": {
+                    "xmin": 0,
+                    "ymin": 0,
+                    "xmax": 0,
+                    "ymax": 0
+                }
+            }
+        }
+    ],
+    "filename": "1350_um35y_G1_149.jpg",
+    "version": 1,
+    "camera_id": null,
+    "timestamp": "2024-12-03T13:50:48.361983Z",
+    "image_width": 1082,
+    "image_height": 727
+}

@@ -1,0 +1,78 @@
+{
+    "processing_time": 37.538,
+    "results": [
+        {
+            "box": {
+                "xmin": 177,
+                "ymin": 616,
+                "xmax": 348,
+                "ymax": 669
+            },
+            "plate": "g01121",
+            "region": {
+                "code": "cn",
+                "score": 0.851
+            },
+            "score": 0.983,
+            "candidates": [
+                {
+                    "score": 0.983,
+                    "plate": "g01121"
+                },
+                {
+                    "score": 0.847,
+                    "plate": "go1121"
+                },
+                {
+                    "score": 0.825,
+                    "plate": "g0i121"
+                },
+                {
+                    "score": 0.824,
+                    "plate": "g0112i"
+                },
+                {
+                    "score": 0.824,
+                    "plate": "g01i21"
+                },
+                {
+                    "score": 0.689,
+                    "plate": "go112i"
+                },
+                {
+                    "score": 0.689,
+                    "plate": "go1i21"
+                },
+                {
+                    "score": 0.689,
+                    "plate": "goi121"
+                },
+                {
+                    "score": 0.666,
+                    "plate": "g01i2i"
+                },
+                {
+                    "score": 0.666,
+                    "plate": "g0i12i"
+                }
+            ],
+            "dscore": 0.86,
+            "vehicle": {
+                "score": 0.711,
+                "type": "Sedan",
+                "box": {
+                    "xmin": 0,
+                    "ymin": 6,
+                    "xmax": 601,
+                    "ymax": 711
+                }
+            }
+        }
+    ],
+    "filename": "1350_feEDo_G1_137.jpg",
+    "version": 1,
+    "camera_id": null,
+    "timestamp": "2024-12-03T13:50:12.115127Z",
+    "image_width": 1082,
+    "image_height": 727
+}

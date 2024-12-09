@@ -1,0 +1,113 @@
+{
+    "processing_time": 100.617,
+    "results": [
+        {
+            "box": {
+                "xmin": 269,
+                "ymin": 510,
+                "xmax": 415,
+                "ymax": 553
+            },
+            "plate": "gt2149",
+            "region": {
+                "code": "cn",
+                "score": 0.862
+            },
+            "score": 1.0,
+            "candidates": [
+                {
+                    "score": 1.0,
+                    "plate": "gt2149"
+                },
+                {
+                    "score": 0.842,
+                    "plate": "gt2i49"
+                }
+            ],
+            "dscore": 0.817,
+            "vehicle": {
+                "score": 0.738,
+                "type": "Sedan",
+                "box": {
+                    "xmin": 49,
+                    "ymin": 1,
+                    "xmax": 618,
+                    "ymax": 610
+                }
+            }
+        },
+        {
+            "box": {
+                "xmin": 235,
+                "ymin": 1,
+                "xmax": 415,
+                "ymax": 46
+            },
+            "plate": "taxi",
+            "region": {
+                "code": "ru",
+                "score": 0.008
+            },
+            "score": 0.874,
+            "candidates": [
+                {
+                    "score": 0.874,
+                    "plate": "taxi"
+                },
+                {
+                    "score": 0.809,
+                    "plate": "taxi6"
+                },
+                {
+                    "score": 0.742,
+                    "plate": "taxi1"
+                },
+                {
+                    "score": 0.738,
+                    "plate": "taxia"
+                },
+                {
+                    "score": 0.736,
+                    "plate": "taxii"
+                },
+                {
+                    "score": 0.694,
+                    "plate": "tax1"
+                },
+                {
+                    "score": 0.688,
+                    "plate": "taxi16"
+                },
+                {
+                    "score": 0.684,
+                    "plate": "taxi6a"
+                },
+                {
+                    "score": 0.683,
+                    "plate": "taxii6"
+                },
+                {
+                    "score": 0.645,
+                    "plate": "taxi1a"
+                }
+            ],
+            "dscore": 0.188,
+            "vehicle": {
+                "score": 0.0,
+                "type": "Unknown",
+                "box": {
+                    "xmin": 0,
+                    "ymin": 0,
+                    "xmax": 0,
+                    "ymax": 0
+                }
+            }
+        }
+    ],
+    "filename": "1407_iwmr2_G1_502.jpg",
+    "version": 1,
+    "camera_id": null,
+    "timestamp": "2024-12-03T14:07:43.438187Z",
+    "image_width": 1082,
+    "image_height": 727
+}

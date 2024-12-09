@@ -1,0 +1,78 @@
+{
+    "processing_time": 60.721,
+    "results": [
+        {
+            "box": {
+                "xmin": 297,
+                "ymin": 586,
+                "xmax": 466,
+                "ymax": 639
+            },
+            "plate": "gt1881",
+            "region": {
+                "code": "cn",
+                "score": 0.724
+            },
+            "score": 0.999,
+            "candidates": [
+                {
+                    "score": 0.999,
+                    "plate": "gt1881"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "gt188i"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "gt18b1"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "gt1b81"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "gti881"
+                },
+                {
+                    "score": 0.683,
+                    "plate": "gt18bi"
+                },
+                {
+                    "score": 0.683,
+                    "plate": "gt1b8i"
+                },
+                {
+                    "score": 0.683,
+                    "plate": "gt1bb1"
+                },
+                {
+                    "score": 0.683,
+                    "plate": "gti88i"
+                },
+                {
+                    "score": 0.683,
+                    "plate": "gti8b1"
+                }
+            ],
+            "dscore": 0.849,
+            "vehicle": {
+                "score": 0.897,
+                "type": "Sedan",
+                "box": {
+                    "xmin": 2,
+                    "ymin": 37,
+                    "xmax": 689,
+                    "ymax": 722
+                }
+            }
+        }
+    ],
+    "filename": "1416_mwgJ4_G1_674.jpg",
+    "version": 1,
+    "camera_id": null,
+    "timestamp": "2024-12-03T14:16:00.099168Z",
+    "image_width": 1082,
+    "image_height": 727
+}

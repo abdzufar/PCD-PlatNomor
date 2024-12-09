@@ -1,0 +1,46 @@
+{
+    "processing_time": 66.237,
+    "results": [
+        {
+            "box": {
+                "xmin": 264,
+                "ymin": 591,
+                "xmax": 436,
+                "ymax": 645
+            },
+            "plate": "g90732",
+            "region": {
+                "code": "cn",
+                "score": 0.886
+            },
+            "score": 0.998,
+            "candidates": [
+                {
+                    "score": 0.998,
+                    "plate": "g90732"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "g9o732"
+                }
+            ],
+            "dscore": 0.851,
+            "vehicle": {
+                "score": 0.862,
+                "type": "Sedan",
+                "box": {
+                    "xmin": 0,
+                    "ymin": 43,
+                    "xmax": 694,
+                    "ymax": 725
+                }
+            }
+        }
+    ],
+    "filename": "1401_5DQPl_G1_379.jpg",
+    "version": 1,
+    "camera_id": null,
+    "timestamp": "2024-12-03T14:01:26.603679Z",
+    "image_width": 1082,
+    "image_height": 727
+}

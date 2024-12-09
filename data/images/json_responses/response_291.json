@@ -1,0 +1,46 @@
+{
+    "processing_time": 80.976,
+    "results": [
+        {
+            "box": {
+                "xmin": 410,
+                "ymin": 593,
+                "xmax": 579,
+                "ymax": 647
+            },
+            "plate": "e55037",
+            "region": {
+                "code": "cn",
+                "score": 0.705
+            },
+            "score": 1.0,
+            "candidates": [
+                {
+                    "score": 1.0,
+                    "plate": "e55037"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "e55o37"
+                }
+            ],
+            "dscore": 0.844,
+            "vehicle": {
+                "score": 0.901,
+                "type": "Sedan",
+                "box": {
+                    "xmin": 55,
+                    "ymin": 20,
+                    "xmax": 838,
+                    "ymax": 726
+                }
+            }
+        }
+    ],
+    "filename": "1357_JA9xz_G1_291.jpg",
+    "version": 1,
+    "camera_id": null,
+    "timestamp": "2024-12-03T13:57:19.833710Z",
+    "image_width": 1082,
+    "image_height": 727
+}

@@ -1,0 +1,58 @@
+{
+    "processing_time": 43.81,
+    "results": [
+        {
+            "box": {
+                "xmin": 585,
+                "ymin": 594,
+                "xmax": 748,
+                "ymax": 641
+            },
+            "plate": "gb008",
+            "region": {
+                "code": "cn",
+                "score": 0.151
+            },
+            "score": 0.889,
+            "candidates": [
+                {
+                    "score": 0.889,
+                    "plate": "gb008"
+                },
+                {
+                    "score": 0.699,
+                    "plate": "g8008"
+                },
+                {
+                    "score": 0.667,
+                    "plate": "g8o08"
+                },
+                {
+                    "score": 0.552,
+                    "plate": "g80o8"
+                },
+                {
+                    "score": 0.509,
+                    "plate": "g800b"
+                }
+            ],
+            "dscore": 0.851,
+            "vehicle": {
+                "score": 0.846,
+                "type": "Sedan",
+                "box": {
+                    "xmin": 250,
+                    "ymin": 1,
+                    "xmax": 980,
+                    "ymax": 714
+                }
+            }
+        }
+    ],
+    "filename": "1401_apmKr_G1_388.jpg",
+    "version": 1,
+    "camera_id": null,
+    "timestamp": "2024-12-03T14:01:53.014626Z",
+    "image_width": 1082,
+    "image_height": 727
+}

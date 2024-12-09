@@ -1,0 +1,121 @@
+{
+    "processing_time": 62.935,
+    "results": [
+        {
+            "box": {
+                "xmin": 455,
+                "ymin": 597,
+                "xmax": 625,
+                "ymax": 649
+            },
+            "plate": "gt2090",
+            "region": {
+                "code": "cn",
+                "score": 0.857
+            },
+            "score": 1.0,
+            "candidates": [
+                {
+                    "score": 1.0,
+                    "plate": "gt2090"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "gt209o"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "gt2o90"
+                },
+                {
+                    "score": 0.683,
+                    "plate": "gt2o9o"
+                }
+            ],
+            "dscore": 0.834,
+            "vehicle": {
+                "score": 0.899,
+                "type": "Sedan",
+                "box": {
+                    "xmin": 129,
+                    "ymin": 44,
+                    "xmax": 834,
+                    "ymax": 726
+                }
+            }
+        },
+        {
+            "box": {
+                "xmin": 356,
+                "ymin": 37,
+                "xmax": 574,
+                "ymax": 88
+            },
+            "plate": "taxi",
+            "region": {
+                "code": "ru",
+                "score": 0.019
+            },
+            "score": 0.799,
+            "candidates": [
+                {
+                    "score": 0.799,
+                    "plate": "taxi"
+                },
+                {
+                    "score": 0.799,
+                    "plate": "taxib"
+                },
+                {
+                    "score": 0.771,
+                    "plate": "taxi8"
+                },
+                {
+                    "score": 0.676,
+                    "plate": "taxir"
+                },
+                {
+                    "score": 0.676,
+                    "plate": "taxibr"
+                },
+                {
+                    "score": 0.667,
+                    "plate": "tax1"
+                },
+                {
+                    "score": 0.667,
+                    "plate": "tax1b"
+                },
+                {
+                    "score": 0.653,
+                    "plate": "taxi8r"
+                },
+                {
+                    "score": 0.64,
+                    "plate": "tax18"
+                },
+                {
+                    "score": 0.567,
+                    "plate": "tax1r"
+                }
+            ],
+            "dscore": 0.256,
+            "vehicle": {
+                "score": 0.0,
+                "type": "Unknown",
+                "box": {
+                    "xmin": 0,
+                    "ymin": 0,
+                    "xmax": 0,
+                    "ymax": 0
+                }
+            }
+        }
+    ],
+    "filename": "1409_K96vz_G1_548.jpg",
+    "version": 1,
+    "camera_id": null,
+    "timestamp": "2024-12-03T14:09:56.727684Z",
+    "image_width": 1082,
+    "image_height": 727
+}

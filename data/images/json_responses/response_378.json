@@ -1,0 +1,46 @@
+{
+    "processing_time": 49.137,
+    "results": [
+        {
+            "box": {
+                "xmin": 460,
+                "ymin": 597,
+                "xmax": 627,
+                "ymax": 644
+            },
+            "plate": "gt1966",
+            "region": {
+                "code": "cn",
+                "score": 0.654
+            },
+            "score": 1.0,
+            "candidates": [
+                {
+                    "score": 1.0,
+                    "plate": "gt1966"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "gti966"
+                }
+            ],
+            "dscore": 0.858,
+            "vehicle": {
+                "score": 0.926,
+                "type": "Sedan",
+                "box": {
+                    "xmin": 121,
+                    "ymin": 43,
+                    "xmax": 852,
+                    "ymax": 723
+                }
+            }
+        }
+    ],
+    "filename": "1401_oIDVT_G1_378.jpg",
+    "version": 1,
+    "camera_id": null,
+    "timestamp": "2024-12-03T14:01:25.188133Z",
+    "image_width": 1082,
+    "image_height": 727
+}

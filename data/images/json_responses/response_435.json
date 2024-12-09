@@ -1,0 +1,70 @@
+{
+    "processing_time": 36.49,
+    "results": [
+        {
+            "box": {
+                "xmin": 272,
+                "ymin": 597,
+                "xmax": 436,
+                "ymax": 642
+            },
+            "plate": "g09182",
+            "region": {
+                "code": "cn",
+                "score": 0.724
+            },
+            "score": 0.999,
+            "candidates": [
+                {
+                    "score": 0.999,
+                    "plate": "g09182"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "g091b2"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "g09i82"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "go9182"
+                },
+                {
+                    "score": 0.683,
+                    "plate": "g09ib2"
+                },
+                {
+                    "score": 0.683,
+                    "plate": "go91b2"
+                },
+                {
+                    "score": 0.683,
+                    "plate": "go9i82"
+                },
+                {
+                    "score": 0.525,
+                    "plate": "go9ib2"
+                }
+            ],
+            "dscore": 0.842,
+            "vehicle": {
+                "score": 0.876,
+                "type": "Sedan",
+                "box": {
+                    "xmin": 0,
+                    "ymin": 15,
+                    "xmax": 685,
+                    "ymax": 725
+                }
+            }
+        }
+    ],
+    "filename": "1404_vqvuC_G1_435.jpg",
+    "version": 1,
+    "camera_id": null,
+    "timestamp": "2024-12-03T14:04:21.330687Z",
+    "image_width": 1082,
+    "image_height": 727
+}

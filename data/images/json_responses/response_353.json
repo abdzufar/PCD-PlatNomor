@@ -1,0 +1,54 @@
+{
+    "processing_time": 18.794,
+    "results": [
+        {
+            "box": {
+                "xmin": 468,
+                "ymin": 577,
+                "xmax": 639,
+                "ymax": 627
+            },
+            "plate": "g97009",
+            "region": {
+                "code": "cn",
+                "score": 0.817
+            },
+            "score": 0.999,
+            "candidates": [
+                {
+                    "score": 0.999,
+                    "plate": "g97009"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "g970o9"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "g97o09"
+                },
+                {
+                    "score": 0.683,
+                    "plate": "g97oo9"
+                }
+            ],
+            "dscore": 0.802,
+            "vehicle": {
+                "score": 0.916,
+                "type": "Sedan",
+                "box": {
+                    "xmin": 178,
+                    "ymin": 30,
+                    "xmax": 855,
+                    "ymax": 724
+                }
+            }
+        }
+    ],
+    "filename": "1400_Mt9yN_G1_353.jpg",
+    "version": 1,
+    "camera_id": null,
+    "timestamp": "2024-12-03T14:00:14.133204Z",
+    "image_width": 1082,
+    "image_height": 727
+}

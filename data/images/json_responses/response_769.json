@@ -1,0 +1,54 @@
+{
+    "processing_time": 89.437,
+    "results": [
+        {
+            "box": {
+                "xmin": 254,
+                "ymin": 520,
+                "xmax": 424,
+                "ymax": 571
+            },
+            "plate": "g95048",
+            "region": {
+                "code": "cn",
+                "score": 0.864
+            },
+            "score": 0.999,
+            "candidates": [
+                {
+                    "score": 0.999,
+                    "plate": "g95048"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "g9504b"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "g95o48"
+                },
+                {
+                    "score": 0.683,
+                    "plate": "g95o4b"
+                }
+            ],
+            "dscore": 0.843,
+            "vehicle": {
+                "score": 0.834,
+                "type": "Van",
+                "box": {
+                    "xmin": 0,
+                    "ymin": 0,
+                    "xmax": 670,
+                    "ymax": 711
+                }
+            }
+        }
+    ],
+    "filename": "1420_x7mDK_G1_769.jpg",
+    "version": 1,
+    "camera_id": null,
+    "timestamp": "2024-12-03T14:20:54.094518Z",
+    "image_width": 1082,
+    "image_height": 727
+}

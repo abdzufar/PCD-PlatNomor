@@ -1,0 +1,54 @@
+{
+    "processing_time": 37.566,
+    "results": [
+        {
+            "box": {
+                "xmin": 465,
+                "ymin": 545,
+                "xmax": 615,
+                "ymax": 592
+            },
+            "plate": "g25711",
+            "region": {
+                "code": "cn",
+                "score": 0.608
+            },
+            "score": 0.999,
+            "candidates": [
+                {
+                    "score": 0.999,
+                    "plate": "g25711"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "g2571i"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "g257i1"
+                },
+                {
+                    "score": 0.683,
+                    "plate": "g257ii"
+                }
+            ],
+            "dscore": 0.839,
+            "vehicle": {
+                "score": 0.547,
+                "type": "Van",
+                "box": {
+                    "xmin": 214,
+                    "ymin": 0,
+                    "xmax": 837,
+                    "ymax": 654
+                }
+            }
+        }
+    ],
+    "filename": "1404_tfViP_G1_434.jpg",
+    "version": 1,
+    "camera_id": null,
+    "timestamp": "2024-12-03T14:04:19.091984Z",
+    "image_width": 1082,
+    "image_height": 727
+}

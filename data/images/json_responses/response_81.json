@@ -1,0 +1,70 @@
+{
+    "processing_time": 26.72,
+    "results": [
+        {
+            "box": {
+                "xmin": 753,
+                "ymin": 582,
+                "xmax": 907,
+                "ymax": 628
+            },
+            "plate": "adn081",
+            "region": {
+                "code": "cn",
+                "score": 0.59
+            },
+            "score": 1.0,
+            "candidates": [
+                {
+                    "score": 1.0,
+                    "plate": "adn081"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "adn08i"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "adn0b1"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "adno81"
+                },
+                {
+                    "score": 0.683,
+                    "plate": "adn0bi"
+                },
+                {
+                    "score": 0.683,
+                    "plate": "adno8i"
+                },
+                {
+                    "score": 0.683,
+                    "plate": "adnob1"
+                },
+                {
+                    "score": 0.525,
+                    "plate": "adnobi"
+                }
+            ],
+            "dscore": 0.833,
+            "vehicle": {
+                "score": 0.898,
+                "type": "Sedan",
+                "box": {
+                    "xmin": 470,
+                    "ymin": 46,
+                    "xmax": 1081,
+                    "ymax": 680
+                }
+            }
+        }
+    ],
+    "filename": "1347_yM2sz_G1_81.jpg",
+    "version": 1,
+    "camera_id": null,
+    "timestamp": "2024-12-03T13:47:34.322249Z",
+    "image_width": 1082,
+    "image_height": 727
+}

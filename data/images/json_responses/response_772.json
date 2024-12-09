@@ -1,0 +1,46 @@
+{
+    "processing_time": 37.802,
+    "results": [
+        {
+            "box": {
+                "xmin": 308,
+                "ymin": 605,
+                "xmax": 484,
+                "ymax": 655
+            },
+            "plate": "g17576",
+            "region": {
+                "code": "cn",
+                "score": 0.647
+            },
+            "score": 0.999,
+            "candidates": [
+                {
+                    "score": 0.999,
+                    "plate": "g17576"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "gi7576"
+                }
+            ],
+            "dscore": 0.852,
+            "vehicle": {
+                "score": 0.789,
+                "type": "Sedan",
+                "box": {
+                    "xmin": 18,
+                    "ymin": 48,
+                    "xmax": 721,
+                    "ymax": 713
+                }
+            }
+        }
+    ],
+    "filename": "1421_HeswV_G1_772.jpg",
+    "version": 1,
+    "camera_id": null,
+    "timestamp": "2024-12-03T14:21:01.305923Z",
+    "image_width": 1082,
+    "image_height": 727
+}

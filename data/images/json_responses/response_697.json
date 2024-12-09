@@ -1,0 +1,70 @@
+{
+    "processing_time": 107.804,
+    "results": [
+        {
+            "box": {
+                "xmin": 106,
+                "ymin": 524,
+                "xmax": 248,
+                "ymax": 559
+            },
+            "plate": "g11899",
+            "region": {
+                "code": "cn",
+                "score": 0.44
+            },
+            "score": 0.996,
+            "candidates": [
+                {
+                    "score": 0.996,
+                    "plate": "g11899"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "gi1899"
+                },
+                {
+                    "score": 0.838,
+                    "plate": "g11b99"
+                },
+                {
+                    "score": 0.838,
+                    "plate": "g1i899"
+                },
+                {
+                    "score": 0.683,
+                    "plate": "gi1b99"
+                },
+                {
+                    "score": 0.683,
+                    "plate": "gii899"
+                },
+                {
+                    "score": 0.68,
+                    "plate": "g1ib99"
+                },
+                {
+                    "score": 0.525,
+                    "plate": "giib99"
+                }
+            ],
+            "dscore": 0.822,
+            "vehicle": {
+                "score": 0.802,
+                "type": "Van",
+                "box": {
+                    "xmin": 0,
+                    "ymin": 6,
+                    "xmax": 460,
+                    "ymax": 611
+                }
+            }
+        }
+    ],
+    "filename": "1417_3daq7_G1_697.jpg",
+    "version": 1,
+    "camera_id": null,
+    "timestamp": "2024-12-03T14:17:18.376649Z",
+    "image_width": 1082,
+    "image_height": 727
+}

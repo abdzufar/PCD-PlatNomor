@@ -1,0 +1,42 @@
+{
+    "processing_time": 272.925,
+    "results": [
+        {
+            "box": {
+                "xmin": 19,
+                "ymin": 616,
+                "xmax": 194,
+                "ymax": 672
+            },
+            "plate": "g97672",
+            "region": {
+                "code": "cn",
+                "score": 0.748
+            },
+            "score": 0.999,
+            "candidates": [
+                {
+                    "score": 0.999,
+                    "plate": "g97672"
+                }
+            ],
+            "dscore": 0.857,
+            "vehicle": {
+                "score": 0.93,
+                "type": "Sedan",
+                "box": {
+                    "xmin": 0,
+                    "ymin": 66,
+                    "xmax": 451,
+                    "ymax": 721
+                }
+            }
+        }
+    ],
+    "filename": "1418_5KLKL_G1_733.jpg",
+    "version": 1,
+    "camera_id": null,
+    "timestamp": "2024-12-03T14:18:58.167636Z",
+    "image_width": 1082,
+    "image_height": 727
+}

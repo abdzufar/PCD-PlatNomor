@@ -1,0 +1,113 @@
+{
+    "processing_time": 140.227,
+    "results": [
+        {
+            "box": {
+                "xmin": 352,
+                "ymin": 522,
+                "xmax": 498,
+                "ymax": 560
+            },
+            "plate": "gt1792",
+            "region": {
+                "code": "cn",
+                "score": 0.583
+            },
+            "score": 0.999,
+            "candidates": [
+                {
+                    "score": 0.999,
+                    "plate": "gt1792"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "gti792"
+                }
+            ],
+            "dscore": 0.792,
+            "vehicle": {
+                "score": 0.648,
+                "type": "Van",
+                "box": {
+                    "xmin": 108,
+                    "ymin": 10,
+                    "xmax": 706,
+                    "ymax": 614
+                }
+            }
+        },
+        {
+            "box": {
+                "xmin": 302,
+                "ymin": 5,
+                "xmax": 486,
+                "ymax": 49
+            },
+            "plate": "taxi",
+            "region": {
+                "code": "ru",
+                "score": 0.012
+            },
+            "score": 0.97,
+            "candidates": [
+                {
+                    "score": 0.97,
+                    "plate": "taxi"
+                },
+                {
+                    "score": 0.804,
+                    "plate": "taxi1"
+                },
+                {
+                    "score": 0.787,
+                    "plate": "taxia"
+                },
+                {
+                    "score": 0.786,
+                    "plate": "taxii"
+                },
+                {
+                    "score": 0.769,
+                    "plate": "tax1"
+                },
+                {
+                    "score": 0.68,
+                    "plate": "taxi1a"
+                },
+                {
+                    "score": 0.665,
+                    "plate": "taxiia"
+                },
+                {
+                    "score": 0.643,
+                    "plate": "tax11"
+                },
+                {
+                    "score": 0.627,
+                    "plate": "tax1a"
+                },
+                {
+                    "score": 0.625,
+                    "plate": "tax1i"
+                }
+            ],
+            "dscore": 0.025,
+            "vehicle": {
+                "score": 0.0,
+                "type": "Unknown",
+                "box": {
+                    "xmin": 0,
+                    "ymin": 0,
+                    "xmax": 0,
+                    "ymax": 0
+                }
+            }
+        }
+    ],
+    "filename": "1410_C8w0t_G1_564.jpg",
+    "version": 1,
+    "camera_id": null,
+    "timestamp": "2024-12-03T14:10:37.688653Z",
+    "image_width": 1082,
+    "image_height": 727
+}

@@ -1,0 +1,54 @@
+{
+    "processing_time": 62.493,
+    "results": [
+        {
+            "box": {
+                "xmin": 406,
+                "ymin": 602,
+                "xmax": 575,
+                "ymax": 655
+            },
+            "plate": "g08952",
+            "region": {
+                "code": "cn",
+                "score": 0.708
+            },
+            "score": 0.999,
+            "candidates": [
+                {
+                    "score": 0.999,
+                    "plate": "g08952"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "g0b952"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "go8952"
+                },
+                {
+                    "score": 0.683,
+                    "plate": "gob952"
+                }
+            ],
+            "dscore": 0.828,
+            "vehicle": {
+                "score": 0.808,
+                "type": "Sedan",
+                "box": {
+                    "xmin": 48,
+                    "ymin": 0,
+                    "xmax": 838,
+                    "ymax": 726
+                }
+            }
+        }
+    ],
+    "filename": "1409_cnY3k_G1_547.jpg",
+    "version": 1,
+    "camera_id": null,
+    "timestamp": "2024-12-03T14:09:54.499696Z",
+    "image_width": 1082,
+    "image_height": 727
+}

@@ -1,0 +1,50 @@
+{
+    "processing_time": 47.871,
+    "results": [
+        {
+            "box": {
+                "xmin": 590,
+                "ymin": 608,
+                "xmax": 770,
+                "ymax": 662
+            },
+            "plate": "g0212",
+            "region": {
+                "code": "cn",
+                "score": 0.763
+            },
+            "score": 0.999,
+            "candidates": [
+                {
+                    "score": 0.999,
+                    "plate": "g0212"
+                },
+                {
+                    "score": 0.809,
+                    "plate": "g02i2"
+                },
+                {
+                    "score": 0.809,
+                    "plate": "go212"
+                }
+            ],
+            "dscore": 0.845,
+            "vehicle": {
+                "score": 0.677,
+                "type": "Sedan",
+                "box": {
+                    "xmin": 327,
+                    "ymin": 24,
+                    "xmax": 1013,
+                    "ymax": 726
+                }
+            }
+        }
+    ],
+    "filename": "1359_83ddU_G1_326.jpg",
+    "version": 1,
+    "camera_id": null,
+    "timestamp": "2024-12-03T13:59:01.186890Z",
+    "image_width": 1082,
+    "image_height": 727
+}

@@ -1,0 +1,46 @@
+{
+    "processing_time": 49.562,
+    "results": [
+        {
+            "box": {
+                "xmin": 348,
+                "ymin": 540,
+                "xmax": 492,
+                "ymax": 581
+            },
+            "plate": "e52039",
+            "region": {
+                "code": "cn",
+                "score": 0.789
+            },
+            "score": 0.999,
+            "candidates": [
+                {
+                    "score": 0.999,
+                    "plate": "e52039"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "e52o39"
+                }
+            ],
+            "dscore": 0.819,
+            "vehicle": {
+                "score": 0.552,
+                "type": "Sedan",
+                "box": {
+                    "xmin": 99,
+                    "ymin": 4,
+                    "xmax": 722,
+                    "ymax": 606
+                }
+            }
+        }
+    ],
+    "filename": "1352_VTy7w_G1_185.jpg",
+    "version": 1,
+    "camera_id": null,
+    "timestamp": "2024-12-03T13:52:23.481397Z",
+    "image_width": 1082,
+    "image_height": 727
+}

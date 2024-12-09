@@ -1,0 +1,70 @@
+{
+    "processing_time": 69.998,
+    "results": [
+        {
+            "box": {
+                "xmin": 481,
+                "ymin": 593,
+                "xmax": 650,
+                "ymax": 645
+            },
+            "plate": "g04841",
+            "region": {
+                "code": "cn",
+                "score": 0.699
+            },
+            "score": 1.0,
+            "candidates": [
+                {
+                    "score": 1.0,
+                    "plate": "g04841"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "g0484i"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "g04b41"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "go4841"
+                },
+                {
+                    "score": 0.683,
+                    "plate": "g04b4i"
+                },
+                {
+                    "score": 0.683,
+                    "plate": "go484i"
+                },
+                {
+                    "score": 0.683,
+                    "plate": "go4b41"
+                },
+                {
+                    "score": 0.525,
+                    "plate": "go4b4i"
+                }
+            ],
+            "dscore": 0.811,
+            "vehicle": {
+                "score": 0.495,
+                "type": "Van",
+                "box": {
+                    "xmin": 104,
+                    "ymin": 0,
+                    "xmax": 910,
+                    "ymax": 726
+                }
+            }
+        }
+    ],
+    "filename": "1348_NZbFF_G1_101.jpg",
+    "version": 1,
+    "camera_id": null,
+    "timestamp": "2024-12-03T13:48:28.619149Z",
+    "image_width": 1082,
+    "image_height": 727
+}

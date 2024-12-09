@@ -1,0 +1,54 @@
+{
+    "processing_time": 61.551,
+    "results": [
+        {
+            "box": {
+                "xmin": 204,
+                "ymin": 536,
+                "xmax": 375,
+                "ymax": 587
+            },
+            "plate": "g01363",
+            "region": {
+                "code": "cn",
+                "score": 0.862
+            },
+            "score": 0.999,
+            "candidates": [
+                {
+                    "score": 0.999,
+                    "plate": "g01363"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "g0i363"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "go1363"
+                },
+                {
+                    "score": 0.683,
+                    "plate": "goi363"
+                }
+            ],
+            "dscore": 0.82,
+            "vehicle": {
+                "score": 0.534,
+                "type": "Big Truck",
+                "box": {
+                    "xmin": 0,
+                    "ymin": 0,
+                    "xmax": 662,
+                    "ymax": 673
+                }
+            }
+        }
+    ],
+    "filename": "1345_PWJFK_G1_34.jpg",
+    "version": 1,
+    "camera_id": null,
+    "timestamp": "2024-12-03T13:45:08.364251Z",
+    "image_width": 1082,
+    "image_height": 727
+}

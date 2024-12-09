@@ -1,0 +1,54 @@
+{
+    "processing_time": 20.591,
+    "results": [
+        {
+            "box": {
+                "xmin": 440,
+                "ymin": 510,
+                "xmax": 589,
+                "ymax": 557
+            },
+            "plate": "gt2170",
+            "region": {
+                "code": "cn",
+                "score": 0.786
+            },
+            "score": 1.0,
+            "candidates": [
+                {
+                    "score": 1.0,
+                    "plate": "gt2170"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "gt217o"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "gt2i70"
+                },
+                {
+                    "score": 0.683,
+                    "plate": "gt2i7o"
+                }
+            ],
+            "dscore": 0.828,
+            "vehicle": {
+                "score": 0.889,
+                "type": "Sedan",
+                "box": {
+                    "xmin": 196,
+                    "ymin": 9,
+                    "xmax": 778,
+                    "ymax": 614
+                }
+            }
+        }
+    ],
+    "filename": "1352_jaXfq_G1_191.jpg",
+    "version": 1,
+    "camera_id": null,
+    "timestamp": "2024-12-03T13:52:40.911364Z",
+    "image_width": 1082,
+    "image_height": 727
+}

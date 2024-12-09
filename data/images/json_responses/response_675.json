@@ -1,0 +1,78 @@
+{
+    "processing_time": 35.337,
+    "results": [
+        {
+            "box": {
+                "xmin": 219,
+                "ymin": 493,
+                "xmax": 373,
+                "ymax": 542
+            },
+            "plate": "g07801",
+            "region": {
+                "code": "cn",
+                "score": 0.815
+            },
+            "score": 0.999,
+            "candidates": [
+                {
+                    "score": 0.999,
+                    "plate": "g07801"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "g0780i"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "g07b01"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "go7801"
+                },
+                {
+                    "score": 0.84,
+                    "plate": "g078o1"
+                },
+                {
+                    "score": 0.683,
+                    "plate": "g07b0i"
+                },
+                {
+                    "score": 0.683,
+                    "plate": "go780i"
+                },
+                {
+                    "score": 0.683,
+                    "plate": "go78o1"
+                },
+                {
+                    "score": 0.683,
+                    "plate": "go7b01"
+                },
+                {
+                    "score": 0.682,
+                    "plate": "g078oi"
+                }
+            ],
+            "dscore": 0.845,
+            "vehicle": {
+                "score": 0.844,
+                "type": "Big Truck",
+                "box": {
+                    "xmin": 1,
+                    "ymin": 0,
+                    "xmax": 733,
+                    "ymax": 573
+                }
+            }
+        }
+    ],
+    "filename": "1416_aVJQn_G1_675.jpg",
+    "version": 1,
+    "camera_id": null,
+    "timestamp": "2024-12-03T14:16:03.320999Z",
+    "image_width": 1082,
+    "image_height": 727
+}

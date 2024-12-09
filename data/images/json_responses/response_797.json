@@ -1,0 +1,42 @@
+{
+    "processing_time": 106.146,
+    "results": [
+        {
+            "box": {
+                "xmin": 469,
+                "ymin": 505,
+                "xmax": 618,
+                "ymax": 549
+            },
+            "plate": "gjm799",
+            "region": {
+                "code": "cn",
+                "score": 0.798
+            },
+            "score": 1.0,
+            "candidates": [
+                {
+                    "score": 1.0,
+                    "plate": "gjm799"
+                }
+            ],
+            "dscore": 0.85,
+            "vehicle": {
+                "score": 0.666,
+                "type": "Sedan",
+                "box": {
+                    "xmin": 251,
+                    "ymin": 0,
+                    "xmax": 828,
+                    "ymax": 636
+                }
+            }
+        }
+    ],
+    "filename": "1422_Y9AMt_G1_797.jpg",
+    "version": 1,
+    "camera_id": null,
+    "timestamp": "2024-12-03T14:22:12.403212Z",
+    "image_width": 1082,
+    "image_height": 727
+}

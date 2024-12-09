@@ -1,0 +1,54 @@
+{
+    "processing_time": 19.472,
+    "results": [
+        {
+            "box": {
+                "xmin": 323,
+                "ymin": 600,
+                "xmax": 494,
+                "ymax": 651
+            },
+            "plate": "gt0613",
+            "region": {
+                "code": "cn",
+                "score": 0.814
+            },
+            "score": 0.999,
+            "candidates": [
+                {
+                    "score": 0.999,
+                    "plate": "gt0613"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "gt06i3"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "gto613"
+                },
+                {
+                    "score": 0.683,
+                    "plate": "gto6i3"
+                }
+            ],
+            "dscore": 0.841,
+            "vehicle": {
+                "score": 0.689,
+                "type": "Sedan",
+                "box": {
+                    "xmin": 10,
+                    "ymin": 47,
+                    "xmax": 723,
+                    "ymax": 724
+                }
+            }
+        }
+    ],
+    "filename": "1359_GqnV9_G1_329.jpg",
+    "version": 1,
+    "camera_id": null,
+    "timestamp": "2024-12-03T13:59:12.422771Z",
+    "image_width": 1082,
+    "image_height": 727
+}

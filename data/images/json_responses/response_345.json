@@ -1,0 +1,46 @@
+{
+    "processing_time": 37.231,
+    "results": [
+        {
+            "box": {
+                "xmin": 201,
+                "ymin": 589,
+                "xmax": 372,
+                "ymax": 636
+            },
+            "plate": "gt1255",
+            "region": {
+                "code": "cn",
+                "score": 0.709
+            },
+            "score": 1.0,
+            "candidates": [
+                {
+                    "score": 1.0,
+                    "plate": "gt1255"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "gti255"
+                }
+            ],
+            "dscore": 0.858,
+            "vehicle": {
+                "score": 0.531,
+                "type": "Sedan",
+                "box": {
+                    "xmin": 0,
+                    "ymin": 24,
+                    "xmax": 604,
+                    "ymax": 708
+                }
+            }
+        }
+    ],
+    "filename": "1359_6Bfcu_G1_345.jpg",
+    "version": 1,
+    "camera_id": null,
+    "timestamp": "2024-12-03T13:59:52.772243Z",
+    "image_width": 1082,
+    "image_height": 727
+}

@@ -1,0 +1,70 @@
+{
+    "processing_time": 115.473,
+    "results": [
+        {
+            "box": {
+                "xmin": 275,
+                "ymin": 513,
+                "xmax": 429,
+                "ymax": 563
+            },
+            "plate": "g09838",
+            "region": {
+                "code": "cn",
+                "score": 0.809
+            },
+            "score": 0.999,
+            "candidates": [
+                {
+                    "score": 0.999,
+                    "plate": "g09838"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "go9838"
+                },
+                {
+                    "score": 0.84,
+                    "plate": "g0983b"
+                },
+                {
+                    "score": 0.84,
+                    "plate": "g09b38"
+                },
+                {
+                    "score": 0.683,
+                    "plate": "go983b"
+                },
+                {
+                    "score": 0.683,
+                    "plate": "go9b38"
+                },
+                {
+                    "score": 0.682,
+                    "plate": "g09b3b"
+                },
+                {
+                    "score": 0.525,
+                    "plate": "go9b3b"
+                }
+            ],
+            "dscore": 0.818,
+            "vehicle": {
+                "score": 0.559,
+                "type": "Van",
+                "box": {
+                    "xmin": 25,
+                    "ymin": 0,
+                    "xmax": 643,
+                    "ymax": 631
+                }
+            }
+        }
+    ],
+    "filename": "1400_ixN5m_G1_370.jpg",
+    "version": 1,
+    "camera_id": null,
+    "timestamp": "2024-12-03T14:00:59.171932Z",
+    "image_width": 1082,
+    "image_height": 727
+}

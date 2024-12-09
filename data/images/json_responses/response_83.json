@@ -1,0 +1,70 @@
+{
+    "processing_time": 44.181,
+    "results": [
+        {
+            "box": {
+                "xmin": 218,
+                "ymin": 581,
+                "xmax": 386,
+                "ymax": 632
+            },
+            "plate": "g01312",
+            "region": {
+                "code": "cn",
+                "score": 0.905
+            },
+            "score": 0.999,
+            "candidates": [
+                {
+                    "score": 0.999,
+                    "plate": "g01312"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "g013i2"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "g0i312"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "go1312"
+                },
+                {
+                    "score": 0.683,
+                    "plate": "go13i2"
+                },
+                {
+                    "score": 0.683,
+                    "plate": "goi312"
+                },
+                {
+                    "score": 0.682,
+                    "plate": "g0i3i2"
+                },
+                {
+                    "score": 0.525,
+                    "plate": "goi3i2"
+                }
+            ],
+            "dscore": 0.836,
+            "vehicle": {
+                "score": 0.914,
+                "type": "Sedan",
+                "box": {
+                    "xmin": 0,
+                    "ymin": 2,
+                    "xmax": 656,
+                    "ymax": 700
+                }
+            }
+        }
+    ],
+    "filename": "1347_EBZWw_G1_83.jpg",
+    "version": 1,
+    "camera_id": null,
+    "timestamp": "2024-12-03T13:47:37.818475Z",
+    "image_width": 1082,
+    "image_height": 727
+}

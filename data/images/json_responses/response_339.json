@@ -1,0 +1,46 @@
+{
+    "processing_time": 34.657,
+    "results": [
+        {
+            "box": {
+                "xmin": 573,
+                "ymin": 562,
+                "xmax": 724,
+                "ymax": 606
+            },
+            "plate": "ghl177",
+            "region": {
+                "code": "cn",
+                "score": 0.643
+            },
+            "score": 1.0,
+            "candidates": [
+                {
+                    "score": 1.0,
+                    "plate": "ghl177"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "ghli77"
+                }
+            ],
+            "dscore": 0.82,
+            "vehicle": {
+                "score": 0.605,
+                "type": "Van",
+                "box": {
+                    "xmin": 342,
+                    "ymin": 0,
+                    "xmax": 930,
+                    "ymax": 647
+                }
+            }
+        }
+    ],
+    "filename": "1359_FHnCv_G1_339.jpg",
+    "version": 1,
+    "camera_id": null,
+    "timestamp": "2024-12-03T13:59:38.210396Z",
+    "image_width": 1082,
+    "image_height": 727
+}

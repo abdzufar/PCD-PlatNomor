@@ -1,0 +1,46 @@
+{
+    "processing_time": 90.079,
+    "results": [
+        {
+            "box": {
+                "xmin": 200,
+                "ymin": 586,
+                "xmax": 372,
+                "ymax": 637
+            },
+            "plate": "gt2196",
+            "region": {
+                "code": "cn",
+                "score": 0.895
+            },
+            "score": 1.0,
+            "candidates": [
+                {
+                    "score": 1.0,
+                    "plate": "gt2196"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "gt2i96"
+                }
+            ],
+            "dscore": 0.878,
+            "vehicle": {
+                "score": 0.76,
+                "type": "Sedan",
+                "box": {
+                    "xmin": 1,
+                    "ymin": 49,
+                    "xmax": 626,
+                    "ymax": 713
+                }
+            }
+        }
+    ],
+    "filename": "1351_9RLxO_G1_174.jpg",
+    "version": 1,
+    "camera_id": null,
+    "timestamp": "2024-12-03T13:51:53.577297Z",
+    "image_width": 1082,
+    "image_height": 727
+}

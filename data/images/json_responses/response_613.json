@@ -1,0 +1,42 @@
+{
+    "processing_time": 18.822,
+    "results": [
+        {
+            "box": {
+                "xmin": 507,
+                "ymin": 620,
+                "xmax": 675,
+                "ymax": 672
+            },
+            "plate": "g25442",
+            "region": {
+                "code": "cn",
+                "score": 0.749
+            },
+            "score": 1.0,
+            "candidates": [
+                {
+                    "score": 1.0,
+                    "plate": "g25442"
+                }
+            ],
+            "dscore": 0.858,
+            "vehicle": {
+                "score": 0.946,
+                "type": "Van",
+                "box": {
+                    "xmin": 231,
+                    "ymin": 0,
+                    "xmax": 926,
+                    "ymax": 726
+                }
+            }
+        }
+    ],
+    "filename": "1412_yW14N_G1_613.jpg",
+    "version": 1,
+    "camera_id": null,
+    "timestamp": "2024-12-03T14:12:58.187845Z",
+    "image_width": 1082,
+    "image_height": 727
+}

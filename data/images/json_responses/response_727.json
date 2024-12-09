@@ -1,0 +1,54 @@
+{
+    "processing_time": 43.386,
+    "results": [
+        {
+            "box": {
+                "xmin": 346,
+                "ymin": 520,
+                "xmax": 495,
+                "ymax": 566
+            },
+            "plate": "axl580",
+            "region": {
+                "code": "cn",
+                "score": 0.794
+            },
+            "score": 1.0,
+            "candidates": [
+                {
+                    "score": 1.0,
+                    "plate": "axl580"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "axl58o"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "axl5b0"
+                },
+                {
+                    "score": 0.683,
+                    "plate": "axl5bo"
+                }
+            ],
+            "dscore": 0.844,
+            "vehicle": {
+                "score": 0.947,
+                "type": "Sedan",
+                "box": {
+                    "xmin": 94,
+                    "ymin": 8,
+                    "xmax": 719,
+                    "ymax": 623
+                }
+            }
+        }
+    ],
+    "filename": "1418_gM92q_G1_727.jpg",
+    "version": 1,
+    "camera_id": null,
+    "timestamp": "2024-12-03T14:18:39.138468Z",
+    "image_width": 1082,
+    "image_height": 727
+}

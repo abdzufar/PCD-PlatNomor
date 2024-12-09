@@ -1,0 +1,70 @@
+{
+    "processing_time": 30.69,
+    "results": [
+        {
+            "box": {
+                "xmin": 659,
+                "ymin": 555,
+                "xmax": 813,
+                "ymax": 598
+            },
+            "plate": "gt0089",
+            "region": {
+                "code": "cn",
+                "score": 0.761
+            },
+            "score": 0.999,
+            "candidates": [
+                {
+                    "score": 0.999,
+                    "plate": "gt0089"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "gt00b9"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "gt0o89"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "gto089"
+                },
+                {
+                    "score": 0.683,
+                    "plate": "gt0ob9"
+                },
+                {
+                    "score": 0.683,
+                    "plate": "gto0b9"
+                },
+                {
+                    "score": 0.683,
+                    "plate": "gtoo89"
+                },
+                {
+                    "score": 0.525,
+                    "plate": "gtoob9"
+                }
+            ],
+            "dscore": 0.824,
+            "vehicle": {
+                "score": 0.597,
+                "type": "Van",
+                "box": {
+                    "xmin": 395,
+                    "ymin": 30,
+                    "xmax": 1007,
+                    "ymax": 631
+                }
+            }
+        }
+    ],
+    "filename": "1404_QcgY4_G1_437.jpg",
+    "version": 1,
+    "camera_id": null,
+    "timestamp": "2024-12-03T14:04:26.261544Z",
+    "image_width": 1082,
+    "image_height": 727
+}

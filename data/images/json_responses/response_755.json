@@ -1,0 +1,70 @@
+{
+    "processing_time": 68.717,
+    "results": [
+        {
+            "box": {
+                "xmin": 252,
+                "ymin": 581,
+                "xmax": 419,
+                "ymax": 636
+            },
+            "plate": "gxl888",
+            "region": {
+                "code": "cn",
+                "score": 0.681
+            },
+            "score": 1.0,
+            "candidates": [
+                {
+                    "score": 1.0,
+                    "plate": "gxl888"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "gxl88b"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "gxl8b8"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "gxlb88"
+                },
+                {
+                    "score": 0.683,
+                    "plate": "gxl8bb"
+                },
+                {
+                    "score": 0.683,
+                    "plate": "gxlb8b"
+                },
+                {
+                    "score": 0.683,
+                    "plate": "gxlbb8"
+                },
+                {
+                    "score": 0.525,
+                    "plate": "gxlbbb"
+                }
+            ],
+            "dscore": 0.858,
+            "vehicle": {
+                "score": 0.952,
+                "type": "Sedan",
+                "box": {
+                    "xmin": 1,
+                    "ymin": 34,
+                    "xmax": 667,
+                    "ymax": 719
+                }
+            }
+        }
+    ],
+    "filename": "1420_1vyIy_G1_755.jpg",
+    "version": 1,
+    "camera_id": null,
+    "timestamp": "2024-12-03T14:20:13.652704Z",
+    "image_width": 1082,
+    "image_height": 727
+}

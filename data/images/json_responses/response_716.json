@@ -1,0 +1,46 @@
+{
+    "processing_time": 41.053,
+    "results": [
+        {
+            "box": {
+                "xmin": 567,
+                "ymin": 578,
+                "xmax": 735,
+                "ymax": 625
+            },
+            "plate": "g09922",
+            "region": {
+                "code": "cn",
+                "score": 0.487
+            },
+            "score": 0.998,
+            "candidates": [
+                {
+                    "score": 0.998,
+                    "plate": "g09922"
+                },
+                {
+                    "score": 0.84,
+                    "plate": "go9922"
+                }
+            ],
+            "dscore": 0.804,
+            "vehicle": {
+                "score": 0.874,
+                "type": "Sedan",
+                "box": {
+                    "xmin": 134,
+                    "ymin": 0,
+                    "xmax": 1014,
+                    "ymax": 716
+                }
+            }
+        }
+    ],
+    "filename": "1418_9aXcw_G1_716.jpg",
+    "version": 1,
+    "camera_id": null,
+    "timestamp": "2024-12-03T14:18:07.733499Z",
+    "image_width": 1082,
+    "image_height": 727
+}

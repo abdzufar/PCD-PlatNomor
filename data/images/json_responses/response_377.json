@@ -1,0 +1,54 @@
+{
+    "processing_time": 64.76,
+    "results": [
+        {
+            "box": {
+                "xmin": 212,
+                "ymin": 623,
+                "xmax": 374,
+                "ymax": 666
+            },
+            "plate": "g03358",
+            "region": {
+                "code": "cn",
+                "score": 0.697
+            },
+            "score": 0.999,
+            "candidates": [
+                {
+                    "score": 0.999,
+                    "plate": "g03358"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "go3358"
+                },
+                {
+                    "score": 0.84,
+                    "plate": "g0335b"
+                },
+                {
+                    "score": 0.682,
+                    "plate": "go335b"
+                }
+            ],
+            "dscore": 0.85,
+            "vehicle": {
+                "score": 0.917,
+                "type": "Sedan",
+                "box": {
+                    "xmin": 1,
+                    "ymin": 35,
+                    "xmax": 658,
+                    "ymax": 718
+                }
+            }
+        }
+    ],
+    "filename": "1401_FmfLz_G1_377.jpg",
+    "version": 1,
+    "camera_id": null,
+    "timestamp": "2024-12-03T14:01:18.000002Z",
+    "image_width": 1082,
+    "image_height": 727
+}

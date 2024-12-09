@@ -1,0 +1,70 @@
+{
+    "processing_time": 27.051,
+    "results": [
+        {
+            "box": {
+                "xmin": 444,
+                "ymin": 607,
+                "xmax": 616,
+                "ymax": 658
+            },
+            "plate": "g06138",
+            "region": {
+                "code": "cn",
+                "score": 0.602
+            },
+            "score": 0.999,
+            "candidates": [
+                {
+                    "score": 0.999,
+                    "plate": "g06138"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "g0613b"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "g06i38"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "go6138"
+                },
+                {
+                    "score": 0.683,
+                    "plate": "g06i3b"
+                },
+                {
+                    "score": 0.683,
+                    "plate": "go613b"
+                },
+                {
+                    "score": 0.683,
+                    "plate": "go6i38"
+                },
+                {
+                    "score": 0.525,
+                    "plate": "go6i3b"
+                }
+            ],
+            "dscore": 0.842,
+            "vehicle": {
+                "score": 0.806,
+                "type": "Sedan",
+                "box": {
+                    "xmin": 107,
+                    "ymin": 45,
+                    "xmax": 845,
+                    "ymax": 725
+                }
+            }
+        }
+    ],
+    "filename": "1412_bAMf2_G1_610.jpg",
+    "version": 1,
+    "camera_id": null,
+    "timestamp": "2024-12-03T14:12:49.185462Z",
+    "image_width": 1082,
+    "image_height": 727
+}

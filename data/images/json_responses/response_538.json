@@ -1,0 +1,70 @@
+{
+    "processing_time": 82.677,
+    "results": [
+        {
+            "box": {
+                "xmin": 445,
+                "ymin": 549,
+                "xmax": 618,
+                "ymax": 608
+            },
+            "plate": "g16051",
+            "region": {
+                "code": "cn",
+                "score": 0.729
+            },
+            "score": 0.996,
+            "candidates": [
+                {
+                    "score": 0.996,
+                    "plate": "g16051"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "gi6051"
+                },
+                {
+                    "score": 0.838,
+                    "plate": "g1605i"
+                },
+                {
+                    "score": 0.838,
+                    "plate": "g16o51"
+                },
+                {
+                    "score": 0.683,
+                    "plate": "gi605i"
+                },
+                {
+                    "score": 0.683,
+                    "plate": "gi6o51"
+                },
+                {
+                    "score": 0.679,
+                    "plate": "g16o5i"
+                },
+                {
+                    "score": 0.525,
+                    "plate": "gi6o5i"
+                }
+            ],
+            "dscore": 0.822,
+            "vehicle": {
+                "score": 0.432,
+                "type": "Sedan",
+                "box": {
+                    "xmin": 196,
+                    "ymin": 0,
+                    "xmax": 837,
+                    "ymax": 726
+                }
+            }
+        }
+    ],
+    "filename": "1409_PuBLc_G1_538.jpg",
+    "version": 1,
+    "camera_id": null,
+    "timestamp": "2024-12-03T14:09:24.935286Z",
+    "image_width": 1082,
+    "image_height": 727
+}

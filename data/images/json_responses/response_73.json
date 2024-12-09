@@ -1,0 +1,46 @@
+{
+    "processing_time": 126.36,
+    "results": [
+        {
+            "box": {
+                "xmin": 370,
+                "ymin": 588,
+                "xmax": 539,
+                "ymax": 639
+            },
+            "plate": "g03795",
+            "region": {
+                "code": "cn",
+                "score": 0.734
+            },
+            "score": 1.0,
+            "candidates": [
+                {
+                    "score": 1.0,
+                    "plate": "g03795"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "go3795"
+                }
+            ],
+            "dscore": 0.881,
+            "vehicle": {
+                "score": 0.894,
+                "type": "Sedan",
+                "box": {
+                    "xmin": 59,
+                    "ymin": 53,
+                    "xmax": 777,
+                    "ymax": 726
+                }
+            }
+        }
+    ],
+    "filename": "1347_aEaT7_G1_73.jpg",
+    "version": 1,
+    "camera_id": null,
+    "timestamp": "2024-12-03T13:47:04.061153Z",
+    "image_width": 1082,
+    "image_height": 727
+}

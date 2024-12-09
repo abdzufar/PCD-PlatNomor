@@ -1,0 +1,42 @@
+{
+    "processing_time": 30.117,
+    "results": [
+        {
+            "box": {
+                "xmin": 443,
+                "ymin": 600,
+                "xmax": 607,
+                "ymax": 647
+            },
+            "plate": "g24975",
+            "region": {
+                "code": "cn",
+                "score": 0.456
+            },
+            "score": 1.0,
+            "candidates": [
+                {
+                    "score": 1.0,
+                    "plate": "g24975"
+                }
+            ],
+            "dscore": 0.836,
+            "vehicle": {
+                "score": 0.877,
+                "type": "Sedan",
+                "box": {
+                    "xmin": 106,
+                    "ymin": 6,
+                    "xmax": 845,
+                    "ymax": 725
+                }
+            }
+        }
+    ],
+    "filename": "1416_T5asf_G1_684.jpg",
+    "version": 1,
+    "camera_id": null,
+    "timestamp": "2024-12-03T14:16:34.010826Z",
+    "image_width": 1082,
+    "image_height": 727
+}

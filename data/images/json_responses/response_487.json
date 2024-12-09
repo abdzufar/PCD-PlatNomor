@@ -1,0 +1,54 @@
+{
+    "processing_time": 40.411,
+    "results": [
+        {
+            "box": {
+                "xmin": 431,
+                "ymin": 538,
+                "xmax": 580,
+                "ymax": 582
+            },
+            "plate": "g05691",
+            "region": {
+                "code": "cn",
+                "score": 0.638
+            },
+            "score": 0.999,
+            "candidates": [
+                {
+                    "score": 0.999,
+                    "plate": "g05691"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "g0569i"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "go5691"
+                },
+                {
+                    "score": 0.683,
+                    "plate": "go569i"
+                }
+            ],
+            "dscore": 0.796,
+            "vehicle": {
+                "score": 0.937,
+                "type": "Van",
+                "box": {
+                    "xmin": 192,
+                    "ymin": 0,
+                    "xmax": 801,
+                    "ymax": 634
+                }
+            }
+        }
+    ],
+    "filename": "1407_VPpMv_G1_487.jpg",
+    "version": 1,
+    "camera_id": null,
+    "timestamp": "2024-12-03T14:07:05.721910Z",
+    "image_width": 1082,
+    "image_height": 727
+}

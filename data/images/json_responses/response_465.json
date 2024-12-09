@@ -1,0 +1,50 @@
+{
+    "processing_time": 88.346,
+    "results": [
+        {
+            "box": {
+                "xmin": 651,
+                "ymin": 610,
+                "xmax": 826,
+                "ymax": 668
+            },
+            "plate": "g9041",
+            "region": {
+                "code": "cn",
+                "score": 0.353
+            },
+            "score": 0.997,
+            "candidates": [
+                {
+                    "score": 0.997,
+                    "plate": "g9041"
+                },
+                {
+                    "score": 0.807,
+                    "plate": "g904i"
+                },
+                {
+                    "score": 0.807,
+                    "plate": "g9o41"
+                }
+            ],
+            "dscore": 0.859,
+            "vehicle": {
+                "score": 0.706,
+                "type": "Sedan",
+                "box": {
+                    "xmin": 330,
+                    "ymin": 52,
+                    "xmax": 1052,
+                    "ymax": 726
+                }
+            }
+        }
+    ],
+    "filename": "1405_fTZWk_G1_465.jpg",
+    "version": 1,
+    "camera_id": null,
+    "timestamp": "2024-12-03T14:05:52.841487Z",
+    "image_width": 1082,
+    "image_height": 727
+}

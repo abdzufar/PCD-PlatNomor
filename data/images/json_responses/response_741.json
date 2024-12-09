@@ -1,0 +1,54 @@
+{
+    "processing_time": 48.993,
+    "results": [
+        {
+            "box": {
+                "xmin": 456,
+                "ymin": 527,
+                "xmax": 627,
+                "ymax": 580
+            },
+            "plate": "gaj002",
+            "region": {
+                "code": "cn",
+                "score": 0.816
+            },
+            "score": 1.0,
+            "candidates": [
+                {
+                    "score": 1.0,
+                    "plate": "gaj002"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "gaj0o2"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "gajo02"
+                },
+                {
+                    "score": 0.683,
+                    "plate": "gajoo2"
+                }
+            ],
+            "dscore": 0.816,
+            "vehicle": {
+                "score": 0.707,
+                "type": "Sedan",
+                "box": {
+                    "xmin": 92,
+                    "ymin": 0,
+                    "xmax": 884,
+                    "ymax": 682
+                }
+            }
+        }
+    ],
+    "filename": "1419_LSr35_G1_741.jpg",
+    "version": 1,
+    "camera_id": null,
+    "timestamp": "2024-12-03T14:19:29.148634Z",
+    "image_width": 1082,
+    "image_height": 727
+}

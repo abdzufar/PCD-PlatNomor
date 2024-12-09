@@ -1,0 +1,42 @@
+{
+    "processing_time": 53.612,
+    "results": [
+        {
+            "box": {
+                "xmin": 564,
+                "ymin": 586,
+                "xmax": 732,
+                "ymax": 637
+            },
+            "plate": "g92723",
+            "region": {
+                "code": "cn",
+                "score": 0.75
+            },
+            "score": 0.999,
+            "candidates": [
+                {
+                    "score": 0.999,
+                    "plate": "g92723"
+                }
+            ],
+            "dscore": 0.855,
+            "vehicle": {
+                "score": 0.778,
+                "type": "Sedan",
+                "box": {
+                    "xmin": 212,
+                    "ymin": 7,
+                    "xmax": 965,
+                    "ymax": 723
+                }
+            }
+        }
+    ],
+    "filename": "1417_2IY0L_G1_704.jpg",
+    "version": 1,
+    "camera_id": null,
+    "timestamp": "2024-12-03T14:17:35.566259Z",
+    "image_width": 1082,
+    "image_height": 727
+}

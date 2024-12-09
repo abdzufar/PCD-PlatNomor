@@ -1,0 +1,46 @@
+{
+    "processing_time": 163.369,
+    "results": [
+        {
+            "box": {
+                "xmin": 358,
+                "ymin": 526,
+                "xmax": 509,
+                "ymax": 572
+            },
+            "plate": "g97971",
+            "region": {
+                "code": "cn",
+                "score": 0.81
+            },
+            "score": 0.999,
+            "candidates": [
+                {
+                    "score": 0.999,
+                    "plate": "g97971"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "g9797i"
+                }
+            ],
+            "dscore": 0.839,
+            "vehicle": {
+                "score": 0.79,
+                "type": "Sedan",
+                "box": {
+                    "xmin": 112,
+                    "ymin": 12,
+                    "xmax": 714,
+                    "ymax": 615
+                }
+            }
+        }
+    ],
+    "filename": "1404_oC2NA_G1_442.jpg",
+    "version": 1,
+    "camera_id": null,
+    "timestamp": "2024-12-03T14:04:39.802039Z",
+    "image_width": 1082,
+    "image_height": 727
+}

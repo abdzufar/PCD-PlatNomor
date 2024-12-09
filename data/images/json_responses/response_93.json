@@ -1,0 +1,42 @@
+{
+    "processing_time": 67.879,
+    "results": [
+        {
+            "box": {
+                "xmin": 198,
+                "ymin": 532,
+                "xmax": 340,
+                "ymax": 567
+            },
+            "plate": "r42353",
+            "region": {
+                "code": "cn",
+                "score": 0.438
+            },
+            "score": 1.0,
+            "candidates": [
+                {
+                    "score": 1.0,
+                    "plate": "r42353"
+                }
+            ],
+            "dscore": 0.82,
+            "vehicle": {
+                "score": 0.942,
+                "type": "Sedan",
+                "box": {
+                    "xmin": 0,
+                    "ymin": 0,
+                    "xmax": 586,
+                    "ymax": 597
+                }
+            }
+        }
+    ],
+    "filename": "1348_Xmac9_G1_93.jpg",
+    "version": 1,
+    "camera_id": null,
+    "timestamp": "2024-12-03T13:48:10.176304Z",
+    "image_width": 1082,
+    "image_height": 727
+}

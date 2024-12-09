@@ -1,0 +1,46 @@
+{
+    "processing_time": 67.257,
+    "results": [
+        {
+            "box": {
+                "xmin": 459,
+                "ymin": 574,
+                "xmax": 625,
+                "ymax": 626
+            },
+            "plate": "g03667",
+            "region": {
+                "code": "cn",
+                "score": 0.781
+            },
+            "score": 0.999,
+            "candidates": [
+                {
+                    "score": 0.999,
+                    "plate": "g03667"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "go3667"
+                }
+            ],
+            "dscore": 0.815,
+            "vehicle": {
+                "score": 0.845,
+                "type": "Sedan",
+                "box": {
+                    "xmin": 100,
+                    "ymin": 0,
+                    "xmax": 894,
+                    "ymax": 709
+                }
+            }
+        }
+    ],
+    "filename": "1359_qOJen_G1_330.jpg",
+    "version": 1,
+    "camera_id": null,
+    "timestamp": "2024-12-03T13:59:15.422683Z",
+    "image_width": 1082,
+    "image_height": 727
+}

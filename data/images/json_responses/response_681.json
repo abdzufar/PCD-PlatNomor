@@ -1,0 +1,42 @@
+{
+    "processing_time": 54.997,
+    "results": [
+        {
+            "box": {
+                "xmin": 388,
+                "ymin": 608,
+                "xmax": 561,
+                "ymax": 662
+            },
+            "plate": "g95272",
+            "region": {
+                "code": "cn",
+                "score": 0.768
+            },
+            "score": 1.0,
+            "candidates": [
+                {
+                    "score": 1.0,
+                    "plate": "g95272"
+                }
+            ],
+            "dscore": 0.855,
+            "vehicle": {
+                "score": 0.911,
+                "type": "Sedan",
+                "box": {
+                    "xmin": 50,
+                    "ymin": 26,
+                    "xmax": 806,
+                    "ymax": 726
+                }
+            }
+        }
+    ],
+    "filename": "1416_xm5Wu_G1_681.jpg",
+    "version": 1,
+    "camera_id": null,
+    "timestamp": "2024-12-03T14:16:23.692374Z",
+    "image_width": 1082,
+    "image_height": 727
+}

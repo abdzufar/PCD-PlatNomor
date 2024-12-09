@@ -1,0 +1,46 @@
+{
+    "processing_time": 70.941,
+    "results": [
+        {
+            "box": {
+                "xmin": 409,
+                "ymin": 593,
+                "xmax": 576,
+                "ymax": 640
+            },
+            "plate": "gzz520",
+            "region": {
+                "code": "cn",
+                "score": 0.639
+            },
+            "score": 0.999,
+            "candidates": [
+                {
+                    "score": 0.999,
+                    "plate": "gzz520"
+                },
+                {
+                    "score": 0.842,
+                    "plate": "gzz52o"
+                }
+            ],
+            "dscore": 0.836,
+            "vehicle": {
+                "score": 0.894,
+                "type": "Sedan",
+                "box": {
+                    "xmin": 82,
+                    "ymin": 37,
+                    "xmax": 816,
+                    "ymax": 725
+                }
+            }
+        }
+    ],
+    "filename": "1406_rVftS_G1_480.jpg",
+    "version": 1,
+    "camera_id": null,
+    "timestamp": "2024-12-03T14:06:45.501754Z",
+    "image_width": 1082,
+    "image_height": 727
+}

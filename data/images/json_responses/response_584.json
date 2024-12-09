@@ -1,0 +1,46 @@
+{
+    "processing_time": 74.811,
+    "results": [
+        {
+            "box": {
+                "xmin": 63,
+                "ymin": 574,
+                "xmax": 234,
+                "ymax": 628
+            },
+            "plate": "g98365",
+            "region": {
+                "code": "cn",
+                "score": 0.823
+            },
+            "score": 0.999,
+            "candidates": [
+                {
+                    "score": 0.999,
+                    "plate": "g98365"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "g9b365"
+                }
+            ],
+            "dscore": 0.861,
+            "vehicle": {
+                "score": 0.918,
+                "type": "Sedan",
+                "box": {
+                    "xmin": 1,
+                    "ymin": 7,
+                    "xmax": 481,
+                    "ymax": 726
+                }
+            }
+        }
+    ],
+    "filename": "1411_pRmDH_G1_584.jpg",
+    "version": 1,
+    "camera_id": null,
+    "timestamp": "2024-12-03T14:11:28.376192Z",
+    "image_width": 1082,
+    "image_height": 727
+}

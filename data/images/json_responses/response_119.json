@@ -1,0 +1,70 @@
+{
+    "processing_time": 167.462,
+    "results": [
+        {
+            "box": {
+                "xmin": 114,
+                "ymin": 602,
+                "xmax": 281,
+                "ymax": 650
+            },
+            "plate": "g10248",
+            "region": {
+                "code": "cn",
+                "score": 0.704
+            },
+            "score": 0.999,
+            "candidates": [
+                {
+                    "score": 0.999,
+                    "plate": "g10248"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "g1024b"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "g1o248"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "gi0248"
+                },
+                {
+                    "score": 0.683,
+                    "plate": "g1o24b"
+                },
+                {
+                    "score": 0.683,
+                    "plate": "gi024b"
+                },
+                {
+                    "score": 0.683,
+                    "plate": "gio248"
+                },
+                {
+                    "score": 0.525,
+                    "plate": "gio24b"
+                }
+            ],
+            "dscore": 0.837,
+            "vehicle": {
+                "score": 0.69,
+                "type": "Sedan",
+                "box": {
+                    "xmin": 0,
+                    "ymin": 68,
+                    "xmax": 518,
+                    "ymax": 724
+                }
+            }
+        }
+    ],
+    "filename": "1349_lqzZ1_G1_119.jpg",
+    "version": 1,
+    "camera_id": null,
+    "timestamp": "2024-12-03T13:49:17.606618Z",
+    "image_width": 1082,
+    "image_height": 727
+}

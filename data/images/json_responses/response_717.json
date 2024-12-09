@@ -1,0 +1,42 @@
+{
+    "processing_time": 105.107,
+    "results": [
+        {
+            "box": {
+                "xmin": 129,
+                "ymin": 595,
+                "xmax": 301,
+                "ymax": 643
+            },
+            "plate": "gt9676",
+            "region": {
+                "code": "cn",
+                "score": 0.694
+            },
+            "score": 0.999,
+            "candidates": [
+                {
+                    "score": 0.999,
+                    "plate": "gt9676"
+                }
+            ],
+            "dscore": 0.826,
+            "vehicle": {
+                "score": 0.595,
+                "type": "Sedan",
+                "box": {
+                    "xmin": 0,
+                    "ymin": 69,
+                    "xmax": 546,
+                    "ymax": 722
+                }
+            }
+        }
+    ],
+    "filename": "1418_m0wrF_G1_717.jpg",
+    "version": 1,
+    "camera_id": null,
+    "timestamp": "2024-12-03T14:18:11.219908Z",
+    "image_width": 1082,
+    "image_height": 727
+}

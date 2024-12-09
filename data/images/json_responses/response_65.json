@@ -1,0 +1,121 @@
+{
+    "processing_time": 69.584,
+    "results": [
+        {
+            "box": {
+                "xmin": 480,
+                "ymin": 603,
+                "xmax": 646,
+                "ymax": 647
+            },
+            "plate": "gt0368",
+            "region": {
+                "code": "cn",
+                "score": 0.78
+            },
+            "score": 0.999,
+            "candidates": [
+                {
+                    "score": 0.999,
+                    "plate": "gt0368"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "gt036b"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "gto368"
+                },
+                {
+                    "score": 0.683,
+                    "plate": "gto36b"
+                }
+            ],
+            "dscore": 0.843,
+            "vehicle": {
+                "score": 0.737,
+                "type": "Sedan",
+                "box": {
+                    "xmin": 160,
+                    "ymin": 43,
+                    "xmax": 877,
+                    "ymax": 710
+                }
+            }
+        },
+        {
+            "box": {
+                "xmin": 400,
+                "ymin": 31,
+                "xmax": 603,
+                "ymax": 86
+            },
+            "plate": "taxi812",
+            "region": {
+                "code": "by",
+                "score": 0.019
+            },
+            "score": 0.72,
+            "candidates": [
+                {
+                    "score": 0.72,
+                    "plate": "taxi812"
+                },
+                {
+                    "score": 0.713,
+                    "plate": "taxib12"
+                },
+                {
+                    "score": 0.701,
+                    "plate": "taxi862"
+                },
+                {
+                    "score": 0.693,
+                    "plate": "taxib62"
+                },
+                {
+                    "score": 0.687,
+                    "plate": "taxi8i2"
+                },
+                {
+                    "score": 0.679,
+                    "plate": "taxibi2"
+                },
+                {
+                    "score": 0.651,
+                    "plate": "taxi81"
+                },
+                {
+                    "score": 0.644,
+                    "plate": "taxib1"
+                },
+                {
+                    "score": 0.64,
+                    "plate": "taxih812"
+                },
+                {
+                    "score": 0.634,
+                    "plate": "taxihb12"
+                }
+            ],
+            "dscore": 0.083,
+            "vehicle": {
+                "score": 0.0,
+                "type": "Unknown",
+                "box": {
+                    "xmin": 0,
+                    "ymin": 0,
+                    "xmax": 0,
+                    "ymax": 0
+                }
+            }
+        }
+    ],
+    "filename": "1346_mOFc9_G1_65.jpg",
+    "version": 1,
+    "camera_id": null,
+    "timestamp": "2024-12-03T13:46:35.702240Z",
+    "image_width": 1082,
+    "image_height": 727
+}

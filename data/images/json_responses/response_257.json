@@ -1,0 +1,46 @@
+{
+    "processing_time": 37.079,
+    "results": [
+        {
+            "box": {
+                "xmin": 169,
+                "ymin": 378,
+                "xmax": 328,
+                "ymax": 428
+            },
+            "plate": "g22620",
+            "region": {
+                "code": "cn",
+                "score": 0.777
+            },
+            "score": 1.0,
+            "candidates": [
+                {
+                    "score": 1.0,
+                    "plate": "g22620"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "g2262o"
+                }
+            ],
+            "dscore": 0.8,
+            "vehicle": {
+                "score": 0.822,
+                "type": "Big Truck",
+                "box": {
+                    "xmin": 0,
+                    "ymin": 0,
+                    "xmax": 721,
+                    "ymax": 583
+                }
+            }
+        }
+    ],
+    "filename": "1355_xp8Bk_G1_257.jpg",
+    "version": 1,
+    "camera_id": null,
+    "timestamp": "2024-12-03T13:55:43.859682Z",
+    "image_width": 1082,
+    "image_height": 727
+}

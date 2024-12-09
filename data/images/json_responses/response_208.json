@@ -1,0 +1,46 @@
+{
+    "processing_time": 41.376,
+    "results": [
+        {
+            "box": {
+                "xmin": 416,
+                "ymin": 580,
+                "xmax": 586,
+                "ymax": 638
+            },
+            "plate": "g90547",
+            "region": {
+                "code": "cn",
+                "score": 0.847
+            },
+            "score": 0.999,
+            "candidates": [
+                {
+                    "score": 0.999,
+                    "plate": "g90547"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "g9o547"
+                }
+            ],
+            "dscore": 0.825,
+            "vehicle": {
+                "score": 0.893,
+                "type": "Sedan",
+                "box": {
+                    "xmin": 88,
+                    "ymin": 10,
+                    "xmax": 825,
+                    "ymax": 725
+                }
+            }
+        }
+    ],
+    "filename": "1353_jWtFg_G1_208.jpg",
+    "version": 1,
+    "camera_id": null,
+    "timestamp": "2024-12-03T13:53:27.211798Z",
+    "image_width": 1082,
+    "image_height": 727
+}

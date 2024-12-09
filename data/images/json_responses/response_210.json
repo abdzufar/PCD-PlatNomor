@@ -1,0 +1,42 @@
+{
+    "processing_time": 69.592,
+    "results": [
+        {
+            "box": {
+                "xmin": 381,
+                "ymin": 593,
+                "xmax": 553,
+                "ymax": 641
+            },
+            "plate": "gjj777",
+            "region": {
+                "code": "cn",
+                "score": 0.524
+            },
+            "score": 1.0,
+            "candidates": [
+                {
+                    "score": 1.0,
+                    "plate": "gjj777"
+                }
+            ],
+            "dscore": 0.819,
+            "vehicle": {
+                "score": 0.857,
+                "type": "Sedan",
+                "box": {
+                    "xmin": 59,
+                    "ymin": 5,
+                    "xmax": 788,
+                    "ymax": 725
+                }
+            }
+        }
+    ],
+    "filename": "1353_zrlre_G1_210.jpg",
+    "version": 1,
+    "camera_id": null,
+    "timestamp": "2024-12-03T13:53:31.116272Z",
+    "image_width": 1082,
+    "image_height": 727
+}

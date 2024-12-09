@@ -1,0 +1,54 @@
+{
+    "processing_time": 65.256,
+    "results": [
+        {
+            "box": {
+                "xmin": 242,
+                "ymin": 576,
+                "xmax": 413,
+                "ymax": 629
+            },
+            "plate": "g18595",
+            "region": {
+                "code": "cn",
+                "score": 0.79
+            },
+            "score": 0.999,
+            "candidates": [
+                {
+                    "score": 0.999,
+                    "plate": "g18595"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "g1b595"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "gi8595"
+                },
+                {
+                    "score": 0.683,
+                    "plate": "gib595"
+                }
+            ],
+            "dscore": 0.882,
+            "vehicle": {
+                "score": 0.676,
+                "type": "Van",
+                "box": {
+                    "xmin": 0,
+                    "ymin": 0,
+                    "xmax": 679,
+                    "ymax": 723
+                }
+            }
+        }
+    ],
+    "filename": "1414_xn5tw_G1_644.jpg",
+    "version": 1,
+    "camera_id": null,
+    "timestamp": "2024-12-03T14:14:30.236066Z",
+    "image_width": 1082,
+    "image_height": 727
+}

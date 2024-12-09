@@ -1,0 +1,109 @@
+{
+    "processing_time": 104.515,
+    "results": [
+        {
+            "box": {
+                "xmin": 213,
+                "ymin": 519,
+                "xmax": 360,
+                "ymax": 559
+            },
+            "plate": "gt2365",
+            "region": {
+                "code": "cn",
+                "score": 0.797
+            },
+            "score": 1.0,
+            "candidates": [
+                {
+                    "score": 1.0,
+                    "plate": "gt2365"
+                }
+            ],
+            "dscore": 0.842,
+            "vehicle": {
+                "score": 0.834,
+                "type": "Van",
+                "box": {
+                    "xmin": 1,
+                    "ymin": 2,
+                    "xmax": 578,
+                    "ymax": 610
+                }
+            }
+        },
+        {
+            "box": {
+                "xmin": 183,
+                "ymin": 2,
+                "xmax": 364,
+                "ymax": 48
+            },
+            "plate": "taxi",
+            "region": {
+                "code": "gb",
+                "score": 0.005
+            },
+            "score": 0.865,
+            "candidates": [
+                {
+                    "score": 0.865,
+                    "plate": "taxi"
+                },
+                {
+                    "score": 0.806,
+                    "plate": "taxi6"
+                },
+                {
+                    "score": 0.73,
+                    "plate": "taxii"
+                },
+                {
+                    "score": 0.729,
+                    "plate": "taxi1"
+                },
+                {
+                    "score": 0.692,
+                    "plate": "tax1"
+                },
+                {
+                    "score": 0.681,
+                    "plate": "taxii6"
+                },
+                {
+                    "score": 0.68,
+                    "plate": "taxi16"
+                },
+                {
+                    "score": 0.633,
+                    "plate": "tax16"
+                },
+                {
+                    "score": 0.586,
+                    "plate": "tax1i"
+                },
+                {
+                    "score": 0.585,
+                    "plate": "tax11"
+                }
+            ],
+            "dscore": 0.11,
+            "vehicle": {
+                "score": 0.0,
+                "type": "Unknown",
+                "box": {
+                    "xmin": 0,
+                    "ymin": 0,
+                    "xmax": 0,
+                    "ymax": 0
+                }
+            }
+        }
+    ],
+    "filename": "1414_aLdlj_G1_648.jpg",
+    "version": 1,
+    "camera_id": null,
+    "timestamp": "2024-12-03T14:14:41.632847Z",
+    "image_width": 1082,
+    "image_height": 727
+}

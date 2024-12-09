@@ -1,0 +1,70 @@
+{
+    "processing_time": 39.944,
+    "results": [
+        {
+            "box": {
+                "xmin": 373,
+                "ymin": 592,
+                "xmax": 543,
+                "ymax": 645
+            },
+            "plate": "gtn888",
+            "region": {
+                "code": "cn",
+                "score": 0.618
+            },
+            "score": 1.0,
+            "candidates": [
+                {
+                    "score": 1.0,
+                    "plate": "gtn888"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "gtn88b"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "gtn8b8"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "gtnb88"
+                },
+                {
+                    "score": 0.683,
+                    "plate": "gtn8bb"
+                },
+                {
+                    "score": 0.683,
+                    "plate": "gtnb8b"
+                },
+                {
+                    "score": 0.683,
+                    "plate": "gtnbb8"
+                },
+                {
+                    "score": 0.525,
+                    "plate": "gtnbbb"
+                }
+            ],
+            "dscore": 0.865,
+            "vehicle": {
+                "score": 0.929,
+                "type": "Sedan",
+                "box": {
+                    "xmin": 15,
+                    "ymin": 18,
+                    "xmax": 792,
+                    "ymax": 710
+                }
+            }
+        }
+    ],
+    "filename": "1345_E9TUM_G1_42.jpg",
+    "version": 1,
+    "camera_id": null,
+    "timestamp": "2024-12-03T13:45:30.951107Z",
+    "image_width": 1082,
+    "image_height": 727
+}

@@ -1,0 +1,46 @@
+{
+    "processing_time": 141.887,
+    "results": [
+        {
+            "box": {
+                "xmin": 261,
+                "ymin": 470,
+                "xmax": 409,
+                "ymax": 514
+            },
+            "plate": "g03643",
+            "region": {
+                "code": "cn",
+                "score": 0.796
+            },
+            "score": 1.0,
+            "candidates": [
+                {
+                    "score": 1.0,
+                    "plate": "g03643"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "go3643"
+                }
+            ],
+            "dscore": 0.79,
+            "vehicle": {
+                "score": 0.82,
+                "type": "Van",
+                "box": {
+                    "xmin": 47,
+                    "ymin": 0,
+                    "xmax": 617,
+                    "ymax": 578
+                }
+            }
+        }
+    ],
+    "filename": "1347_GdGgW_G1_90.jpg",
+    "version": 1,
+    "camera_id": null,
+    "timestamp": "2024-12-03T13:47:59.776316Z",
+    "image_width": 1082,
+    "image_height": 727
+}

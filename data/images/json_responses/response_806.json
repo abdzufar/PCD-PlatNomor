@@ -1,0 +1,70 @@
+{
+    "processing_time": 29.499,
+    "results": [
+        {
+            "box": {
+                "xmin": 270,
+                "ymin": 612,
+                "xmax": 439,
+                "ymax": 664
+            },
+            "plate": "g04186",
+            "region": {
+                "code": "cn",
+                "score": 0.84
+            },
+            "score": 0.999,
+            "candidates": [
+                {
+                    "score": 0.999,
+                    "plate": "g04186"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "g041b6"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "g04i86"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "go4186"
+                },
+                {
+                    "score": 0.683,
+                    "plate": "g04ib6"
+                },
+                {
+                    "score": 0.683,
+                    "plate": "go41b6"
+                },
+                {
+                    "score": 0.683,
+                    "plate": "go4i86"
+                },
+                {
+                    "score": 0.525,
+                    "plate": "go4ib6"
+                }
+            ],
+            "dscore": 0.844,
+            "vehicle": {
+                "score": 0.948,
+                "type": "Van",
+                "box": {
+                    "xmin": 0,
+                    "ymin": 0,
+                    "xmax": 696,
+                    "ymax": 725
+                }
+            }
+        }
+    ],
+    "filename": "1422_ykj8i_G1_806.jpg",
+    "version": 1,
+    "camera_id": null,
+    "timestamp": "2024-12-03T14:22:43.329244Z",
+    "image_width": 1082,
+    "image_height": 727
+}

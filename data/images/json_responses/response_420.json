@@ -1,0 +1,54 @@
+{
+    "processing_time": 53.804,
+    "results": [
+        {
+            "box": {
+                "xmin": 414,
+                "ymin": 594,
+                "xmax": 602,
+                "ymax": 643
+            },
+            "plate": "gt0896",
+            "region": {
+                "code": "cn",
+                "score": 0.37
+            },
+            "score": 0.999,
+            "candidates": [
+                {
+                    "score": 0.999,
+                    "plate": "gt0896"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "gt0b96"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "gto896"
+                },
+                {
+                    "score": 0.683,
+                    "plate": "gtob96"
+                }
+            ],
+            "dscore": 0.809,
+            "vehicle": {
+                "score": 0.788,
+                "type": "Sedan",
+                "box": {
+                    "xmin": 104,
+                    "ymin": 39,
+                    "xmax": 820,
+                    "ymax": 714
+                }
+            }
+        }
+    ],
+    "filename": "1403_zPLez_G1_420.jpg",
+    "version": 1,
+    "camera_id": null,
+    "timestamp": "2024-12-03T14:03:38.978676Z",
+    "image_width": 1082,
+    "image_height": 727
+}

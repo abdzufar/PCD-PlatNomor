@@ -1,0 +1,42 @@
+{
+    "processing_time": 86.147,
+    "results": [
+        {
+            "box": {
+                "xmin": 408,
+                "ymin": 547,
+                "xmax": 556,
+                "ymax": 588
+            },
+            "plate": "g97472",
+            "region": {
+                "code": "cn",
+                "score": 0.84
+            },
+            "score": 1.0,
+            "candidates": [
+                {
+                    "score": 1.0,
+                    "plate": "g97472"
+                }
+            ],
+            "dscore": 0.833,
+            "vehicle": {
+                "score": 0.904,
+                "type": "Van",
+                "box": {
+                    "xmin": 195,
+                    "ymin": 0,
+                    "xmax": 768,
+                    "ymax": 627
+                }
+            }
+        }
+    ],
+    "filename": "1405_K8qWL_G1_461.jpg",
+    "version": 1,
+    "camera_id": null,
+    "timestamp": "2024-12-03T14:05:39.583183Z",
+    "image_width": 1082,
+    "image_height": 727
+}

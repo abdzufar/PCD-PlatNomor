@@ -1,0 +1,46 @@
+{
+    "processing_time": 52.461,
+    "results": [
+        {
+            "box": {
+                "xmin": 539,
+                "ymin": 554,
+                "xmax": 706,
+                "ymax": 606
+            },
+            "plate": "g99990",
+            "region": {
+                "code": "cn",
+                "score": 0.838
+            },
+            "score": 0.999,
+            "candidates": [
+                {
+                    "score": 0.999,
+                    "plate": "g99990"
+                },
+                {
+                    "score": 0.84,
+                    "plate": "g9999o"
+                }
+            ],
+            "dscore": 0.843,
+            "vehicle": {
+                "score": 0.697,
+                "type": "SUV",
+                "box": {
+                    "xmin": 161,
+                    "ymin": 5,
+                    "xmax": 968,
+                    "ymax": 723
+                }
+            }
+        }
+    ],
+    "filename": "1403_ZAPVO_G1_423.jpg",
+    "version": 1,
+    "camera_id": null,
+    "timestamp": "2024-12-03T14:03:45.489997Z",
+    "image_width": 1082,
+    "image_height": 727
+}

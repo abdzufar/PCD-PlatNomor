@@ -1,0 +1,78 @@
+{
+    "processing_time": 94.192,
+    "results": [
+        {
+            "box": {
+                "xmin": 359,
+                "ymin": 507,
+                "xmax": 529,
+                "ymax": 555
+            },
+            "plate": "wj17006",
+            "region": {
+                "code": "us-tn",
+                "score": 0.032
+            },
+            "score": 0.999,
+            "candidates": [
+                {
+                    "score": 0.999,
+                    "plate": "wj17006"
+                },
+                {
+                    "score": 0.904,
+                    "plate": "wj117006"
+                },
+                {
+                    "score": 0.88,
+                    "plate": "wji17006"
+                },
+                {
+                    "score": 0.863,
+                    "plate": "wj170o6"
+                },
+                {
+                    "score": 0.863,
+                    "plate": "wj17o06"
+                },
+                {
+                    "score": 0.863,
+                    "plate": "wji7006"
+                },
+                {
+                    "score": 0.785,
+                    "plate": "wj1170o6"
+                },
+                {
+                    "score": 0.785,
+                    "plate": "wj117o06"
+                },
+                {
+                    "score": 0.785,
+                    "plate": "wj1i7006"
+                },
+                {
+                    "score": 0.761,
+                    "plate": "wji170o6"
+                }
+            ],
+            "dscore": 0.75,
+            "vehicle": {
+                "score": 0.791,
+                "type": "SUV",
+                "box": {
+                    "xmin": 112,
+                    "ymin": 0,
+                    "xmax": 729,
+                    "ymax": 619
+                }
+            }
+        }
+    ],
+    "filename": "1411_2Mexb_G1_579.jpg",
+    "version": 1,
+    "camera_id": null,
+    "timestamp": "2024-12-03T14:11:15.042015Z",
+    "image_width": 1082,
+    "image_height": 727
+}

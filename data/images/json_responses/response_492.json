@@ -1,0 +1,89 @@
+{
+    "processing_time": 95.783,
+    "results": [
+        {
+            "box": {
+                "xmin": 75,
+                "ymin": 497,
+                "xmax": 224,
+                "ymax": 542
+            },
+            "plate": "gt2216",
+            "region": {
+                "code": "cn",
+                "score": 0.862
+            },
+            "score": 1.0,
+            "candidates": [
+                {
+                    "score": 1.0,
+                    "plate": "gt2216"
+                },
+                {
+                    "score": 0.842,
+                    "plate": "gt22i6"
+                }
+            ],
+            "dscore": 0.83,
+            "vehicle": {
+                "score": 0.792,
+                "type": "Sedan",
+                "box": {
+                    "xmin": 0,
+                    "ymin": 1,
+                    "xmax": 446,
+                    "ymax": 601
+                }
+            }
+        },
+        {
+            "box": {
+                "xmin": 65,
+                "ymin": 0,
+                "xmax": 247,
+                "ymax": 41
+            },
+            "plate": "taxi",
+            "region": {
+                "code": "gb",
+                "score": 0.011
+            },
+            "score": 0.946,
+            "candidates": [
+                {
+                    "score": 0.946,
+                    "plate": "taxi"
+                },
+                {
+                    "score": 0.792,
+                    "plate": "tax1"
+                },
+                {
+                    "score": 0.77,
+                    "plate": "taxia"
+                },
+                {
+                    "score": 0.647,
+                    "plate": "tax1a"
+                }
+            ],
+            "dscore": 0.335,
+            "vehicle": {
+                "score": 0.0,
+                "type": "Unknown",
+                "box": {
+                    "xmin": 0,
+                    "ymin": 0,
+                    "xmax": 0,
+                    "ymax": 0
+                }
+            }
+        }
+    ],
+    "filename": "1407_zhmII_G1_492.jpg",
+    "version": 1,
+    "camera_id": null,
+    "timestamp": "2024-12-03T14:07:18.025637Z",
+    "image_width": 1082,
+    "image_height": 727
+}

@@ -1,0 +1,70 @@
+{
+    "processing_time": 44.855,
+    "results": [
+        {
+            "box": {
+                "xmin": 191,
+                "ymin": 527,
+                "xmax": 358,
+                "ymax": 576
+            },
+            "plate": "g07807",
+            "region": {
+                "code": "cn",
+                "score": 0.785
+            },
+            "score": 0.999,
+            "candidates": [
+                {
+                    "score": 0.999,
+                    "plate": "g07807"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "g078o7"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "g07b07"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "go7807"
+                },
+                {
+                    "score": 0.683,
+                    "plate": "g07bo7"
+                },
+                {
+                    "score": 0.683,
+                    "plate": "go78o7"
+                },
+                {
+                    "score": 0.683,
+                    "plate": "go7b07"
+                },
+                {
+                    "score": 0.525,
+                    "plate": "go7bo7"
+                }
+            ],
+            "dscore": 0.836,
+            "vehicle": {
+                "score": 0.859,
+                "type": "SUV",
+                "box": {
+                    "xmin": 0,
+                    "ymin": 0,
+                    "xmax": 620,
+                    "ymax": 705
+                }
+            }
+        }
+    ],
+    "filename": "1345_Q0kHq_G1_35.jpg",
+    "version": 1,
+    "camera_id": null,
+    "timestamp": "2024-12-03T13:45:10.106468Z",
+    "image_width": 1082,
+    "image_height": 727
+}

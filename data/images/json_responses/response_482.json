@@ -1,0 +1,46 @@
+{
+    "processing_time": 98.814,
+    "results": [
+        {
+            "box": {
+                "xmin": 326,
+                "ymin": 481,
+                "xmax": 492,
+                "ymax": 529
+            },
+            "plate": "g03959",
+            "region": {
+                "code": "cn",
+                "score": 0.664
+            },
+            "score": 0.999,
+            "candidates": [
+                {
+                    "score": 0.999,
+                    "plate": "g03959"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "go3959"
+                }
+            ],
+            "dscore": 0.801,
+            "vehicle": {
+                "score": 0.453,
+                "type": "Bus",
+                "box": {
+                    "xmin": 1,
+                    "ymin": 0,
+                    "xmax": 860,
+                    "ymax": 562
+                }
+            }
+        }
+    ],
+    "filename": "1406_FbIL7_G1_482.jpg",
+    "version": 1,
+    "camera_id": null,
+    "timestamp": "2024-12-03T14:06:48.817415Z",
+    "image_width": 1082,
+    "image_height": 727
+}

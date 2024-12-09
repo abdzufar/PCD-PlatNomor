@@ -1,0 +1,46 @@
+{
+    "processing_time": 87.514,
+    "results": [
+        {
+            "box": {
+                "xmin": 367,
+                "ymin": 513,
+                "xmax": 518,
+                "ymax": 559
+            },
+            "plate": "gt2285",
+            "region": {
+                "code": "cn",
+                "score": 0.872
+            },
+            "score": 1.0,
+            "candidates": [
+                {
+                    "score": 1.0,
+                    "plate": "gt2285"
+                },
+                {
+                    "score": 0.842,
+                    "plate": "gt22b5"
+                }
+            ],
+            "dscore": 0.865,
+            "vehicle": {
+                "score": 0.76,
+                "type": "Sedan",
+                "box": {
+                    "xmin": 140,
+                    "ymin": 9,
+                    "xmax": 712,
+                    "ymax": 617
+                }
+            }
+        }
+    ],
+    "filename": "1406_HAdDc_G1_476.jpg",
+    "version": 1,
+    "camera_id": null,
+    "timestamp": "2024-12-03T14:06:32.078514Z",
+    "image_width": 1082,
+    "image_height": 727
+}

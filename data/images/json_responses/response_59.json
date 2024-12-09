@@ -1,0 +1,54 @@
+{
+    "processing_time": 33.15,
+    "results": [
+        {
+            "box": {
+                "xmin": 331,
+                "ymin": 589,
+                "xmax": 503,
+                "ymax": 642
+            },
+            "plate": "gt2013",
+            "region": {
+                "code": "cn",
+                "score": 0.895
+            },
+            "score": 1.0,
+            "candidates": [
+                {
+                    "score": 1.0,
+                    "plate": "gt2013"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "gt20i3"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "gt2o13"
+                },
+                {
+                    "score": 0.683,
+                    "plate": "gt2oi3"
+                }
+            ],
+            "dscore": 0.873,
+            "vehicle": {
+                "score": 0.912,
+                "type": "Sedan",
+                "box": {
+                    "xmin": 19,
+                    "ymin": 39,
+                    "xmax": 747,
+                    "ymax": 719
+                }
+            }
+        }
+    ],
+    "filename": "1346_OoDKN_G1_59.jpg",
+    "version": 1,
+    "camera_id": null,
+    "timestamp": "2024-12-03T13:46:14.597123Z",
+    "image_width": 1082,
+    "image_height": 727
+}

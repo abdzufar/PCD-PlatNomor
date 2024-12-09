@@ -1,0 +1,46 @@
+{
+    "processing_time": 159.035,
+    "results": [
+        {
+            "box": {
+                "xmin": 49,
+                "ymin": 583,
+                "xmax": 221,
+                "ymax": 641
+            },
+            "plate": "g19677",
+            "region": {
+                "code": "cn",
+                "score": 0.653
+            },
+            "score": 0.999,
+            "candidates": [
+                {
+                    "score": 0.999,
+                    "plate": "g19677"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "gi9677"
+                }
+            ],
+            "dscore": 0.815,
+            "vehicle": {
+                "score": 0.789,
+                "type": "Sedan",
+                "box": {
+                    "xmin": 0,
+                    "ymin": 5,
+                    "xmax": 478,
+                    "ymax": 726
+                }
+            }
+        }
+    ],
+    "filename": "1358_m7kpC_G1_315.jpg",
+    "version": 1,
+    "camera_id": null,
+    "timestamp": "2024-12-03T13:58:31.956693Z",
+    "image_width": 1082,
+    "image_height": 727
+}

@@ -1,0 +1,78 @@
+{
+    "processing_time": 103.853,
+    "results": [
+        {
+            "box": {
+                "xmin": 241,
+                "ymin": 522,
+                "xmax": 387,
+                "ymax": 564
+            },
+            "plate": "g90110",
+            "region": {
+                "code": "cn",
+                "score": 0.606
+            },
+            "score": 0.999,
+            "candidates": [
+                {
+                    "score": 0.999,
+                    "plate": "g90110"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "g9011o"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "g901i0"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "g90i10"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "g9o110"
+                },
+                {
+                    "score": 0.683,
+                    "plate": "g901io"
+                },
+                {
+                    "score": 0.683,
+                    "plate": "g90i1o"
+                },
+                {
+                    "score": 0.683,
+                    "plate": "g90ii0"
+                },
+                {
+                    "score": 0.683,
+                    "plate": "g9o11o"
+                },
+                {
+                    "score": 0.683,
+                    "plate": "g9o1i0"
+                }
+            ],
+            "dscore": 0.816,
+            "vehicle": {
+                "score": 0.917,
+                "type": "Sedan",
+                "box": {
+                    "xmin": 0,
+                    "ymin": 8,
+                    "xmax": 614,
+                    "ymax": 618
+                }
+            }
+        }
+    ],
+    "filename": "1349_Og1Xq_G1_128.jpg",
+    "version": 1,
+    "camera_id": null,
+    "timestamp": "2024-12-03T13:49:44.320111Z",
+    "image_width": 1082,
+    "image_height": 727
+}

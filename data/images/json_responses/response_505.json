@@ -1,0 +1,77 @@
+{
+    "processing_time": 65.773,
+    "results": [
+        {
+            "box": {
+                "xmin": 271,
+                "ymin": 511,
+                "xmax": 421,
+                "ymax": 555
+            },
+            "plate": "gt2247",
+            "region": {
+                "code": "cn",
+                "score": 0.826
+            },
+            "score": 1.0,
+            "candidates": [
+                {
+                    "score": 1.0,
+                    "plate": "gt2247"
+                }
+            ],
+            "dscore": 0.846,
+            "vehicle": {
+                "score": 0.752,
+                "type": "Sedan",
+                "box": {
+                    "xmin": 53,
+                    "ymin": 8,
+                    "xmax": 624,
+                    "ymax": 612
+                }
+            }
+        },
+        {
+            "box": {
+                "xmin": 237,
+                "ymin": 5,
+                "xmax": 421,
+                "ymax": 48
+            },
+            "plate": "taxi",
+            "region": {
+                "code": "gb",
+                "score": 0.009
+            },
+            "score": 0.964,
+            "candidates": [
+                {
+                    "score": 0.964,
+                    "plate": "taxi"
+                },
+                {
+                    "score": 0.772,
+                    "plate": "tax1"
+                }
+            ],
+            "dscore": 0.217,
+            "vehicle": {
+                "score": 0.0,
+                "type": "Unknown",
+                "box": {
+                    "xmin": 0,
+                    "ymin": 0,
+                    "xmax": 0,
+                    "ymax": 0
+                }
+            }
+        }
+    ],
+    "filename": "1407_I9M6r_G1_505.jpg",
+    "version": 1,
+    "camera_id": null,
+    "timestamp": "2024-12-03T14:07:49.880458Z",
+    "image_width": 1082,
+    "image_height": 727
+}

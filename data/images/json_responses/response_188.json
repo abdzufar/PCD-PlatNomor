@@ -1,0 +1,54 @@
+{
+    "processing_time": 62.44,
+    "results": [
+        {
+            "box": {
+                "xmin": 191,
+                "ymin": 627,
+                "xmax": 364,
+                "ymax": 684
+            },
+            "plate": "60136",
+            "region": {
+                "code": "cn",
+                "score": 0.799
+            },
+            "score": 0.961,
+            "candidates": [
+                {
+                    "score": 0.961,
+                    "plate": "60136"
+                },
+                {
+                    "score": 0.835,
+                    "plate": "6o136"
+                },
+                {
+                    "score": 0.772,
+                    "plate": "60i36"
+                },
+                {
+                    "score": 0.646,
+                    "plate": "6oi36"
+                }
+            ],
+            "dscore": 0.872,
+            "vehicle": {
+                "score": 0.817,
+                "type": "Sedan",
+                "box": {
+                    "xmin": 0,
+                    "ymin": 30,
+                    "xmax": 601,
+                    "ymax": 720
+                }
+            }
+        }
+    ],
+    "filename": "1352_EyKHI_G1_188.jpg",
+    "version": 1,
+    "camera_id": null,
+    "timestamp": "2024-12-03T13:52:31.933318Z",
+    "image_width": 1082,
+    "image_height": 727
+}

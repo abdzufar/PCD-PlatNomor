@@ -1,0 +1,54 @@
+{
+    "processing_time": 37.102,
+    "results": [
+        {
+            "box": {
+                "xmin": 387,
+                "ymin": 590,
+                "xmax": 554,
+                "ymax": 636
+            },
+            "plate": "gt1590",
+            "region": {
+                "code": "cn",
+                "score": 0.818
+            },
+            "score": 0.999,
+            "candidates": [
+                {
+                    "score": 0.999,
+                    "plate": "gt1590"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "gt159o"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "gti590"
+                },
+                {
+                    "score": 0.683,
+                    "plate": "gti59o"
+                }
+            ],
+            "dscore": 0.848,
+            "vehicle": {
+                "score": 0.926,
+                "type": "Sedan",
+                "box": {
+                    "xmin": 64,
+                    "ymin": 55,
+                    "xmax": 793,
+                    "ymax": 724
+                }
+            }
+        }
+    ],
+    "filename": "1411_OATpY_G1_583.jpg",
+    "version": 1,
+    "camera_id": null,
+    "timestamp": "2024-12-03T14:11:25.776344Z",
+    "image_width": 1082,
+    "image_height": 727
+}

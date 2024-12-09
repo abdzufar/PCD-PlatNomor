@@ -1,0 +1,78 @@
+{
+    "processing_time": 29.353,
+    "results": [
+        {
+            "box": {
+                "xmin": 204,
+                "ymin": 581,
+                "xmax": 374,
+                "ymax": 635
+            },
+            "plate": "g01618",
+            "region": {
+                "code": "cn",
+                "score": 0.805
+            },
+            "score": 0.998,
+            "candidates": [
+                {
+                    "score": 0.998,
+                    "plate": "g01618"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "go1618"
+                },
+                {
+                    "score": 0.84,
+                    "plate": "g0161b"
+                },
+                {
+                    "score": 0.84,
+                    "plate": "g016i8"
+                },
+                {
+                    "score": 0.84,
+                    "plate": "g0i618"
+                },
+                {
+                    "score": 0.683,
+                    "plate": "go161b"
+                },
+                {
+                    "score": 0.682,
+                    "plate": "g016ib"
+                },
+                {
+                    "score": 0.682,
+                    "plate": "g0i61b"
+                },
+                {
+                    "score": 0.682,
+                    "plate": "go16i8"
+                },
+                {
+                    "score": 0.682,
+                    "plate": "goi618"
+                }
+            ],
+            "dscore": 0.815,
+            "vehicle": {
+                "score": 0.858,
+                "type": "Sedan",
+                "box": {
+                    "xmin": 1,
+                    "ymin": 35,
+                    "xmax": 622,
+                    "ymax": 725
+                }
+            }
+        }
+    ],
+    "filename": "1420_F5uWZ_G1_758.jpg",
+    "version": 1,
+    "camera_id": null,
+    "timestamp": "2024-12-03T14:20:22.619382Z",
+    "image_width": 1082,
+    "image_height": 727
+}

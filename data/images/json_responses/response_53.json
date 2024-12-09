@@ -1,0 +1,46 @@
+{
+    "processing_time": 59.886,
+    "results": [
+        {
+            "box": {
+                "xmin": 497,
+                "ymin": 624,
+                "xmax": 665,
+                "ymax": 674
+            },
+            "plate": "gpa099",
+            "region": {
+                "code": "cn",
+                "score": 0.532
+            },
+            "score": 0.997,
+            "candidates": [
+                {
+                    "score": 0.997,
+                    "plate": "gpa099"
+                },
+                {
+                    "score": 0.838,
+                    "plate": "gpao99"
+                }
+            ],
+            "dscore": 0.844,
+            "vehicle": {
+                "score": 0.924,
+                "type": "Van",
+                "box": {
+                    "xmin": 204,
+                    "ymin": 0,
+                    "xmax": 911,
+                    "ymax": 725
+                }
+            }
+        }
+    ],
+    "filename": "1345_5VmUG_G1_53.jpg",
+    "version": 1,
+    "camera_id": null,
+    "timestamp": "2024-12-03T13:45:59.672225Z",
+    "image_width": 1082,
+    "image_height": 727
+}

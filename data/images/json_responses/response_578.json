@@ -1,0 +1,70 @@
+{
+    "processing_time": 33.226,
+    "results": [
+        {
+            "box": {
+                "xmin": 20,
+                "ymin": 591,
+                "xmax": 186,
+                "ymax": 636
+            },
+            "plate": "og0062",
+            "region": {
+                "code": "cn",
+                "score": 0.505
+            },
+            "score": 0.968,
+            "candidates": [
+                {
+                    "score": 0.968,
+                    "plate": "og0062"
+                },
+                {
+                    "score": 0.831,
+                    "plate": "0g0062"
+                },
+                {
+                    "score": 0.829,
+                    "plate": "ogo062"
+                },
+                {
+                    "score": 0.811,
+                    "plate": "og0o62"
+                },
+                {
+                    "score": 0.692,
+                    "plate": "0go062"
+                },
+                {
+                    "score": 0.675,
+                    "plate": "0g0o62"
+                },
+                {
+                    "score": 0.672,
+                    "plate": "ogoo62"
+                },
+                {
+                    "score": 0.535,
+                    "plate": "0goo62"
+                }
+            ],
+            "dscore": 0.829,
+            "vehicle": {
+                "score": 0.83,
+                "type": "Sedan",
+                "box": {
+                    "xmin": 0,
+                    "ymin": 29,
+                    "xmax": 429,
+                    "ymax": 722
+                }
+            }
+        }
+    ],
+    "filename": "1411_vLRSF_G1_578.jpg",
+    "version": 1,
+    "camera_id": null,
+    "timestamp": "2024-12-03T14:11:12.351959Z",
+    "image_width": 1082,
+    "image_height": 727
+}

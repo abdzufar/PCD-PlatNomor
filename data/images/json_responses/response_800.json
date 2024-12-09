@@ -1,0 +1,70 @@
+{
+    "processing_time": 57.74,
+    "results": [
+        {
+            "box": {
+                "xmin": 265,
+                "ymin": 604,
+                "xmax": 438,
+                "ymax": 655
+            },
+            "plate": "g10621",
+            "region": {
+                "code": "cn",
+                "score": 0.717
+            },
+            "score": 0.999,
+            "candidates": [
+                {
+                    "score": 0.999,
+                    "plate": "g10621"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "g1062i"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "g1o621"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "gi0621"
+                },
+                {
+                    "score": 0.683,
+                    "plate": "g1o62i"
+                },
+                {
+                    "score": 0.683,
+                    "plate": "gi062i"
+                },
+                {
+                    "score": 0.683,
+                    "plate": "gio621"
+                },
+                {
+                    "score": 0.525,
+                    "plate": "gio62i"
+                }
+            ],
+            "dscore": 0.849,
+            "vehicle": {
+                "score": 0.943,
+                "type": "Van",
+                "box": {
+                    "xmin": 1,
+                    "ymin": 0,
+                    "xmax": 767,
+                    "ymax": 725
+                }
+            }
+        }
+    ],
+    "filename": "1422_y7cdG_G1_800.jpg",
+    "version": 1,
+    "camera_id": null,
+    "timestamp": "2024-12-03T14:22:19.552318Z",
+    "image_width": 1082,
+    "image_height": 727
+}

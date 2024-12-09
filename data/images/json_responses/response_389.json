@@ -1,0 +1,70 @@
+{
+    "processing_time": 32.543,
+    "results": [
+        {
+            "box": {
+                "xmin": 483,
+                "ymin": 593,
+                "xmax": 657,
+                "ymax": 646
+            },
+            "plate": "oz0209",
+            "region": {
+                "code": "cn",
+                "score": 0.645
+            },
+            "score": 0.987,
+            "candidates": [
+                {
+                    "score": 0.987,
+                    "plate": "oz0209"
+                },
+                {
+                    "score": 0.838,
+                    "plate": "0z0209"
+                },
+                {
+                    "score": 0.832,
+                    "plate": "ozo209"
+                },
+                {
+                    "score": 0.829,
+                    "plate": "oz02o9"
+                },
+                {
+                    "score": 0.683,
+                    "plate": "0zo209"
+                },
+                {
+                    "score": 0.68,
+                    "plate": "0z02o9"
+                },
+                {
+                    "score": 0.674,
+                    "plate": "ozo2o9"
+                },
+                {
+                    "score": 0.525,
+                    "plate": "0zo2o9"
+                }
+            ],
+            "dscore": 0.831,
+            "vehicle": {
+                "score": 0.924,
+                "type": "Sedan",
+                "box": {
+                    "xmin": 149,
+                    "ymin": 28,
+                    "xmax": 899,
+                    "ymax": 725
+                }
+            }
+        }
+    ],
+    "filename": "1401_uoD43_G1_389.jpg",
+    "version": 1,
+    "camera_id": null,
+    "timestamp": "2024-12-03T14:01:55.962315Z",
+    "image_width": 1082,
+    "image_height": 727
+}

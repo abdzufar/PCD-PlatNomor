@@ -1,0 +1,54 @@
+{
+    "processing_time": 84.212,
+    "results": [
+        {
+            "box": {
+                "xmin": 583,
+                "ymin": 568,
+                "xmax": 747,
+                "ymax": 610
+            },
+            "plate": "ag4009",
+            "region": {
+                "code": "cn",
+                "score": 0.596
+            },
+            "score": 1.0,
+            "candidates": [
+                {
+                    "score": 1.0,
+                    "plate": "ag4009"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "ag40o9"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "ag4o09"
+                },
+                {
+                    "score": 0.683,
+                    "plate": "ag4oo9"
+                }
+            ],
+            "dscore": 0.849,
+            "vehicle": {
+                "score": 0.666,
+                "type": "Pickup Truck",
+                "box": {
+                    "xmin": 222,
+                    "ymin": 0,
+                    "xmax": 1007,
+                    "ymax": 710
+                }
+            }
+        }
+    ],
+    "filename": "1401_RahKc_G1_384.jpg",
+    "version": 1,
+    "camera_id": null,
+    "timestamp": "2024-12-03T14:01:40.646224Z",
+    "image_width": 1082,
+    "image_height": 727
+}

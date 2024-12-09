@@ -1,0 +1,113 @@
+{
+    "processing_time": 106.728,
+    "results": [
+        {
+            "box": {
+                "xmin": 490,
+                "ymin": 527,
+                "xmax": 637,
+                "ymax": 563
+            },
+            "plate": "gt2261",
+            "region": {
+                "code": "cn",
+                "score": 0.491
+            },
+            "score": 0.999,
+            "candidates": [
+                {
+                    "score": 0.999,
+                    "plate": "gt2261"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "gt226i"
+                }
+            ],
+            "dscore": 0.811,
+            "vehicle": {
+                "score": 0.882,
+                "type": "Van",
+                "box": {
+                    "xmin": 247,
+                    "ymin": 7,
+                    "xmax": 842,
+                    "ymax": 609
+                }
+            }
+        },
+        {
+            "box": {
+                "xmin": 433,
+                "ymin": 6,
+                "xmax": 620,
+                "ymax": 42
+            },
+            "plate": "taxi",
+            "region": {
+                "code": "us-co",
+                "score": 0.016
+            },
+            "score": 0.91,
+            "candidates": [
+                {
+                    "score": 0.91,
+                    "plate": "taxi"
+                },
+                {
+                    "score": 0.803,
+                    "plate": "tax1"
+                },
+                {
+                    "score": 0.743,
+                    "plate": "taxi1"
+                },
+                {
+                    "score": 0.741,
+                    "plate": "taxie"
+                },
+                {
+                    "score": 0.738,
+                    "plate": "taxii"
+                },
+                {
+                    "score": 0.687,
+                    "plate": "axi"
+                },
+                {
+                    "score": 0.657,
+                    "plate": "tax11"
+                },
+                {
+                    "score": 0.656,
+                    "plate": "tax1e"
+                },
+                {
+                    "score": 0.652,
+                    "plate": "tax1i"
+                },
+                {
+                    "score": 0.63,
+                    "plate": "taxi1e"
+                }
+            ],
+            "dscore": 0.018,
+            "vehicle": {
+                "score": 0.0,
+                "type": "Unknown",
+                "box": {
+                    "xmin": 0,
+                    "ymin": 0,
+                    "xmax": 0,
+                    "ymax": 0
+                }
+            }
+        }
+    ],
+    "filename": "1346_msQnq_G1_66.jpg",
+    "version": 1,
+    "camera_id": null,
+    "timestamp": "2024-12-03T13:46:39.488167Z",
+    "image_width": 1082,
+    "image_height": 727
+}

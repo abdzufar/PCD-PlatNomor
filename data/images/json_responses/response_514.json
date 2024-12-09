@@ -1,0 +1,54 @@
+{
+    "processing_time": 32.271,
+    "results": [
+        {
+            "box": {
+                "xmin": 397,
+                "ymin": 583,
+                "xmax": 569,
+                "ymax": 641
+            },
+            "plate": "g05156",
+            "region": {
+                "code": "cn",
+                "score": 0.851
+            },
+            "score": 0.999,
+            "candidates": [
+                {
+                    "score": 0.999,
+                    "plate": "g05156"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "g05i56"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "go5156"
+                },
+                {
+                    "score": 0.683,
+                    "plate": "go5i56"
+                }
+            ],
+            "dscore": 0.89,
+            "vehicle": {
+                "score": 0.891,
+                "type": "Sedan",
+                "box": {
+                    "xmin": 40,
+                    "ymin": 25,
+                    "xmax": 805,
+                    "ymax": 719
+                }
+            }
+        }
+    ],
+    "filename": "1408_7LTTu_G1_514.jpg",
+    "version": 1,
+    "camera_id": null,
+    "timestamp": "2024-12-03T14:08:12.391859Z",
+    "image_width": 1082,
+    "image_height": 727
+}

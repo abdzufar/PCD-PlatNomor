@@ -1,0 +1,54 @@
+{
+    "processing_time": 18.531,
+    "results": [
+        {
+            "box": {
+                "xmin": 433,
+                "ymin": 527,
+                "xmax": 585,
+                "ymax": 570
+            },
+            "plate": "gt1026",
+            "region": {
+                "code": "cn",
+                "score": 0.781
+            },
+            "score": 1.0,
+            "candidates": [
+                {
+                    "score": 1.0,
+                    "plate": "gt1026"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "gt1o26"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "gti026"
+                },
+                {
+                    "score": 0.683,
+                    "plate": "gtio26"
+                }
+            ],
+            "dscore": 0.819,
+            "vehicle": {
+                "score": 0.734,
+                "type": "Van",
+                "box": {
+                    "xmin": 196,
+                    "ymin": 14,
+                    "xmax": 795,
+                    "ymax": 614
+                }
+            }
+        }
+    ],
+    "filename": "1420_MagDy_G1_762.jpg",
+    "version": 1,
+    "camera_id": null,
+    "timestamp": "2024-12-03T14:20:32.937712Z",
+    "image_width": 1082,
+    "image_height": 727
+}

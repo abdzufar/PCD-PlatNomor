@@ -1,0 +1,70 @@
+{
+    "processing_time": 22.28,
+    "results": [
+        {
+            "box": {
+                "xmin": 18,
+                "ymin": 498,
+                "xmax": 173,
+                "ymax": 546
+            },
+            "plate": "g07882",
+            "region": {
+                "code": "cn",
+                "score": 0.741
+            },
+            "score": 0.999,
+            "candidates": [
+                {
+                    "score": 0.999,
+                    "plate": "g07882"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "g078b2"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "g07b82"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "go7882"
+                },
+                {
+                    "score": 0.683,
+                    "plate": "g07bb2"
+                },
+                {
+                    "score": 0.683,
+                    "plate": "go78b2"
+                },
+                {
+                    "score": 0.683,
+                    "plate": "go7b82"
+                },
+                {
+                    "score": 0.525,
+                    "plate": "go7bb2"
+                }
+            ],
+            "dscore": 0.813,
+            "vehicle": {
+                "score": 0.829,
+                "type": "Big Truck",
+                "box": {
+                    "xmin": 0,
+                    "ymin": 0,
+                    "xmax": 547,
+                    "ymax": 590
+                }
+            }
+        }
+    ],
+    "filename": "1357_s87Eb_G1_296.jpg",
+    "version": 1,
+    "camera_id": null,
+    "timestamp": "2024-12-03T13:57:37.176403Z",
+    "image_width": 1082,
+    "image_height": 727
+}

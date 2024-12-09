@@ -1,0 +1,78 @@
+{
+    "processing_time": 67.352,
+    "results": [
+        {
+            "box": {
+                "xmin": 329,
+                "ymin": 500,
+                "xmax": 475,
+                "ymax": 541
+            },
+            "plate": "ob058",
+            "region": {
+                "code": "cn",
+                "score": 0.119
+            },
+            "score": 0.923,
+            "candidates": [
+                {
+                    "score": 0.923,
+                    "plate": "ob058"
+                },
+                {
+                    "score": 0.793,
+                    "plate": "0b058"
+                },
+                {
+                    "score": 0.733,
+                    "plate": "o8058"
+                },
+                {
+                    "score": 0.677,
+                    "plate": "0bo58"
+                },
+                {
+                    "score": 0.616,
+                    "plate": "o8o58"
+                },
+                {
+                    "score": 0.603,
+                    "plate": "0b05b"
+                },
+                {
+                    "score": 0.603,
+                    "plate": "08058"
+                },
+                {
+                    "score": 0.543,
+                    "plate": "o805b"
+                },
+                {
+                    "score": 0.487,
+                    "plate": "08o58"
+                },
+                {
+                    "score": 0.413,
+                    "plate": "0805b"
+                }
+            ],
+            "dscore": 0.82,
+            "vehicle": {
+                "score": 0.658,
+                "type": "Sedan",
+                "box": {
+                    "xmin": 72,
+                    "ymin": 1,
+                    "xmax": 720,
+                    "ymax": 585
+                }
+            }
+        }
+    ],
+    "filename": "1356_ehtAy_G1_274.jpg",
+    "version": 1,
+    "camera_id": null,
+    "timestamp": "2024-12-03T13:56:29.801543Z",
+    "image_width": 1082,
+    "image_height": 727
+}

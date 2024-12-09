@@ -1,0 +1,46 @@
+{
+    "processing_time": 32.122,
+    "results": [
+        {
+            "box": {
+                "xmin": 183,
+                "ymin": 564,
+                "xmax": 355,
+                "ymax": 614
+            },
+            "plate": "gzj958",
+            "region": {
+                "code": "cn",
+                "score": 0.745
+            },
+            "score": 1.0,
+            "candidates": [
+                {
+                    "score": 1.0,
+                    "plate": "gzj958"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "gzj95b"
+                }
+            ],
+            "dscore": 0.834,
+            "vehicle": {
+                "score": 0.496,
+                "type": "Sedan",
+                "box": {
+                    "xmin": 0,
+                    "ymin": 0,
+                    "xmax": 639,
+                    "ymax": 703
+                }
+            }
+        }
+    ],
+    "filename": "1347_7dhoO_G1_80.jpg",
+    "version": 1,
+    "camera_id": null,
+    "timestamp": "2024-12-03T13:47:32.406493Z",
+    "image_width": 1082,
+    "image_height": 727
+}

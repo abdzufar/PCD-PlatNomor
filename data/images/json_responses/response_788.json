@@ -1,0 +1,78 @@
+{
+    "processing_time": 22.993,
+    "results": [
+        {
+            "box": {
+                "xmin": 438,
+                "ymin": 585,
+                "xmax": 611,
+                "ymax": 639
+            },
+            "plate": "g00118",
+            "region": {
+                "code": "cn",
+                "score": 0.809
+            },
+            "score": 0.99,
+            "candidates": [
+                {
+                    "score": 0.99,
+                    "plate": "g00118"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "go0118"
+                },
+                {
+                    "score": 0.832,
+                    "plate": "g0o118"
+                },
+                {
+                    "score": 0.831,
+                    "plate": "g0011b"
+                },
+                {
+                    "score": 0.831,
+                    "plate": "g001i8"
+                },
+                {
+                    "score": 0.831,
+                    "plate": "g00i18"
+                },
+                {
+                    "score": 0.683,
+                    "plate": "go011b"
+                },
+                {
+                    "score": 0.683,
+                    "plate": "go01i8"
+                },
+                {
+                    "score": 0.683,
+                    "plate": "go0i18"
+                },
+                {
+                    "score": 0.683,
+                    "plate": "goo118"
+                }
+            ],
+            "dscore": 0.818,
+            "vehicle": {
+                "score": 0.916,
+                "type": "Sedan",
+                "box": {
+                    "xmin": 98,
+                    "ymin": 38,
+                    "xmax": 848,
+                    "ymax": 716
+                }
+            }
+        }
+    ],
+    "filename": "1421_zI55x_G1_788.jpg",
+    "version": 1,
+    "camera_id": null,
+    "timestamp": "2024-12-03T14:21:44.090650Z",
+    "image_width": 1082,
+    "image_height": 727
+}

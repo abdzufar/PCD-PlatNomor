@@ -1,0 +1,42 @@
+{
+    "processing_time": 53.129,
+    "results": [
+        {
+            "box": {
+                "xmin": 440,
+                "ymin": 603,
+                "xmax": 604,
+                "ymax": 644
+            },
+            "plate": "qy366h",
+            "region": {
+                "code": "cn",
+                "score": 0.359
+            },
+            "score": 0.999,
+            "candidates": [
+                {
+                    "score": 0.999,
+                    "plate": "qy366h"
+                }
+            ],
+            "dscore": 0.856,
+            "vehicle": {
+                "score": 0.629,
+                "type": "Sedan",
+                "box": {
+                    "xmin": 114,
+                    "ymin": 0,
+                    "xmax": 844,
+                    "ymax": 721
+                }
+            }
+        }
+    ],
+    "filename": "1350_U59dj_G1_141.jpg",
+    "version": 1,
+    "camera_id": null,
+    "timestamp": "2024-12-03T13:50:23.165825Z",
+    "image_width": 1082,
+    "image_height": 727
+}

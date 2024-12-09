@@ -1,0 +1,70 @@
+{
+    "processing_time": 48.865,
+    "results": [
+        {
+            "box": {
+                "xmin": 298,
+                "ymin": 585,
+                "xmax": 465,
+                "ymax": 636
+            },
+            "plate": "g10660",
+            "region": {
+                "code": "cn",
+                "score": 0.512
+            },
+            "score": 0.998,
+            "candidates": [
+                {
+                    "score": 0.998,
+                    "plate": "g10660"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "gi0660"
+                },
+                {
+                    "score": 0.84,
+                    "plate": "g1066o"
+                },
+                {
+                    "score": 0.84,
+                    "plate": "g1o660"
+                },
+                {
+                    "score": 0.683,
+                    "plate": "gi066o"
+                },
+                {
+                    "score": 0.683,
+                    "plate": "gio660"
+                },
+                {
+                    "score": 0.682,
+                    "plate": "g1o66o"
+                },
+                {
+                    "score": 0.525,
+                    "plate": "gio66o"
+                }
+            ],
+            "dscore": 0.803,
+            "vehicle": {
+                "score": 0.905,
+                "type": "Sedan",
+                "box": {
+                    "xmin": 0,
+                    "ymin": 47,
+                    "xmax": 714,
+                    "ymax": 716
+                }
+            }
+        }
+    ],
+    "filename": "1352_aKaMC_G1_193.jpg",
+    "version": 1,
+    "camera_id": null,
+    "timestamp": "2024-12-03T13:52:48.683106Z",
+    "image_width": 1082,
+    "image_height": 727
+}

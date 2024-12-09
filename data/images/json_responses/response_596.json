@@ -1,0 +1,54 @@
+{
+    "processing_time": 57.442,
+    "results": [
+        {
+            "box": {
+                "xmin": 116,
+                "ymin": 643,
+                "xmax": 287,
+                "ymax": 692
+            },
+            "plate": "g12893",
+            "region": {
+                "code": "cn",
+                "score": 0.707
+            },
+            "score": 0.999,
+            "candidates": [
+                {
+                    "score": 0.999,
+                    "plate": "g12893"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "g12b93"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "gi2893"
+                },
+                {
+                    "score": 0.683,
+                    "plate": "gi2b93"
+                }
+            ],
+            "dscore": 0.826,
+            "vehicle": {
+                "score": 0.489,
+                "type": "SUV",
+                "box": {
+                    "xmin": 0,
+                    "ymin": 4,
+                    "xmax": 538,
+                    "ymax": 726
+                }
+            }
+        }
+    ],
+    "filename": "1412_aur8y_G1_596.jpg",
+    "version": 1,
+    "camera_id": null,
+    "timestamp": "2024-12-03T14:12:05.220645Z",
+    "image_width": 1082,
+    "image_height": 727
+}

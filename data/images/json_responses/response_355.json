@@ -1,0 +1,121 @@
+{
+    "processing_time": 49.32,
+    "results": [
+        {
+            "box": {
+                "xmin": 361,
+                "ymin": 515,
+                "xmax": 505,
+                "ymax": 551
+            },
+            "plate": "gt2300",
+            "region": {
+                "code": "cn",
+                "score": 0.763
+            },
+            "score": 0.999,
+            "candidates": [
+                {
+                    "score": 0.999,
+                    "plate": "gt2300"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "gt230o"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "gt23o0"
+                },
+                {
+                    "score": 0.683,
+                    "plate": "gt23oo"
+                }
+            ],
+            "dscore": 0.805,
+            "vehicle": {
+                "score": 0.727,
+                "type": "Van",
+                "box": {
+                    "xmin": 113,
+                    "ymin": 3,
+                    "xmax": 708,
+                    "ymax": 589
+                }
+            }
+        },
+        {
+            "box": {
+                "xmin": 304,
+                "ymin": 0,
+                "xmax": 487,
+                "ymax": 44
+            },
+            "plate": "taxi",
+            "region": {
+                "code": "gb",
+                "score": 0.006
+            },
+            "score": 0.973,
+            "candidates": [
+                {
+                    "score": 0.973,
+                    "plate": "taxi"
+                },
+                {
+                    "score": 0.798,
+                    "plate": "taxia"
+                },
+                {
+                    "score": 0.79,
+                    "plate": "taxi1"
+                },
+                {
+                    "score": 0.788,
+                    "plate": "taxii"
+                },
+                {
+                    "score": 0.76,
+                    "plate": "tax1"
+                },
+                {
+                    "score": 0.676,
+                    "plate": "taxi1a"
+                },
+                {
+                    "score": 0.674,
+                    "plate": "taxiia"
+                },
+                {
+                    "score": 0.629,
+                    "plate": "tax1a"
+                },
+                {
+                    "score": 0.621,
+                    "plate": "tax11"
+                },
+                {
+                    "score": 0.618,
+                    "plate": "tax1i"
+                }
+            ],
+            "dscore": 0.199,
+            "vehicle": {
+                "score": 0.0,
+                "type": "Unknown",
+                "box": {
+                    "xmin": 0,
+                    "ymin": 0,
+                    "xmax": 0,
+                    "ymax": 0
+                }
+            }
+        }
+    ],
+    "filename": "1400_BhpkP_G1_355.jpg",
+    "version": 1,
+    "camera_id": null,
+    "timestamp": "2024-12-03T14:00:18.582137Z",
+    "image_width": 1082,
+    "image_height": 727
+}

@@ -1,0 +1,54 @@
+{
+    "processing_time": 44.911,
+    "results": [
+        {
+            "box": {
+                "xmin": 369,
+                "ymin": 604,
+                "xmax": 542,
+                "ymax": 648
+            },
+            "plate": "gt1122",
+            "region": {
+                "code": "cn",
+                "score": 0.591
+            },
+            "score": 0.996,
+            "candidates": [
+                {
+                    "score": 0.996,
+                    "plate": "gt1122"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "gti122"
+                },
+                {
+                    "score": 0.838,
+                    "plate": "gt1i22"
+                },
+                {
+                    "score": 0.683,
+                    "plate": "gtii22"
+                }
+            ],
+            "dscore": 0.807,
+            "vehicle": {
+                "score": 0.632,
+                "type": "Sedan",
+                "box": {
+                    "xmin": 53,
+                    "ymin": 34,
+                    "xmax": 767,
+                    "ymax": 705
+                }
+            }
+        }
+    ],
+    "filename": "1344_Tssqp_G1_17.jpg",
+    "version": 1,
+    "camera_id": null,
+    "timestamp": "2024-12-03T13:44:23.539094Z",
+    "image_width": 1082,
+    "image_height": 727
+}

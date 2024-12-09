@@ -1,0 +1,109 @@
+{
+    "processing_time": 51.351,
+    "results": [
+        {
+            "box": {
+                "xmin": 442,
+                "ymin": 593,
+                "xmax": 614,
+                "ymax": 647
+            },
+            "plate": "gt2395",
+            "region": {
+                "code": "cn",
+                "score": 0.827
+            },
+            "score": 1.0,
+            "candidates": [
+                {
+                    "score": 1.0,
+                    "plate": "gt2395"
+                }
+            ],
+            "dscore": 0.872,
+            "vehicle": {
+                "score": 0.847,
+                "type": "Sedan",
+                "box": {
+                    "xmin": 122,
+                    "ymin": 52,
+                    "xmax": 854,
+                    "ymax": 725
+                }
+            }
+        },
+        {
+            "box": {
+                "xmin": 357,
+                "ymin": 40,
+                "xmax": 581,
+                "ymax": 95
+            },
+            "plate": "taxibr",
+            "region": {
+                "code": "ru",
+                "score": 0.015
+            },
+            "score": 0.794,
+            "candidates": [
+                {
+                    "score": 0.794,
+                    "plate": "taxibr"
+                },
+                {
+                    "score": 0.769,
+                    "plate": "taxir"
+                },
+                {
+                    "score": 0.763,
+                    "plate": "taxi8r"
+                },
+                {
+                    "score": 0.711,
+                    "plate": "tax1br"
+                },
+                {
+                    "score": 0.688,
+                    "plate": "taxi8br"
+                },
+                {
+                    "score": 0.687,
+                    "plate": "tax1r"
+                },
+                {
+                    "score": 0.687,
+                    "plate": "taxibbr"
+                },
+                {
+                    "score": 0.68,
+                    "plate": "tax18r"
+                },
+                {
+                    "score": 0.669,
+                    "plate": "taxib"
+                },
+                {
+                    "score": 0.661,
+                    "plate": "taxi88r"
+                }
+            ],
+            "dscore": 0.058,
+            "vehicle": {
+                "score": 0.0,
+                "type": "Unknown",
+                "box": {
+                    "xmin": 0,
+                    "ymin": 0,
+                    "xmax": 0,
+                    "ymax": 0
+                }
+            }
+        }
+    ],
+    "filename": "1349_nBbOM_G1_122.jpg",
+    "version": 1,
+    "camera_id": null,
+    "timestamp": "2024-12-03T13:49:27.704733Z",
+    "image_width": 1082,
+    "image_height": 727
+}

@@ -1,0 +1,54 @@
+{
+    "processing_time": 25.824,
+    "results": [
+        {
+            "box": {
+                "xmin": 305,
+                "ymin": 566,
+                "xmax": 470,
+                "ymax": 614
+            },
+            "plate": "g17670",
+            "region": {
+                "code": "cn",
+                "score": 0.523
+            },
+            "score": 0.999,
+            "candidates": [
+                {
+                    "score": 0.999,
+                    "plate": "g17670"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "g1767o"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "gi7670"
+                },
+                {
+                    "score": 0.683,
+                    "plate": "gi767o"
+                }
+            ],
+            "dscore": 0.844,
+            "vehicle": {
+                "score": 0.542,
+                "type": "SUV",
+                "box": {
+                    "xmin": 0,
+                    "ymin": 0,
+                    "xmax": 716,
+                    "ymax": 722
+                }
+            }
+        }
+    ],
+    "filename": "1408_vbHHv_G1_520.jpg",
+    "version": 1,
+    "camera_id": null,
+    "timestamp": "2024-12-03T14:08:26.230774Z",
+    "image_width": 1082,
+    "image_height": 727
+}

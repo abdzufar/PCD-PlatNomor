@@ -1,0 +1,70 @@
+{
+    "processing_time": 58.453,
+    "results": [
+        {
+            "box": {
+                "xmin": 53,
+                "ymin": 496,
+                "xmax": 208,
+                "ymax": 544
+            },
+            "plate": "g01231",
+            "region": {
+                "code": "cn",
+                "score": 0.904
+            },
+            "score": 0.993,
+            "candidates": [
+                {
+                    "score": 0.993,
+                    "plate": "g01231"
+                },
+                {
+                    "score": 0.84,
+                    "plate": "go1231"
+                },
+                {
+                    "score": 0.835,
+                    "plate": "g0123i"
+                },
+                {
+                    "score": 0.835,
+                    "plate": "g0i231"
+                },
+                {
+                    "score": 0.682,
+                    "plate": "goi231"
+                },
+                {
+                    "score": 0.681,
+                    "plate": "go123i"
+                },
+                {
+                    "score": 0.677,
+                    "plate": "g0i23i"
+                },
+                {
+                    "score": 0.523,
+                    "plate": "goi23i"
+                }
+            ],
+            "dscore": 0.838,
+            "vehicle": {
+                "score": 0.584,
+                "type": "Big Truck",
+                "box": {
+                    "xmin": 0,
+                    "ymin": 0,
+                    "xmax": 572,
+                    "ymax": 578
+                }
+            }
+        }
+    ],
+    "filename": "1356_fSr4n_G1_283.jpg",
+    "version": 1,
+    "camera_id": null,
+    "timestamp": "2024-12-03T13:56:55.498519Z",
+    "image_width": 1082,
+    "image_height": 727
+}

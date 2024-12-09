@@ -1,0 +1,78 @@
+{
+    "processing_time": 74.458,
+    "results": [
+        {
+            "box": {
+                "xmin": 127,
+                "ymin": 501,
+                "xmax": 272,
+                "ymax": 545
+            },
+            "plate": "g10410",
+            "region": {
+                "code": "cn",
+                "score": 0.733
+            },
+            "score": 0.999,
+            "candidates": [
+                {
+                    "score": 0.999,
+                    "plate": "g10410"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "gi0410"
+                },
+                {
+                    "score": 0.84,
+                    "plate": "g1041o"
+                },
+                {
+                    "score": 0.84,
+                    "plate": "g104i0"
+                },
+                {
+                    "score": 0.84,
+                    "plate": "g1o410"
+                },
+                {
+                    "score": 0.683,
+                    "plate": "gio410"
+                },
+                {
+                    "score": 0.682,
+                    "plate": "g104io"
+                },
+                {
+                    "score": 0.682,
+                    "plate": "g1o41o"
+                },
+                {
+                    "score": 0.682,
+                    "plate": "g1o4i0"
+                },
+                {
+                    "score": 0.682,
+                    "plate": "gi041o"
+                }
+            ],
+            "dscore": 0.799,
+            "vehicle": {
+                "score": 0.874,
+                "type": "Sedan",
+                "box": {
+                    "xmin": 0,
+                    "ymin": 16,
+                    "xmax": 493,
+                    "ymax": 589
+                }
+            }
+        }
+    ],
+    "filename": "1350_elqM1_G1_142.jpg",
+    "version": 1,
+    "camera_id": null,
+    "timestamp": "2024-12-03T13:50:25.650141Z",
+    "image_width": 1082,
+    "image_height": 727
+}

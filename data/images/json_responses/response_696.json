@@ -1,0 +1,54 @@
+{
+    "processing_time": 46.339,
+    "results": [
+        {
+            "box": {
+                "xmin": 289,
+                "ymin": 588,
+                "xmax": 458,
+                "ymax": 641
+            },
+            "plate": "gbx998",
+            "region": {
+                "code": "cn",
+                "score": 0.839
+            },
+            "score": 0.999,
+            "candidates": [
+                {
+                    "score": 0.999,
+                    "plate": "gbx998"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "gbx99b"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "g8x998"
+                },
+                {
+                    "score": 0.683,
+                    "plate": "g8x99b"
+                }
+            ],
+            "dscore": 0.888,
+            "vehicle": {
+                "score": 0.688,
+                "type": "Sedan",
+                "box": {
+                    "xmin": 0,
+                    "ymin": 10,
+                    "xmax": 704,
+                    "ymax": 726
+                }
+            }
+        }
+    ],
+    "filename": "1417_ofvBZ_G1_696.jpg",
+    "version": 1,
+    "camera_id": null,
+    "timestamp": "2024-12-03T14:17:11.285463Z",
+    "image_width": 1082,
+    "image_height": 727
+}

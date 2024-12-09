@@ -1,0 +1,46 @@
+{
+    "processing_time": 29.012,
+    "results": [
+        {
+            "box": {
+                "xmin": 269,
+                "ymin": 506,
+                "xmax": 417,
+                "ymax": 552
+            },
+            "plate": "gt1626",
+            "region": {
+                "code": "cn",
+                "score": 0.787
+            },
+            "score": 0.999,
+            "candidates": [
+                {
+                    "score": 0.999,
+                    "plate": "gt1626"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "gti626"
+                }
+            ],
+            "dscore": 0.827,
+            "vehicle": {
+                "score": 0.883,
+                "type": "Sedan",
+                "box": {
+                    "xmin": 27,
+                    "ymin": 6,
+                    "xmax": 603,
+                    "ymax": 609
+                }
+            }
+        }
+    ],
+    "filename": "1414_ninnj_G1_646.jpg",
+    "version": 1,
+    "camera_id": null,
+    "timestamp": "2024-12-03T14:14:35.415900Z",
+    "image_width": 1082,
+    "image_height": 727
+}

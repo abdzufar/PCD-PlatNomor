@@ -1,0 +1,46 @@
+{
+    "processing_time": 70.541,
+    "results": [
+        {
+            "box": {
+                "xmin": 308,
+                "ymin": 501,
+                "xmax": 453,
+                "ymax": 541
+            },
+            "plate": "g03459",
+            "region": {
+                "code": "cn",
+                "score": 0.692
+            },
+            "score": 0.999,
+            "candidates": [
+                {
+                    "score": 0.999,
+                    "plate": "g03459"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "go3459"
+                }
+            ],
+            "dscore": 0.812,
+            "vehicle": {
+                "score": 0.839,
+                "type": "Sedan",
+                "box": {
+                    "xmin": 63,
+                    "ymin": 0,
+                    "xmax": 697,
+                    "ymax": 614
+                }
+            }
+        }
+    ],
+    "filename": "1410_VEz5g_G1_569.jpg",
+    "version": 1,
+    "camera_id": null,
+    "timestamp": "2024-12-03T14:10:51.332549Z",
+    "image_width": 1082,
+    "image_height": 727
+}

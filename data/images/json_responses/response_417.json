@@ -1,0 +1,42 @@
+{
+    "processing_time": 65.974,
+    "results": [
+        {
+            "box": {
+                "xmin": 540,
+                "ymin": 513,
+                "xmax": 682,
+                "ymax": 551
+            },
+            "plate": "glp626",
+            "region": {
+                "code": "cn",
+                "score": 0.689
+            },
+            "score": 0.999,
+            "candidates": [
+                {
+                    "score": 0.999,
+                    "plate": "glp626"
+                }
+            ],
+            "dscore": 0.801,
+            "vehicle": {
+                "score": 0.596,
+                "type": "SUV",
+                "box": {
+                    "xmin": 263,
+                    "ymin": 1,
+                    "xmax": 918,
+                    "ymax": 624
+                }
+            }
+        }
+    ],
+    "filename": "1403_CR2pf_G1_417.jpg",
+    "version": 1,
+    "camera_id": null,
+    "timestamp": "2024-12-03T14:03:31.338611Z",
+    "image_width": 1082,
+    "image_height": 727
+}

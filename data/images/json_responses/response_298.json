@@ -1,0 +1,46 @@
+{
+    "processing_time": 31.012,
+    "results": [
+        {
+            "box": {
+                "xmin": 239,
+                "ymin": 591,
+                "xmax": 399,
+                "ymax": 634
+            },
+            "plate": "gga520",
+            "region": {
+                "code": "cn",
+                "score": 0.699
+            },
+            "score": 0.999,
+            "candidates": [
+                {
+                    "score": 0.999,
+                    "plate": "gga520"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "gga52o"
+                }
+            ],
+            "dscore": 0.844,
+            "vehicle": {
+                "score": 0.803,
+                "type": "Sedan",
+                "box": {
+                    "xmin": 1,
+                    "ymin": 21,
+                    "xmax": 649,
+                    "ymax": 722
+                }
+            }
+        }
+    ],
+    "filename": "1357_ENVqV_G1_298.jpg",
+    "version": 1,
+    "camera_id": null,
+    "timestamp": "2024-12-03T13:57:43.421820Z",
+    "image_width": 1082,
+    "image_height": 727
+}

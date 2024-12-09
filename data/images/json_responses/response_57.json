@@ -1,0 +1,70 @@
+{
+    "processing_time": 56.123,
+    "results": [
+        {
+            "box": {
+                "xmin": 403,
+                "ymin": 510,
+                "xmax": 554,
+                "ymax": 552
+            },
+            "plate": "g08285",
+            "region": {
+                "code": "cn",
+                "score": 0.872
+            },
+            "score": 0.999,
+            "candidates": [
+                {
+                    "score": 0.999,
+                    "plate": "g08285"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "g082b5"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "g0b285"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "go8285"
+                },
+                {
+                    "score": 0.683,
+                    "plate": "g0b2b5"
+                },
+                {
+                    "score": 0.683,
+                    "plate": "go82b5"
+                },
+                {
+                    "score": 0.683,
+                    "plate": "gob285"
+                },
+                {
+                    "score": 0.525,
+                    "plate": "gob2b5"
+                }
+            ],
+            "dscore": 0.815,
+            "vehicle": {
+                "score": 0.83,
+                "type": "Big Truck",
+                "box": {
+                    "xmin": 121,
+                    "ymin": 0,
+                    "xmax": 849,
+                    "ymax": 586
+                }
+            }
+        }
+    ],
+    "filename": "1346_jKBnb_G1_57.jpg",
+    "version": 1,
+    "camera_id": null,
+    "timestamp": "2024-12-03T13:46:10.318877Z",
+    "image_width": 1082,
+    "image_height": 727
+}

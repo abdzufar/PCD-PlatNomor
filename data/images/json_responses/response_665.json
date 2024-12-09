@@ -1,0 +1,46 @@
+{
+    "processing_time": 69.541,
+    "results": [
+        {
+            "box": {
+                "xmin": 166,
+                "ymin": 612,
+                "xmax": 335,
+                "ymax": 660
+            },
+            "plate": "g95837",
+            "region": {
+                "code": "cn",
+                "score": 0.833
+            },
+            "score": 0.999,
+            "candidates": [
+                {
+                    "score": 0.999,
+                    "plate": "g95837"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "g95b37"
+                }
+            ],
+            "dscore": 0.86,
+            "vehicle": {
+                "score": 0.818,
+                "type": "Sedan",
+                "box": {
+                    "xmin": 0,
+                    "ymin": 26,
+                    "xmax": 575,
+                    "ymax": 723
+                }
+            }
+        }
+    ],
+    "filename": "1415_UhrYU_G1_665.jpg",
+    "version": 1,
+    "camera_id": null,
+    "timestamp": "2024-12-03T14:15:33.874451Z",
+    "image_width": 1082,
+    "image_height": 727
+}

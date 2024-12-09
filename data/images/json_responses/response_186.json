@@ -1,0 +1,54 @@
+{
+    "processing_time": 94.458,
+    "results": [
+        {
+            "box": {
+                "xmin": 515,
+                "ymin": 610,
+                "xmax": 685,
+                "ymax": 655
+            },
+            "plate": "gt1798",
+            "region": {
+                "code": "cn",
+                "score": 0.573
+            },
+            "score": 0.997,
+            "candidates": [
+                {
+                    "score": 0.997,
+                    "plate": "gt1798"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "gti798"
+                },
+                {
+                    "score": 0.839,
+                    "plate": "gt179b"
+                },
+                {
+                    "score": 0.683,
+                    "plate": "gti79b"
+                }
+            ],
+            "dscore": 0.806,
+            "vehicle": {
+                "score": 0.771,
+                "type": "Sedan",
+                "box": {
+                    "xmin": 142,
+                    "ymin": 35,
+                    "xmax": 900,
+                    "ymax": 717
+                }
+            }
+        }
+    ],
+    "filename": "1352_ytgLg_G1_186.jpg",
+    "version": 1,
+    "camera_id": null,
+    "timestamp": "2024-12-03T13:52:27.482024Z",
+    "image_width": 1082,
+    "image_height": 727
+}

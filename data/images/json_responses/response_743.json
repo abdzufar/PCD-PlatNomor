@@ -1,0 +1,78 @@
+{
+    "processing_time": 83.808,
+    "results": [
+        {
+            "box": {
+                "xmin": 458,
+                "ymin": 598,
+                "xmax": 628,
+                "ymax": 649
+            },
+            "plate": "g01782",
+            "region": {
+                "code": "cn",
+                "score": 0.66
+            },
+            "score": 0.998,
+            "candidates": [
+                {
+                    "score": 0.998,
+                    "plate": "g01782"
+                },
+                {
+                    "score": 0.866,
+                    "plate": "og01782"
+                },
+                {
+                    "score": 0.863,
+                    "plate": "0g01782"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "g017b2"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "go1782"
+                },
+                {
+                    "score": 0.84,
+                    "plate": "g0i782"
+                },
+                {
+                    "score": 0.731,
+                    "plate": "og017b2"
+                },
+                {
+                    "score": 0.731,
+                    "plate": "og0i782"
+                },
+                {
+                    "score": 0.731,
+                    "plate": "ogo1782"
+                },
+                {
+                    "score": 0.728,
+                    "plate": "0g017b2"
+                }
+            ],
+            "dscore": 0.831,
+            "vehicle": {
+                "score": 0.896,
+                "type": "Sedan",
+                "box": {
+                    "xmin": 106,
+                    "ymin": 19,
+                    "xmax": 875,
+                    "ymax": 724
+                }
+            }
+        }
+    ],
+    "filename": "1419_EMSI3_G1_743.jpg",
+    "version": 1,
+    "camera_id": null,
+    "timestamp": "2024-12-03T14:19:36.039350Z",
+    "image_width": 1082,
+    "image_height": 727
+}

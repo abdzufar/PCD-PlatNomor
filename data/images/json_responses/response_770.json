@@ -1,0 +1,46 @@
+{
+    "processing_time": 106.322,
+    "results": [
+        {
+            "box": {
+                "xmin": 321,
+                "ymin": 581,
+                "xmax": 491,
+                "ymax": 633
+            },
+            "plate": "g03937",
+            "region": {
+                "code": "cn",
+                "score": 0.793
+            },
+            "score": 0.999,
+            "candidates": [
+                {
+                    "score": 0.999,
+                    "plate": "g03937"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "go3937"
+                }
+            ],
+            "dscore": 0.849,
+            "vehicle": {
+                "score": 0.832,
+                "type": "Sedan",
+                "box": {
+                    "xmin": 0,
+                    "ymin": 3,
+                    "xmax": 749,
+                    "ymax": 711
+                }
+            }
+        }
+    ],
+    "filename": "1420_d6eon_G1_770.jpg",
+    "version": 1,
+    "camera_id": null,
+    "timestamp": "2024-12-03T14:20:56.751479Z",
+    "image_width": 1082,
+    "image_height": 727
+}

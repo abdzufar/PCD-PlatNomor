@@ -1,0 +1,46 @@
+{
+    "processing_time": 44.402,
+    "results": [
+        {
+            "box": {
+                "xmin": 318,
+                "ymin": 604,
+                "xmax": 489,
+                "ymax": 660
+            },
+            "plate": "g03922",
+            "region": {
+                "code": "cn",
+                "score": 0.676
+            },
+            "score": 1.0,
+            "candidates": [
+                {
+                    "score": 1.0,
+                    "plate": "g03922"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "go3922"
+                }
+            ],
+            "dscore": 0.878,
+            "vehicle": {
+                "score": 0.896,
+                "type": "Sedan",
+                "box": {
+                    "xmin": 2,
+                    "ymin": 46,
+                    "xmax": 730,
+                    "ymax": 726
+                }
+            }
+        }
+    ],
+    "filename": "1415_ARosC_G1_662.jpg",
+    "version": 1,
+    "camera_id": null,
+    "timestamp": "2024-12-03T14:15:24.607279Z",
+    "image_width": 1082,
+    "image_height": 727
+}

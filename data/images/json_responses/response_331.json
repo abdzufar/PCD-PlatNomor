@@ -1,0 +1,54 @@
+{
+    "processing_time": 85.215,
+    "results": [
+        {
+            "box": {
+                "xmin": 370,
+                "ymin": 517,
+                "xmax": 518,
+                "ymax": 561
+            },
+            "plate": "g22016",
+            "region": {
+                "code": "cn",
+                "score": 0.779
+            },
+            "score": 0.999,
+            "candidates": [
+                {
+                    "score": 0.999,
+                    "plate": "g22016"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "g220i6"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "g22o16"
+                },
+                {
+                    "score": 0.683,
+                    "plate": "g22oi6"
+                }
+            ],
+            "dscore": 0.85,
+            "vehicle": {
+                "score": 0.918,
+                "type": "Van",
+                "box": {
+                    "xmin": 104,
+                    "ymin": 0,
+                    "xmax": 772,
+                    "ymax": 603
+                }
+            }
+        }
+    ],
+    "filename": "1359_3akdR_G1_331.jpg",
+    "version": 1,
+    "camera_id": null,
+    "timestamp": "2024-12-03T13:59:18.174132Z",
+    "image_width": 1082,
+    "image_height": 727
+}

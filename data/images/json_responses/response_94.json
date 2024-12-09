@@ -1,0 +1,42 @@
+{
+    "processing_time": 47.767,
+    "results": [
+        {
+            "box": {
+                "xmin": 291,
+                "ymin": 555,
+                "xmax": 463,
+                "ymax": 608
+            },
+            "plate": "g27663",
+            "region": {
+                "code": "cn",
+                "score": 0.826
+            },
+            "score": 0.999,
+            "candidates": [
+                {
+                    "score": 0.999,
+                    "plate": "g27663"
+                }
+            ],
+            "dscore": 0.866,
+            "vehicle": {
+                "score": 0.529,
+                "type": "Sedan",
+                "box": {
+                    "xmin": 25,
+                    "ymin": 4,
+                    "xmax": 699,
+                    "ymax": 724
+                }
+            }
+        }
+    ],
+    "filename": "1348_JgQBo_G1_94.jpg",
+    "version": 1,
+    "camera_id": null,
+    "timestamp": "2024-12-03T13:48:12.211886Z",
+    "image_width": 1082,
+    "image_height": 727
+}

@@ -1,0 +1,70 @@
+{
+    "processing_time": 95.912,
+    "results": [
+        {
+            "box": {
+                "xmin": 105,
+                "ymin": 608,
+                "xmax": 275,
+                "ymax": 657
+            },
+            "plate": "g00133",
+            "region": {
+                "code": "cn",
+                "score": 0.821
+            },
+            "score": 0.999,
+            "candidates": [
+                {
+                    "score": 0.999,
+                    "plate": "g00133"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "g00i33"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "g0o133"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "go0133"
+                },
+                {
+                    "score": 0.683,
+                    "plate": "g0oi33"
+                },
+                {
+                    "score": 0.683,
+                    "plate": "go0i33"
+                },
+                {
+                    "score": 0.683,
+                    "plate": "goo133"
+                },
+                {
+                    "score": 0.525,
+                    "plate": "gooi33"
+                }
+            ],
+            "dscore": 0.82,
+            "vehicle": {
+                "score": 0.882,
+                "type": "Sedan",
+                "box": {
+                    "xmin": 0,
+                    "ymin": 36,
+                    "xmax": 551,
+                    "ymax": 724
+                }
+            }
+        }
+    ],
+    "filename": "1352_mWxsF_G1_190.jpg",
+    "version": 1,
+    "camera_id": null,
+    "timestamp": "2024-12-03T13:52:37.634929Z",
+    "image_width": 1082,
+    "image_height": 727
+}

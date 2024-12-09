@@ -1,0 +1,46 @@
+{
+    "processing_time": 38.93,
+    "results": [
+        {
+            "box": {
+                "xmin": 441,
+                "ymin": 597,
+                "xmax": 610,
+                "ymax": 651
+            },
+            "plate": "g93219",
+            "region": {
+                "code": "cn",
+                "score": 0.842
+            },
+            "score": 1.0,
+            "candidates": [
+                {
+                    "score": 1.0,
+                    "plate": "g93219"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "g932i9"
+                }
+            ],
+            "dscore": 0.85,
+            "vehicle": {
+                "score": 0.888,
+                "type": "Sedan",
+                "box": {
+                    "xmin": 77,
+                    "ymin": 36,
+                    "xmax": 860,
+                    "ymax": 725
+                }
+            }
+        }
+    ],
+    "filename": "1407_TvKLb_G1_503.jpg",
+    "version": 1,
+    "camera_id": null,
+    "timestamp": "2024-12-03T14:07:45.601202Z",
+    "image_width": 1082,
+    "image_height": 727
+}

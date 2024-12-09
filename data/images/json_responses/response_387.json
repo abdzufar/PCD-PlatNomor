@@ -1,0 +1,54 @@
+{
+    "processing_time": 48.315,
+    "results": [
+        {
+            "box": {
+                "xmin": 263,
+                "ymin": 492,
+                "xmax": 416,
+                "ymax": 539
+            },
+            "plate": "g01223",
+            "region": {
+                "code": "cn",
+                "score": 0.915
+            },
+            "score": 0.997,
+            "candidates": [
+                {
+                    "score": 0.997,
+                    "plate": "g01223"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "go1223"
+                },
+                {
+                    "score": 0.839,
+                    "plate": "g0i223"
+                },
+                {
+                    "score": 0.683,
+                    "plate": "goi223"
+                }
+            ],
+            "dscore": 0.848,
+            "vehicle": {
+                "score": 0.855,
+                "type": "Big Truck",
+                "box": {
+                    "xmin": 0,
+                    "ymin": 0,
+                    "xmax": 776,
+                    "ymax": 588
+                }
+            }
+        }
+    ],
+    "filename": "1401_VLtgV_G1_387.jpg",
+    "version": 1,
+    "camera_id": null,
+    "timestamp": "2024-12-03T14:01:50.214347Z",
+    "image_width": 1082,
+    "image_height": 727
+}

@@ -1,0 +1,54 @@
+{
+    "processing_time": 50.55,
+    "results": [
+        {
+            "box": {
+                "xmin": 281,
+                "ymin": 492,
+                "xmax": 436,
+                "ymax": 541
+            },
+            "plate": "g01469",
+            "region": {
+                "code": "cn",
+                "score": 0.831
+            },
+            "score": 0.989,
+            "candidates": [
+                {
+                    "score": 0.989,
+                    "plate": "g01469"
+                },
+                {
+                    "score": 0.838,
+                    "plate": "go1469"
+                },
+                {
+                    "score": 0.831,
+                    "plate": "g0i469"
+                },
+                {
+                    "score": 0.68,
+                    "plate": "goi469"
+                }
+            ],
+            "dscore": 0.831,
+            "vehicle": {
+                "score": 0.828,
+                "type": "Big Truck",
+                "box": {
+                    "xmin": 0,
+                    "ymin": 0,
+                    "xmax": 818,
+                    "ymax": 579
+                }
+            }
+        }
+    ],
+    "filename": "1353_vyvFl_G1_215.jpg",
+    "version": 1,
+    "camera_id": null,
+    "timestamp": "2024-12-03T13:53:43.029279Z",
+    "image_width": 1082,
+    "image_height": 727
+}

@@ -1,0 +1,70 @@
+{
+    "processing_time": 57.791,
+    "results": [
+        {
+            "box": {
+                "xmin": 188,
+                "ymin": 510,
+                "xmax": 338,
+                "ymax": 556
+            },
+            "plate": "g00287",
+            "region": {
+                "code": "cn",
+                "score": 0.755
+            },
+            "score": 0.999,
+            "candidates": [
+                {
+                    "score": 0.999,
+                    "plate": "g00287"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "g002b7"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "g0o287"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "go0287"
+                },
+                {
+                    "score": 0.683,
+                    "plate": "g0o2b7"
+                },
+                {
+                    "score": 0.683,
+                    "plate": "go02b7"
+                },
+                {
+                    "score": 0.683,
+                    "plate": "goo287"
+                },
+                {
+                    "score": 0.525,
+                    "plate": "goo2b7"
+                }
+            ],
+            "dscore": 0.804,
+            "vehicle": {
+                "score": 0.63,
+                "type": "Sedan",
+                "box": {
+                    "xmin": 0,
+                    "ymin": 0,
+                    "xmax": 563,
+                    "ymax": 613
+                }
+            }
+        }
+    ],
+    "filename": "1405_B0hQT_G1_450.jpg",
+    "version": 1,
+    "camera_id": null,
+    "timestamp": "2024-12-03T14:05:07.616722Z",
+    "image_width": 1082,
+    "image_height": 727
+}

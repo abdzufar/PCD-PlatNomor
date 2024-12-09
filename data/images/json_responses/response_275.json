@@ -1,0 +1,42 @@
+{
+    "processing_time": 39.198,
+    "results": [
+        {
+            "box": {
+                "xmin": 536,
+                "ymin": 606,
+                "xmax": 706,
+                "ymax": 657
+            },
+            "plate": "gt2249",
+            "region": {
+                "code": "cn",
+                "score": 0.803
+            },
+            "score": 1.0,
+            "candidates": [
+                {
+                    "score": 1.0,
+                    "plate": "gt2249"
+                }
+            ],
+            "dscore": 0.864,
+            "vehicle": {
+                "score": 0.887,
+                "type": "Sedan",
+                "box": {
+                    "xmin": 228,
+                    "ymin": 49,
+                    "xmax": 915,
+                    "ymax": 725
+                }
+            }
+        }
+    ],
+    "filename": "1356_21aIo_G1_275.jpg",
+    "version": 1,
+    "camera_id": null,
+    "timestamp": "2024-12-03T13:56:32.985297Z",
+    "image_width": 1082,
+    "image_height": 727
+}

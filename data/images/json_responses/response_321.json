@@ -1,0 +1,46 @@
+{
+    "processing_time": 24.353,
+    "results": [
+        {
+            "box": {
+                "xmin": 270,
+                "ymin": 568,
+                "xmax": 445,
+                "ymax": 622
+            },
+            "plate": "g07496",
+            "region": {
+                "code": "cn",
+                "score": 0.816
+            },
+            "score": 0.944,
+            "candidates": [
+                {
+                    "score": 0.944,
+                    "plate": "g07496"
+                },
+                {
+                    "score": 0.887,
+                    "plate": "go7496"
+                }
+            ],
+            "dscore": 0.813,
+            "vehicle": {
+                "score": 0.369,
+                "type": "Sedan",
+                "box": {
+                    "xmin": 0,
+                    "ymin": 4,
+                    "xmax": 688,
+                    "ymax": 710
+                }
+            }
+        }
+    ],
+    "filename": "1358_A9ACM_G1_321.jpg",
+    "version": 1,
+    "camera_id": null,
+    "timestamp": "2024-12-03T13:58:46.530952Z",
+    "image_width": 1082,
+    "image_height": 727
+}

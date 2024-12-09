@@ -1,0 +1,54 @@
+{
+    "processing_time": 172.577,
+    "results": [
+        {
+            "box": {
+                "xmin": 557,
+                "ymin": 608,
+                "xmax": 725,
+                "ymax": 656
+            },
+            "plate": "gt0712",
+            "region": {
+                "code": "cn",
+                "score": 0.82
+            },
+            "score": 0.999,
+            "candidates": [
+                {
+                    "score": 0.999,
+                    "plate": "gt0712"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "gt07i2"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "gto712"
+                },
+                {
+                    "score": 0.683,
+                    "plate": "gto7i2"
+                }
+            ],
+            "dscore": 0.843,
+            "vehicle": {
+                "score": 0.921,
+                "type": "Sedan",
+                "box": {
+                    "xmin": 239,
+                    "ymin": 43,
+                    "xmax": 962,
+                    "ymax": 726
+                }
+            }
+        }
+    ],
+    "filename": "1402_ZWEe5_G1_393.jpg",
+    "version": 1,
+    "camera_id": null,
+    "timestamp": "2024-12-03T14:02:09.446466Z",
+    "image_width": 1082,
+    "image_height": 727
+}

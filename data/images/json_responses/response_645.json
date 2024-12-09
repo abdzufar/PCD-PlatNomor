@@ -1,0 +1,54 @@
+{
+    "processing_time": 22.424,
+    "results": [
+        {
+            "box": {
+                "xmin": 340,
+                "ymin": 594,
+                "xmax": 508,
+                "ymax": 646
+            },
+            "plate": "gt1849",
+            "region": {
+                "code": "cn",
+                "score": 0.791
+            },
+            "score": 0.999,
+            "candidates": [
+                {
+                    "score": 0.999,
+                    "plate": "gt1849"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "gt1b49"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "gti849"
+                },
+                {
+                    "score": 0.683,
+                    "plate": "gtib49"
+                }
+            ],
+            "dscore": 0.858,
+            "vehicle": {
+                "score": 0.89,
+                "type": "Sedan",
+                "box": {
+                    "xmin": 32,
+                    "ymin": 40,
+                    "xmax": 724,
+                    "ymax": 724
+                }
+            }
+        }
+    ],
+    "filename": "1414_0apHV_G1_645.jpg",
+    "version": 1,
+    "camera_id": null,
+    "timestamp": "2024-12-03T14:14:33.188432Z",
+    "image_width": 1082,
+    "image_height": 727
+}

@@ -1,0 +1,70 @@
+{
+    "processing_time": 166.602,
+    "results": [
+        {
+            "box": {
+                "xmin": 680,
+                "ymin": 558,
+                "xmax": 829,
+                "ymax": 602
+            },
+            "plate": "gt1501",
+            "region": {
+                "code": "cn",
+                "score": 0.854
+            },
+            "score": 0.999,
+            "candidates": [
+                {
+                    "score": 0.999,
+                    "plate": "gt1501"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "gt150i"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "gt15o1"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "gti501"
+                },
+                {
+                    "score": 0.683,
+                    "plate": "gt15oi"
+                },
+                {
+                    "score": 0.683,
+                    "plate": "gti50i"
+                },
+                {
+                    "score": 0.683,
+                    "plate": "gti5o1"
+                },
+                {
+                    "score": 0.525,
+                    "plate": "gti5oi"
+                }
+            ],
+            "dscore": 0.852,
+            "vehicle": {
+                "score": 0.898,
+                "type": "Sedan",
+                "box": {
+                    "xmin": 412,
+                    "ymin": 39,
+                    "xmax": 1042,
+                    "ymax": 652
+                }
+            }
+        }
+    ],
+    "filename": "1420_Nkhhe_G1_768.jpg",
+    "version": 1,
+    "camera_id": null,
+    "timestamp": "2024-12-03T14:20:51.201453Z",
+    "image_width": 1082,
+    "image_height": 727
+}

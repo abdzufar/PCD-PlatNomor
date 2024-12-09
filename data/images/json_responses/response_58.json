@@ -1,0 +1,46 @@
+{
+    "processing_time": 113.808,
+    "results": [
+        {
+            "box": {
+                "xmin": 598,
+                "ymin": 597,
+                "xmax": 770,
+                "ymax": 649
+            },
+            "plate": "gt9228",
+            "region": {
+                "code": "cn",
+                "score": 0.782
+            },
+            "score": 1.0,
+            "candidates": [
+                {
+                    "score": 1.0,
+                    "plate": "gt9228"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "gt922b"
+                }
+            ],
+            "dscore": 0.869,
+            "vehicle": {
+                "score": 0.902,
+                "type": "Sedan",
+                "box": {
+                    "xmin": 278,
+                    "ymin": 39,
+                    "xmax": 977,
+                    "ymax": 726
+                }
+            }
+        }
+    ],
+    "filename": "1346_Zixdm_G1_58.jpg",
+    "version": 1,
+    "camera_id": null,
+    "timestamp": "2024-12-03T13:46:12.499149Z",
+    "image_width": 1082,
+    "image_height": 727
+}

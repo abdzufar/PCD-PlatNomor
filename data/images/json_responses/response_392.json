@@ -1,0 +1,42 @@
+{
+    "processing_time": 31.63,
+    "results": [
+        {
+            "box": {
+                "xmin": 339,
+                "ymin": 483,
+                "xmax": 483,
+                "ymax": 524
+            },
+            "plate": "ast437",
+            "region": {
+                "code": "cn",
+                "score": 0.681
+            },
+            "score": 1.0,
+            "candidates": [
+                {
+                    "score": 1.0,
+                    "plate": "ast437"
+                }
+            ],
+            "dscore": 0.775,
+            "vehicle": {
+                "score": 0.706,
+                "type": "Sedan",
+                "box": {
+                    "xmin": 73,
+                    "ymin": 0,
+                    "xmax": 728,
+                    "ymax": 590
+                }
+            }
+        }
+    ],
+    "filename": "1402_HOZGV_G1_392.jpg",
+    "version": 1,
+    "camera_id": null,
+    "timestamp": "2024-12-03T14:02:06.812436Z",
+    "image_width": 1082,
+    "image_height": 727
+}

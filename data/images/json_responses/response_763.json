@@ -1,0 +1,46 @@
+{
+    "processing_time": 123.075,
+    "results": [
+        {
+            "box": {
+                "xmin": 531,
+                "ymin": 591,
+                "xmax": 702,
+                "ymax": 647
+            },
+            "plate": "g17693",
+            "region": {
+                "code": "cn",
+                "score": 0.784
+            },
+            "score": 0.999,
+            "candidates": [
+                {
+                    "score": 0.999,
+                    "plate": "g17693"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "gi7693"
+                }
+            ],
+            "dscore": 0.885,
+            "vehicle": {
+                "score": 0.941,
+                "type": "Sedan",
+                "box": {
+                    "xmin": 204,
+                    "ymin": 53,
+                    "xmax": 910,
+                    "ymax": 726
+                }
+            }
+        }
+    ],
+    "filename": "1420_B45Vu_G1_763.jpg",
+    "version": 1,
+    "camera_id": null,
+    "timestamp": "2024-12-03T14:20:35.753327Z",
+    "image_width": 1082,
+    "image_height": 727
+}

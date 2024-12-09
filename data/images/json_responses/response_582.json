@@ -1,0 +1,50 @@
+{
+    "processing_time": 100.69,
+    "results": [
+        {
+            "box": {
+                "xmin": 240,
+                "ymin": 595,
+                "xmax": 408,
+                "ymax": 649
+            },
+            "plate": "gb066",
+            "region": {
+                "code": "cn",
+                "score": 0.703
+            },
+            "score": 0.753,
+            "candidates": [
+                {
+                    "score": 0.753,
+                    "plate": "gb066"
+                },
+                {
+                    "score": 0.617,
+                    "plate": "g8066"
+                },
+                {
+                    "score": 0.484,
+                    "plate": "g8o66"
+                }
+            ],
+            "dscore": 0.879,
+            "vehicle": {
+                "score": 0.918,
+                "type": "Sedan",
+                "box": {
+                    "xmin": 1,
+                    "ymin": 9,
+                    "xmax": 664,
+                    "ymax": 702
+                }
+            }
+        }
+    ],
+    "filename": "1411_UXMiV_G1_582.jpg",
+    "version": 1,
+    "camera_id": null,
+    "timestamp": "2024-12-03T14:11:22.794196Z",
+    "image_width": 1082,
+    "image_height": 727
+}

@@ -1,0 +1,70 @@
+{
+    "processing_time": 53.118,
+    "results": [
+        {
+            "box": {
+                "xmin": 325,
+                "ymin": 580,
+                "xmax": 497,
+                "ymax": 633
+            },
+            "plate": "gs888y",
+            "region": {
+                "code": "cn",
+                "score": 0.709
+            },
+            "score": 0.999,
+            "candidates": [
+                {
+                    "score": 0.999,
+                    "plate": "gs888y"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "gs88by"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "gs8b8y"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "gsb88y"
+                },
+                {
+                    "score": 0.683,
+                    "plate": "gs8bby"
+                },
+                {
+                    "score": 0.683,
+                    "plate": "gsb8by"
+                },
+                {
+                    "score": 0.683,
+                    "plate": "gsbb8y"
+                },
+                {
+                    "score": 0.525,
+                    "plate": "gsbbby"
+                }
+            ],
+            "dscore": 0.89,
+            "vehicle": {
+                "score": 0.844,
+                "type": "Van",
+                "box": {
+                    "xmin": 0,
+                    "ymin": 0,
+                    "xmax": 824,
+                    "ymax": 708
+                }
+            }
+        }
+    ],
+    "filename": "1401_TX9iY_G1_380.jpg",
+    "version": 1,
+    "camera_id": null,
+    "timestamp": "2024-12-03T14:01:29.058715Z",
+    "image_width": 1082,
+    "image_height": 727
+}

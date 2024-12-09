@@ -1,0 +1,54 @@
+{
+    "processing_time": 119.665,
+    "results": [
+        {
+            "box": {
+                "xmin": 490,
+                "ymin": 544,
+                "xmax": 663,
+                "ymax": 597
+            },
+            "plate": "g16065",
+            "region": {
+                "code": "cn",
+                "score": 0.676
+            },
+            "score": 0.995,
+            "candidates": [
+                {
+                    "score": 0.995,
+                    "plate": "g16065"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "gi6065"
+                },
+                {
+                    "score": 0.837,
+                    "plate": "g16o65"
+                },
+                {
+                    "score": 0.683,
+                    "plate": "gi6o65"
+                }
+            ],
+            "dscore": 0.793,
+            "vehicle": {
+                "score": 0.454,
+                "type": "Van",
+                "box": {
+                    "xmin": 198,
+                    "ymin": 2,
+                    "xmax": 901,
+                    "ymax": 683
+                }
+            }
+        }
+    ],
+    "filename": "1418_5G20V_G1_719.jpg",
+    "version": 1,
+    "camera_id": null,
+    "timestamp": "2024-12-03T14:18:17.805634Z",
+    "image_width": 1082,
+    "image_height": 727
+}

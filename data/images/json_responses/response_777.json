@@ -1,0 +1,46 @@
+{
+    "processing_time": 122.45,
+    "results": [
+        {
+            "box": {
+                "xmin": 288,
+                "ymin": 592,
+                "xmax": 457,
+                "ymax": 646
+            },
+            "plate": "ggj678",
+            "region": {
+                "code": "cn",
+                "score": 0.757
+            },
+            "score": 0.999,
+            "candidates": [
+                {
+                    "score": 0.999,
+                    "plate": "ggj678"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "ggj67b"
+                }
+            ],
+            "dscore": 0.841,
+            "vehicle": {
+                "score": 0.85,
+                "type": "Sedan",
+                "box": {
+                    "xmin": 0,
+                    "ymin": 0,
+                    "xmax": 728,
+                    "ymax": 722
+                }
+            }
+        }
+    ],
+    "filename": "1421_jnR11_G1_777.jpg",
+    "version": 1,
+    "camera_id": null,
+    "timestamp": "2024-12-03T14:21:17.041796Z",
+    "image_width": 1082,
+    "image_height": 727
+}

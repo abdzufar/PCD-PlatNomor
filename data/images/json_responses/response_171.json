@@ -1,0 +1,70 @@
+{
+    "processing_time": 98.157,
+    "results": [
+        {
+            "box": {
+                "xmin": 562,
+                "ymin": 534,
+                "xmax": 705,
+                "ymax": 573
+            },
+            "plate": "gt2030",
+            "region": {
+                "code": "cn",
+                "score": 0.829
+            },
+            "score": 1.0,
+            "candidates": [
+                {
+                    "score": 1.0,
+                    "plate": "gt2030"
+                },
+                {
+                    "score": 0.866,
+                    "plate": "ggt2030"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "gt203o"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "gt2o30"
+                },
+                {
+                    "score": 0.73,
+                    "plate": "ggt203o"
+                },
+                {
+                    "score": 0.73,
+                    "plate": "ggt2o30"
+                },
+                {
+                    "score": 0.683,
+                    "plate": "gt2o3o"
+                },
+                {
+                    "score": 0.594,
+                    "plate": "ggt2o3o"
+                }
+            ],
+            "dscore": 0.821,
+            "vehicle": {
+                "score": 0.893,
+                "type": "Sedan",
+                "box": {
+                    "xmin": 296,
+                    "ymin": 26,
+                    "xmax": 920,
+                    "ymax": 632
+                }
+            }
+        }
+    ],
+    "filename": "1351_YLkx9_G1_171.jpg",
+    "version": 1,
+    "camera_id": null,
+    "timestamp": "2024-12-03T13:51:46.704833Z",
+    "image_width": 1082,
+    "image_height": 727
+}

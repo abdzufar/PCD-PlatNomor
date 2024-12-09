@@ -1,0 +1,46 @@
+{
+    "processing_time": 75.35,
+    "results": [
+        {
+            "box": {
+                "xmin": 25,
+                "ymin": 594,
+                "xmax": 196,
+                "ymax": 644
+            },
+            "plate": "g04237",
+            "region": {
+                "code": "cn",
+                "score": 0.749
+            },
+            "score": 1.0,
+            "candidates": [
+                {
+                    "score": 1.0,
+                    "plate": "g04237"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "go4237"
+                }
+            ],
+            "dscore": 0.867,
+            "vehicle": {
+                "score": 0.921,
+                "type": "Sedan",
+                "box": {
+                    "xmin": 0,
+                    "ymin": 37,
+                    "xmax": 463,
+                    "ymax": 724
+                }
+            }
+        }
+    ],
+    "filename": "1404_NSoLJ_G1_430.jpg",
+    "version": 1,
+    "camera_id": null,
+    "timestamp": "2024-12-03T14:04:04.657852Z",
+    "image_width": 1082,
+    "image_height": 727
+}

@@ -1,0 +1,46 @@
+{
+    "processing_time": 36.888,
+    "results": [
+        {
+            "box": {
+                "xmin": 365,
+                "ymin": 511,
+                "xmax": 516,
+                "ymax": 557
+            },
+            "plate": "gt0627",
+            "region": {
+                "code": "cn",
+                "score": 0.842
+            },
+            "score": 1.0,
+            "candidates": [
+                {
+                    "score": 1.0,
+                    "plate": "gt0627"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "gto627"
+                }
+            ],
+            "dscore": 0.852,
+            "vehicle": {
+                "score": 0.943,
+                "type": "Sedan",
+                "box": {
+                    "xmin": 101,
+                    "ymin": 8,
+                    "xmax": 723,
+                    "ymax": 617
+                }
+            }
+        }
+    ],
+    "filename": "1419_323Dx_G1_742.jpg",
+    "version": 1,
+    "camera_id": null,
+    "timestamp": "2024-12-03T14:19:32.795152Z",
+    "image_width": 1082,
+    "image_height": 727
+}

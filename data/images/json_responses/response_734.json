@@ -1,0 +1,46 @@
+{
+    "processing_time": 137.343,
+    "results": [
+        {
+            "box": {
+                "xmin": 307,
+                "ymin": 541,
+                "xmax": 485,
+                "ymax": 597
+            },
+            "plate": "g03973",
+            "region": {
+                "code": "cn",
+                "score": 0.941
+            },
+            "score": 0.999,
+            "candidates": [
+                {
+                    "score": 0.999,
+                    "plate": "g03973"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "go3973"
+                }
+            ],
+            "dscore": 0.821,
+            "vehicle": {
+                "score": 0.44,
+                "type": "Sedan",
+                "box": {
+                    "xmin": 6,
+                    "ymin": 1,
+                    "xmax": 912,
+                    "ymax": 640
+                }
+            }
+        }
+    ],
+    "filename": "1419_0R0yx_G1_734.jpg",
+    "version": 1,
+    "camera_id": null,
+    "timestamp": "2024-12-03T14:19:02.019361Z",
+    "image_width": 1082,
+    "image_height": 727
+}

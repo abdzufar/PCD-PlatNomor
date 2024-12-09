@@ -1,0 +1,54 @@
+{
+    "processing_time": 71.846,
+    "results": [
+        {
+            "box": {
+                "xmin": 506,
+                "ymin": 528,
+                "xmax": 677,
+                "ymax": 581
+            },
+            "plate": "g97015",
+            "region": {
+                "code": "cn",
+                "score": 0.886
+            },
+            "score": 1.0,
+            "candidates": [
+                {
+                    "score": 1.0,
+                    "plate": "g97015"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "g970i5"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "g97o15"
+                },
+                {
+                    "score": 0.683,
+                    "plate": "g97oi5"
+                }
+            ],
+            "dscore": 0.833,
+            "vehicle": {
+                "score": 0.754,
+                "type": "Sedan",
+                "box": {
+                    "xmin": 160,
+                    "ymin": 0,
+                    "xmax": 937,
+                    "ymax": 689
+                }
+            }
+        }
+    ],
+    "filename": "1421_Mlqnj_G1_791.jpg",
+    "version": 1,
+    "camera_id": null,
+    "timestamp": "2024-12-03T14:21:53.404160Z",
+    "image_width": 1082,
+    "image_height": 727
+}

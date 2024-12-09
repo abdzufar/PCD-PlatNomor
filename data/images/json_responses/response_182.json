@@ -1,0 +1,54 @@
+{
+    "processing_time": 45.322,
+    "results": [
+        {
+            "box": {
+                "xmin": 357,
+                "ymin": 510,
+                "xmax": 503,
+                "ymax": 559
+            },
+            "plate": "gt9590",
+            "region": {
+                "code": "cn",
+                "score": 0.919
+            },
+            "score": 1.0,
+            "candidates": [
+                {
+                    "score": 1.0,
+                    "plate": "gt9590"
+                },
+                {
+                    "score": 0.887,
+                    "plate": "ggt9590"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "gt959o"
+                },
+                {
+                    "score": 0.751,
+                    "plate": "ggt959o"
+                }
+            ],
+            "dscore": 0.799,
+            "vehicle": {
+                "score": 0.841,
+                "type": "Sedan",
+                "box": {
+                    "xmin": 112,
+                    "ymin": 14,
+                    "xmax": 695,
+                    "ymax": 614
+                }
+            }
+        }
+    ],
+    "filename": "1352_TXLVV_G1_182.jpg",
+    "version": 1,
+    "camera_id": null,
+    "timestamp": "2024-12-03T13:52:15.654106Z",
+    "image_width": 1082,
+    "image_height": 727
+}

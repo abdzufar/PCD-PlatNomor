@@ -1,0 +1,70 @@
+{
+    "processing_time": 89.483,
+    "results": [
+        {
+            "box": {
+                "xmin": 286,
+                "ymin": 593,
+                "xmax": 457,
+                "ymax": 645
+            },
+            "plate": "gt1830",
+            "region": {
+                "code": "cn",
+                "score": 0.82
+            },
+            "score": 1.0,
+            "candidates": [
+                {
+                    "score": 1.0,
+                    "plate": "gt1830"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "gt183o"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "gt1b30"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "gti830"
+                },
+                {
+                    "score": 0.683,
+                    "plate": "gt1b3o"
+                },
+                {
+                    "score": 0.683,
+                    "plate": "gti83o"
+                },
+                {
+                    "score": 0.683,
+                    "plate": "gtib30"
+                },
+                {
+                    "score": 0.525,
+                    "plate": "gtib3o"
+                }
+            ],
+            "dscore": 0.876,
+            "vehicle": {
+                "score": 0.887,
+                "type": "Sedan",
+                "box": {
+                    "xmin": 1,
+                    "ymin": 51,
+                    "xmax": 690,
+                    "ymax": 724
+                }
+            }
+        }
+    ],
+    "filename": "1347_zGqnn_G1_84.jpg",
+    "version": 1,
+    "camera_id": null,
+    "timestamp": "2024-12-03T13:47:39.554820Z",
+    "image_width": 1082,
+    "image_height": 727
+}

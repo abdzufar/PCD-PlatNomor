@@ -1,0 +1,113 @@
+{
+    "processing_time": 100.637,
+    "results": [
+        {
+            "box": {
+                "xmin": 521,
+                "ymin": 536,
+                "xmax": 667,
+                "ymax": 573
+            },
+            "plate": "gt1236",
+            "region": {
+                "code": "cn",
+                "score": 0.652
+            },
+            "score": 0.999,
+            "candidates": [
+                {
+                    "score": 0.999,
+                    "plate": "gt1236"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "gti236"
+                }
+            ],
+            "dscore": 0.79,
+            "vehicle": {
+                "score": 0.566,
+                "type": "Van",
+                "box": {
+                    "xmin": 293,
+                    "ymin": 15,
+                    "xmax": 890,
+                    "ymax": 612
+                }
+            }
+        },
+        {
+            "box": {
+                "xmin": 501,
+                "ymin": 13,
+                "xmax": 678,
+                "ymax": 60
+            },
+            "plate": "taxi8gb",
+            "region": {
+                "code": "ru",
+                "score": 0.025
+            },
+            "score": 0.723,
+            "candidates": [
+                {
+                    "score": 0.723,
+                    "plate": "taxi8gb"
+                },
+                {
+                    "score": 0.72,
+                    "plate": "taxi8b"
+                },
+                {
+                    "score": 0.678,
+                    "plate": "taxirgb"
+                },
+                {
+                    "score": 0.674,
+                    "plate": "taxirb"
+                },
+                {
+                    "score": 0.664,
+                    "plate": "taxibgb"
+                },
+                {
+                    "score": 0.66,
+                    "plate": "taxibb"
+                },
+                {
+                    "score": 0.658,
+                    "plate": "taxi8gr"
+                },
+                {
+                    "score": 0.655,
+                    "plate": "taxih8gb"
+                },
+                {
+                    "score": 0.654,
+                    "plate": "taxi8r"
+                },
+                {
+                    "score": 0.652,
+                    "plate": "taxih8b"
+                }
+            ],
+            "dscore": 0.016,
+            "vehicle": {
+                "score": 0.0,
+                "type": "Unknown",
+                "box": {
+                    "xmin": 0,
+                    "ymin": 0,
+                    "xmax": 0,
+                    "ymax": 0
+                }
+            }
+        }
+    ],
+    "filename": "1355_pl96l_G1_261.jpg",
+    "version": 1,
+    "camera_id": null,
+    "timestamp": "2024-12-03T13:55:54.364458Z",
+    "image_width": 1082,
+    "image_height": 727
+}

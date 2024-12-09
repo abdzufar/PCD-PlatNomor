@@ -1,0 +1,54 @@
+{
+    "processing_time": 119.853,
+    "results": [
+        {
+            "box": {
+                "xmin": 63,
+                "ymin": 590,
+                "xmax": 233,
+                "ymax": 642
+            },
+            "plate": "gt1560",
+            "region": {
+                "code": "cn",
+                "score": 0.869
+            },
+            "score": 0.999,
+            "candidates": [
+                {
+                    "score": 0.999,
+                    "plate": "gt1560"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "gt156o"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "gti560"
+                },
+                {
+                    "score": 0.683,
+                    "plate": "gti56o"
+                }
+            ],
+            "dscore": 0.85,
+            "vehicle": {
+                "score": 0.627,
+                "type": "Sedan",
+                "box": {
+                    "xmin": 1,
+                    "ymin": 65,
+                    "xmax": 471,
+                    "ymax": 724
+                }
+            }
+        }
+    ],
+    "filename": "1348_dNbRP_G1_100.jpg",
+    "version": 1,
+    "camera_id": null,
+    "timestamp": "2024-12-03T13:48:25.901166Z",
+    "image_width": 1082,
+    "image_height": 727
+}

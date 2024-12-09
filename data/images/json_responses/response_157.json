@@ -1,0 +1,42 @@
+{
+    "processing_time": 104.768,
+    "results": [
+        {
+            "box": {
+                "xmin": 98,
+                "ymin": 531,
+                "xmax": 245,
+                "ymax": 573
+            },
+            "plate": "g27475",
+            "region": {
+                "code": "cn",
+                "score": 0.722
+            },
+            "score": 1.0,
+            "candidates": [
+                {
+                    "score": 1.0,
+                    "plate": "g27475"
+                }
+            ],
+            "dscore": 0.804,
+            "vehicle": {
+                "score": 0.7,
+                "type": "Van",
+                "box": {
+                    "xmin": 0,
+                    "ymin": 2,
+                    "xmax": 470,
+                    "ymax": 613
+                }
+            }
+        }
+    ],
+    "filename": "1351_rXuYY_G1_157.jpg",
+    "version": 1,
+    "camera_id": null,
+    "timestamp": "2024-12-03T13:51:10.122479Z",
+    "image_width": 1082,
+    "image_height": 727
+}

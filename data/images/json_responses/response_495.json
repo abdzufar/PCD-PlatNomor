@@ -1,0 +1,137 @@
+{
+    "processing_time": 113.237,
+    "results": [
+        {
+            "box": {
+                "xmin": 522,
+                "ymin": 600,
+                "xmax": 693,
+                "ymax": 653
+            },
+            "plate": "gt0281",
+            "region": {
+                "code": "cn",
+                "score": 0.798
+            },
+            "score": 1.0,
+            "candidates": [
+                {
+                    "score": 1.0,
+                    "plate": "gt0281"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "gt028i"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "gt02b1"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "gto281"
+                },
+                {
+                    "score": 0.683,
+                    "plate": "gt02bi"
+                },
+                {
+                    "score": 0.683,
+                    "plate": "gto28i"
+                },
+                {
+                    "score": 0.683,
+                    "plate": "gto2b1"
+                },
+                {
+                    "score": 0.525,
+                    "plate": "gto2bi"
+                }
+            ],
+            "dscore": 0.871,
+            "vehicle": {
+                "score": 0.919,
+                "type": "Sedan",
+                "box": {
+                    "xmin": 193,
+                    "ymin": 52,
+                    "xmax": 923,
+                    "ymax": 726
+                }
+            }
+        },
+        {
+            "box": {
+                "xmin": 442,
+                "ymin": 40,
+                "xmax": 643,
+                "ymax": 95
+            },
+            "plate": "taxih8r",
+            "region": {
+                "code": "ru",
+                "score": 0.019
+            },
+            "score": 0.729,
+            "candidates": [
+                {
+                    "score": 0.729,
+                    "plate": "taxih8r"
+                },
+                {
+                    "score": 0.718,
+                    "plate": "taxih8"
+                },
+                {
+                    "score": 0.688,
+                    "plate": "taxihbr"
+                },
+                {
+                    "score": 0.676,
+                    "plate": "taxihb"
+                },
+                {
+                    "score": 0.658,
+                    "plate": "taxi8r"
+                },
+                {
+                    "score": 0.656,
+                    "plate": "tax1h8r"
+                },
+                {
+                    "score": 0.654,
+                    "plate": "taxih8ir"
+                },
+                {
+                    "score": 0.646,
+                    "plate": "taxi8"
+                },
+                {
+                    "score": 0.644,
+                    "plate": "taxih8i"
+                },
+                {
+                    "score": 0.644,
+                    "plate": "tax1h8"
+                }
+            ],
+            "dscore": 0.033,
+            "vehicle": {
+                "score": 0.0,
+                "type": "Unknown",
+                "box": {
+                    "xmin": 0,
+                    "ymin": 0,
+                    "xmax": 0,
+                    "ymax": 0
+                }
+            }
+        }
+    ],
+    "filename": "1407_1CJs1_G1_495.jpg",
+    "version": 1,
+    "camera_id": null,
+    "timestamp": "2024-12-03T14:07:24.687580Z",
+    "image_width": 1082,
+    "image_height": 727
+}

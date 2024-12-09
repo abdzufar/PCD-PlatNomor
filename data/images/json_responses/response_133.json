@@ -1,0 +1,78 @@
+{
+    "processing_time": 110.045,
+    "results": [
+        {
+            "box": {
+                "xmin": 494,
+                "ymin": 527,
+                "xmax": 642,
+                "ymax": 575
+            },
+            "plate": "g13018",
+            "region": {
+                "code": "cn",
+                "score": 0.829
+            },
+            "score": 0.999,
+            "candidates": [
+                {
+                    "score": 0.999,
+                    "plate": "g13018"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "g1301b"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "g130i8"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "g13o18"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "gi3018"
+                },
+                {
+                    "score": 0.683,
+                    "plate": "g130ib"
+                },
+                {
+                    "score": 0.683,
+                    "plate": "g13o1b"
+                },
+                {
+                    "score": 0.683,
+                    "plate": "g13oi8"
+                },
+                {
+                    "score": 0.683,
+                    "plate": "gi301b"
+                },
+                {
+                    "score": 0.683,
+                    "plate": "gi30i8"
+                }
+            ],
+            "dscore": 0.834,
+            "vehicle": {
+                "score": 0.937,
+                "type": "Van",
+                "box": {
+                    "xmin": 235,
+                    "ymin": 0,
+                    "xmax": 891,
+                    "ymax": 608
+                }
+            }
+        }
+    ],
+    "filename": "1349_mSCsA_G1_133.jpg",
+    "version": 1,
+    "camera_id": null,
+    "timestamp": "2024-12-03T13:49:57.587734Z",
+    "image_width": 1082,
+    "image_height": 727
+}

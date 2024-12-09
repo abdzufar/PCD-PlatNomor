@@ -1,0 +1,42 @@
+{
+    "processing_time": 81.133,
+    "results": [
+        {
+            "box": {
+                "xmin": 219,
+                "ymin": 588,
+                "xmax": 390,
+                "ymax": 643
+            },
+            "plate": "g93745",
+            "region": {
+                "code": "cn",
+                "score": 0.88
+            },
+            "score": 0.999,
+            "candidates": [
+                {
+                    "score": 0.999,
+                    "plate": "g93745"
+                }
+            ],
+            "dscore": 0.868,
+            "vehicle": {
+                "score": 0.911,
+                "type": "Van",
+                "box": {
+                    "xmin": 0,
+                    "ymin": 0,
+                    "xmax": 625,
+                    "ymax": 718
+                }
+            }
+        }
+    ],
+    "filename": "1405_HSxhH_G1_457.jpg",
+    "version": 1,
+    "camera_id": null,
+    "timestamp": "2024-12-03T14:05:30.403684Z",
+    "image_width": 1082,
+    "image_height": 727
+}

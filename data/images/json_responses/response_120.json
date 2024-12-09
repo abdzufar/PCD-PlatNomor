@@ -1,0 +1,46 @@
+{
+    "processing_time": 80.965,
+    "results": [
+        {
+            "box": {
+                "xmin": 260,
+                "ymin": 597,
+                "xmax": 430,
+                "ymax": 649
+            },
+            "plate": "g97687",
+            "region": {
+                "code": "cn",
+                "score": 0.814
+            },
+            "score": 0.999,
+            "candidates": [
+                {
+                    "score": 0.999,
+                    "plate": "g97687"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "g976b7"
+                }
+            ],
+            "dscore": 0.862,
+            "vehicle": {
+                "score": 0.868,
+                "type": "Sedan",
+                "box": {
+                    "xmin": 0,
+                    "ymin": 42,
+                    "xmax": 645,
+                    "ymax": 717
+                }
+            }
+        }
+    ],
+    "filename": "1349_DvcQO_G1_120.jpg",
+    "version": 1,
+    "camera_id": null,
+    "timestamp": "2024-12-03T13:49:21.051176Z",
+    "image_width": 1082,
+    "image_height": 727
+}

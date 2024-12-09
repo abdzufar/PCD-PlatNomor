@@ -1,0 +1,46 @@
+{
+    "processing_time": 23.432,
+    "results": [
+        {
+            "box": {
+                "xmin": 610,
+                "ymin": 543,
+                "xmax": 784,
+                "ymax": 598
+            },
+            "plate": "g27146",
+            "region": {
+                "code": "cn",
+                "score": 0.855
+            },
+            "score": 1.0,
+            "candidates": [
+                {
+                    "score": 1.0,
+                    "plate": "g27146"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "g27i46"
+                }
+            ],
+            "dscore": 0.821,
+            "vehicle": {
+                "score": 0.637,
+                "type": "Van",
+                "box": {
+                    "xmin": 288,
+                    "ymin": 0,
+                    "xmax": 1057,
+                    "ymax": 672
+                }
+            }
+        }
+    ],
+    "filename": "1421_MmeVz_G1_778.jpg",
+    "version": 1,
+    "camera_id": null,
+    "timestamp": "2024-12-03T14:21:18.746917Z",
+    "image_width": 1082,
+    "image_height": 727
+}

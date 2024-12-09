@@ -1,0 +1,109 @@
+{
+    "processing_time": 273.82,
+    "results": [
+        {
+            "box": {
+                "xmin": 80,
+                "ymin": 509,
+                "xmax": 228,
+                "ymax": 553
+            },
+            "plate": "gt9597",
+            "region": {
+                "code": "cn",
+                "score": 0.867
+            },
+            "score": 1.0,
+            "candidates": [
+                {
+                    "score": 1.0,
+                    "plate": "gt9597"
+                }
+            ],
+            "dscore": 0.829,
+            "vehicle": {
+                "score": 0.945,
+                "type": "Sedan",
+                "box": {
+                    "xmin": 0,
+                    "ymin": 1,
+                    "xmax": 438,
+                    "ymax": 609
+                }
+            }
+        },
+        {
+            "box": {
+                "xmin": 16,
+                "ymin": 0,
+                "xmax": 201,
+                "ymax": 47
+            },
+            "plate": "taxi",
+            "region": {
+                "code": "us-ut",
+                "score": 0.008
+            },
+            "score": 0.857,
+            "candidates": [
+                {
+                    "score": 0.857,
+                    "plate": "taxi"
+                },
+                {
+                    "score": 0.813,
+                    "plate": "taxig"
+                },
+                {
+                    "score": 0.731,
+                    "plate": "taxir"
+                },
+                {
+                    "score": 0.725,
+                    "plate": "taxi8"
+                },
+                {
+                    "score": 0.724,
+                    "plate": "tax1"
+                },
+                {
+                    "score": 0.723,
+                    "plate": "taxib"
+                },
+                {
+                    "score": 0.694,
+                    "plate": "taxigr"
+                },
+                {
+                    "score": 0.687,
+                    "plate": "taxi8g"
+                },
+                {
+                    "score": 0.686,
+                    "plate": "taxibg"
+                },
+                {
+                    "score": 0.679,
+                    "plate": "tax1g"
+                }
+            ],
+            "dscore": 0.05,
+            "vehicle": {
+                "score": 0.0,
+                "type": "Unknown",
+                "box": {
+                    "xmin": 0,
+                    "ymin": 0,
+                    "xmax": 0,
+                    "ymax": 0
+                }
+            }
+        }
+    ],
+    "filename": "1353_bWdHi_G1_220.jpg",
+    "version": 1,
+    "camera_id": null,
+    "timestamp": "2024-12-03T13:53:57.782356Z",
+    "image_width": 1082,
+    "image_height": 727
+}

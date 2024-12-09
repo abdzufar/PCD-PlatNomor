@@ -1,0 +1,54 @@
+{
+    "processing_time": 45.769,
+    "results": [
+        {
+            "box": {
+                "xmin": 216,
+                "ymin": 577,
+                "xmax": 385,
+                "ymax": 624
+            },
+            "plate": "a9b123",
+            "region": {
+                "code": "cn",
+                "score": 0.592
+            },
+            "score": 0.993,
+            "candidates": [
+                {
+                    "score": 0.993,
+                    "plate": "a9b123"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "a9bi23"
+                },
+                {
+                    "score": 0.834,
+                    "plate": "a98123"
+                },
+                {
+                    "score": 0.683,
+                    "plate": "a98i23"
+                }
+            ],
+            "dscore": 0.808,
+            "vehicle": {
+                "score": 0.754,
+                "type": "SUV",
+                "box": {
+                    "xmin": 1,
+                    "ymin": 0,
+                    "xmax": 672,
+                    "ymax": 715
+                }
+            }
+        }
+    ],
+    "filename": "1351_zqjVL_G1_168.jpg",
+    "version": 1,
+    "camera_id": null,
+    "timestamp": "2024-12-03T13:51:39.943804Z",
+    "image_width": 1082,
+    "image_height": 727
+}

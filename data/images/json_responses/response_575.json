@@ -1,0 +1,42 @@
+{
+    "processing_time": 49.962,
+    "results": [
+        {
+            "box": {
+                "xmin": 602,
+                "ymin": 600,
+                "xmax": 770,
+                "ymax": 654
+            },
+            "plate": "g96727",
+            "region": {
+                "code": "cn",
+                "score": 0.791
+            },
+            "score": 1.0,
+            "candidates": [
+                {
+                    "score": 1.0,
+                    "plate": "g96727"
+                }
+            ],
+            "dscore": 0.834,
+            "vehicle": {
+                "score": 0.914,
+                "type": "Sedan",
+                "box": {
+                    "xmin": 231,
+                    "ymin": 39,
+                    "xmax": 1010,
+                    "ymax": 726
+                }
+            }
+        }
+    ],
+    "filename": "1411_Ozrb8_G1_575.jpg",
+    "version": 1,
+    "camera_id": null,
+    "timestamp": "2024-12-03T14:11:05.005579Z",
+    "image_width": 1082,
+    "image_height": 727
+}

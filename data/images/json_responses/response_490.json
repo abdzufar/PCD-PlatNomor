@@ -1,0 +1,54 @@
+{
+    "processing_time": 47.143,
+    "results": [
+        {
+            "box": {
+                "xmin": 528,
+                "ymin": 600,
+                "xmax": 695,
+                "ymax": 651
+            },
+            "plate": "g18253",
+            "region": {
+                "code": "cn",
+                "score": 0.896
+            },
+            "score": 0.999,
+            "candidates": [
+                {
+                    "score": 0.999,
+                    "plate": "g18253"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "g1b253"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "gi8253"
+                },
+                {
+                    "score": 0.683,
+                    "plate": "gib253"
+                }
+            ],
+            "dscore": 0.859,
+            "vehicle": {
+                "score": 0.89,
+                "type": "Sedan",
+                "box": {
+                    "xmin": 150,
+                    "ymin": 29,
+                    "xmax": 938,
+                    "ymax": 725
+                }
+            }
+        }
+    ],
+    "filename": "1407_bQEQH_G1_490.jpg",
+    "version": 1,
+    "camera_id": null,
+    "timestamp": "2024-12-03T14:07:13.365828Z",
+    "image_width": 1082,
+    "image_height": 727
+}

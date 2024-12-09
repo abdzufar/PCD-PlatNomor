@@ -1,0 +1,46 @@
+{
+    "processing_time": 93.457,
+    "results": [
+        {
+            "box": {
+                "xmin": 442,
+                "ymin": 595,
+                "xmax": 612,
+                "ymax": 648
+            },
+            "plate": "g93149",
+            "region": {
+                "code": "cn",
+                "score": 0.815
+            },
+            "score": 1.0,
+            "candidates": [
+                {
+                    "score": 1.0,
+                    "plate": "g93149"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "g93i49"
+                }
+            ],
+            "dscore": 0.848,
+            "vehicle": {
+                "score": 0.855,
+                "type": "Sedan",
+                "box": {
+                    "xmin": 110,
+                    "ymin": 20,
+                    "xmax": 870,
+                    "ymax": 712
+                }
+            }
+        }
+    ],
+    "filename": "1407_pcHvk_G1_491.jpg",
+    "version": 1,
+    "camera_id": null,
+    "timestamp": "2024-12-03T14:07:15.732818Z",
+    "image_width": 1082,
+    "image_height": 727
+}

@@ -1,0 +1,54 @@
+{
+    "processing_time": 60.986,
+    "results": [
+        {
+            "box": {
+                "xmin": 316,
+                "ymin": 590,
+                "xmax": 485,
+                "ymax": 637
+            },
+            "plate": "g95078",
+            "region": {
+                "code": "cn",
+                "score": 0.706
+            },
+            "score": 0.999,
+            "candidates": [
+                {
+                    "score": 0.999,
+                    "plate": "g95078"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "g9507b"
+                },
+                {
+                    "score": 0.84,
+                    "plate": "g95o78"
+                },
+                {
+                    "score": 0.683,
+                    "plate": "g95o7b"
+                }
+            ],
+            "dscore": 0.827,
+            "vehicle": {
+                "score": 0.907,
+                "type": "Sedan",
+                "box": {
+                    "xmin": 0,
+                    "ymin": 14,
+                    "xmax": 740,
+                    "ymax": 718
+                }
+            }
+        }
+    ],
+    "filename": "1401_Wienr_G1_372.jpg",
+    "version": 1,
+    "camera_id": null,
+    "timestamp": "2024-12-03T14:01:04.503119Z",
+    "image_width": 1082,
+    "image_height": 727
+}

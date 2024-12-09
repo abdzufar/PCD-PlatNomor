@@ -1,0 +1,42 @@
+{
+    "processing_time": 59.528,
+    "results": [
+        {
+            "box": {
+                "xmin": 265,
+                "ymin": 591,
+                "xmax": 434,
+                "ymax": 643
+            },
+            "plate": "gt9649",
+            "region": {
+                "code": "cn",
+                "score": 0.801
+            },
+            "score": 1.0,
+            "candidates": [
+                {
+                    "score": 1.0,
+                    "plate": "gt9649"
+                }
+            ],
+            "dscore": 0.896,
+            "vehicle": {
+                "score": 0.897,
+                "type": "Sedan",
+                "box": {
+                    "xmin": 0,
+                    "ymin": 37,
+                    "xmax": 650,
+                    "ymax": 726
+                }
+            }
+        }
+    ],
+    "filename": "1405_K3It7_G1_448.jpg",
+    "version": 1,
+    "camera_id": null,
+    "timestamp": "2024-12-03T14:05:01.922573Z",
+    "image_width": 1082,
+    "image_height": 727
+}

@@ -1,0 +1,54 @@
+{
+    "processing_time": 31.83,
+    "results": [
+        {
+            "box": {
+                "xmin": 442,
+                "ymin": 595,
+                "xmax": 608,
+                "ymax": 646
+            },
+            "plate": "cnz988",
+            "region": {
+                "code": "cn",
+                "score": 0.635
+            },
+            "score": 1.0,
+            "candidates": [
+                {
+                    "score": 1.0,
+                    "plate": "cnz988"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "cnz98b"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "cnz9b8"
+                },
+                {
+                    "score": 0.683,
+                    "plate": "cnz9bb"
+                }
+            ],
+            "dscore": 0.875,
+            "vehicle": {
+                "score": 0.915,
+                "type": "Sedan",
+                "box": {
+                    "xmin": 112,
+                    "ymin": 41,
+                    "xmax": 838,
+                    "ymax": 721
+                }
+            }
+        }
+    ],
+    "filename": "1413_om6zU_G1_629.jpg",
+    "version": 1,
+    "camera_id": null,
+    "timestamp": "2024-12-03T14:13:47.024849Z",
+    "image_width": 1082,
+    "image_height": 727
+}

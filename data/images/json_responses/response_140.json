@@ -1,0 +1,42 @@
+{
+    "processing_time": 34.272,
+    "results": [
+        {
+            "box": {
+                "xmin": 612,
+                "ymin": 627,
+                "xmax": 780,
+                "ymax": 678
+            },
+            "plate": "g25343",
+            "region": {
+                "code": "cn",
+                "score": 0.833
+            },
+            "score": 1.0,
+            "candidates": [
+                {
+                    "score": 1.0,
+                    "plate": "g25343"
+                }
+            ],
+            "dscore": 0.876,
+            "vehicle": {
+                "score": 0.84,
+                "type": "Van",
+                "box": {
+                    "xmin": 305,
+                    "ymin": 1,
+                    "xmax": 1027,
+                    "ymax": 726
+                }
+            }
+        }
+    ],
+    "filename": "1350_KABCH_G1_140.jpg",
+    "version": 1,
+    "camera_id": null,
+    "timestamp": "2024-12-03T13:50:20.293895Z",
+    "image_width": 1082,
+    "image_height": 727
+}

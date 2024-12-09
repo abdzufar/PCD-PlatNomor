@@ -1,0 +1,46 @@
+{
+    "processing_time": 50.217,
+    "results": [
+        {
+            "box": {
+                "xmin": 512,
+                "ymin": 505,
+                "xmax": 657,
+                "ymax": 547
+            },
+            "plate": "g05535",
+            "region": {
+                "code": "cn",
+                "score": 0.628
+            },
+            "score": 0.999,
+            "candidates": [
+                {
+                    "score": 0.999,
+                    "plate": "g05535"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "go5535"
+                }
+            ],
+            "dscore": 0.788,
+            "vehicle": {
+                "score": 0.667,
+                "type": "Van",
+                "box": {
+                    "xmin": 250,
+                    "ymin": 0,
+                    "xmax": 865,
+                    "ymax": 638
+                }
+            }
+        }
+    ],
+    "filename": "1352_UiDVB_G1_197.jpg",
+    "version": 1,
+    "camera_id": null,
+    "timestamp": "2024-12-03T13:52:58.719689Z",
+    "image_width": 1082,
+    "image_height": 727
+}

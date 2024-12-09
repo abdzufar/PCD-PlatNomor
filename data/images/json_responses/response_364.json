@@ -1,0 +1,70 @@
+{
+    "processing_time": 91.676,
+    "results": [
+        {
+            "box": {
+                "xmin": 204,
+                "ymin": 525,
+                "xmax": 373,
+                "ymax": 574
+            },
+            "plate": "g07807",
+            "region": {
+                "code": "cn",
+                "score": 0.798
+            },
+            "score": 0.999,
+            "candidates": [
+                {
+                    "score": 0.999,
+                    "plate": "g07807"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "g078o7"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "g07b07"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "go7807"
+                },
+                {
+                    "score": 0.683,
+                    "plate": "g07bo7"
+                },
+                {
+                    "score": 0.683,
+                    "plate": "go7b07"
+                },
+                {
+                    "score": 0.682,
+                    "plate": "go78o7"
+                },
+                {
+                    "score": 0.525,
+                    "plate": "go7bo7"
+                }
+            ],
+            "dscore": 0.808,
+            "vehicle": {
+                "score": 0.835,
+                "type": "SUV",
+                "box": {
+                    "xmin": 0,
+                    "ymin": 0,
+                    "xmax": 635,
+                    "ymax": 709
+                }
+            }
+        }
+    ],
+    "filename": "1400_D83Bf_G1_364.jpg",
+    "version": 1,
+    "camera_id": null,
+    "timestamp": "2024-12-03T14:00:45.112596Z",
+    "image_width": 1082,
+    "image_height": 727
+}

@@ -1,0 +1,46 @@
+{
+    "processing_time": 42.908,
+    "results": [
+        {
+            "box": {
+                "xmin": 455,
+                "ymin": 526,
+                "xmax": 598,
+                "ymax": 564
+            },
+            "plate": "gsf789",
+            "region": {
+                "code": "cn",
+                "score": 0.465
+            },
+            "score": 0.999,
+            "candidates": [
+                {
+                    "score": 0.999,
+                    "plate": "gsf789"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "gsf7b9"
+                }
+            ],
+            "dscore": 0.799,
+            "vehicle": {
+                "score": 0.905,
+                "type": "Sedan",
+                "box": {
+                    "xmin": 190,
+                    "ymin": 1,
+                    "xmax": 803,
+                    "ymax": 625
+                }
+            }
+        }
+    ],
+    "filename": "1407_EYgGp_G1_489.jpg",
+    "version": 1,
+    "camera_id": null,
+    "timestamp": "2024-12-03T14:07:11.117974Z",
+    "image_width": 1082,
+    "image_height": 727
+}

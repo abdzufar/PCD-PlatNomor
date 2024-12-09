@@ -1,0 +1,70 @@
+{
+    "processing_time": 46.613,
+    "results": [
+        {
+            "box": {
+                "xmin": 386,
+                "ymin": 439,
+                "xmax": 543,
+                "ymax": 493
+            },
+            "plate": "g08157",
+            "region": {
+                "code": "cn",
+                "score": 0.826
+            },
+            "score": 0.999,
+            "candidates": [
+                {
+                    "score": 0.999,
+                    "plate": "g08157"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "g08i57"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "g0b157"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "go8157"
+                },
+                {
+                    "score": 0.683,
+                    "plate": "g0bi57"
+                },
+                {
+                    "score": 0.683,
+                    "plate": "go8i57"
+                },
+                {
+                    "score": 0.683,
+                    "plate": "gob157"
+                },
+                {
+                    "score": 0.525,
+                    "plate": "gobi57"
+                }
+            ],
+            "dscore": 0.825,
+            "vehicle": {
+                "score": 0.56,
+                "type": "Big Truck",
+                "box": {
+                    "xmin": 25,
+                    "ymin": 0,
+                    "xmax": 961,
+                    "ymax": 614
+                }
+            }
+        }
+    ],
+    "filename": "1359_LjW9A_G1_336.jpg",
+    "version": 1,
+    "camera_id": null,
+    "timestamp": "2024-12-03T13:59:29.251254Z",
+    "image_width": 1082,
+    "image_height": 727
+}

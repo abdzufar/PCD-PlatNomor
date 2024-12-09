@@ -1,0 +1,46 @@
+{
+    "processing_time": 50.715,
+    "results": [
+        {
+            "box": {
+                "xmin": 436,
+                "ymin": 591,
+                "xmax": 606,
+                "ymax": 644
+            },
+            "plate": "gt1735",
+            "region": {
+                "code": "cn",
+                "score": 0.75
+            },
+            "score": 0.999,
+            "candidates": [
+                {
+                    "score": 0.999,
+                    "plate": "gt1735"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "gti735"
+                }
+            ],
+            "dscore": 0.842,
+            "vehicle": {
+                "score": 0.881,
+                "type": "Sedan",
+                "box": {
+                    "xmin": 103,
+                    "ymin": 40,
+                    "xmax": 815,
+                    "ymax": 713
+                }
+            }
+        }
+    ],
+    "filename": "1355_2vp9M_G1_258.jpg",
+    "version": 1,
+    "camera_id": null,
+    "timestamp": "2024-12-03T13:55:46.822448Z",
+    "image_width": 1082,
+    "image_height": 727
+}

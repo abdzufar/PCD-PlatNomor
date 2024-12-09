@@ -1,0 +1,46 @@
+{
+    "processing_time": 92.78,
+    "results": [
+        {
+            "box": {
+                "xmin": 593,
+                "ymin": 595,
+                "xmax": 757,
+                "ymax": 641
+            },
+            "plate": "g09563",
+            "region": {
+                "code": "cn",
+                "score": 0.65
+            },
+            "score": 0.999,
+            "candidates": [
+                {
+                    "score": 0.999,
+                    "plate": "g09563"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "go9563"
+                }
+            ],
+            "dscore": 0.805,
+            "vehicle": {
+                "score": 0.877,
+                "type": "Sedan",
+                "box": {
+                    "xmin": 238,
+                    "ymin": 40,
+                    "xmax": 994,
+                    "ymax": 711
+                }
+            }
+        }
+    ],
+    "filename": "1353_YxpuR_G1_199.jpg",
+    "version": 1,
+    "camera_id": null,
+    "timestamp": "2024-12-03T13:53:03.571499Z",
+    "image_width": 1082,
+    "image_height": 727
+}

@@ -1,0 +1,54 @@
+{
+    "processing_time": 66.114,
+    "results": [
+        {
+            "box": {
+                "xmin": 305,
+                "ymin": 607,
+                "xmax": 475,
+                "ymax": 659
+            },
+            "plate": "g17221",
+            "region": {
+                "code": "cn",
+                "score": 0.702
+            },
+            "score": 0.999,
+            "candidates": [
+                {
+                    "score": 0.999,
+                    "plate": "g17221"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "g1722i"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "gi7221"
+                },
+                {
+                    "score": 0.683,
+                    "plate": "gi722i"
+                }
+            ],
+            "dscore": 0.832,
+            "vehicle": {
+                "score": 0.795,
+                "type": "Sedan",
+                "box": {
+                    "xmin": 0,
+                    "ymin": 0,
+                    "xmax": 730,
+                    "ymax": 724
+                }
+            }
+        }
+    ],
+    "filename": "1402_IPHLt_G1_398.jpg",
+    "version": 1,
+    "camera_id": null,
+    "timestamp": "2024-12-03T14:02:25.839786Z",
+    "image_width": 1082,
+    "image_height": 727
+}

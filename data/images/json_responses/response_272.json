@@ -1,0 +1,54 @@
+{
+    "processing_time": 22.551,
+    "results": [
+        {
+            "box": {
+                "xmin": 336,
+                "ymin": 513,
+                "xmax": 480,
+                "ymax": 555
+            },
+            "plate": "gzt002",
+            "region": {
+                "code": "cn",
+                "score": 0.363
+            },
+            "score": 0.997,
+            "candidates": [
+                {
+                    "score": 0.997,
+                    "plate": "gzt002"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "gzt0o2"
+                },
+                {
+                    "score": 0.839,
+                    "plate": "gzto02"
+                },
+                {
+                    "score": 0.683,
+                    "plate": "gztoo2"
+                }
+            ],
+            "dscore": 0.806,
+            "vehicle": {
+                "score": 0.869,
+                "type": "Sedan",
+                "box": {
+                    "xmin": 101,
+                    "ymin": 1,
+                    "xmax": 709,
+                    "ymax": 619
+                }
+            }
+        }
+    ],
+    "filename": "1356_ydabO_G1_272.jpg",
+    "version": 1,
+    "camera_id": null,
+    "timestamp": "2024-12-03T13:56:24.187795Z",
+    "image_width": 1082,
+    "image_height": 727
+}

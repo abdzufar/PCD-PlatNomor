@@ -1,0 +1,78 @@
+{
+    "processing_time": 52.051,
+    "results": [
+        {
+            "box": {
+                "xmin": 382,
+                "ymin": 492,
+                "xmax": 532,
+                "ymax": 540
+            },
+            "plate": "g01311",
+            "region": {
+                "code": "cn",
+                "score": 0.909
+            },
+            "score": 0.995,
+            "candidates": [
+                {
+                    "score": 0.995,
+                    "plate": "g01311"
+                },
+                {
+                    "score": 0.839,
+                    "plate": "g0131i"
+                },
+                {
+                    "score": 0.838,
+                    "plate": "g013i1"
+                },
+                {
+                    "score": 0.838,
+                    "plate": "g0i311"
+                },
+                {
+                    "score": 0.838,
+                    "plate": "go1311"
+                },
+                {
+                    "score": 0.682,
+                    "plate": "g013ii"
+                },
+                {
+                    "score": 0.681,
+                    "plate": "g0i31i"
+                },
+                {
+                    "score": 0.681,
+                    "plate": "go131i"
+                },
+                {
+                    "score": 0.681,
+                    "plate": "go13i1"
+                },
+                {
+                    "score": 0.68,
+                    "plate": "g0i3i1"
+                }
+            ],
+            "dscore": 0.842,
+            "vehicle": {
+                "score": 0.789,
+                "type": "Big Truck",
+                "box": {
+                    "xmin": 21,
+                    "ymin": 0,
+                    "xmax": 896,
+                    "ymax": 581
+                }
+            }
+        }
+    ],
+    "filename": "1348_4PwKL_G1_104.jpg",
+    "version": 1,
+    "camera_id": null,
+    "timestamp": "2024-12-03T13:48:37.658475Z",
+    "image_width": 1082,
+    "image_height": 727
+}

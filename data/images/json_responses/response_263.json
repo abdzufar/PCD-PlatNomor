@@ -1,0 +1,54 @@
+{
+    "processing_time": 61.655,
+    "results": [
+        {
+            "box": {
+                "xmin": 221,
+                "ymin": 595,
+                "xmax": 392,
+                "ymax": 648
+            },
+            "plate": "k5f168",
+            "region": {
+                "code": "cn",
+                "score": 0.774
+            },
+            "score": 0.999,
+            "candidates": [
+                {
+                    "score": 0.999,
+                    "plate": "k5f168"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "k5f16b"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "k5fi68"
+                },
+                {
+                    "score": 0.683,
+                    "plate": "k5fi6b"
+                }
+            ],
+            "dscore": 0.882,
+            "vehicle": {
+                "score": 0.813,
+                "type": "Sedan",
+                "box": {
+                    "xmin": 0,
+                    "ymin": 36,
+                    "xmax": 638,
+                    "ymax": 724
+                }
+            }
+        }
+    ],
+    "filename": "1355_cfmaj_G1_263.jpg",
+    "version": 1,
+    "camera_id": null,
+    "timestamp": "2024-12-03T13:55:59.308828Z",
+    "image_width": 1082,
+    "image_height": 727
+}

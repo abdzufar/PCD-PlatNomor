@@ -1,0 +1,113 @@
+{
+    "processing_time": 44.11,
+    "results": [
+        {
+            "box": {
+                "xmin": 323,
+                "ymin": 517,
+                "xmax": 472,
+                "ymax": 560
+            },
+            "plate": "gt9099",
+            "region": {
+                "code": "cn",
+                "score": 0.859
+            },
+            "score": 1.0,
+            "candidates": [
+                {
+                    "score": 1.0,
+                    "plate": "gt9099"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "gt9o99"
+                }
+            ],
+            "dscore": 0.822,
+            "vehicle": {
+                "score": 0.63,
+                "type": "Sedan",
+                "box": {
+                    "xmin": 79,
+                    "ymin": 3,
+                    "xmax": 674,
+                    "ymax": 596
+                }
+            }
+        },
+        {
+            "box": {
+                "xmin": 269,
+                "ymin": 1,
+                "xmax": 454,
+                "ymax": 48
+            },
+            "plate": "taxi",
+            "region": {
+                "code": "us-nj",
+                "score": 0.009
+            },
+            "score": 0.981,
+            "candidates": [
+                {
+                    "score": 0.981,
+                    "plate": "taxi"
+                },
+                {
+                    "score": 0.815,
+                    "plate": "taxig"
+                },
+                {
+                    "score": 0.809,
+                    "plate": "taxie"
+                },
+                {
+                    "score": 0.797,
+                    "plate": "taxi1"
+                },
+                {
+                    "score": 0.795,
+                    "plate": "taxii"
+                },
+                {
+                    "score": 0.761,
+                    "plate": "tax1"
+                },
+                {
+                    "score": 0.699,
+                    "plate": "taxige"
+                },
+                {
+                    "score": 0.69,
+                    "plate": "taxi1g"
+                },
+                {
+                    "score": 0.688,
+                    "plate": "taxiig"
+                },
+                {
+                    "score": 0.684,
+                    "plate": "taxi1e"
+                }
+            ],
+            "dscore": 0.054,
+            "vehicle": {
+                "score": 0.0,
+                "type": "Unknown",
+                "box": {
+                    "xmin": 0,
+                    "ymin": 0,
+                    "xmax": 0,
+                    "ymax": 0
+                }
+            }
+        }
+    ],
+    "filename": "1412_33Wue_G1_594.jpg",
+    "version": 1,
+    "camera_id": null,
+    "timestamp": "2024-12-03T14:12:00.084195Z",
+    "image_width": 1082,
+    "image_height": 727
+}

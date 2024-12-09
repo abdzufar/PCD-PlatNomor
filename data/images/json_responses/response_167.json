@@ -1,0 +1,129 @@
+{
+    "processing_time": 68.692,
+    "results": [
+        {
+            "box": {
+                "xmin": 509,
+                "ymin": 525,
+                "xmax": 654,
+                "ymax": 564
+            },
+            "plate": "gt0718",
+            "region": {
+                "code": "cn",
+                "score": 0.748
+            },
+            "score": 0.999,
+            "candidates": [
+                {
+                    "score": 0.999,
+                    "plate": "gt0718"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "gt071b"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "gt07i8"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "gto718"
+                },
+                {
+                    "score": 0.683,
+                    "plate": "gt07ib"
+                },
+                {
+                    "score": 0.683,
+                    "plate": "gto71b"
+                },
+                {
+                    "score": 0.683,
+                    "plate": "gto7i8"
+                },
+                {
+                    "score": 0.525,
+                    "plate": "gto7ib"
+                }
+            ],
+            "dscore": 0.798,
+            "vehicle": {
+                "score": 0.911,
+                "type": "Sedan",
+                "box": {
+                    "xmin": 245,
+                    "ymin": 23,
+                    "xmax": 868,
+                    "ymax": 624
+                }
+            }
+        },
+        {
+            "box": {
+                "xmin": 454,
+                "ymin": 24,
+                "xmax": 629,
+                "ymax": 67
+            },
+            "plate": "taxi",
+            "region": {
+                "code": "ru",
+                "score": 0.028
+            },
+            "score": 0.851,
+            "candidates": [
+                {
+                    "score": 0.851,
+                    "plate": "taxi"
+                },
+                {
+                    "score": 0.817,
+                    "plate": "taxie"
+                },
+                {
+                    "score": 0.746,
+                    "plate": "taxi9"
+                },
+                {
+                    "score": 0.717,
+                    "plate": "taxi9e"
+                },
+                {
+                    "score": 0.693,
+                    "plate": "tax1"
+                },
+                {
+                    "score": 0.658,
+                    "plate": "tax1e"
+                },
+                {
+                    "score": 0.614,
+                    "plate": "tax19"
+                },
+                {
+                    "score": 0.585,
+                    "plate": "tax19e"
+                }
+            ],
+            "dscore": 0.014,
+            "vehicle": {
+                "score": 0.0,
+                "type": "Unknown",
+                "box": {
+                    "xmin": 0,
+                    "ymin": 0,
+                    "xmax": 0,
+                    "ymax": 0
+                }
+            }
+        }
+    ],
+    "filename": "1351_yINQn_G1_167.jpg",
+    "version": 1,
+    "camera_id": null,
+    "timestamp": "2024-12-03T13:51:36.858307Z",
+    "image_width": 1082,
+    "image_height": 727
+}

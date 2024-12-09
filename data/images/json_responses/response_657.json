@@ -1,0 +1,54 @@
+{
+    "processing_time": 61.434,
+    "results": [
+        {
+            "box": {
+                "xmin": 345,
+                "ymin": 508,
+                "xmax": 485,
+                "ymax": 546
+            },
+            "plate": "g12260",
+            "region": {
+                "code": "cn",
+                "score": 0.449
+            },
+            "score": 0.998,
+            "candidates": [
+                {
+                    "score": 0.998,
+                    "plate": "g12260"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "g1226o"
+                },
+                {
+                    "score": 0.84,
+                    "plate": "gi2260"
+                },
+                {
+                    "score": 0.683,
+                    "plate": "gi226o"
+                }
+            ],
+            "dscore": 0.78,
+            "vehicle": {
+                "score": 0.916,
+                "type": "Sedan",
+                "box": {
+                    "xmin": 84,
+                    "ymin": 0,
+                    "xmax": 727,
+                    "ymax": 618
+                }
+            }
+        }
+    ],
+    "filename": "1415_Lbm0s_G1_657.jpg",
+    "version": 1,
+    "camera_id": null,
+    "timestamp": "2024-12-03T14:15:09.980712Z",
+    "image_width": 1082,
+    "image_height": 727
+}

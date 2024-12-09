@@ -1,0 +1,54 @@
+{
+    "processing_time": 231.543,
+    "results": [
+        {
+            "box": {
+                "xmin": 834,
+                "ymin": 597,
+                "xmax": 988,
+                "ymax": 643
+            },
+            "plate": "gt9588",
+            "region": {
+                "code": "cn",
+                "score": 0.887
+            },
+            "score": 1.0,
+            "candidates": [
+                {
+                    "score": 1.0,
+                    "plate": "gt9588"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "gt958b"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "gt95b8"
+                },
+                {
+                    "score": 0.683,
+                    "plate": "gt95bb"
+                }
+            ],
+            "dscore": 0.878,
+            "vehicle": {
+                "score": 0.927,
+                "type": "Sedan",
+                "box": {
+                    "xmin": 537,
+                    "ymin": 68,
+                    "xmax": 1081,
+                    "ymax": 702
+                }
+            }
+        }
+    ],
+    "filename": "1403_LVKfF_G1_425.jpg",
+    "version": 1,
+    "camera_id": null,
+    "timestamp": "2024-12-03T14:03:53.847598Z",
+    "image_width": 1082,
+    "image_height": 727
+}

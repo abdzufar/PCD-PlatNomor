@@ -1,0 +1,70 @@
+{
+    "processing_time": 35.488,
+    "results": [
+        {
+            "box": {
+                "xmin": 124,
+                "ymin": 567,
+                "xmax": 289,
+                "ymax": 615
+            },
+            "plate": "g91681",
+            "region": {
+                "code": "cn",
+                "score": 0.735
+            },
+            "score": 0.999,
+            "candidates": [
+                {
+                    "score": 0.999,
+                    "plate": "g91681"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "g9168i"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "g916b1"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "g9i681"
+                },
+                {
+                    "score": 0.683,
+                    "plate": "g916bi"
+                },
+                {
+                    "score": 0.683,
+                    "plate": "g9i6b1"
+                },
+                {
+                    "score": 0.682,
+                    "plate": "g9i68i"
+                },
+                {
+                    "score": 0.524,
+                    "plate": "g9i6bi"
+                }
+            ],
+            "dscore": 0.816,
+            "vehicle": {
+                "score": 0.761,
+                "type": "SUV",
+                "box": {
+                    "xmin": 0,
+                    "ymin": 0,
+                    "xmax": 568,
+                    "ymax": 712
+                }
+            }
+        }
+    ],
+    "filename": "1348_ZrY0R_G1_96.jpg",
+    "version": 1,
+    "camera_id": null,
+    "timestamp": "2024-12-03T13:48:17.242398Z",
+    "image_width": 1082,
+    "image_height": 727
+}

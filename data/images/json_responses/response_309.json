@@ -1,0 +1,46 @@
+{
+    "processing_time": 158.349,
+    "results": [
+        {
+            "box": {
+                "xmin": 682,
+                "ymin": 607,
+                "xmax": 857,
+                "ymax": 661
+            },
+            "plate": "gt2097",
+            "region": {
+                "code": "cn",
+                "score": 0.86
+            },
+            "score": 1.0,
+            "candidates": [
+                {
+                    "score": 1.0,
+                    "plate": "gt2097"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "gt2o97"
+                }
+            ],
+            "dscore": 0.835,
+            "vehicle": {
+                "score": 0.904,
+                "type": "Sedan",
+                "box": {
+                    "xmin": 355,
+                    "ymin": 52,
+                    "xmax": 1080,
+                    "ymax": 726
+                }
+            }
+        }
+    ],
+    "filename": "1358_DMahx_G1_309.jpg",
+    "version": 1,
+    "camera_id": null,
+    "timestamp": "2024-12-03T13:58:16.985083Z",
+    "image_width": 1082,
+    "image_height": 727
+}

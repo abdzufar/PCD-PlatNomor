@@ -1,0 +1,70 @@
+{
+    "processing_time": 145.645,
+    "results": [
+        {
+            "box": {
+                "xmin": 358,
+                "ymin": 592,
+                "xmax": 530,
+                "ymax": 648
+            },
+            "plate": "g08307",
+            "region": {
+                "code": "cn",
+                "score": 0.802
+            },
+            "score": 0.998,
+            "candidates": [
+                {
+                    "score": 0.998,
+                    "plate": "g08307"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "go8307"
+                },
+                {
+                    "score": 0.84,
+                    "plate": "g083o7"
+                },
+                {
+                    "score": 0.84,
+                    "plate": "g0b307"
+                },
+                {
+                    "score": 0.683,
+                    "plate": "go83o7"
+                },
+                {
+                    "score": 0.683,
+                    "plate": "gob307"
+                },
+                {
+                    "score": 0.682,
+                    "plate": "g0b3o7"
+                },
+                {
+                    "score": 0.525,
+                    "plate": "gob3o7"
+                }
+            ],
+            "dscore": 0.882,
+            "vehicle": {
+                "score": 0.679,
+                "type": "Van",
+                "box": {
+                    "xmin": 9,
+                    "ymin": 0,
+                    "xmax": 813,
+                    "ymax": 711
+                }
+            }
+        }
+    ],
+    "filename": "1416_McYKA_G1_686.jpg",
+    "version": 1,
+    "camera_id": null,
+    "timestamp": "2024-12-03T14:16:39.732497Z",
+    "image_width": 1082,
+    "image_height": 727
+}

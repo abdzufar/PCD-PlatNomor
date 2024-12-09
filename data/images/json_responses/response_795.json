@@ -1,0 +1,54 @@
+{
+    "processing_time": 39.563,
+    "results": [
+        {
+            "box": {
+                "xmin": 307,
+                "ymin": 537,
+                "xmax": 481,
+                "ymax": 595
+            },
+            "plate": "g0293",
+            "region": {
+                "code": "cn",
+                "score": 0.651
+            },
+            "score": 0.967,
+            "candidates": [
+                {
+                    "score": 0.967,
+                    "plate": "g0293"
+                },
+                {
+                    "score": 0.813,
+                    "plate": "60293"
+                },
+                {
+                    "score": 0.786,
+                    "plate": "go293"
+                },
+                {
+                    "score": 0.632,
+                    "plate": "6o293"
+                }
+            ],
+            "dscore": 0.828,
+            "vehicle": {
+                "score": 0.591,
+                "type": "SUV",
+                "box": {
+                    "xmin": 0,
+                    "ymin": 0,
+                    "xmax": 748,
+                    "ymax": 686
+                }
+            }
+        }
+    ],
+    "filename": "1422_WhOvh_G1_795.jpg",
+    "version": 1,
+    "camera_id": null,
+    "timestamp": "2024-12-03T14:22:06.534361Z",
+    "image_width": 1082,
+    "image_height": 727
+}

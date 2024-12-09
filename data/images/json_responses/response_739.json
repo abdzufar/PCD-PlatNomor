@@ -1,0 +1,46 @@
+{
+    "processing_time": 34.229,
+    "results": [
+        {
+            "box": {
+                "xmin": 514,
+                "ymin": 609,
+                "xmax": 683,
+                "ymax": 655
+            },
+            "plate": "gt1397",
+            "region": {
+                "code": "cn",
+                "score": 0.694
+            },
+            "score": 1.0,
+            "candidates": [
+                {
+                    "score": 1.0,
+                    "plate": "gt1397"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "gti397"
+                }
+            ],
+            "dscore": 0.816,
+            "vehicle": {
+                "score": 0.882,
+                "type": "Sedan",
+                "box": {
+                    "xmin": 180,
+                    "ymin": 34,
+                    "xmax": 924,
+                    "ymax": 726
+                }
+            }
+        }
+    ],
+    "filename": "1419_k3r6R_G1_739.jpg",
+    "version": 1,
+    "camera_id": null,
+    "timestamp": "2024-12-03T14:19:20.315275Z",
+    "image_width": 1082,
+    "image_height": 727
+}

@@ -1,0 +1,54 @@
+{
+    "processing_time": 61.071,
+    "results": [
+        {
+            "box": {
+                "xmin": 136,
+                "ymin": 578,
+                "xmax": 309,
+                "ymax": 631
+            },
+            "plate": "g09507",
+            "region": {
+                "code": "cn",
+                "score": 0.821
+            },
+            "score": 0.999,
+            "candidates": [
+                {
+                    "score": 0.999,
+                    "plate": "g09507"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "g095o7"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "go9507"
+                },
+                {
+                    "score": 0.683,
+                    "plate": "go95o7"
+                }
+            ],
+            "dscore": 0.802,
+            "vehicle": {
+                "score": 0.477,
+                "type": "Sedan",
+                "box": {
+                    "xmin": 0,
+                    "ymin": 0,
+                    "xmax": 569,
+                    "ymax": 695
+                }
+            }
+        }
+    ],
+    "filename": "1353_Y0NrG_G1_214.jpg",
+    "version": 1,
+    "camera_id": null,
+    "timestamp": "2024-12-03T13:53:40.288357Z",
+    "image_width": 1082,
+    "image_height": 727
+}

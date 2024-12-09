@@ -1,0 +1,46 @@
+{
+    "processing_time": 29.292,
+    "results": [
+        {
+            "box": {
+                "xmin": 603,
+                "ymin": 611,
+                "xmax": 769,
+                "ymax": 658
+            },
+            "plate": "gwt668",
+            "region": {
+                "code": "cn",
+                "score": 0.368
+            },
+            "score": 1.0,
+            "candidates": [
+                {
+                    "score": 1.0,
+                    "plate": "gwt668"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "gwt66b"
+                }
+            ],
+            "dscore": 0.836,
+            "vehicle": {
+                "score": 0.859,
+                "type": "Sedan",
+                "box": {
+                    "xmin": 225,
+                    "ymin": 41,
+                    "xmax": 1022,
+                    "ymax": 726
+                }
+            }
+        }
+    ],
+    "filename": "1353_PlI11_G1_206.jpg",
+    "version": 1,
+    "camera_id": null,
+    "timestamp": "2024-12-03T13:53:21.011925Z",
+    "image_width": 1082,
+    "image_height": 727
+}

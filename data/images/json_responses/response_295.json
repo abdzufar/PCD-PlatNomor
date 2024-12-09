@@ -1,0 +1,54 @@
+{
+    "processing_time": 142.525,
+    "results": [
+        {
+            "box": {
+                "xmin": 413,
+                "ymin": 585,
+                "xmax": 583,
+                "ymax": 640
+            },
+            "plate": "gxs878",
+            "region": {
+                "code": "cn",
+                "score": 0.688
+            },
+            "score": 0.999,
+            "candidates": [
+                {
+                    "score": 0.999,
+                    "plate": "gxs878"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "gxs87b"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "gxsb78"
+                },
+                {
+                    "score": 0.683,
+                    "plate": "gxsb7b"
+                }
+            ],
+            "dscore": 0.872,
+            "vehicle": {
+                "score": 0.851,
+                "type": "Sedan",
+                "box": {
+                    "xmin": 78,
+                    "ymin": 5,
+                    "xmax": 827,
+                    "ymax": 725
+                }
+            }
+        }
+    ],
+    "filename": "1357_Dj68N_G1_295.jpg",
+    "version": 1,
+    "camera_id": null,
+    "timestamp": "2024-12-03T13:57:34.304107Z",
+    "image_width": 1082,
+    "image_height": 727
+}

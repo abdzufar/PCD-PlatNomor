@@ -1,0 +1,54 @@
+{
+    "processing_time": 67.829,
+    "results": [
+        {
+            "box": {
+                "xmin": 350,
+                "ymin": 581,
+                "xmax": 522,
+                "ymax": 636
+            },
+            "plate": "gl168l",
+            "region": {
+                "code": "cn",
+                "score": 0.673
+            },
+            "score": 0.999,
+            "candidates": [
+                {
+                    "score": 0.999,
+                    "plate": "gl168l"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "gl16bl"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "gli68l"
+                },
+                {
+                    "score": 0.683,
+                    "plate": "gli6bl"
+                }
+            ],
+            "dscore": 0.85,
+            "vehicle": {
+                "score": 0.786,
+                "type": "Sedan",
+                "box": {
+                    "xmin": 32,
+                    "ymin": 6,
+                    "xmax": 765,
+                    "ymax": 726
+                }
+            }
+        }
+    ],
+    "filename": "1408_OnxnR_G1_511.jpg",
+    "version": 1,
+    "camera_id": null,
+    "timestamp": "2024-12-03T14:08:06.927786Z",
+    "image_width": 1082,
+    "image_height": 727
+}

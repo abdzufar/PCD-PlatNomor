@@ -1,0 +1,54 @@
+{
+    "processing_time": 88.523,
+    "results": [
+        {
+            "box": {
+                "xmin": 454,
+                "ymin": 604,
+                "xmax": 622,
+                "ymax": 649
+            },
+            "plate": "g10235",
+            "region": {
+                "code": "cn",
+                "score": 0.543
+            },
+            "score": 0.997,
+            "candidates": [
+                {
+                    "score": 0.997,
+                    "plate": "g10235"
+                },
+                {
+                    "score": 0.84,
+                    "plate": "gi0235"
+                },
+                {
+                    "score": 0.839,
+                    "plate": "g1o235"
+                },
+                {
+                    "score": 0.682,
+                    "plate": "gio235"
+                }
+            ],
+            "dscore": 0.836,
+            "vehicle": {
+                "score": 0.94,
+                "type": "Sedan",
+                "box": {
+                    "xmin": 99,
+                    "ymin": 42,
+                    "xmax": 858,
+                    "ymax": 724
+                }
+            }
+        }
+    ],
+    "filename": "1409_FZDWC_G1_544.jpg",
+    "version": 1,
+    "camera_id": null,
+    "timestamp": "2024-12-03T14:09:45.971946Z",
+    "image_width": 1082,
+    "image_height": 727
+}

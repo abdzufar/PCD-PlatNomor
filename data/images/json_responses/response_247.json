@@ -1,0 +1,54 @@
+{
+    "processing_time": 110.918,
+    "results": [
+        {
+            "box": {
+                "xmin": 30,
+                "ymin": 327,
+                "xmax": 188,
+                "ymax": 382
+            },
+            "plate": "g02561",
+            "region": {
+                "code": "cn",
+                "score": 0.791
+            },
+            "score": 1.0,
+            "candidates": [
+                {
+                    "score": 1.0,
+                    "plate": "g02561"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "g0256i"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "go2561"
+                },
+                {
+                    "score": 0.683,
+                    "plate": "go256i"
+                }
+            ],
+            "dscore": 0.83,
+            "vehicle": {
+                "score": 0.873,
+                "type": "Van",
+                "box": {
+                    "xmin": 0,
+                    "ymin": 0,
+                    "xmax": 372,
+                    "ymax": 609
+                }
+            }
+        }
+    ],
+    "filename": "1355_x4e8M_G1_247.jpg",
+    "version": 1,
+    "camera_id": null,
+    "timestamp": "2024-12-03T13:55:13.763020Z",
+    "image_width": 1082,
+    "image_height": 727
+}

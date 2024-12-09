@@ -1,0 +1,42 @@
+{
+    "processing_time": 27.023,
+    "results": [
+        {
+            "box": {
+                "xmin": 317,
+                "ymin": 497,
+                "xmax": 461,
+                "ymax": 537
+            },
+            "plate": "pnd573",
+            "region": {
+                "code": "cn",
+                "score": 0.18
+            },
+            "score": 0.999,
+            "candidates": [
+                {
+                    "score": 0.999,
+                    "plate": "pnd573"
+                }
+            ],
+            "dscore": 0.798,
+            "vehicle": {
+                "score": 0.905,
+                "type": "Sedan",
+                "box": {
+                    "xmin": 63,
+                    "ymin": 0,
+                    "xmax": 697,
+                    "ymax": 595
+                }
+            }
+        }
+    ],
+    "filename": "1345_XxgEI_G1_31.jpg",
+    "version": 1,
+    "camera_id": null,
+    "timestamp": "2024-12-03T13:45:00.232360Z",
+    "image_width": 1082,
+    "image_height": 727
+}

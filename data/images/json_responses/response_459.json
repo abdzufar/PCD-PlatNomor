@@ -1,0 +1,42 @@
+{
+    "processing_time": 47.539,
+    "results": [
+        {
+            "box": {
+                "xmin": 252,
+                "ymin": 555,
+                "xmax": 420,
+                "ymax": 604
+            },
+            "plate": "g95657",
+            "region": {
+                "code": "cn",
+                "score": 0.864
+            },
+            "score": 0.999,
+            "candidates": [
+                {
+                    "score": 0.999,
+                    "plate": "g95657"
+                }
+            ],
+            "dscore": 0.803,
+            "vehicle": {
+                "score": 0.461,
+                "type": "Sedan",
+                "box": {
+                    "xmin": 0,
+                    "ymin": 3,
+                    "xmax": 670,
+                    "ymax": 725
+                }
+            }
+        }
+    ],
+    "filename": "1405_Twdc8_G1_459.jpg",
+    "version": 1,
+    "camera_id": null,
+    "timestamp": "2024-12-03T14:05:34.775351Z",
+    "image_width": 1082,
+    "image_height": 727
+}

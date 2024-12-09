@@ -1,0 +1,42 @@
+{
+    "processing_time": 47.478,
+    "results": [
+        {
+            "box": {
+                "xmin": 357,
+                "ymin": 496,
+                "xmax": 501,
+                "ymax": 536
+            },
+            "plate": "g95569",
+            "region": {
+                "code": "cn",
+                "score": 0.717
+            },
+            "score": 0.999,
+            "candidates": [
+                {
+                    "score": 0.999,
+                    "plate": "g95569"
+                }
+            ],
+            "dscore": 0.823,
+            "vehicle": {
+                "score": 0.882,
+                "type": "Sedan",
+                "box": {
+                    "xmin": 94,
+                    "ymin": 0,
+                    "xmax": 733,
+                    "ymax": 596
+                }
+            }
+        }
+    ],
+    "filename": "1402_2VyL7_G1_407.jpg",
+    "version": 1,
+    "camera_id": null,
+    "timestamp": "2024-12-03T14:02:53.958355Z",
+    "image_width": 1082,
+    "image_height": 727
+}

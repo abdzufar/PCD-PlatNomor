@@ -1,0 +1,70 @@
+{
+    "processing_time": 84.951,
+    "results": [
+        {
+            "box": {
+                "xmin": 485,
+                "ymin": 528,
+                "xmax": 633,
+                "ymax": 575
+            },
+            "plate": "gsk888",
+            "region": {
+                "code": "cn",
+                "score": 0.769
+            },
+            "score": 1.0,
+            "candidates": [
+                {
+                    "score": 1.0,
+                    "plate": "gsk888"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "gsk88b"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "gsk8b8"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "gskb88"
+                },
+                {
+                    "score": 0.683,
+                    "plate": "gsk8bb"
+                },
+                {
+                    "score": 0.683,
+                    "plate": "gskb8b"
+                },
+                {
+                    "score": 0.683,
+                    "plate": "gskbb8"
+                },
+                {
+                    "score": 0.525,
+                    "plate": "gskbbb"
+                }
+            ],
+            "dscore": 0.851,
+            "vehicle": {
+                "score": 0.814,
+                "type": "Sedan",
+                "box": {
+                    "xmin": 207,
+                    "ymin": 1,
+                    "xmax": 862,
+                    "ymax": 623
+                }
+            }
+        }
+    ],
+    "filename": "1358_PFWoF_G1_312.jpg",
+    "version": 1,
+    "camera_id": null,
+    "timestamp": "2024-12-03T13:58:25.537631Z",
+    "image_width": 1082,
+    "image_height": 727
+}

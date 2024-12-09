@@ -1,0 +1,78 @@
+{
+    "processing_time": 91.729,
+    "results": [
+        {
+            "box": {
+                "xmin": 158,
+                "ymin": 523,
+                "xmax": 310,
+                "ymax": 567
+            },
+            "plate": "60321",
+            "region": {
+                "code": "cn",
+                "score": 0.509
+            },
+            "score": 0.895,
+            "candidates": [
+                {
+                    "score": 0.895,
+                    "plate": "60321"
+                },
+                {
+                    "score": 0.85,
+                    "plate": "g0321"
+                },
+                {
+                    "score": 0.729,
+                    "plate": "6032i"
+                },
+                {
+                    "score": 0.709,
+                    "plate": "6o321"
+                },
+                {
+                    "score": 0.683,
+                    "plate": "g032i"
+                },
+                {
+                    "score": 0.666,
+                    "plate": "86032"
+                },
+                {
+                    "score": 0.663,
+                    "plate": "go321"
+                },
+                {
+                    "score": 0.642,
+                    "plate": "06032"
+                },
+                {
+                    "score": 0.628,
+                    "plate": "8g032"
+                },
+                {
+                    "score": 0.624,
+                    "plate": "b6032"
+                }
+            ],
+            "dscore": 0.826,
+            "vehicle": {
+                "score": 0.855,
+                "type": "Sedan",
+                "box": {
+                    "xmin": 1,
+                    "ymin": 9,
+                    "xmax": 520,
+                    "ymax": 610
+                }
+            }
+        }
+    ],
+    "filename": "1418_khg1M_G1_730.jpg",
+    "version": 1,
+    "camera_id": null,
+    "timestamp": "2024-12-03T14:18:47.301727Z",
+    "image_width": 1082,
+    "image_height": 727
+}

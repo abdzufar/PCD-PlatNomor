@@ -1,0 +1,81 @@
+{
+    "processing_time": 48.797,
+    "results": [
+        {
+            "box": {
+                "xmin": 223,
+                "ymin": 515,
+                "xmax": 368,
+                "ymax": 557
+            },
+            "plate": "gt9558",
+            "region": {
+                "code": "cn",
+                "score": 0.815
+            },
+            "score": 0.999,
+            "candidates": [
+                {
+                    "score": 0.999,
+                    "plate": "gt9558"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "gt955b"
+                }
+            ],
+            "dscore": 0.822,
+            "vehicle": {
+                "score": 0.932,
+                "type": "Sedan",
+                "box": {
+                    "xmin": 0,
+                    "ymin": 5,
+                    "xmax": 593,
+                    "ymax": 613
+                }
+            }
+        },
+        {
+            "box": {
+                "xmin": 190,
+                "ymin": 2,
+                "xmax": 369,
+                "ymax": 48
+            },
+            "plate": "taxi",
+            "region": {
+                "code": "gb",
+                "score": 0.008
+            },
+            "score": 0.968,
+            "candidates": [
+                {
+                    "score": 0.968,
+                    "plate": "taxi"
+                },
+                {
+                    "score": 0.769,
+                    "plate": "tax1"
+                }
+            ],
+            "dscore": 0.105,
+            "vehicle": {
+                "score": 0.0,
+                "type": "Unknown",
+                "box": {
+                    "xmin": 0,
+                    "ymin": 0,
+                    "xmax": 0,
+                    "ymax": 0
+                }
+            }
+        }
+    ],
+    "filename": "1419_olfGX_G1_745.jpg",
+    "version": 1,
+    "camera_id": null,
+    "timestamp": "2024-12-03T14:19:43.069598Z",
+    "image_width": 1082,
+    "image_height": 727
+}

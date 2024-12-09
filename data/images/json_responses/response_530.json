@@ -1,0 +1,78 @@
+{
+    "processing_time": 47.22,
+    "results": [
+        {
+            "box": {
+                "xmin": 336,
+                "ymin": 509,
+                "xmax": 484,
+                "ymax": 553
+            },
+            "plate": "g18608",
+            "region": {
+                "code": "cn",
+                "score": 0.795
+            },
+            "score": 0.999,
+            "candidates": [
+                {
+                    "score": 0.999,
+                    "plate": "g18608"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "g1860b"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "g186o8"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "g1b608"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "gi8608"
+                },
+                {
+                    "score": 0.683,
+                    "plate": "g1b60b"
+                },
+                {
+                    "score": 0.683,
+                    "plate": "g1b6o8"
+                },
+                {
+                    "score": 0.683,
+                    "plate": "gi860b"
+                },
+                {
+                    "score": 0.683,
+                    "plate": "gi86o8"
+                },
+                {
+                    "score": 0.683,
+                    "plate": "gib608"
+                }
+            ],
+            "dscore": 0.822,
+            "vehicle": {
+                "score": 0.827,
+                "type": "Sedan",
+                "box": {
+                    "xmin": 83,
+                    "ymin": 1,
+                    "xmax": 698,
+                    "ymax": 620
+                }
+            }
+        }
+    ],
+    "filename": "1408_Sb2v1_G1_530.jpg",
+    "version": 1,
+    "camera_id": null,
+    "timestamp": "2024-12-03T14:08:55.178081Z",
+    "image_width": 1082,
+    "image_height": 727
+}

@@ -1,0 +1,70 @@
+{
+    "processing_time": 29.247,
+    "results": [
+        {
+            "box": {
+                "xmin": 375,
+                "ymin": 591,
+                "xmax": 545,
+                "ymax": 644
+            },
+            "plate": "glb588",
+            "region": {
+                "code": "cn",
+                "score": 0.624
+            },
+            "score": 1.0,
+            "candidates": [
+                {
+                    "score": 1.0,
+                    "plate": "glb588"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "glb58b"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "glb5b8"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "gl8588"
+                },
+                {
+                    "score": 0.683,
+                    "plate": "glb5bb"
+                },
+                {
+                    "score": 0.683,
+                    "plate": "gl858b"
+                },
+                {
+                    "score": 0.683,
+                    "plate": "gl85b8"
+                },
+                {
+                    "score": 0.525,
+                    "plate": "gl85bb"
+                }
+            ],
+            "dscore": 0.833,
+            "vehicle": {
+                "score": 0.887,
+                "type": "Sedan",
+                "box": {
+                    "xmin": 38,
+                    "ymin": 45,
+                    "xmax": 794,
+                    "ymax": 724
+                }
+            }
+        }
+    ],
+    "filename": "1415_NhOXh_G1_660.jpg",
+    "version": 1,
+    "camera_id": null,
+    "timestamp": "2024-12-03T14:15:18.382350Z",
+    "image_width": 1082,
+    "image_height": 727
+}

@@ -1,0 +1,42 @@
+{
+    "processing_time": 37.145,
+    "results": [
+        {
+            "box": {
+                "xmin": 572,
+                "ymin": 537,
+                "xmax": 724,
+                "ymax": 585
+            },
+            "plate": "gt9572",
+            "region": {
+                "code": "cn",
+                "score": 0.816
+            },
+            "score": 1.0,
+            "candidates": [
+                {
+                    "score": 1.0,
+                    "plate": "gt9572"
+                }
+            ],
+            "dscore": 0.842,
+            "vehicle": {
+                "score": 0.613,
+                "type": "Sedan",
+                "box": {
+                    "xmin": 350,
+                    "ymin": 21,
+                    "xmax": 935,
+                    "ymax": 651
+                }
+            }
+        }
+    ],
+    "filename": "1415_BXzp7_G1_664.jpg",
+    "version": 1,
+    "camera_id": null,
+    "timestamp": "2024-12-03T14:15:31.264028Z",
+    "image_width": 1082,
+    "image_height": 727
+}

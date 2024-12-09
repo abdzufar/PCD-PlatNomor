@@ -1,0 +1,42 @@
+{
+    "processing_time": 68.122,
+    "results": [
+        {
+            "box": {
+                "xmin": 62,
+                "ymin": 604,
+                "xmax": 235,
+                "ymax": 662
+            },
+            "plate": "g96427",
+            "region": {
+                "code": "cn",
+                "score": 0.869
+            },
+            "score": 1.0,
+            "candidates": [
+                {
+                    "score": 1.0,
+                    "plate": "g96427"
+                }
+            ],
+            "dscore": 0.859,
+            "vehicle": {
+                "score": 0.874,
+                "type": "Sedan",
+                "box": {
+                    "xmin": 1,
+                    "ymin": 20,
+                    "xmax": 556,
+                    "ymax": 726
+                }
+            }
+        }
+    ],
+    "filename": "1405_YobKq_G1_467.jpg",
+    "version": 1,
+    "camera_id": null,
+    "timestamp": "2024-12-03T14:05:58.931861Z",
+    "image_width": 1082,
+    "image_height": 727
+}

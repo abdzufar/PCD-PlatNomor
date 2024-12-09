@@ -1,0 +1,46 @@
+{
+    "processing_time": 66.397,
+    "results": [
+        {
+            "box": {
+                "xmin": 288,
+                "ymin": 440,
+                "xmax": 435,
+                "ymax": 482
+            },
+            "plate": "gaa698",
+            "region": {
+                "code": "cn",
+                "score": 0.572
+            },
+            "score": 1.0,
+            "candidates": [
+                {
+                    "score": 1.0,
+                    "plate": "gaa698"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "gaa69b"
+                }
+            ],
+            "dscore": 0.776,
+            "vehicle": {
+                "score": 0.352,
+                "type": "Van",
+                "box": {
+                    "xmin": 74,
+                    "ymin": 0,
+                    "xmax": 684,
+                    "ymax": 598
+                }
+            }
+        }
+    ],
+    "filename": "1359_Y5iWS_G1_334.jpg",
+    "version": 1,
+    "camera_id": null,
+    "timestamp": "2024-12-03T13:59:26.014450Z",
+    "image_width": 1082,
+    "image_height": 727
+}

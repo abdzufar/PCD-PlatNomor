@@ -1,0 +1,113 @@
+{
+    "processing_time": 127.173,
+    "results": [
+        {
+            "box": {
+                "xmin": 265,
+                "ymin": 509,
+                "xmax": 410,
+                "ymax": 549
+            },
+            "plate": "gt1710",
+            "region": {
+                "code": "cn",
+                "score": 0.602
+            },
+            "score": 0.999,
+            "candidates": [
+                {
+                    "score": 0.999,
+                    "plate": "gt1710"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "gt171o"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "gt17i0"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "gti710"
+                },
+                {
+                    "score": 0.683,
+                    "plate": "gt17io"
+                },
+                {
+                    "score": 0.683,
+                    "plate": "gti71o"
+                },
+                {
+                    "score": 0.683,
+                    "plate": "gti7i0"
+                },
+                {
+                    "score": 0.524,
+                    "plate": "gti7io"
+                }
+            ],
+            "dscore": 0.803,
+            "vehicle": {
+                "score": 0.794,
+                "type": "Sedan",
+                "box": {
+                    "xmin": 37,
+                    "ymin": 6,
+                    "xmax": 610,
+                    "ymax": 612
+                }
+            }
+        },
+        {
+            "box": {
+                "xmin": 221,
+                "ymin": 4,
+                "xmax": 403,
+                "ymax": 42
+            },
+            "plate": "taxi",
+            "region": {
+                "code": "ru",
+                "score": 0.01
+            },
+            "score": 0.948,
+            "candidates": [
+                {
+                    "score": 0.948,
+                    "plate": "taxi"
+                },
+                {
+                    "score": 0.792,
+                    "plate": "tax1"
+                },
+                {
+                    "score": 0.77,
+                    "plate": "taxia"
+                },
+                {
+                    "score": 0.645,
+                    "plate": "tax1a"
+                }
+            ],
+            "dscore": 0.04,
+            "vehicle": {
+                "score": 0.0,
+                "type": "Unknown",
+                "box": {
+                    "xmin": 0,
+                    "ymin": 0,
+                    "xmax": 0,
+                    "ymax": 0
+                }
+            }
+        }
+    ],
+    "filename": "1412_Zv4Bb_G1_602.jpg",
+    "version": 1,
+    "camera_id": null,
+    "timestamp": "2024-12-03T14:12:23.805915Z",
+    "image_width": 1082,
+    "image_height": 727
+}

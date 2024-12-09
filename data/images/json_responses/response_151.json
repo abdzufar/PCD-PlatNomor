@@ -1,0 +1,121 @@
+{
+    "processing_time": 111.93,
+    "results": [
+        {
+            "box": {
+                "xmin": 367,
+                "ymin": 597,
+                "xmax": 534,
+                "ymax": 640
+            },
+            "plate": "gt1990",
+            "region": {
+                "code": "cn",
+                "score": 0.771
+            },
+            "score": 0.999,
+            "candidates": [
+                {
+                    "score": 0.999,
+                    "plate": "gt1990"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "gt199o"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "gti990"
+                },
+                {
+                    "score": 0.683,
+                    "plate": "gti99o"
+                }
+            ],
+            "dscore": 0.823,
+            "vehicle": {
+                "score": 0.639,
+                "type": "Sedan",
+                "box": {
+                    "xmin": 51,
+                    "ymin": 53,
+                    "xmax": 759,
+                    "ymax": 715
+                }
+            }
+        },
+        {
+            "box": {
+                "xmin": 263,
+                "ymin": 30,
+                "xmax": 491,
+                "ymax": 81
+            },
+            "plate": "taxi12",
+            "region": {
+                "code": "ru",
+                "score": 0.039
+            },
+            "score": 0.757,
+            "candidates": [
+                {
+                    "score": 0.757,
+                    "plate": "taxi12"
+                },
+                {
+                    "score": 0.738,
+                    "plate": "taxi1"
+                },
+                {
+                    "score": 0.733,
+                    "plate": "taxi2"
+                },
+                {
+                    "score": 0.719,
+                    "plate": "taxii2"
+                },
+                {
+                    "score": 0.715,
+                    "plate": "taxi"
+                },
+                {
+                    "score": 0.7,
+                    "plate": "taxii"
+                },
+                {
+                    "score": 0.651,
+                    "plate": "tax112"
+                },
+                {
+                    "score": 0.632,
+                    "plate": "tax11"
+                },
+                {
+                    "score": 0.627,
+                    "plate": "tax12"
+                },
+                {
+                    "score": 0.613,
+                    "plate": "tax1i2"
+                }
+            ],
+            "dscore": 0.11,
+            "vehicle": {
+                "score": 0.0,
+                "type": "Unknown",
+                "box": {
+                    "xmin": 0,
+                    "ymin": 0,
+                    "xmax": 0,
+                    "ymax": 0
+                }
+            }
+        }
+    ],
+    "filename": "1350_bdKOj_G1_151.jpg",
+    "version": 1,
+    "camera_id": null,
+    "timestamp": "2024-12-03T13:50:53.483307Z",
+    "image_width": 1082,
+    "image_height": 727
+}

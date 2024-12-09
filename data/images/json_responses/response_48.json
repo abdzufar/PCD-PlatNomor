@@ -1,0 +1,42 @@
+{
+    "processing_time": 111.602,
+    "results": [
+        {
+            "box": {
+                "xmin": 347,
+                "ymin": 586,
+                "xmax": 519,
+                "ymax": 641
+            },
+            "plate": "gfm555",
+            "region": {
+                "code": "cn",
+                "score": 0.542
+            },
+            "score": 1.0,
+            "candidates": [
+                {
+                    "score": 1.0,
+                    "plate": "gfm555"
+                }
+            ],
+            "dscore": 0.82,
+            "vehicle": {
+                "score": 0.858,
+                "type": "Sedan",
+                "box": {
+                    "xmin": 17,
+                    "ymin": 22,
+                    "xmax": 769,
+                    "ymax": 715
+                }
+            }
+        }
+    ],
+    "filename": "1345_FFRHb_G1_48.jpg",
+    "version": 1,
+    "camera_id": null,
+    "timestamp": "2024-12-03T13:45:45.729608Z",
+    "image_width": 1082,
+    "image_height": 727
+}

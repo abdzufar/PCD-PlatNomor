@@ -1,0 +1,46 @@
+{
+    "processing_time": 74.358,
+    "results": [
+        {
+            "box": {
+                "xmin": 166,
+                "ymin": 591,
+                "xmax": 337,
+                "ymax": 645
+            },
+            "plate": "g92845",
+            "region": {
+                "code": "cn",
+                "score": 0.755
+            },
+            "score": 0.999,
+            "candidates": [
+                {
+                    "score": 0.999,
+                    "plate": "g92845"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "g92b45"
+                }
+            ],
+            "dscore": 0.839,
+            "vehicle": {
+                "score": 0.888,
+                "type": "Sedan",
+                "box": {
+                    "xmin": 0,
+                    "ymin": 32,
+                    "xmax": 602,
+                    "ymax": 723
+                }
+            }
+        }
+    ],
+    "filename": "1413_e3Cm6_G1_620.jpg",
+    "version": 1,
+    "camera_id": null,
+    "timestamp": "2024-12-03T14:13:21.113995Z",
+    "image_width": 1082,
+    "image_height": 727
+}

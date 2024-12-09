@@ -1,0 +1,46 @@
+{
+    "processing_time": 30.471,
+    "results": [
+        {
+            "box": {
+                "xmin": 420,
+                "ymin": 512,
+                "xmax": 569,
+                "ymax": 558
+            },
+            "plate": "gt9687",
+            "region": {
+                "code": "cn",
+                "score": 0.761
+            },
+            "score": 0.999,
+            "candidates": [
+                {
+                    "score": 0.999,
+                    "plate": "gt9687"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "gt96b7"
+                }
+            ],
+            "dscore": 0.851,
+            "vehicle": {
+                "score": 0.878,
+                "type": "Sedan",
+                "box": {
+                    "xmin": 184,
+                    "ymin": 4,
+                    "xmax": 760,
+                    "ymax": 617
+                }
+            }
+        }
+    ],
+    "filename": "1354_mxaTJ_G1_222.jpg",
+    "version": 1,
+    "camera_id": null,
+    "timestamp": "2024-12-03T13:54:04.732948Z",
+    "image_width": 1082,
+    "image_height": 727
+}

@@ -1,0 +1,46 @@
+{
+    "processing_time": 43.824,
+    "results": [
+        {
+            "box": {
+                "xmin": 461,
+                "ymin": 601,
+                "xmax": 626,
+                "ymax": 649
+            },
+            "plate": "gt0367",
+            "region": {
+                "code": "cn",
+                "score": 0.769
+            },
+            "score": 0.999,
+            "candidates": [
+                {
+                    "score": 0.999,
+                    "plate": "gt0367"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "gto367"
+                }
+            ],
+            "dscore": 0.827,
+            "vehicle": {
+                "score": 0.921,
+                "type": "Sedan",
+                "box": {
+                    "xmin": 138,
+                    "ymin": 45,
+                    "xmax": 864,
+                    "ymax": 725
+                }
+            }
+        }
+    ],
+    "filename": "1422_zWy89_G1_805.jpg",
+    "version": 1,
+    "camera_id": null,
+    "timestamp": "2024-12-03T14:22:40.688325Z",
+    "image_width": 1082,
+    "image_height": 727
+}

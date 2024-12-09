@@ -1,0 +1,46 @@
+{
+    "processing_time": 39.895,
+    "results": [
+        {
+            "box": {
+                "xmin": 622,
+                "ymin": 617,
+                "xmax": 789,
+                "ymax": 667
+            },
+            "plate": "akt690",
+            "region": {
+                "code": "cn",
+                "score": 0.512
+            },
+            "score": 1.0,
+            "candidates": [
+                {
+                    "score": 1.0,
+                    "plate": "akt690"
+                },
+                {
+                    "score": 0.842,
+                    "plate": "akt69o"
+                }
+            ],
+            "dscore": 0.838,
+            "vehicle": {
+                "score": 0.855,
+                "type": "Sedan",
+                "box": {
+                    "xmin": 282,
+                    "ymin": 59,
+                    "xmax": 1015,
+                    "ymax": 716
+                }
+            }
+        }
+    ],
+    "filename": "1348_3IPQa_G1_103.jpg",
+    "version": 1,
+    "camera_id": null,
+    "timestamp": "2024-12-03T13:48:34.430473Z",
+    "image_width": 1082,
+    "image_height": 727
+}

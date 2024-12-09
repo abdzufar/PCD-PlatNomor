@@ -1,0 +1,54 @@
+{
+    "processing_time": 63.026,
+    "results": [
+        {
+            "box": {
+                "xmin": 68,
+                "ymin": 623,
+                "xmax": 238,
+                "ymax": 678
+            },
+            "plate": "g21268",
+            "region": {
+                "code": "cn",
+                "score": 0.68
+            },
+            "score": 0.999,
+            "candidates": [
+                {
+                    "score": 0.999,
+                    "plate": "g21268"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "g2126b"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "g2i268"
+                },
+                {
+                    "score": 0.683,
+                    "plate": "g2i26b"
+                }
+            ],
+            "dscore": 0.885,
+            "vehicle": {
+                "score": 0.859,
+                "type": "Sedan",
+                "box": {
+                    "xmin": 0,
+                    "ymin": 45,
+                    "xmax": 495,
+                    "ymax": 725
+                }
+            }
+        }
+    ],
+    "filename": "1356_z1xUb_G1_271.jpg",
+    "version": 1,
+    "camera_id": null,
+    "timestamp": "2024-12-03T13:56:22.132130Z",
+    "image_width": 1082,
+    "image_height": 727
+}

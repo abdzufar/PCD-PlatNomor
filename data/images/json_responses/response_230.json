@@ -1,0 +1,54 @@
+{
+    "processing_time": 110.673,
+    "results": [
+        {
+            "box": {
+                "xmin": 466,
+                "ymin": 539,
+                "xmax": 609,
+                "ymax": 580
+            },
+            "plate": "g12928",
+            "region": {
+                "code": "cn",
+                "score": 0.665
+            },
+            "score": 0.998,
+            "candidates": [
+                {
+                    "score": 0.998,
+                    "plate": "g12928"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "gi2928"
+                },
+                {
+                    "score": 0.84,
+                    "plate": "g1292b"
+                },
+                {
+                    "score": 0.683,
+                    "plate": "gi292b"
+                }
+            ],
+            "dscore": 0.83,
+            "vehicle": {
+                "score": 0.916,
+                "type": "Sedan",
+                "box": {
+                    "xmin": 188,
+                    "ymin": 1,
+                    "xmax": 833,
+                    "ymax": 624
+                }
+            }
+        }
+    ],
+    "filename": "1354_2FyJW_G1_230.jpg",
+    "version": 1,
+    "camera_id": null,
+    "timestamp": "2024-12-03T13:54:27.626265Z",
+    "image_width": 1082,
+    "image_height": 727
+}

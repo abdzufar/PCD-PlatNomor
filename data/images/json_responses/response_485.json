@@ -1,0 +1,46 @@
+{
+    "processing_time": 47.491,
+    "results": [
+        {
+            "box": {
+                "xmin": 456,
+                "ymin": 589,
+                "xmax": 625,
+                "ymax": 642
+            },
+            "plate": "gyp328",
+            "region": {
+                "code": "cn",
+                "score": 0.861
+            },
+            "score": 1.0,
+            "candidates": [
+                {
+                    "score": 1.0,
+                    "plate": "gyp328"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "gyp32b"
+                }
+            ],
+            "dscore": 0.87,
+            "vehicle": {
+                "score": 0.952,
+                "type": "Sedan",
+                "box": {
+                    "xmin": 118,
+                    "ymin": 81,
+                    "xmax": 850,
+                    "ymax": 723
+                }
+            }
+        }
+    ],
+    "filename": "1406_aUiXu_G1_485.jpg",
+    "version": 1,
+    "camera_id": null,
+    "timestamp": "2024-12-03T14:06:59.856822Z",
+    "image_width": 1082,
+    "image_height": 727
+}

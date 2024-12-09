@@ -1,0 +1,54 @@
+{
+    "processing_time": 96.158,
+    "results": [
+        {
+            "box": {
+                "xmin": 315,
+                "ymin": 592,
+                "xmax": 488,
+                "ymax": 644
+            },
+            "plate": "g10677",
+            "region": {
+                "code": "cn",
+                "score": 0.59
+            },
+            "score": 0.999,
+            "candidates": [
+                {
+                    "score": 0.999,
+                    "plate": "g10677"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "g1o677"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "gi0677"
+                },
+                {
+                    "score": 0.683,
+                    "plate": "gio677"
+                }
+            ],
+            "dscore": 0.841,
+            "vehicle": {
+                "score": 0.634,
+                "type": "SUV",
+                "box": {
+                    "xmin": 0,
+                    "ymin": 5,
+                    "xmax": 745,
+                    "ymax": 726
+                }
+            }
+        }
+    ],
+    "filename": "1352_WyQhh_G1_189.jpg",
+    "version": 1,
+    "camera_id": null,
+    "timestamp": "2024-12-03T13:52:34.581897Z",
+    "image_width": 1082,
+    "image_height": 727
+}

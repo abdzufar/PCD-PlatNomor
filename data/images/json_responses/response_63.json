@@ -1,0 +1,46 @@
+{
+    "processing_time": 34.874,
+    "results": [
+        {
+            "box": {
+                "xmin": 577,
+                "ymin": 529,
+                "xmax": 730,
+                "ymax": 572
+            },
+            "plate": "gt0637",
+            "region": {
+                "code": "cn",
+                "score": 0.794
+            },
+            "score": 1.0,
+            "candidates": [
+                {
+                    "score": 1.0,
+                    "plate": "gt0637"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "gto637"
+                }
+            ],
+            "dscore": 0.831,
+            "vehicle": {
+                "score": 0.564,
+                "type": "Van",
+                "box": {
+                    "xmin": 312,
+                    "ymin": 14,
+                    "xmax": 921,
+                    "ymax": 615
+                }
+            }
+        }
+    ],
+    "filename": "1346_CwsEe_G1_63.jpg",
+    "version": 1,
+    "camera_id": null,
+    "timestamp": "2024-12-03T13:46:29.743115Z",
+    "image_width": 1082,
+    "image_height": 727
+}

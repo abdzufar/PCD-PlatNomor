@@ -1,0 +1,113 @@
+{
+    "processing_time": 59.452,
+    "results": [
+        {
+            "box": {
+                "xmin": 358,
+                "ymin": 589,
+                "xmax": 523,
+                "ymax": 634
+            },
+            "plate": "gt1622",
+            "region": {
+                "code": "cn",
+                "score": 0.534
+            },
+            "score": 0.999,
+            "candidates": [
+                {
+                    "score": 0.999,
+                    "plate": "gt1622"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "gti622"
+                }
+            ],
+            "dscore": 0.844,
+            "vehicle": {
+                "score": 0.891,
+                "type": "Sedan",
+                "box": {
+                    "xmin": 44,
+                    "ymin": 43,
+                    "xmax": 772,
+                    "ymax": 712
+                }
+            }
+        },
+        {
+            "box": {
+                "xmin": 276,
+                "ymin": 37,
+                "xmax": 494,
+                "ymax": 88
+            },
+            "plate": "taxib",
+            "region": {
+                "code": "ru",
+                "score": 0.131
+            },
+            "score": 0.738,
+            "candidates": [
+                {
+                    "score": 0.738,
+                    "plate": "taxib"
+                },
+                {
+                    "score": 0.734,
+                    "plate": "taxi"
+                },
+                {
+                    "score": 0.72,
+                    "plate": "taxi8"
+                },
+                {
+                    "score": 0.681,
+                    "plate": "taxibe"
+                },
+                {
+                    "score": 0.677,
+                    "plate": "taxie"
+                },
+                {
+                    "score": 0.663,
+                    "plate": "taxi8e"
+                },
+                {
+                    "score": 0.626,
+                    "plate": "tax1b"
+                },
+                {
+                    "score": 0.621,
+                    "plate": "tax1"
+                },
+                {
+                    "score": 0.607,
+                    "plate": "tax18"
+                },
+                {
+                    "score": 0.569,
+                    "plate": "tax1be"
+                }
+            ],
+            "dscore": 0.076,
+            "vehicle": {
+                "score": 0.0,
+                "type": "Unknown",
+                "box": {
+                    "xmin": 0,
+                    "ymin": 0,
+                    "xmax": 0,
+                    "ymax": 0
+                }
+            }
+        }
+    ],
+    "filename": "1349_SjaDj_G1_124.jpg",
+    "version": 1,
+    "camera_id": null,
+    "timestamp": "2024-12-03T13:49:32.942525Z",
+    "image_width": 1082,
+    "image_height": 727
+}

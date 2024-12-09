@@ -1,0 +1,46 @@
+{
+    "processing_time": 32.339,
+    "results": [
+        {
+            "box": {
+                "xmin": 429,
+                "ymin": 598,
+                "xmax": 599,
+                "ymax": 647
+            },
+            "plate": "gt9176",
+            "region": {
+                "code": "cn",
+                "score": 0.717
+            },
+            "score": 0.999,
+            "candidates": [
+                {
+                    "score": 0.999,
+                    "plate": "gt9176"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "gt9i76"
+                }
+            ],
+            "dscore": 0.84,
+            "vehicle": {
+                "score": 0.92,
+                "type": "Sedan",
+                "box": {
+                    "xmin": 100,
+                    "ymin": 37,
+                    "xmax": 830,
+                    "ymax": 725
+                }
+            }
+        }
+    ],
+    "filename": "1419_B3Lcd_G1_735.jpg",
+    "version": 1,
+    "camera_id": null,
+    "timestamp": "2024-12-03T14:19:04.830927Z",
+    "image_width": 1082,
+    "image_height": 727
+}

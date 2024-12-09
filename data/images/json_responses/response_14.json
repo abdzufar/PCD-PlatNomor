@@ -1,0 +1,78 @@
+{
+    "processing_time": 36.72,
+    "results": [
+        {
+            "box": {
+                "xmin": 89,
+                "ymin": 604,
+                "xmax": 252,
+                "ymax": 646
+            },
+            "plate": "g00815",
+            "region": {
+                "code": "cn",
+                "score": 0.811
+            },
+            "score": 0.998,
+            "candidates": [
+                {
+                    "score": 0.998,
+                    "plate": "g00815"
+                },
+                {
+                    "score": 0.84,
+                    "plate": "g008i5"
+                },
+                {
+                    "score": 0.84,
+                    "plate": "g00b15"
+                },
+                {
+                    "score": 0.84,
+                    "plate": "g0o815"
+                },
+                {
+                    "score": 0.84,
+                    "plate": "go0815"
+                },
+                {
+                    "score": 0.682,
+                    "plate": "g00bi5"
+                },
+                {
+                    "score": 0.682,
+                    "plate": "g0o8i5"
+                },
+                {
+                    "score": 0.682,
+                    "plate": "g0ob15"
+                },
+                {
+                    "score": 0.682,
+                    "plate": "go08i5"
+                },
+                {
+                    "score": 0.682,
+                    "plate": "go0b15"
+                }
+            ],
+            "dscore": 0.847,
+            "vehicle": {
+                "score": 0.78,
+                "type": "Sedan",
+                "box": {
+                    "xmin": 0,
+                    "ymin": 46,
+                    "xmax": 514,
+                    "ymax": 722
+                }
+            }
+        }
+    ],
+    "filename": "1344_cfZI3_G1_14.jpg",
+    "version": 1,
+    "camera_id": null,
+    "timestamp": "2024-12-03T13:44:16.235416Z",
+    "image_width": 1082,
+    "image_height": 727
+}

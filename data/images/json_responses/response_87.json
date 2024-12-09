@@ -1,0 +1,42 @@
+{
+    "processing_time": 49.531,
+    "results": [
+        {
+            "box": {
+                "xmin": 492,
+                "ymin": 595,
+                "xmax": 659,
+                "ymax": 645
+            },
+            "plate": "gt9649",
+            "region": {
+                "code": "cn",
+                "score": 0.825
+            },
+            "score": 0.999,
+            "candidates": [
+                {
+                    "score": 0.999,
+                    "plate": "gt9649"
+                }
+            ],
+            "dscore": 0.884,
+            "vehicle": {
+                "score": 0.905,
+                "type": "Sedan",
+                "box": {
+                    "xmin": 185,
+                    "ymin": 41,
+                    "xmax": 871,
+                    "ymax": 719
+                }
+            }
+        }
+    ],
+    "filename": "1347_3InQm_G1_87.jpg",
+    "version": 1,
+    "camera_id": null,
+    "timestamp": "2024-12-03T13:47:51.018530Z",
+    "image_width": 1082,
+    "image_height": 727
+}

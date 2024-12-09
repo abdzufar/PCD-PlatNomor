@@ -1,0 +1,54 @@
+{
+    "processing_time": 55.567,
+    "results": [
+        {
+            "box": {
+                "xmin": 323,
+                "ymin": 632,
+                "xmax": 492,
+                "ymax": 683
+            },
+            "plate": "g26280",
+            "region": {
+                "code": "cn",
+                "score": 0.824
+            },
+            "score": 1.0,
+            "candidates": [
+                {
+                    "score": 1.0,
+                    "plate": "g26280"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "g2628o"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "g262b0"
+                },
+                {
+                    "score": 0.683,
+                    "plate": "g262bo"
+                }
+            ],
+            "dscore": 0.867,
+            "vehicle": {
+                "score": 0.743,
+                "type": "Van",
+                "box": {
+                    "xmin": 53,
+                    "ymin": 0,
+                    "xmax": 735,
+                    "ymax": 726
+                }
+            }
+        }
+    ],
+    "filename": "1407_CkU8f_G1_498.jpg",
+    "version": 1,
+    "camera_id": null,
+    "timestamp": "2024-12-03T14:07:34.298772Z",
+    "image_width": 1082,
+    "image_height": 727
+}

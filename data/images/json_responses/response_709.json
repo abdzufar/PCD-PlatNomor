@@ -1,0 +1,46 @@
+{
+    "processing_time": 17.532,
+    "results": [
+        {
+            "box": {
+                "xmin": 86,
+                "ymin": 607,
+                "xmax": 250,
+                "ymax": 652
+            },
+            "plate": "g22866",
+            "region": {
+                "code": "cn",
+                "score": 0.676
+            },
+            "score": 1.0,
+            "candidates": [
+                {
+                    "score": 1.0,
+                    "plate": "g22866"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "g22b66"
+                }
+            ],
+            "dscore": 0.84,
+            "vehicle": {
+                "score": 0.763,
+                "type": "Sedan",
+                "box": {
+                    "xmin": 0,
+                    "ymin": 45,
+                    "xmax": 510,
+                    "ymax": 726
+                }
+            }
+        }
+    ],
+    "filename": "1417_BnQcJ_G1_709.jpg",
+    "version": 1,
+    "camera_id": null,
+    "timestamp": "2024-12-03T14:17:48.151520Z",
+    "image_width": 1082,
+    "image_height": 727
+}

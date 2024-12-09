@@ -1,0 +1,54 @@
+{
+    "processing_time": 37.137,
+    "results": [
+        {
+            "box": {
+                "xmin": 360,
+                "ymin": 593,
+                "xmax": 526,
+                "ymax": 639
+            },
+            "plate": "gt2048",
+            "region": {
+                "code": "cn",
+                "score": 0.656
+            },
+            "score": 1.0,
+            "candidates": [
+                {
+                    "score": 1.0,
+                    "plate": "gt2048"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "gt204b"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "gt2o48"
+                },
+                {
+                    "score": 0.683,
+                    "plate": "gt2o4b"
+                }
+            ],
+            "dscore": 0.878,
+            "vehicle": {
+                "score": 0.898,
+                "type": "Sedan",
+                "box": {
+                    "xmin": 48,
+                    "ymin": 48,
+                    "xmax": 773,
+                    "ymax": 725
+                }
+            }
+        }
+    ],
+    "filename": "1407_xrRpA_G1_488.jpg",
+    "version": 1,
+    "camera_id": null,
+    "timestamp": "2024-12-03T14:07:09.036528Z",
+    "image_width": 1082,
+    "image_height": 727
+}

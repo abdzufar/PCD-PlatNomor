@@ -1,0 +1,70 @@
+{
+    "processing_time": 42.386,
+    "results": [
+        {
+            "box": {
+                "xmin": 459,
+                "ymin": 524,
+                "xmax": 601,
+                "ymax": 559
+            },
+            "plate": "gt1117",
+            "region": {
+                "code": "cn",
+                "score": 0.614
+            },
+            "score": 0.99,
+            "candidates": [
+                {
+                    "score": 0.99,
+                    "plate": "gt1117"
+                },
+                {
+                    "score": 0.833,
+                    "plate": "gti117"
+                },
+                {
+                    "score": 0.832,
+                    "plate": "gt11i7"
+                },
+                {
+                    "score": 0.832,
+                    "plate": "gt1i17"
+                },
+                {
+                    "score": 0.675,
+                    "plate": "gti1i7"
+                },
+                {
+                    "score": 0.675,
+                    "plate": "gtii17"
+                },
+                {
+                    "score": 0.674,
+                    "plate": "gt1ii7"
+                },
+                {
+                    "score": 0.517,
+                    "plate": "gtiii7"
+                }
+            ],
+            "dscore": 0.796,
+            "vehicle": {
+                "score": 0.697,
+                "type": "Van",
+                "box": {
+                    "xmin": 206,
+                    "ymin": 14,
+                    "xmax": 806,
+                    "ymax": 605
+                }
+            }
+        }
+    ],
+    "filename": "1403_7qjCP_G1_428.jpg",
+    "version": 1,
+    "camera_id": null,
+    "timestamp": "2024-12-03T14:03:59.549982Z",
+    "image_width": 1082,
+    "image_height": 727
+}

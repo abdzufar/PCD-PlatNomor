@@ -1,0 +1,70 @@
+{
+    "processing_time": 41.108,
+    "results": [
+        {
+            "box": {
+                "xmin": 463,
+                "ymin": 611,
+                "xmax": 628,
+                "ymax": 658
+            },
+            "plate": "g01670",
+            "region": {
+                "code": "cn",
+                "score": 0.72
+            },
+            "score": 0.999,
+            "candidates": [
+                {
+                    "score": 0.999,
+                    "plate": "g01670"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "g0167o"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "g0i670"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "go1670"
+                },
+                {
+                    "score": 0.683,
+                    "plate": "g0i67o"
+                },
+                {
+                    "score": 0.683,
+                    "plate": "go167o"
+                },
+                {
+                    "score": 0.683,
+                    "plate": "goi670"
+                },
+                {
+                    "score": 0.525,
+                    "plate": "goi67o"
+                }
+            ],
+            "dscore": 0.808,
+            "vehicle": {
+                "score": 0.864,
+                "type": "Sedan",
+                "box": {
+                    "xmin": 98,
+                    "ymin": 18,
+                    "xmax": 889,
+                    "ymax": 726
+                }
+            }
+        }
+    ],
+    "filename": "1353_979tt_G1_212.jpg",
+    "version": 1,
+    "camera_id": null,
+    "timestamp": "2024-12-03T13:53:35.655920Z",
+    "image_width": 1082,
+    "image_height": 727
+}

@@ -1,0 +1,42 @@
+{
+    "processing_time": 193.581,
+    "results": [
+        {
+            "box": {
+                "xmin": 322,
+                "ymin": 631,
+                "xmax": 488,
+                "ymax": 679
+            },
+            "plate": "gdq699",
+            "region": {
+                "code": "cn",
+                "score": 0.804
+            },
+            "score": 1.0,
+            "candidates": [
+                {
+                    "score": 1.0,
+                    "plate": "gdq699"
+                }
+            ],
+            "dscore": 0.865,
+            "vehicle": {
+                "score": 0.877,
+                "type": "Van",
+                "box": {
+                    "xmin": 38,
+                    "ymin": 0,
+                    "xmax": 735,
+                    "ymax": 726
+                }
+            }
+        }
+    ],
+    "filename": "1416_fmuCo_G1_679.jpg",
+    "version": 1,
+    "camera_id": null,
+    "timestamp": "2024-12-03T14:16:15.282522Z",
+    "image_width": 1082,
+    "image_height": 727
+}

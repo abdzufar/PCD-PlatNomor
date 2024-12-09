@@ -1,0 +1,78 @@
+{
+    "processing_time": 40.062,
+    "results": [
+        {
+            "box": {
+                "xmin": 583,
+                "ymin": 539,
+                "xmax": 742,
+                "ymax": 590
+            },
+            "plate": "gt1771",
+            "region": {
+                "code": "cn",
+                "score": 0.877
+            },
+            "score": 0.999,
+            "candidates": [
+                {
+                    "score": 0.999,
+                    "plate": "gt1771"
+                },
+                {
+                    "score": 0.891,
+                    "plate": "ggt1771"
+                },
+                {
+                    "score": 0.864,
+                    "plate": "lgt1771"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "gt177i"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "gti771"
+                },
+                {
+                    "score": 0.795,
+                    "plate": "gggt1771"
+                },
+                {
+                    "score": 0.787,
+                    "plate": "lggt1771"
+                },
+                {
+                    "score": 0.771,
+                    "plate": "glgt1771"
+                },
+                {
+                    "score": 0.756,
+                    "plate": "ggt177i"
+                },
+                {
+                    "score": 0.756,
+                    "plate": "ggti771"
+                }
+            ],
+            "dscore": 0.815,
+            "vehicle": {
+                "score": 0.605,
+                "type": "Sedan",
+                "box": {
+                    "xmin": 344,
+                    "ymin": 15,
+                    "xmax": 944,
+                    "ymax": 623
+                }
+            }
+        }
+    ],
+    "filename": "1411_UP5uV_G1_590.jpg",
+    "version": 1,
+    "camera_id": null,
+    "timestamp": "2024-12-03T14:11:46.518676Z",
+    "image_width": 1082,
+    "image_height": 727
+}

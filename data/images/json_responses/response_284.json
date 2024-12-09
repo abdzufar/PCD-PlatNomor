@@ -1,0 +1,42 @@
+{
+    "processing_time": 36.947,
+    "results": [
+        {
+            "box": {
+                "xmin": 353,
+                "ymin": 585,
+                "xmax": 522,
+                "ymax": 638
+            },
+            "plate": "g97655",
+            "region": {
+                "code": "cn",
+                "score": 0.758
+            },
+            "score": 0.999,
+            "candidates": [
+                {
+                    "score": 0.999,
+                    "plate": "g97655"
+                }
+            ],
+            "dscore": 0.837,
+            "vehicle": {
+                "score": 0.907,
+                "type": "Sedan",
+                "box": {
+                    "xmin": 19,
+                    "ymin": 21,
+                    "xmax": 768,
+                    "ymax": 722
+                }
+            }
+        }
+    ],
+    "filename": "1356_AnN6e_G1_284.jpg",
+    "version": 1,
+    "camera_id": null,
+    "timestamp": "2024-12-03T13:56:58.647455Z",
+    "image_width": 1082,
+    "image_height": 727
+}

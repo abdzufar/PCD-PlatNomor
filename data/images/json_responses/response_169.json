@@ -1,0 +1,70 @@
+{
+    "processing_time": 28.477,
+    "results": [
+        {
+            "box": {
+                "xmin": 289,
+                "ymin": 528,
+                "xmax": 432,
+                "ymax": 576
+            },
+            "plate": "g06411",
+            "region": {
+                "code": "cn",
+                "score": 0.842
+            },
+            "score": 0.999,
+            "candidates": [
+                {
+                    "score": 0.999,
+                    "plate": "g06411"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "g0641i"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "g064i1"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "go6411"
+                },
+                {
+                    "score": 0.683,
+                    "plate": "g064ii"
+                },
+                {
+                    "score": 0.683,
+                    "plate": "go641i"
+                },
+                {
+                    "score": 0.683,
+                    "plate": "go64i1"
+                },
+                {
+                    "score": 0.525,
+                    "plate": "go64ii"
+                }
+            ],
+            "dscore": 0.842,
+            "vehicle": {
+                "score": 0.87,
+                "type": "Van",
+                "box": {
+                    "xmin": 1,
+                    "ymin": 1,
+                    "xmax": 615,
+                    "ymax": 638
+                }
+            }
+        }
+    ],
+    "filename": "1351_QKYex_G1_169.jpg",
+    "version": 1,
+    "camera_id": null,
+    "timestamp": "2024-12-03T13:51:41.956113Z",
+    "image_width": 1082,
+    "image_height": 727
+}

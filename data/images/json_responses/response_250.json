@@ -1,0 +1,70 @@
+{
+    "processing_time": 110.154,
+    "results": [
+        {
+            "box": {
+                "xmin": 229,
+                "ymin": 492,
+                "xmax": 376,
+                "ymax": 538
+            },
+            "plate": "g12841",
+            "region": {
+                "code": "cn",
+                "score": 0.735
+            },
+            "score": 0.999,
+            "candidates": [
+                {
+                    "score": 0.999,
+                    "plate": "g12841"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "g1284i"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "g12b41"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "gi2841"
+                },
+                {
+                    "score": 0.683,
+                    "plate": "g12b4i"
+                },
+                {
+                    "score": 0.683,
+                    "plate": "gi284i"
+                },
+                {
+                    "score": 0.683,
+                    "plate": "gi2b41"
+                },
+                {
+                    "score": 0.525,
+                    "plate": "gi2b4i"
+                }
+            ],
+            "dscore": 0.841,
+            "vehicle": {
+                "score": 0.939,
+                "type": "Sedan",
+                "box": {
+                    "xmin": 20,
+                    "ymin": 6,
+                    "xmax": 565,
+                    "ymax": 601
+                }
+            }
+        }
+    ],
+    "filename": "1355_yg7JL_G1_250.jpg",
+    "version": 1,
+    "camera_id": null,
+    "timestamp": "2024-12-03T13:55:24.180316Z",
+    "image_width": 1082,
+    "image_height": 727
+}

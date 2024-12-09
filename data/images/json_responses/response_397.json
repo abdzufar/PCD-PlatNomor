@@ -1,0 +1,46 @@
+{
+    "processing_time": 101.088,
+    "results": [
+        {
+            "box": {
+                "xmin": 516,
+                "ymin": 538,
+                "xmax": 659,
+                "ymax": 577
+            },
+            "plate": "g96990",
+            "region": {
+                "code": "cn",
+                "score": 0.711
+            },
+            "score": 0.999,
+            "candidates": [
+                {
+                    "score": 0.999,
+                    "plate": "g96990"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "g9699o"
+                }
+            ],
+            "dscore": 0.843,
+            "vehicle": {
+                "score": 0.869,
+                "type": "Sedan",
+                "box": {
+                    "xmin": 247,
+                    "ymin": 12,
+                    "xmax": 901,
+                    "ymax": 633
+                }
+            }
+        }
+    ],
+    "filename": "1402_9a2Ma_G1_397.jpg",
+    "version": 1,
+    "camera_id": null,
+    "timestamp": "2024-12-03T14:02:23.618847Z",
+    "image_width": 1082,
+    "image_height": 727
+}

@@ -1,0 +1,78 @@
+{
+    "processing_time": 26.802,
+    "results": [
+        {
+            "box": {
+                "xmin": 405,
+                "ymin": 591,
+                "xmax": 574,
+                "ymax": 644
+            },
+            "plate": "g15088",
+            "region": {
+                "code": "cn",
+                "score": 0.746
+            },
+            "score": 0.999,
+            "candidates": [
+                {
+                    "score": 0.999,
+                    "plate": "g15088"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "g1508b"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "g150b8"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "g15o88"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "gi5088"
+                },
+                {
+                    "score": 0.683,
+                    "plate": "g150bb"
+                },
+                {
+                    "score": 0.683,
+                    "plate": "g15o8b"
+                },
+                {
+                    "score": 0.683,
+                    "plate": "g15ob8"
+                },
+                {
+                    "score": 0.683,
+                    "plate": "gi508b"
+                },
+                {
+                    "score": 0.683,
+                    "plate": "gi50b8"
+                }
+            ],
+            "dscore": 0.859,
+            "vehicle": {
+                "score": 0.887,
+                "type": "Sedan",
+                "box": {
+                    "xmin": 60,
+                    "ymin": 10,
+                    "xmax": 830,
+                    "ymax": 719
+                }
+            }
+        }
+    ],
+    "filename": "1414_M5o62_G1_650.jpg",
+    "version": 1,
+    "camera_id": null,
+    "timestamp": "2024-12-03T14:14:51.115261Z",
+    "image_width": 1082,
+    "image_height": 727
+}

@@ -1,0 +1,54 @@
+{
+    "processing_time": 19.393,
+    "results": [
+        {
+            "box": {
+                "xmin": 573,
+                "ymin": 557,
+                "xmax": 725,
+                "ymax": 604
+            },
+            "plate": "g06403",
+            "region": {
+                "code": "cn",
+                "score": 0.635
+            },
+            "score": 0.999,
+            "candidates": [
+                {
+                    "score": 0.999,
+                    "plate": "g06403"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "g064o3"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "go6403"
+                },
+                {
+                    "score": 0.683,
+                    "plate": "go64o3"
+                }
+            ],
+            "dscore": 0.832,
+            "vehicle": {
+                "score": 0.911,
+                "type": "Van",
+                "box": {
+                    "xmin": 212,
+                    "ymin": 1,
+                    "xmax": 1002,
+                    "ymax": 647
+                }
+            }
+        }
+    ],
+    "filename": "1411_g9YPR_G1_574.jpg",
+    "version": 1,
+    "camera_id": null,
+    "timestamp": "2024-12-03T14:11:03.346473Z",
+    "image_width": 1082,
+    "image_height": 727
+}

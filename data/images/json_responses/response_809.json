@@ -1,0 +1,78 @@
+{
+    "processing_time": 116.75,
+    "results": [
+        {
+            "box": {
+                "xmin": 460,
+                "ymin": 590,
+                "xmax": 626,
+                "ymax": 640
+            },
+            "plate": "g04001",
+            "region": {
+                "code": "cn",
+                "score": 0.673
+            },
+            "score": 1.0,
+            "candidates": [
+                {
+                    "score": 1.0,
+                    "plate": "g04001"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "g0400i"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "g040o1"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "g04o01"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "go4001"
+                },
+                {
+                    "score": 0.683,
+                    "plate": "g040oi"
+                },
+                {
+                    "score": 0.683,
+                    "plate": "g04o0i"
+                },
+                {
+                    "score": 0.683,
+                    "plate": "g04oo1"
+                },
+                {
+                    "score": 0.683,
+                    "plate": "go400i"
+                },
+                {
+                    "score": 0.683,
+                    "plate": "go40o1"
+                }
+            ],
+            "dscore": 0.847,
+            "vehicle": {
+                "score": 0.847,
+                "type": "Sedan",
+                "box": {
+                    "xmin": 104,
+                    "ymin": 17,
+                    "xmax": 877,
+                    "ymax": 726
+                }
+            }
+        }
+    ],
+    "filename": "1422_eeT7g_G1_809.jpg",
+    "version": 1,
+    "camera_id": null,
+    "timestamp": "2024-12-03T14:22:53.333489Z",
+    "image_width": 1082,
+    "image_height": 727
+}

@@ -1,0 +1,42 @@
+{
+    "processing_time": 46.553,
+    "results": [
+        {
+            "box": {
+                "xmin": 562,
+                "ymin": 622,
+                "xmax": 732,
+                "ymax": 673
+            },
+            "plate": "g95663",
+            "region": {
+                "code": "cn",
+                "score": 0.743
+            },
+            "score": 0.999,
+            "candidates": [
+                {
+                    "score": 0.999,
+                    "plate": "g95663"
+                }
+            ],
+            "dscore": 0.864,
+            "vehicle": {
+                "score": 0.926,
+                "type": "Van",
+                "box": {
+                    "xmin": 277,
+                    "ymin": 0,
+                    "xmax": 987,
+                    "ymax": 724
+                }
+            }
+        }
+    ],
+    "filename": "1348_BmwuO_G1_106.jpg",
+    "version": 1,
+    "camera_id": null,
+    "timestamp": "2024-12-03T13:48:42.876353Z",
+    "image_width": 1082,
+    "image_height": 727
+}

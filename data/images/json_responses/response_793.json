@@ -1,0 +1,46 @@
+{
+    "processing_time": 66.286,
+    "results": [
+        {
+            "box": {
+                "xmin": 91,
+                "ymin": 591,
+                "xmax": 262,
+                "ymax": 643
+            },
+            "plate": "gt1742",
+            "region": {
+                "code": "cn",
+                "score": 0.773
+            },
+            "score": 1.0,
+            "candidates": [
+                {
+                    "score": 1.0,
+                    "plate": "gt1742"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "gti742"
+                }
+            ],
+            "dscore": 0.863,
+            "vehicle": {
+                "score": 0.778,
+                "type": "Sedan",
+                "box": {
+                    "xmin": 0,
+                    "ymin": 32,
+                    "xmax": 491,
+                    "ymax": 725
+                }
+            }
+        }
+    ],
+    "filename": "1421_4w8pr_G1_793.jpg",
+    "version": 1,
+    "camera_id": null,
+    "timestamp": "2024-12-03T14:21:59.632477Z",
+    "image_width": 1082,
+    "image_height": 727
+}

@@ -1,0 +1,54 @@
+{
+    "processing_time": 90.015,
+    "results": [
+        {
+            "box": {
+                "xmin": 698,
+                "ymin": 617,
+                "xmax": 871,
+                "ymax": 667
+            },
+            "plate": "gt2031",
+            "region": {
+                "code": "cn",
+                "score": 0.693
+            },
+            "score": 1.0,
+            "candidates": [
+                {
+                    "score": 1.0,
+                    "plate": "gt2031"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "gt203i"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "gt2o31"
+                },
+                {
+                    "score": 0.683,
+                    "plate": "gt2o3i"
+                }
+            ],
+            "dscore": 0.84,
+            "vehicle": {
+                "score": 0.779,
+                "type": "Sedan",
+                "box": {
+                    "xmin": 354,
+                    "ymin": 50,
+                    "xmax": 1081,
+                    "ymax": 725
+                }
+            }
+        }
+    ],
+    "filename": "1408_AbAHy_G1_521.jpg",
+    "version": 1,
+    "camera_id": null,
+    "timestamp": "2024-12-03T14:08:28.343322Z",
+    "image_width": 1082,
+    "image_height": 727
+}

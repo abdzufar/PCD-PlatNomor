@@ -1,0 +1,46 @@
+{
+    "processing_time": 43.805,
+    "results": [
+        {
+            "box": {
+                "xmin": 402,
+                "ymin": 571,
+                "xmax": 573,
+                "ymax": 624
+            },
+            "plate": "gxl616",
+            "region": {
+                "code": "cn",
+                "score": 0.638
+            },
+            "score": 0.999,
+            "candidates": [
+                {
+                    "score": 0.999,
+                    "plate": "gxl616"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "gxl6i6"
+                }
+            ],
+            "dscore": 0.811,
+            "vehicle": {
+                "score": 0.666,
+                "type": "Van",
+                "box": {
+                    "xmin": 74,
+                    "ymin": 0,
+                    "xmax": 808,
+                    "ymax": 720
+                }
+            }
+        }
+    ],
+    "filename": "1344_O345x_G1_29.jpg",
+    "version": 1,
+    "camera_id": null,
+    "timestamp": "2024-12-03T13:44:52.516654Z",
+    "image_width": 1082,
+    "image_height": 727
+}

@@ -1,0 +1,54 @@
+{
+    "processing_time": 133.48,
+    "results": [
+        {
+            "box": {
+                "xmin": 497,
+                "ymin": 621,
+                "xmax": 667,
+                "ymax": 675
+            },
+            "plate": "d1h835",
+            "region": {
+                "code": "cn",
+                "score": 0.692
+            },
+            "score": 0.997,
+            "candidates": [
+                {
+                    "score": 0.997,
+                    "plate": "d1h835"
+                },
+                {
+                    "score": 0.839,
+                    "plate": "dih835"
+                },
+                {
+                    "score": 0.838,
+                    "plate": "d1hb35"
+                },
+                {
+                    "score": 0.681,
+                    "plate": "dihb35"
+                }
+            ],
+            "dscore": 0.88,
+            "vehicle": {
+                "score": 0.854,
+                "type": "Sedan",
+                "box": {
+                    "xmin": 151,
+                    "ymin": 17,
+                    "xmax": 902,
+                    "ymax": 726
+                }
+            }
+        }
+    ],
+    "filename": "1411_EpzcO_G1_581.jpg",
+    "version": 1,
+    "camera_id": null,
+    "timestamp": "2024-12-03T14:11:20.707046Z",
+    "image_width": 1082,
+    "image_height": 727
+}

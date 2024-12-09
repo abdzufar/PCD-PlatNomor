@@ -1,0 +1,54 @@
+{
+    "processing_time": 131.436,
+    "results": [
+        {
+            "box": {
+                "xmin": 5,
+                "ymin": 578,
+                "xmax": 179,
+                "ymax": 632
+            },
+            "plate": "g17023",
+            "region": {
+                "code": "cn",
+                "score": 0.098
+            },
+            "score": 0.999,
+            "candidates": [
+                {
+                    "score": 0.999,
+                    "plate": "g17023"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "gi7023"
+                },
+                {
+                    "score": 0.84,
+                    "plate": "g17o23"
+                },
+                {
+                    "score": 0.683,
+                    "plate": "gi7o23"
+                }
+            ],
+            "dscore": 0.799,
+            "vehicle": {
+                "score": 0.748,
+                "type": "Sedan",
+                "box": {
+                    "xmin": 1,
+                    "ymin": 0,
+                    "xmax": 444,
+                    "ymax": 726
+                }
+            }
+        }
+    ],
+    "filename": "1358_Sult1_G1_324.jpg",
+    "version": 1,
+    "camera_id": null,
+    "timestamp": "2024-12-03T13:58:54.577902Z",
+    "image_width": 1082,
+    "image_height": 727
+}

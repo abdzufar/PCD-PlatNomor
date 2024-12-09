@@ -1,0 +1,54 @@
+{
+    "processing_time": 38.874,
+    "results": [
+        {
+            "box": {
+                "xmin": 420,
+                "ymin": 602,
+                "xmax": 585,
+                "ymax": 645
+            },
+            "plate": "g91440",
+            "region": {
+                "code": "cn",
+                "score": 0.751
+            },
+            "score": 0.998,
+            "candidates": [
+                {
+                    "score": 0.998,
+                    "plate": "g91440"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "g9144o"
+                },
+                {
+                    "score": 0.84,
+                    "plate": "g9i440"
+                },
+                {
+                    "score": 0.683,
+                    "plate": "g9i44o"
+                }
+            ],
+            "dscore": 0.84,
+            "vehicle": {
+                "score": 0.93,
+                "type": "Sedan",
+                "box": {
+                    "xmin": 91,
+                    "ymin": 23,
+                    "xmax": 831,
+                    "ymax": 719
+                }
+            }
+        }
+    ],
+    "filename": "1404_CCkuv_G1_431.jpg",
+    "version": 1,
+    "camera_id": null,
+    "timestamp": "2024-12-03T14:04:07.633864Z",
+    "image_width": 1082,
+    "image_height": 727
+}

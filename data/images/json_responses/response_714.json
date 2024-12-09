@@ -1,0 +1,113 @@
+{
+    "processing_time": 109.28,
+    "results": [
+        {
+            "box": {
+                "xmin": 187,
+                "ymin": 520,
+                "xmax": 341,
+                "ymax": 561
+            },
+            "plate": "gt2039",
+            "region": {
+                "code": "cn",
+                "score": 0.698
+            },
+            "score": 1.0,
+            "candidates": [
+                {
+                    "score": 1.0,
+                    "plate": "gt2039"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "gt2o39"
+                }
+            ],
+            "dscore": 0.815,
+            "vehicle": {
+                "score": 0.618,
+                "type": "Van",
+                "box": {
+                    "xmin": 0,
+                    "ymin": 1,
+                    "xmax": 559,
+                    "ymax": 600
+                }
+            }
+        },
+        {
+            "box": {
+                "xmin": 164,
+                "ymin": 1,
+                "xmax": 349,
+                "ymax": 46
+            },
+            "plate": "taxi",
+            "region": {
+                "code": "ru",
+                "score": 0.027
+            },
+            "score": 0.964,
+            "candidates": [
+                {
+                    "score": 0.964,
+                    "plate": "taxi"
+                },
+                {
+                    "score": 0.794,
+                    "plate": "taxi8"
+                },
+                {
+                    "score": 0.791,
+                    "plate": "taxii"
+                },
+                {
+                    "score": 0.787,
+                    "plate": "taxig"
+                },
+                {
+                    "score": 0.781,
+                    "plate": "taxi1"
+                },
+                {
+                    "score": 0.781,
+                    "plate": "taxib"
+                },
+                {
+                    "score": 0.769,
+                    "plate": "tax1"
+                },
+                {
+                    "score": 0.678,
+                    "plate": "taxi8i"
+                },
+                {
+                    "score": 0.675,
+                    "plate": "taxi8g"
+                },
+                {
+                    "score": 0.673,
+                    "plate": "taxiig"
+                }
+            ],
+            "dscore": 0.25,
+            "vehicle": {
+                "score": 0.0,
+                "type": "Unknown",
+                "box": {
+                    "xmin": 0,
+                    "ymin": 0,
+                    "xmax": 0,
+                    "ymax": 0
+                }
+            }
+        }
+    ],
+    "filename": "1418_lfIvS_G1_714.jpg",
+    "version": 1,
+    "camera_id": null,
+    "timestamp": "2024-12-03T14:18:03.113983Z",
+    "image_width": 1082,
+    "image_height": 727
+}

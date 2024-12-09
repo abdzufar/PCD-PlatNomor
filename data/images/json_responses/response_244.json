@@ -1,0 +1,42 @@
+{
+    "processing_time": 91.997,
+    "results": [
+        {
+            "box": {
+                "xmin": 335,
+                "ymin": 580,
+                "xmax": 503,
+                "ymax": 633
+            },
+            "plate": "gpt777",
+            "region": {
+                "code": "cn",
+                "score": 0.753
+            },
+            "score": 0.996,
+            "candidates": [
+                {
+                    "score": 0.996,
+                    "plate": "gpt777"
+                }
+            ],
+            "dscore": 0.854,
+            "vehicle": {
+                "score": 0.912,
+                "type": "Sedan",
+                "box": {
+                    "xmin": 7,
+                    "ymin": 23,
+                    "xmax": 745,
+                    "ymax": 723
+                }
+            }
+        }
+    ],
+    "filename": "1355_lgKdc_G1_244.jpg",
+    "version": 1,
+    "camera_id": null,
+    "timestamp": "2024-12-03T13:55:06.798505Z",
+    "image_width": 1082,
+    "image_height": 727
+}

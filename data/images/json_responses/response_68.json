@@ -1,0 +1,46 @@
+{
+    "processing_time": 63.058,
+    "results": [
+        {
+            "box": {
+                "xmin": 671,
+                "ymin": 551,
+                "xmax": 818,
+                "ymax": 591
+            },
+            "plate": "ar4313",
+            "region": {
+                "code": "cn",
+                "score": 0.911
+            },
+            "score": 1.0,
+            "candidates": [
+                {
+                    "score": 1.0,
+                    "plate": "ar4313"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "ar43i3"
+                }
+            ],
+            "dscore": 0.857,
+            "vehicle": {
+                "score": 0.941,
+                "type": "Van",
+                "box": {
+                    "xmin": 448,
+                    "ymin": 0,
+                    "xmax": 1041,
+                    "ymax": 680
+                }
+            }
+        }
+    ],
+    "filename": "1346_X6pJ5_G1_68.jpg",
+    "version": 1,
+    "camera_id": null,
+    "timestamp": "2024-12-03T13:46:44.922093Z",
+    "image_width": 1082,
+    "image_height": 727
+}

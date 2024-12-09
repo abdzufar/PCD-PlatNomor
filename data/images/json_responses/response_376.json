@@ -1,0 +1,70 @@
+{
+    "processing_time": 142.39,
+    "results": [
+        {
+            "box": {
+                "xmin": 384,
+                "ymin": 624,
+                "xmax": 550,
+                "ymax": 673
+            },
+            "plate": "g11055",
+            "region": {
+                "code": "cn",
+                "score": 0.69
+            },
+            "score": 0.998,
+            "candidates": [
+                {
+                    "score": 0.998,
+                    "plate": "g11055"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "gi1055"
+                },
+                {
+                    "score": 0.84,
+                    "plate": "g11o55"
+                },
+                {
+                    "score": 0.84,
+                    "plate": "g1i055"
+                },
+                {
+                    "score": 0.683,
+                    "plate": "gi1o55"
+                },
+                {
+                    "score": 0.683,
+                    "plate": "gii055"
+                },
+                {
+                    "score": 0.682,
+                    "plate": "g1io55"
+                },
+                {
+                    "score": 0.525,
+                    "plate": "giio55"
+                }
+            ],
+            "dscore": 0.827,
+            "vehicle": {
+                "score": 0.916,
+                "type": "Sedan",
+                "box": {
+                    "xmin": 21,
+                    "ymin": 20,
+                    "xmax": 798,
+                    "ymax": 723
+                }
+            }
+        }
+    ],
+    "filename": "1401_hGBAO_G1_376.jpg",
+    "version": 1,
+    "camera_id": null,
+    "timestamp": "2024-12-03T14:01:14.614374Z",
+    "image_width": 1082,
+    "image_height": 727
+}

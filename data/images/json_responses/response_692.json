@@ -1,0 +1,54 @@
+{
+    "processing_time": 79.451,
+    "results": [
+        {
+            "box": {
+                "xmin": 360,
+                "ymin": 572,
+                "xmax": 530,
+                "ymax": 624
+            },
+            "plate": "g15617",
+            "region": {
+                "code": "cn",
+                "score": 0.706
+            },
+            "score": 0.999,
+            "candidates": [
+                {
+                    "score": 0.999,
+                    "plate": "g15617"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "g156i7"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "gi5617"
+                },
+                {
+                    "score": 0.683,
+                    "plate": "gi56i7"
+                }
+            ],
+            "dscore": 0.827,
+            "vehicle": {
+                "score": 0.732,
+                "type": "Sedan",
+                "box": {
+                    "xmin": 44,
+                    "ymin": 0,
+                    "xmax": 771,
+                    "ymax": 724
+                }
+            }
+        }
+    ],
+    "filename": "1416_tIKoZ_G1_692.jpg",
+    "version": 1,
+    "camera_id": null,
+    "timestamp": "2024-12-03T14:16:59.673853Z",
+    "image_width": 1082,
+    "image_height": 727
+}

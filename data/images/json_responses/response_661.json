@@ -1,0 +1,70 @@
+{
+    "processing_time": 41.331,
+    "results": [
+        {
+            "box": {
+                "xmin": 297,
+                "ymin": 491,
+                "xmax": 443,
+                "ymax": 535
+            },
+            "plate": "g05112",
+            "region": {
+                "code": "cn",
+                "score": 0.82
+            },
+            "score": 1.0,
+            "candidates": [
+                {
+                    "score": 1.0,
+                    "plate": "g05112"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "g051i2"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "g05i12"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "go5112"
+                },
+                {
+                    "score": 0.683,
+                    "plate": "g05ii2"
+                },
+                {
+                    "score": 0.683,
+                    "plate": "go51i2"
+                },
+                {
+                    "score": 0.683,
+                    "plate": "go5i12"
+                },
+                {
+                    "score": 0.525,
+                    "plate": "go5ii2"
+                }
+            ],
+            "dscore": 0.809,
+            "vehicle": {
+                "score": 0.899,
+                "type": "Sedan",
+                "box": {
+                    "xmin": 38,
+                    "ymin": 0,
+                    "xmax": 679,
+                    "ymax": 604
+                }
+            }
+        }
+    ],
+    "filename": "1415_y9ReG_G1_661.jpg",
+    "version": 1,
+    "camera_id": null,
+    "timestamp": "2024-12-03T14:15:21.749511Z",
+    "image_width": 1082,
+    "image_height": 727
+}

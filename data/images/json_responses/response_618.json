@@ -1,0 +1,78 @@
+{
+    "processing_time": 60.008,
+    "results": [
+        {
+            "box": {
+                "xmin": 554,
+                "ymin": 600,
+                "xmax": 722,
+                "ymax": 647
+            },
+            "plate": "g08806",
+            "region": {
+                "code": "cn",
+                "score": 0.551
+            },
+            "score": 0.999,
+            "candidates": [
+                {
+                    "score": 0.999,
+                    "plate": "g08806"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "g088o6"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "g08b06"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "g0b806"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "go8806"
+                },
+                {
+                    "score": 0.683,
+                    "plate": "g08bo6"
+                },
+                {
+                    "score": 0.683,
+                    "plate": "g0b8o6"
+                },
+                {
+                    "score": 0.683,
+                    "plate": "g0bb06"
+                },
+                {
+                    "score": 0.683,
+                    "plate": "go88o6"
+                },
+                {
+                    "score": 0.683,
+                    "plate": "go8b06"
+                }
+            ],
+            "dscore": 0.852,
+            "vehicle": {
+                "score": 0.907,
+                "type": "Sedan",
+                "box": {
+                    "xmin": 185,
+                    "ymin": 33,
+                    "xmax": 972,
+                    "ymax": 725
+                }
+            }
+        }
+    ],
+    "filename": "1413_9DYKB_G1_618.jpg",
+    "version": 1,
+    "camera_id": null,
+    "timestamp": "2024-12-03T14:13:15.497178Z",
+    "image_width": 1082,
+    "image_height": 727
+}

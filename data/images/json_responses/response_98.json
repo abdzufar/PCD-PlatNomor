@@ -1,0 +1,70 @@
+{
+    "processing_time": 127.487,
+    "results": [
+        {
+            "box": {
+                "xmin": 379,
+                "ymin": 629,
+                "xmax": 547,
+                "ymax": 675
+            },
+            "plate": "g11658",
+            "region": {
+                "code": "cn",
+                "score": 0.557
+            },
+            "score": 0.999,
+            "candidates": [
+                {
+                    "score": 0.999,
+                    "plate": "g11658"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "gi1658"
+                },
+                {
+                    "score": 0.84,
+                    "plate": "g1165b"
+                },
+                {
+                    "score": 0.84,
+                    "plate": "g1i658"
+                },
+                {
+                    "score": 0.683,
+                    "plate": "gi165b"
+                },
+                {
+                    "score": 0.683,
+                    "plate": "gii658"
+                },
+                {
+                    "score": 0.682,
+                    "plate": "g1i65b"
+                },
+                {
+                    "score": 0.524,
+                    "plate": "gii65b"
+                }
+            ],
+            "dscore": 0.824,
+            "vehicle": {
+                "score": 0.73,
+                "type": "Sedan",
+                "box": {
+                    "xmin": 38,
+                    "ymin": 13,
+                    "xmax": 795,
+                    "ymax": 726
+                }
+            }
+        }
+    ],
+    "filename": "1348_Mu5ED_G1_98.jpg",
+    "version": 1,
+    "camera_id": null,
+    "timestamp": "2024-12-03T13:48:22.118542Z",
+    "image_width": 1082,
+    "image_height": 727
+}

@@ -1,0 +1,46 @@
+{
+    "processing_time": 108.537,
+    "results": [
+        {
+            "box": {
+                "xmin": 375,
+                "ymin": 614,
+                "xmax": 544,
+                "ymax": 665
+            },
+            "plate": "g17626",
+            "region": {
+                "code": "cn",
+                "score": 0.715
+            },
+            "score": 0.999,
+            "candidates": [
+                {
+                    "score": 0.999,
+                    "plate": "g17626"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "gi7626"
+                }
+            ],
+            "dscore": 0.841,
+            "vehicle": {
+                "score": 0.909,
+                "type": "Sedan",
+                "box": {
+                    "xmin": 22,
+                    "ymin": 27,
+                    "xmax": 796,
+                    "ymax": 722
+                }
+            }
+        }
+    ],
+    "filename": "1400_Cmi0C_G1_349.jpg",
+    "version": 1,
+    "camera_id": null,
+    "timestamp": "2024-12-03T14:00:02.572444Z",
+    "image_width": 1082,
+    "image_height": 727
+}

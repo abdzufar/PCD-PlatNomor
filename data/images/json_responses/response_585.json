@@ -1,0 +1,54 @@
+{
+    "processing_time": 26.939,
+    "results": [
+        {
+            "box": {
+                "xmin": 230,
+                "ymin": 593,
+                "xmax": 396,
+                "ymax": 636
+            },
+            "plate": "g03205",
+            "region": {
+                "code": "cn",
+                "score": 0.722
+            },
+            "score": 1.0,
+            "candidates": [
+                {
+                    "score": 1.0,
+                    "plate": "g03205"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "g032o5"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "go3205"
+                },
+                {
+                    "score": 0.683,
+                    "plate": "go32o5"
+                }
+            ],
+            "dscore": 0.854,
+            "vehicle": {
+                "score": 0.764,
+                "type": "Sedan",
+                "box": {
+                    "xmin": 0,
+                    "ymin": 42,
+                    "xmax": 650,
+                    "ymax": 712
+                }
+            }
+        }
+    ],
+    "filename": "1411_7z0Og_G1_585.jpg",
+    "version": 1,
+    "camera_id": null,
+    "timestamp": "2024-12-03T14:11:31.046857Z",
+    "image_width": 1082,
+    "image_height": 727
+}

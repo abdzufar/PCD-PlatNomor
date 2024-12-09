@@ -1,0 +1,46 @@
+{
+    "processing_time": 36.149,
+    "results": [
+        {
+            "box": {
+                "xmin": 278,
+                "ymin": 550,
+                "xmax": 423,
+                "ymax": 593
+            },
+            "plate": "g92938",
+            "region": {
+                "code": "cn",
+                "score": 0.731
+            },
+            "score": 0.999,
+            "candidates": [
+                {
+                    "score": 0.999,
+                    "plate": "g92938"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "g9293b"
+                }
+            ],
+            "dscore": 0.856,
+            "vehicle": {
+                "score": 0.885,
+                "type": "Van",
+                "box": {
+                    "xmin": 52,
+                    "ymin": 1,
+                    "xmax": 641,
+                    "ymax": 625
+                }
+            }
+        }
+    ],
+    "filename": "1417_Wi13H_G1_693.jpg",
+    "version": 1,
+    "camera_id": null,
+    "timestamp": "2024-12-03T14:17:03.469521Z",
+    "image_width": 1082,
+    "image_height": 727
+}

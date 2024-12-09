@@ -1,0 +1,105 @@
+{
+    "processing_time": 86.792,
+    "results": [
+        {
+            "box": {
+                "xmin": 500,
+                "ymin": 522,
+                "xmax": 654,
+                "ymax": 564
+            },
+            "plate": "gt9028",
+            "region": {
+                "code": "cn",
+                "score": 0.811
+            },
+            "score": 0.999,
+            "candidates": [
+                {
+                    "score": 0.999,
+                    "plate": "gt9028"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "gt902b"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "gt9o28"
+                },
+                {
+                    "score": 0.683,
+                    "plate": "gt9o2b"
+                }
+            ],
+            "dscore": 0.802,
+            "vehicle": {
+                "score": 0.747,
+                "type": "Van",
+                "box": {
+                    "xmin": 252,
+                    "ymin": 12,
+                    "xmax": 853,
+                    "ymax": 607
+                }
+            }
+        },
+        {
+            "box": {
+                "xmin": 448,
+                "ymin": 10,
+                "xmax": 628,
+                "ymax": 54
+            },
+            "plate": "taxi",
+            "region": {
+                "code": "ru",
+                "score": 0.012
+            },
+            "score": 0.971,
+            "candidates": [
+                {
+                    "score": 0.971,
+                    "plate": "taxi"
+                },
+                {
+                    "score": 0.793,
+                    "plate": "taxi1"
+                },
+                {
+                    "score": 0.787,
+                    "plate": "taxii"
+                },
+                {
+                    "score": 0.773,
+                    "plate": "tax1"
+                },
+                {
+                    "score": 0.635,
+                    "plate": "tax11"
+                },
+                {
+                    "score": 0.629,
+                    "plate": "tax1i"
+                }
+            ],
+            "dscore": 0.018,
+            "vehicle": {
+                "score": 0.0,
+                "type": "Unknown",
+                "box": {
+                    "xmin": 0,
+                    "ymin": 0,
+                    "xmax": 0,
+                    "ymax": 0
+                }
+            }
+        }
+    ],
+    "filename": "1347_Imlbl_G1_76.jpg",
+    "version": 1,
+    "camera_id": null,
+    "timestamp": "2024-12-03T13:47:18.981156Z",
+    "image_width": 1082,
+    "image_height": 727
+}

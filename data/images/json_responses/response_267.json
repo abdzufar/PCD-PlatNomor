@@ -1,0 +1,46 @@
+{
+    "processing_time": 67.026,
+    "results": [
+        {
+            "box": {
+                "xmin": 120,
+                "ymin": 571,
+                "xmax": 290,
+                "ymax": 619
+            },
+            "plate": "g03332",
+            "region": {
+                "code": "cn",
+                "score": 0.747
+            },
+            "score": 1.0,
+            "candidates": [
+                {
+                    "score": 1.0,
+                    "plate": "g03332"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "go3332"
+                }
+            ],
+            "dscore": 0.814,
+            "vehicle": {
+                "score": 0.923,
+                "type": "Sedan",
+                "box": {
+                    "xmin": 0,
+                    "ymin": 56,
+                    "xmax": 548,
+                    "ymax": 723
+                }
+            }
+        }
+    ],
+    "filename": "1356_N23Us_G1_267.jpg",
+    "version": 1,
+    "camera_id": null,
+    "timestamp": "2024-12-03T13:56:12.663020Z",
+    "image_width": 1082,
+    "image_height": 727
+}

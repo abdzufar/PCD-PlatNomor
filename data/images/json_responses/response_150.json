@@ -1,0 +1,46 @@
+{
+    "processing_time": 44.641,
+    "results": [
+        {
+            "box": {
+                "xmin": 329,
+                "ymin": 589,
+                "xmax": 494,
+                "ymax": 633
+            },
+            "plate": "gt1335",
+            "region": {
+                "code": "cn",
+                "score": 0.62
+            },
+            "score": 0.998,
+            "candidates": [
+                {
+                    "score": 0.998,
+                    "plate": "gt1335"
+                },
+                {
+                    "score": 0.84,
+                    "plate": "gti335"
+                }
+            ],
+            "dscore": 0.867,
+            "vehicle": {
+                "score": 0.636,
+                "type": "Sedan",
+                "box": {
+                    "xmin": 14,
+                    "ymin": 38,
+                    "xmax": 709,
+                    "ymax": 720
+                }
+            }
+        }
+    ],
+    "filename": "1350_asTui_G1_150.jpg",
+    "version": 1,
+    "camera_id": null,
+    "timestamp": "2024-12-03T13:50:51.676709Z",
+    "image_width": 1082,
+    "image_height": 727
+}

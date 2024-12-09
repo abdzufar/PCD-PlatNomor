@@ -1,0 +1,46 @@
+{
+    "processing_time": 35.032,
+    "results": [
+        {
+            "box": {
+                "xmin": 568,
+                "ymin": 602,
+                "xmax": 735,
+                "ymax": 651
+            },
+            "plate": "gt2139",
+            "region": {
+                "code": "cn",
+                "score": 0.854
+            },
+            "score": 1.0,
+            "candidates": [
+                {
+                    "score": 1.0,
+                    "plate": "gt2139"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "gt2i39"
+                }
+            ],
+            "dscore": 0.847,
+            "vehicle": {
+                "score": 0.927,
+                "type": "Sedan",
+                "box": {
+                    "xmin": 227,
+                    "ymin": 42,
+                    "xmax": 961,
+                    "ymax": 725
+                }
+            }
+        }
+    ],
+    "filename": "1419_anJx0_G1_746.jpg",
+    "version": 1,
+    "camera_id": null,
+    "timestamp": "2024-12-03T14:19:45.543939Z",
+    "image_width": 1082,
+    "image_height": 727
+}

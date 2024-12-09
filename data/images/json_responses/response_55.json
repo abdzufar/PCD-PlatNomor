@@ -1,0 +1,54 @@
+{
+    "processing_time": 72.458,
+    "results": [
+        {
+            "box": {
+                "xmin": 623,
+                "ymin": 610,
+                "xmax": 789,
+                "ymax": 661
+            },
+            "plate": "g01549",
+            "region": {
+                "code": "cn",
+                "score": 0.756
+            },
+            "score": 0.996,
+            "candidates": [
+                {
+                    "score": 0.996,
+                    "plate": "g01549"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "go1549"
+                },
+                {
+                    "score": 0.838,
+                    "plate": "g0i549"
+                },
+                {
+                    "score": 0.683,
+                    "plate": "goi549"
+                }
+            ],
+            "dscore": 0.858,
+            "vehicle": {
+                "score": 0.885,
+                "type": "Sedan",
+                "box": {
+                    "xmin": 236,
+                    "ymin": 42,
+                    "xmax": 1032,
+                    "ymax": 722
+                }
+            }
+        }
+    ],
+    "filename": "1346_SpbUI_G1_55.jpg",
+    "version": 1,
+    "camera_id": null,
+    "timestamp": "2024-12-03T13:46:04.822906Z",
+    "image_width": 1082,
+    "image_height": 727
+}

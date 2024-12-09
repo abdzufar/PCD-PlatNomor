@@ -1,0 +1,42 @@
+{
+    "processing_time": 110.044,
+    "results": [
+        {
+            "box": {
+                "xmin": 373,
+                "ymin": 584,
+                "xmax": 543,
+                "ymax": 640
+            },
+            "plate": "get777",
+            "region": {
+                "code": "cn",
+                "score": 0.722
+            },
+            "score": 1.0,
+            "candidates": [
+                {
+                    "score": 1.0,
+                    "plate": "get777"
+                }
+            ],
+            "dscore": 0.865,
+            "vehicle": {
+                "score": 0.887,
+                "type": "Sedan",
+                "box": {
+                    "xmin": 57,
+                    "ymin": 42,
+                    "xmax": 787,
+                    "ymax": 718
+                }
+            }
+        }
+    ],
+    "filename": "1418_d74Gi_G1_732.jpg",
+    "version": 1,
+    "camera_id": null,
+    "timestamp": "2024-12-03T14:18:55.190180Z",
+    "image_width": 1082,
+    "image_height": 727
+}

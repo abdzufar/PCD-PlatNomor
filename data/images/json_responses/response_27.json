@@ -1,0 +1,54 @@
+{
+    "processing_time": 126.293,
+    "results": [
+        {
+            "box": {
+                "xmin": 571,
+                "ymin": 608,
+                "xmax": 745,
+                "ymax": 659
+            },
+            "plate": "gt0053",
+            "region": {
+                "code": "cn",
+                "score": 0.832
+            },
+            "score": 1.0,
+            "candidates": [
+                {
+                    "score": 1.0,
+                    "plate": "gt0053"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "gt0o53"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "gto053"
+                },
+                {
+                    "score": 0.683,
+                    "plate": "gtoo53"
+                }
+            ],
+            "dscore": 0.85,
+            "vehicle": {
+                "score": 0.637,
+                "type": "Sedan",
+                "box": {
+                    "xmin": 241,
+                    "ymin": 29,
+                    "xmax": 972,
+                    "ymax": 714
+                }
+            }
+        }
+    ],
+    "filename": "1344_jo6XS_G1_27.jpg",
+    "version": 1,
+    "camera_id": null,
+    "timestamp": "2024-12-03T13:44:47.038411Z",
+    "image_width": 1082,
+    "image_height": 727
+}

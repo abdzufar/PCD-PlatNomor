@@ -1,0 +1,42 @@
+{
+    "processing_time": 35.248,
+    "results": [
+        {
+            "box": {
+                "xmin": 404,
+                "ymin": 600,
+                "xmax": 574,
+                "ymax": 651
+            },
+            "plate": "g95297",
+            "region": {
+                "code": "cn",
+                "score": 0.837
+            },
+            "score": 0.999,
+            "candidates": [
+                {
+                    "score": 0.999,
+                    "plate": "g95297"
+                }
+            ],
+            "dscore": 0.866,
+            "vehicle": {
+                "score": 0.527,
+                "type": "Sedan",
+                "box": {
+                    "xmin": 81,
+                    "ymin": 5,
+                    "xmax": 850,
+                    "ymax": 689
+                }
+            }
+        }
+    ],
+    "filename": "1404_tgaqg_G1_429.jpg",
+    "version": 1,
+    "camera_id": null,
+    "timestamp": "2024-12-03T14:04:02.632478Z",
+    "image_width": 1082,
+    "image_height": 727
+}

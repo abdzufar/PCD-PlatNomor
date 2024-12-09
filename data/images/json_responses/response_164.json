@@ -1,0 +1,54 @@
+{
+    "processing_time": 58.631,
+    "results": [
+        {
+            "box": {
+                "xmin": 593,
+                "ymin": 608,
+                "xmax": 761,
+                "ymax": 653
+            },
+            "plate": "gt0784",
+            "region": {
+                "code": "cn",
+                "score": 0.465
+            },
+            "score": 0.999,
+            "candidates": [
+                {
+                    "score": 0.999,
+                    "plate": "gt0784"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "gt07b4"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "gto784"
+                },
+                {
+                    "score": 0.683,
+                    "plate": "gto7b4"
+                }
+            ],
+            "dscore": 0.812,
+            "vehicle": {
+                "score": 0.622,
+                "type": "Sedan",
+                "box": {
+                    "xmin": 261,
+                    "ymin": 51,
+                    "xmax": 1004,
+                    "ymax": 708
+                }
+            }
+        }
+    ],
+    "filename": "1351_AFRUk_G1_164.jpg",
+    "version": 1,
+    "camera_id": null,
+    "timestamp": "2024-12-03T13:51:29.877203Z",
+    "image_width": 1082,
+    "image_height": 727
+}

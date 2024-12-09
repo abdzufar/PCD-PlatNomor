@@ -1,0 +1,46 @@
+{
+    "processing_time": 37.222,
+    "results": [
+        {
+            "box": {
+                "xmin": 621,
+                "ymin": 534,
+                "xmax": 768,
+                "ymax": 580
+            },
+            "plate": "gt0276",
+            "region": {
+                "code": "cn",
+                "score": 0.89
+            },
+            "score": 1.0,
+            "candidates": [
+                {
+                    "score": 1.0,
+                    "plate": "gt0276"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "gto276"
+                }
+            ],
+            "dscore": 0.853,
+            "vehicle": {
+                "score": 0.903,
+                "type": "Sedan",
+                "box": {
+                    "xmin": 342,
+                    "ymin": 24,
+                    "xmax": 946,
+                    "ymax": 629
+                }
+            }
+        }
+    ],
+    "filename": "1413_23yLx_G1_625.jpg",
+    "version": 1,
+    "camera_id": null,
+    "timestamp": "2024-12-03T14:13:34.659318Z",
+    "image_width": 1082,
+    "image_height": 727
+}

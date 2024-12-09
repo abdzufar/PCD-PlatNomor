@@ -1,0 +1,54 @@
+{
+    "processing_time": 148.262,
+    "results": [
+        {
+            "box": {
+                "xmin": 511,
+                "ymin": 514,
+                "xmax": 659,
+                "ymax": 560
+            },
+            "plate": "gt1046",
+            "region": {
+                "code": "cn",
+                "score": 0.896
+            },
+            "score": 1.0,
+            "candidates": [
+                {
+                    "score": 1.0,
+                    "plate": "gt1046"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "gt1o46"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "gti046"
+                },
+                {
+                    "score": 0.683,
+                    "plate": "gtio46"
+                }
+            ],
+            "dscore": 0.85,
+            "vehicle": {
+                "score": 0.852,
+                "type": "Sedan",
+                "box": {
+                    "xmin": 267,
+                    "ymin": 17,
+                    "xmax": 845,
+                    "ymax": 611
+                }
+            }
+        }
+    ],
+    "filename": "1345_f30Ou_G1_50.jpg",
+    "version": 1,
+    "camera_id": null,
+    "timestamp": "2024-12-03T13:45:52.667838Z",
+    "image_width": 1082,
+    "image_height": 727
+}

@@ -1,0 +1,54 @@
+{
+    "processing_time": 97.339,
+    "results": [
+        {
+            "box": {
+                "xmin": 826,
+                "ymin": 616,
+                "xmax": 987,
+                "ymax": 659
+            },
+            "plate": "gt0197",
+            "region": {
+                "code": "cn",
+                "score": 0.793
+            },
+            "score": 0.996,
+            "candidates": [
+                {
+                    "score": 0.996,
+                    "plate": "gt0197"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "gto197"
+                },
+                {
+                    "score": 0.838,
+                    "plate": "gt0i97"
+                },
+                {
+                    "score": 0.683,
+                    "plate": "gtoi97"
+                }
+            ],
+            "dscore": 0.837,
+            "vehicle": {
+                "score": 0.414,
+                "type": "Sedan",
+                "box": {
+                    "xmin": 535,
+                    "ymin": 77,
+                    "xmax": 1081,
+                    "ymax": 697
+                }
+            }
+        }
+    ],
+    "filename": "1350_nVNsy_G1_148.jpg",
+    "version": 1,
+    "camera_id": null,
+    "timestamp": "2024-12-03T13:50:46.589435Z",
+    "image_width": 1082,
+    "image_height": 727
+}

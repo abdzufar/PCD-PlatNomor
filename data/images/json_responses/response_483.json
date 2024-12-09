@@ -1,0 +1,46 @@
+{
+    "processing_time": 30.453,
+    "results": [
+        {
+            "box": {
+                "xmin": 296,
+                "ymin": 610,
+                "xmax": 461,
+                "ymax": 656
+            },
+            "plate": "ad0559",
+            "region": {
+                "code": "cn",
+                "score": 0.741
+            },
+            "score": 0.999,
+            "candidates": [
+                {
+                    "score": 0.999,
+                    "plate": "ad0559"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "ado559"
+                }
+            ],
+            "dscore": 0.827,
+            "vehicle": {
+                "score": 0.888,
+                "type": "Sedan",
+                "box": {
+                    "xmin": 1,
+                    "ymin": 27,
+                    "xmax": 704,
+                    "ymax": 726
+                }
+            }
+        }
+    ],
+    "filename": "1406_OltKj_G1_483.jpg",
+    "version": 1,
+    "camera_id": null,
+    "timestamp": "2024-12-03T14:06:50.256425Z",
+    "image_width": 1082,
+    "image_height": 727
+}

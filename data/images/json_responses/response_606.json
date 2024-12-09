@@ -1,0 +1,70 @@
+{
+    "processing_time": 50.672,
+    "results": [
+        {
+            "box": {
+                "xmin": 635,
+                "ymin": 561,
+                "xmax": 786,
+                "ymax": 608
+            },
+            "plate": "g18941",
+            "region": {
+                "code": "cn",
+                "score": 0.851
+            },
+            "score": 0.999,
+            "candidates": [
+                {
+                    "score": 0.999,
+                    "plate": "g18941"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "g1894i"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "g1b941"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "gi8941"
+                },
+                {
+                    "score": 0.683,
+                    "plate": "gi894i"
+                },
+                {
+                    "score": 0.683,
+                    "plate": "gib941"
+                },
+                {
+                    "score": 0.682,
+                    "plate": "g1b94i"
+                },
+                {
+                    "score": 0.525,
+                    "plate": "gib94i"
+                }
+            ],
+            "dscore": 0.836,
+            "vehicle": {
+                "score": 0.843,
+                "type": "Sedan",
+                "box": {
+                    "xmin": 379,
+                    "ymin": 38,
+                    "xmax": 993,
+                    "ymax": 642
+                }
+            }
+        }
+    ],
+    "filename": "1412_aHPXP_G1_606.jpg",
+    "version": 1,
+    "camera_id": null,
+    "timestamp": "2024-12-03T14:12:34.320801Z",
+    "image_width": 1082,
+    "image_height": 727
+}

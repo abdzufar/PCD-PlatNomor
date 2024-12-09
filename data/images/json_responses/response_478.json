@@ -1,0 +1,70 @@
+{
+    "processing_time": 49.303,
+    "results": [
+        {
+            "box": {
+                "xmin": 246,
+                "ymin": 598,
+                "xmax": 410,
+                "ymax": 641
+            },
+            "plate": "gt0830",
+            "region": {
+                "code": "cn",
+                "score": 0.563
+            },
+            "score": 0.999,
+            "candidates": [
+                {
+                    "score": 0.999,
+                    "plate": "gt0830"
+                },
+                {
+                    "score": 0.84,
+                    "plate": "gt083o"
+                },
+                {
+                    "score": 0.84,
+                    "plate": "gt0b30"
+                },
+                {
+                    "score": 0.84,
+                    "plate": "gto830"
+                },
+                {
+                    "score": 0.682,
+                    "plate": "gt0b3o"
+                },
+                {
+                    "score": 0.682,
+                    "plate": "gto83o"
+                },
+                {
+                    "score": 0.682,
+                    "plate": "gtob30"
+                },
+                {
+                    "score": 0.524,
+                    "plate": "gtob3o"
+                }
+            ],
+            "dscore": 0.834,
+            "vehicle": {
+                "score": 0.552,
+                "type": "Van",
+                "box": {
+                    "xmin": 0,
+                    "ymin": 31,
+                    "xmax": 648,
+                    "ymax": 722
+                }
+            }
+        }
+    ],
+    "filename": "1406_ZliAm_G1_478.jpg",
+    "version": 1,
+    "camera_id": null,
+    "timestamp": "2024-12-03T14:06:39.727439Z",
+    "image_width": 1082,
+    "image_height": 727
+}

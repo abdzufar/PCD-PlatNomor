@@ -1,0 +1,97 @@
+{
+    "processing_time": 181.793,
+    "results": [
+        {
+            "box": {
+                "xmin": 251,
+                "ymin": 514,
+                "xmax": 398,
+                "ymax": 555
+            },
+            "plate": "gt1679",
+            "region": {
+                "code": "cn",
+                "score": 0.63
+            },
+            "score": 0.999,
+            "candidates": [
+                {
+                    "score": 0.999,
+                    "plate": "gt1679"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "gti679"
+                }
+            ],
+            "dscore": 0.806,
+            "vehicle": {
+                "score": 0.922,
+                "type": "Sedan",
+                "box": {
+                    "xmin": 6,
+                    "ymin": 1,
+                    "xmax": 630,
+                    "ymax": 614
+                }
+            }
+        },
+        {
+            "box": {
+                "xmin": 226,
+                "ymin": 0,
+                "xmax": 408,
+                "ymax": 48
+            },
+            "plate": "taxi",
+            "region": {
+                "code": "ru",
+                "score": 0.008
+            },
+            "score": 0.97,
+            "candidates": [
+                {
+                    "score": 0.97,
+                    "plate": "taxi"
+                },
+                {
+                    "score": 0.798,
+                    "plate": "taxii"
+                },
+                {
+                    "score": 0.786,
+                    "plate": "taxi1"
+                },
+                {
+                    "score": 0.767,
+                    "plate": "tax1"
+                },
+                {
+                    "score": 0.636,
+                    "plate": "tax1i"
+                },
+                {
+                    "score": 0.624,
+                    "plate": "tax11"
+                }
+            ],
+            "dscore": 0.072,
+            "vehicle": {
+                "score": 0.0,
+                "type": "Unknown",
+                "box": {
+                    "xmin": 0,
+                    "ymin": 0,
+                    "xmax": 0,
+                    "ymax": 0
+                }
+            }
+        }
+    ],
+    "filename": "1401_YmGVu_G1_383.jpg",
+    "version": 1,
+    "camera_id": null,
+    "timestamp": "2024-12-03T14:01:37.755371Z",
+    "image_width": 1082,
+    "image_height": 727
+}

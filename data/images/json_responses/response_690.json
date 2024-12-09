@@ -1,0 +1,54 @@
+{
+    "processing_time": 27.822,
+    "results": [
+        {
+            "box": {
+                "xmin": 480,
+                "ymin": 621,
+                "xmax": 651,
+                "ymax": 679
+            },
+            "plate": "eiv032",
+            "region": {
+                "code": "cn",
+                "score": 0.695
+            },
+            "score": 0.956,
+            "candidates": [
+                {
+                    "score": 0.956,
+                    "plate": "eiv032"
+                },
+                {
+                    "score": 0.874,
+                    "plate": "e1v032"
+                },
+                {
+                    "score": 0.798,
+                    "plate": "eivo32"
+                },
+                {
+                    "score": 0.716,
+                    "plate": "e1vo32"
+                }
+            ],
+            "dscore": 0.866,
+            "vehicle": {
+                "score": 0.775,
+                "type": "Van",
+                "box": {
+                    "xmin": 190,
+                    "ymin": 0,
+                    "xmax": 896,
+                    "ymax": 726
+                }
+            }
+        }
+    ],
+    "filename": "1416_irpXV_G1_690.jpg",
+    "version": 1,
+    "camera_id": null,
+    "timestamp": "2024-12-03T14:16:50.981460Z",
+    "image_width": 1082,
+    "image_height": 727
+}

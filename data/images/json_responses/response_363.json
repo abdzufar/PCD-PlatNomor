@@ -1,0 +1,42 @@
+{
+    "processing_time": 141.851,
+    "results": [
+        {
+            "box": {
+                "xmin": 496,
+                "ymin": 521,
+                "xmax": 645,
+                "ymax": 564
+            },
+            "plate": "gt2369",
+            "region": {
+                "code": "cn",
+                "score": 0.883
+            },
+            "score": 1.0,
+            "candidates": [
+                {
+                    "score": 1.0,
+                    "plate": "gt2369"
+                }
+            ],
+            "dscore": 0.864,
+            "vehicle": {
+                "score": 0.86,
+                "type": "Sedan",
+                "box": {
+                    "xmin": 228,
+                    "ymin": 16,
+                    "xmax": 855,
+                    "ymax": 624
+                }
+            }
+        }
+    ],
+    "filename": "1400_4t98O_G1_363.jpg",
+    "version": 1,
+    "camera_id": null,
+    "timestamp": "2024-12-03T14:00:42.062026Z",
+    "image_width": 1082,
+    "image_height": 727
+}

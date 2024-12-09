@@ -1,0 +1,70 @@
+{
+    "processing_time": 151.947,
+    "results": [
+        {
+            "box": {
+                "xmin": 491,
+                "ymin": 616,
+                "xmax": 661,
+                "ymax": 665
+            },
+            "plate": "g28187",
+            "region": {
+                "code": "cn",
+                "score": 0.837
+            },
+            "score": 0.999,
+            "candidates": [
+                {
+                    "score": 0.999,
+                    "plate": "g28187"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "g281b7"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "g28i87"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "g2b187"
+                },
+                {
+                    "score": 0.683,
+                    "plate": "g28ib7"
+                },
+                {
+                    "score": 0.683,
+                    "plate": "g2b1b7"
+                },
+                {
+                    "score": 0.683,
+                    "plate": "g2bi87"
+                },
+                {
+                    "score": 0.525,
+                    "plate": "g2bib7"
+                }
+            ],
+            "dscore": 0.839,
+            "vehicle": {
+                "score": 0.922,
+                "type": "Van",
+                "box": {
+                    "xmin": 176,
+                    "ymin": 0,
+                    "xmax": 903,
+                    "ymax": 726
+                }
+            }
+        }
+    ],
+    "filename": "1345_idUZT_G1_44.jpg",
+    "version": 1,
+    "camera_id": null,
+    "timestamp": "2024-12-03T13:45:36.243109Z",
+    "image_width": 1082,
+    "image_height": 727
+}

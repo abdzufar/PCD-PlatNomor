@@ -1,0 +1,46 @@
+{
+    "processing_time": 50.881,
+    "results": [
+        {
+            "box": {
+                "xmin": 160,
+                "ymin": 590,
+                "xmax": 330,
+                "ymax": 641
+            },
+            "plate": "dg7550",
+            "region": {
+                "code": "cn",
+                "score": 0.582
+            },
+            "score": 1.0,
+            "candidates": [
+                {
+                    "score": 1.0,
+                    "plate": "dg7550"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "dg755o"
+                }
+            ],
+            "dscore": 0.835,
+            "vehicle": {
+                "score": 0.891,
+                "type": "Sedan",
+                "box": {
+                    "xmin": 0,
+                    "ymin": 46,
+                    "xmax": 587,
+                    "ymax": 723
+                }
+            }
+        }
+    ],
+    "filename": "1401_7qzGf_G1_390.jpg",
+    "version": 1,
+    "camera_id": null,
+    "timestamp": "2024-12-03T14:01:59.302426Z",
+    "image_width": 1082,
+    "image_height": 727
+}

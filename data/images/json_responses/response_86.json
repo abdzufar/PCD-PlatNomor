@@ -1,0 +1,54 @@
+{
+    "processing_time": 29.289,
+    "results": [
+        {
+            "box": {
+                "xmin": 523,
+                "ymin": 619,
+                "xmax": 692,
+                "ymax": 674
+            },
+            "plate": "gmv086",
+            "region": {
+                "code": "cn",
+                "score": 0.781
+            },
+            "score": 0.999,
+            "candidates": [
+                {
+                    "score": 0.999,
+                    "plate": "gmv086"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "gmv0b6"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "gmvo86"
+                },
+                {
+                    "score": 0.683,
+                    "plate": "gmvob6"
+                }
+            ],
+            "dscore": 0.882,
+            "vehicle": {
+                "score": 0.82,
+                "type": "Van",
+                "box": {
+                    "xmin": 227,
+                    "ymin": 0,
+                    "xmax": 941,
+                    "ymax": 726
+                }
+            }
+        }
+    ],
+    "filename": "1347_DHX9H_G1_86.jpg",
+    "version": 1,
+    "camera_id": null,
+    "timestamp": "2024-12-03T13:47:48.443408Z",
+    "image_width": 1082,
+    "image_height": 727
+}

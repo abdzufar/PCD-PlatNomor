@@ -1,0 +1,46 @@
+{
+    "processing_time": 94.351,
+    "results": [
+        {
+            "box": {
+                "xmin": 363,
+                "ymin": 595,
+                "xmax": 534,
+                "ymax": 647
+            },
+            "plate": "gt1655",
+            "region": {
+                "code": "cn",
+                "score": 0.797
+            },
+            "score": 0.999,
+            "candidates": [
+                {
+                    "score": 0.999,
+                    "plate": "gt1655"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "gti655"
+                }
+            ],
+            "dscore": 0.851,
+            "vehicle": {
+                "score": 0.9,
+                "type": "Sedan",
+                "box": {
+                    "xmin": 62,
+                    "ymin": 44,
+                    "xmax": 746,
+                    "ymax": 726
+                }
+            }
+        }
+    ],
+    "filename": "1400_NZvU0_G1_351.jpg",
+    "version": 1,
+    "camera_id": null,
+    "timestamp": "2024-12-03T14:00:08.559072Z",
+    "image_width": 1082,
+    "image_height": 727
+}

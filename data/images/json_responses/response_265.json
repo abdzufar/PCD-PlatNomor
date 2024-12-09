@@ -1,0 +1,70 @@
+{
+    "processing_time": 110.33,
+    "results": [
+        {
+            "box": {
+                "xmin": 465,
+                "ymin": 606,
+                "xmax": 628,
+                "ymax": 654
+            },
+            "plate": "gt0178",
+            "region": {
+                "code": "cn",
+                "score": 0.883
+            },
+            "score": 0.998,
+            "candidates": [
+                {
+                    "score": 0.998,
+                    "plate": "gt0178"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "gt017b"
+                },
+                {
+                    "score": 0.84,
+                    "plate": "gt0i78"
+                },
+                {
+                    "score": 0.84,
+                    "plate": "gto178"
+                },
+                {
+                    "score": 0.683,
+                    "plate": "gt0i7b"
+                },
+                {
+                    "score": 0.683,
+                    "plate": "gto17b"
+                },
+                {
+                    "score": 0.682,
+                    "plate": "gtoi78"
+                },
+                {
+                    "score": 0.525,
+                    "plate": "gtoi7b"
+                }
+            ],
+            "dscore": 0.818,
+            "vehicle": {
+                "score": 0.905,
+                "type": "Sedan",
+                "box": {
+                    "xmin": 120,
+                    "ymin": 47,
+                    "xmax": 835,
+                    "ymax": 723
+                }
+            }
+        }
+    ],
+    "filename": "1356_NJXk0_G1_265.jpg",
+    "version": 1,
+    "camera_id": null,
+    "timestamp": "2024-12-03T13:56:07.098197Z",
+    "image_width": 1082,
+    "image_height": 727
+}

@@ -1,0 +1,113 @@
+{
+    "processing_time": 60.692,
+    "results": [
+        {
+            "box": {
+                "xmin": 365,
+                "ymin": 602,
+                "xmax": 534,
+                "ymax": 653
+            },
+            "plate": "gt9077",
+            "region": {
+                "code": "cn",
+                "score": 0.853
+            },
+            "score": 1.0,
+            "candidates": [
+                {
+                    "score": 1.0,
+                    "plate": "gt9077"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "gt9o77"
+                }
+            ],
+            "dscore": 0.839,
+            "vehicle": {
+                "score": 0.889,
+                "type": "Sedan",
+                "box": {
+                    "xmin": 65,
+                    "ymin": 48,
+                    "xmax": 748,
+                    "ymax": 726
+                }
+            }
+        },
+        {
+            "box": {
+                "xmin": 276,
+                "ymin": 42,
+                "xmax": 499,
+                "ymax": 96
+            },
+            "plate": "taxi12",
+            "region": {
+                "code": "by",
+                "score": 0.027
+            },
+            "score": 0.723,
+            "candidates": [
+                {
+                    "score": 0.723,
+                    "plate": "taxi12"
+                },
+                {
+                    "score": 0.706,
+                    "plate": "taxi1"
+                },
+                {
+                    "score": 0.698,
+                    "plate": "taxi2"
+                },
+                {
+                    "score": 0.695,
+                    "plate": "taxia12"
+                },
+                {
+                    "score": 0.681,
+                    "plate": "taxi"
+                },
+                {
+                    "score": 0.678,
+                    "plate": "taxia1"
+                },
+                {
+                    "score": 0.672,
+                    "plate": "taxii2"
+                },
+                {
+                    "score": 0.669,
+                    "plate": "taxia2"
+                },
+                {
+                    "score": 0.655,
+                    "plate": "taxii"
+                },
+                {
+                    "score": 0.652,
+                    "plate": "taxia"
+                }
+            ],
+            "dscore": 0.011,
+            "vehicle": {
+                "score": 0.0,
+                "type": "Unknown",
+                "box": {
+                    "xmin": 0,
+                    "ymin": 0,
+                    "xmax": 0,
+                    "ymax": 0
+                }
+            }
+        }
+    ],
+    "filename": "1403_mNpcp_G1_427.jpg",
+    "version": 1,
+    "camera_id": null,
+    "timestamp": "2024-12-03T14:03:58.152693Z",
+    "image_width": 1082,
+    "image_height": 727
+}

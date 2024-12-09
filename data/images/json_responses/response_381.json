@@ -1,0 +1,54 @@
+{
+    "processing_time": 70.837,
+    "results": [
+        {
+            "box": {
+                "xmin": 271,
+                "ymin": 592,
+                "xmax": 438,
+                "ymax": 640
+            },
+            "plate": "g03438",
+            "region": {
+                "code": "cn",
+                "score": 0.705
+            },
+            "score": 0.999,
+            "candidates": [
+                {
+                    "score": 0.999,
+                    "plate": "g03438"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "g0343b"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "go3438"
+                },
+                {
+                    "score": 0.682,
+                    "plate": "go343b"
+                }
+            ],
+            "dscore": 0.842,
+            "vehicle": {
+                "score": 0.933,
+                "type": "Sedan",
+                "box": {
+                    "xmin": 2,
+                    "ymin": 12,
+                    "xmax": 654,
+                    "ymax": 703
+                }
+            }
+        }
+    ],
+    "filename": "1401_0G8qe_G1_381.jpg",
+    "version": 1,
+    "camera_id": null,
+    "timestamp": "2024-12-03T14:01:30.726920Z",
+    "image_width": 1082,
+    "image_height": 727
+}

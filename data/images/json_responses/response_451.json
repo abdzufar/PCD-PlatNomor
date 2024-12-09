@@ -1,0 +1,46 @@
+{
+    "processing_time": 24.68,
+    "results": [
+        {
+            "box": {
+                "xmin": 280,
+                "ymin": 593,
+                "xmax": 445,
+                "ymax": 639
+            },
+            "plate": "aaw155",
+            "region": {
+                "code": "cn",
+                "score": 0.525
+            },
+            "score": 1.0,
+            "candidates": [
+                {
+                    "score": 1.0,
+                    "plate": "aaw155"
+                },
+                {
+                    "score": 0.842,
+                    "plate": "aawi55"
+                }
+            ],
+            "dscore": 0.811,
+            "vehicle": {
+                "score": 0.827,
+                "type": "Sedan",
+                "box": {
+                    "xmin": 0,
+                    "ymin": 25,
+                    "xmax": 711,
+                    "ymax": 719
+                }
+            }
+        }
+    ],
+    "filename": "1405_kAaX7_G1_451.jpg",
+    "version": 1,
+    "camera_id": null,
+    "timestamp": "2024-12-03T14:05:10.587237Z",
+    "image_width": 1082,
+    "image_height": 727
+}

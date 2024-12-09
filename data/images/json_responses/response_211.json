@@ -1,0 +1,54 @@
+{
+    "processing_time": 74.977,
+    "results": [
+        {
+            "box": {
+                "xmin": 360,
+                "ymin": 614,
+                "xmax": 526,
+                "ymax": 664
+            },
+            "plate": "g05720",
+            "region": {
+                "code": "cn",
+                "score": 0.598
+            },
+            "score": 0.999,
+            "candidates": [
+                {
+                    "score": 0.999,
+                    "plate": "g05720"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "g0572o"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "go5720"
+                },
+                {
+                    "score": 0.683,
+                    "plate": "go572o"
+                }
+            ],
+            "dscore": 0.845,
+            "vehicle": {
+                "score": 0.924,
+                "type": "Sedan",
+                "box": {
+                    "xmin": 18,
+                    "ymin": 48,
+                    "xmax": 767,
+                    "ymax": 725
+                }
+            }
+        }
+    ],
+    "filename": "1353_Egrfs_G1_211.jpg",
+    "version": 1,
+    "camera_id": null,
+    "timestamp": "2024-12-03T13:53:33.183320Z",
+    "image_width": 1082,
+    "image_height": 727
+}

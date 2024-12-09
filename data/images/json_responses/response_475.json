@@ -1,0 +1,54 @@
+{
+    "processing_time": 116.196,
+    "results": [
+        {
+            "box": {
+                "xmin": 440,
+                "ymin": 594,
+                "xmax": 605,
+                "ymax": 645
+            },
+            "plate": "gt1503",
+            "region": {
+                "code": "cn",
+                "score": 0.829
+            },
+            "score": 0.999,
+            "candidates": [
+                {
+                    "score": 0.999,
+                    "plate": "gt1503"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "gt15o3"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "gti503"
+                },
+                {
+                    "score": 0.683,
+                    "plate": "gti5o3"
+                }
+            ],
+            "dscore": 0.86,
+            "vehicle": {
+                "score": 0.809,
+                "type": "Sedan",
+                "box": {
+                    "xmin": 134,
+                    "ymin": 49,
+                    "xmax": 821,
+                    "ymax": 726
+                }
+            }
+        }
+    ],
+    "filename": "1406_HqgOf_G1_475.jpg",
+    "version": 1,
+    "camera_id": null,
+    "timestamp": "2024-12-03T14:06:29.059145Z",
+    "image_width": 1082,
+    "image_height": 727
+}

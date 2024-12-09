@@ -1,0 +1,54 @@
+{
+    "processing_time": 71.838,
+    "results": [
+        {
+            "box": {
+                "xmin": 553,
+                "ymin": 530,
+                "xmax": 697,
+                "ymax": 571
+            },
+            "plate": "gt1778",
+            "region": {
+                "code": "cn",
+                "score": 0.641
+            },
+            "score": 0.998,
+            "candidates": [
+                {
+                    "score": 0.998,
+                    "plate": "gt1778"
+                },
+                {
+                    "score": 0.84,
+                    "plate": "gt177b"
+                },
+                {
+                    "score": 0.84,
+                    "plate": "gti778"
+                },
+                {
+                    "score": 0.682,
+                    "plate": "gti77b"
+                }
+            ],
+            "dscore": 0.816,
+            "vehicle": {
+                "score": 0.926,
+                "type": "Sedan",
+                "box": {
+                    "xmin": 277,
+                    "ymin": 15,
+                    "xmax": 904,
+                    "ymax": 628
+                }
+            }
+        }
+    ],
+    "filename": "1419_gsks1_G1_744.jpg",
+    "version": 1,
+    "camera_id": null,
+    "timestamp": "2024-12-03T14:19:39.368211Z",
+    "image_width": 1082,
+    "image_height": 727
+}

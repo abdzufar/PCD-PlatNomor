@@ -1,0 +1,46 @@
+{
+    "processing_time": 25.736,
+    "results": [
+        {
+            "box": {
+                "xmin": 339,
+                "ymin": 520,
+                "xmax": 491,
+                "ymax": 564
+            },
+            "plate": "alk231",
+            "region": {
+                "code": "cn",
+                "score": 0.823
+            },
+            "score": 1.0,
+            "candidates": [
+                {
+                    "score": 1.0,
+                    "plate": "alk231"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "alk23i"
+                }
+            ],
+            "dscore": 0.813,
+            "vehicle": {
+                "score": 0.9,
+                "type": "Sedan",
+                "box": {
+                    "xmin": 93,
+                    "ymin": 4,
+                    "xmax": 724,
+                    "ymax": 656
+                }
+            }
+        }
+    ],
+    "filename": "1354_Nuotx_G1_228.jpg",
+    "version": 1,
+    "camera_id": null,
+    "timestamp": "2024-12-03T13:54:22.049884Z",
+    "image_width": 1082,
+    "image_height": 727
+}

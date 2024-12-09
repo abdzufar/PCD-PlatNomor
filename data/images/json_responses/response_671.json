@@ -1,0 +1,70 @@
+{
+    "processing_time": 63.909,
+    "results": [
+        {
+            "box": {
+                "xmin": 366,
+                "ymin": 592,
+                "xmax": 539,
+                "ymax": 645
+            },
+            "plate": "g17021",
+            "region": {
+                "code": "cn",
+                "score": 0.71
+            },
+            "score": 0.999,
+            "candidates": [
+                {
+                    "score": 0.999,
+                    "plate": "g17021"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "g1702i"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "g17o21"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "gi7021"
+                },
+                {
+                    "score": 0.683,
+                    "plate": "g17o2i"
+                },
+                {
+                    "score": 0.683,
+                    "plate": "gi702i"
+                },
+                {
+                    "score": 0.683,
+                    "plate": "gi7o21"
+                },
+                {
+                    "score": 0.525,
+                    "plate": "gi7o2i"
+                }
+            ],
+            "dscore": 0.859,
+            "vehicle": {
+                "score": 0.385,
+                "type": "Van",
+                "box": {
+                    "xmin": 8,
+                    "ymin": 0,
+                    "xmax": 844,
+                    "ymax": 686
+                }
+            }
+        }
+    ],
+    "filename": "1415_5IBJ6_G1_671.jpg",
+    "version": 1,
+    "camera_id": null,
+    "timestamp": "2024-12-03T14:15:51.358662Z",
+    "image_width": 1082,
+    "image_height": 727
+}

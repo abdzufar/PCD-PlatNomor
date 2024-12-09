@@ -1,0 +1,70 @@
+{
+    "processing_time": 86.321,
+    "results": [
+        {
+            "box": {
+                "xmin": 233,
+                "ymin": 612,
+                "xmax": 400,
+                "ymax": 660
+            },
+            "plate": "g00590",
+            "region": {
+                "code": "cn",
+                "score": 0.816
+            },
+            "score": 0.998,
+            "candidates": [
+                {
+                    "score": 0.998,
+                    "plate": "g00590"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "go0590"
+                },
+                {
+                    "score": 0.84,
+                    "plate": "g0059o"
+                },
+                {
+                    "score": 0.84,
+                    "plate": "g0o590"
+                },
+                {
+                    "score": 0.683,
+                    "plate": "go059o"
+                },
+                {
+                    "score": 0.683,
+                    "plate": "goo590"
+                },
+                {
+                    "score": 0.682,
+                    "plate": "g0o59o"
+                },
+                {
+                    "score": 0.525,
+                    "plate": "goo59o"
+                }
+            ],
+            "dscore": 0.848,
+            "vehicle": {
+                "score": 0.777,
+                "type": "Sedan",
+                "box": {
+                    "xmin": 1,
+                    "ymin": 32,
+                    "xmax": 643,
+                    "ymax": 726
+                }
+            }
+        }
+    ],
+    "filename": "1413_fyshH_G1_633.jpg",
+    "version": 1,
+    "camera_id": null,
+    "timestamp": "2024-12-03T14:13:57.596462Z",
+    "image_width": 1082,
+    "image_height": 727
+}

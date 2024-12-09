@@ -1,0 +1,97 @@
+{
+    "processing_time": 90.585,
+    "results": [
+        {
+            "box": {
+                "xmin": 51,
+                "ymin": 511,
+                "xmax": 201,
+                "ymax": 558
+            },
+            "plate": "gt9308",
+            "region": {
+                "code": "cn",
+                "score": 0.891
+            },
+            "score": 0.999,
+            "candidates": [
+                {
+                    "score": 0.999,
+                    "plate": "gt9308"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "gt930b"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "gt93o8"
+                },
+                {
+                    "score": 0.683,
+                    "plate": "gt93ob"
+                }
+            ],
+            "dscore": 0.836,
+            "vehicle": {
+                "score": 0.933,
+                "type": "Sedan",
+                "box": {
+                    "xmin": 0,
+                    "ymin": 2,
+                    "xmax": 448,
+                    "ymax": 625
+                }
+            }
+        },
+        {
+            "box": {
+                "xmin": 40,
+                "ymin": 0,
+                "xmax": 226,
+                "ymax": 46
+            },
+            "plate": "taxi",
+            "region": {
+                "code": "us-ut",
+                "score": 0.016
+            },
+            "score": 0.936,
+            "candidates": [
+                {
+                    "score": 0.936,
+                    "plate": "taxi"
+                },
+                {
+                    "score": 0.793,
+                    "plate": "tax1"
+                },
+                {
+                    "score": 0.779,
+                    "plate": "taxie"
+                },
+                {
+                    "score": 0.665,
+                    "plate": "tax1e"
+                }
+            ],
+            "dscore": 0.124,
+            "vehicle": {
+                "score": 0.0,
+                "type": "Unknown",
+                "box": {
+                    "xmin": 0,
+                    "ymin": 0,
+                    "xmax": 0,
+                    "ymax": 0
+                }
+            }
+        }
+    ],
+    "filename": "1404_iVxp4_G1_438.jpg",
+    "version": 1,
+    "camera_id": null,
+    "timestamp": "2024-12-03T14:04:28.342879Z",
+    "image_width": 1082,
+    "image_height": 727
+}

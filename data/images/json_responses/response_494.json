@@ -1,0 +1,42 @@
+{
+    "processing_time": 143.265,
+    "results": [
+        {
+            "box": {
+                "xmin": 116,
+                "ymin": 659,
+                "xmax": 282,
+                "ymax": 710
+            },
+            "plate": "jff997",
+            "region": {
+                "code": "cn",
+                "score": 0.239
+            },
+            "score": 1.0,
+            "candidates": [
+                {
+                    "score": 1.0,
+                    "plate": "jff997"
+                }
+            ],
+            "dscore": 0.784,
+            "vehicle": {
+                "score": 0.538,
+                "type": "Sedan",
+                "box": {
+                    "xmin": 0,
+                    "ymin": 4,
+                    "xmax": 552,
+                    "ymax": 712
+                }
+            }
+        }
+    ],
+    "filename": "1407_AWAGy_G1_494.jpg",
+    "version": 1,
+    "camera_id": null,
+    "timestamp": "2024-12-03T14:07:23.165875Z",
+    "image_width": 1082,
+    "image_height": 727
+}

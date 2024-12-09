@@ -1,0 +1,46 @@
+{
+    "processing_time": 28.122,
+    "results": [
+        {
+            "box": {
+                "xmin": 336,
+                "ymin": 514,
+                "xmax": 485,
+                "ymax": 560
+            },
+            "plate": "g90732",
+            "region": {
+                "code": "cn",
+                "score": 0.856
+            },
+            "score": 0.998,
+            "candidates": [
+                {
+                    "score": 0.998,
+                    "plate": "g90732"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "g9o732"
+                }
+            ],
+            "dscore": 0.819,
+            "vehicle": {
+                "score": 0.9,
+                "type": "Sedan",
+                "box": {
+                    "xmin": 73,
+                    "ymin": 15,
+                    "xmax": 715,
+                    "ymax": 630
+                }
+            }
+        }
+    ],
+    "filename": "1413_66hwt_G1_628.jpg",
+    "version": 1,
+    "camera_id": null,
+    "timestamp": "2024-12-03T14:13:43.523469Z",
+    "image_width": 1082,
+    "image_height": 727
+}

@@ -1,0 +1,54 @@
+{
+    "processing_time": 83.542,
+    "results": [
+        {
+            "box": {
+                "xmin": 299,
+                "ymin": 572,
+                "xmax": 469,
+                "ymax": 626
+            },
+            "plate": "ghb678",
+            "region": {
+                "code": "cn",
+                "score": 0.735
+            },
+            "score": 0.999,
+            "candidates": [
+                {
+                    "score": 0.999,
+                    "plate": "ghb678"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "ghb67b"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "gh8678"
+                },
+                {
+                    "score": 0.683,
+                    "plate": "gh867b"
+                }
+            ],
+            "dscore": 0.823,
+            "vehicle": {
+                "score": 0.914,
+                "type": "Sedan",
+                "box": {
+                    "xmin": 1,
+                    "ymin": 6,
+                    "xmax": 738,
+                    "ymax": 722
+                }
+            }
+        }
+    ],
+    "filename": "1412_0YSFt_G1_601.jpg",
+    "version": 1,
+    "camera_id": null,
+    "timestamp": "2024-12-03T14:12:21.345538Z",
+    "image_width": 1082,
+    "image_height": 727
+}

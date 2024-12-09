@@ -1,0 +1,46 @@
+{
+    "processing_time": 49.807,
+    "results": [
+        {
+            "box": {
+                "xmin": 498,
+                "ymin": 612,
+                "xmax": 672,
+                "ymax": 666
+            },
+            "plate": "g1724",
+            "region": {
+                "code": "cn",
+                "score": 0.551
+            },
+            "score": 0.999,
+            "candidates": [
+                {
+                    "score": 0.999,
+                    "plate": "g1724"
+                },
+                {
+                    "score": 0.809,
+                    "plate": "gi724"
+                }
+            ],
+            "dscore": 0.839,
+            "vehicle": {
+                "score": 0.818,
+                "type": "Sedan",
+                "box": {
+                    "xmin": 170,
+                    "ymin": 6,
+                    "xmax": 904,
+                    "ymax": 725
+                }
+            }
+        }
+    ],
+    "filename": "1355_8741D_G1_255.jpg",
+    "version": 1,
+    "camera_id": null,
+    "timestamp": "2024-12-03T13:55:37.991888Z",
+    "image_width": 1082,
+    "image_height": 727
+}

@@ -1,0 +1,97 @@
+{
+    "processing_time": 47.29,
+    "results": [
+        {
+            "box": {
+                "xmin": 338,
+                "ymin": 529,
+                "xmax": 488,
+                "ymax": 571
+            },
+            "plate": "gt1537",
+            "region": {
+                "code": "cn",
+                "score": 0.853
+            },
+            "score": 1.0,
+            "candidates": [
+                {
+                    "score": 1.0,
+                    "plate": "gt1537"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "gti537"
+                }
+            ],
+            "dscore": 0.822,
+            "vehicle": {
+                "score": 0.586,
+                "type": "Van",
+                "box": {
+                    "xmin": 93,
+                    "ymin": 11,
+                    "xmax": 692,
+                    "ymax": 611
+                }
+            }
+        },
+        {
+            "box": {
+                "xmin": 289,
+                "ymin": 8,
+                "xmax": 472,
+                "ymax": 48
+            },
+            "plate": "taxi",
+            "region": {
+                "code": "ru",
+                "score": 0.022
+            },
+            "score": 0.894,
+            "candidates": [
+                {
+                    "score": 0.894,
+                    "plate": "taxi"
+                },
+                {
+                    "score": 0.843,
+                    "plate": "tax1"
+                },
+                {
+                    "score": 0.727,
+                    "plate": "taxii"
+                },
+                {
+                    "score": 0.725,
+                    "plate": "taxi1"
+                },
+                {
+                    "score": 0.687,
+                    "plate": "tax1i"
+                },
+                {
+                    "score": 0.685,
+                    "plate": "tax11"
+                }
+            ],
+            "dscore": 0.014,
+            "vehicle": {
+                "score": 0.0,
+                "type": "Unknown",
+                "box": {
+                    "xmin": 0,
+                    "ymin": 0,
+                    "xmax": 0,
+                    "ymax": 0
+                }
+            }
+        }
+    ],
+    "filename": "1415_x40Jj_G1_672.jpg",
+    "version": 1,
+    "camera_id": null,
+    "timestamp": "2024-12-03T14:15:54.072036Z",
+    "image_width": 1082,
+    "image_height": 727
+}

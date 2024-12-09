@@ -1,0 +1,78 @@
+{
+    "processing_time": 45.127,
+    "results": [
+        {
+            "box": {
+                "xmin": 431,
+                "ymin": 521,
+                "xmax": 577,
+                "ymax": 563
+            },
+            "plate": "gt1577",
+            "region": {
+                "code": "cn",
+                "score": 0.676
+            },
+            "score": 0.998,
+            "candidates": [
+                {
+                    "score": 0.998,
+                    "plate": "gt1577"
+                },
+                {
+                    "score": 0.889,
+                    "plate": "ggt1577"
+                },
+                {
+                    "score": 0.871,
+                    "plate": "lgt1577"
+                },
+                {
+                    "score": 0.84,
+                    "plate": "gti577"
+                },
+                {
+                    "score": 0.806,
+                    "plate": "gggt1577"
+                },
+                {
+                    "score": 0.791,
+                    "plate": "lggt1577"
+                },
+                {
+                    "score": 0.753,
+                    "plate": "ggti577"
+                },
+                {
+                    "score": 0.735,
+                    "plate": "lgti577"
+                },
+                {
+                    "score": 0.728,
+                    "plate": "lgggt1577"
+                },
+                {
+                    "score": 0.688,
+                    "plate": "gggti577"
+                }
+            ],
+            "dscore": 0.824,
+            "vehicle": {
+                "score": 0.892,
+                "type": "Sedan",
+                "box": {
+                    "xmin": 177,
+                    "ymin": 13,
+                    "xmax": 796,
+                    "ymax": 620
+                }
+            }
+        }
+    ],
+    "filename": "1349_XTRYs_G1_121.jpg",
+    "version": 1,
+    "camera_id": null,
+    "timestamp": "2024-12-03T13:49:24.227140Z",
+    "image_width": 1082,
+    "image_height": 727
+}

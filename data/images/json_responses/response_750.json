@@ -1,0 +1,54 @@
+{
+    "processing_time": 61.098,
+    "results": [
+        {
+            "box": {
+                "xmin": 535,
+                "ymin": 593,
+                "xmax": 706,
+                "ymax": 645
+            },
+            "plate": "g02568",
+            "region": {
+                "code": "cn",
+                "score": 0.829
+            },
+            "score": 0.999,
+            "candidates": [
+                {
+                    "score": 0.999,
+                    "plate": "g02568"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "g0256b"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "go2568"
+                },
+                {
+                    "score": 0.683,
+                    "plate": "go256b"
+                }
+            ],
+            "dscore": 0.866,
+            "vehicle": {
+                "score": 0.881,
+                "type": "Sedan",
+                "box": {
+                    "xmin": 180,
+                    "ymin": 23,
+                    "xmax": 946,
+                    "ymax": 725
+                }
+            }
+        }
+    ],
+    "filename": "1419_Xwf60_G1_750.jpg",
+    "version": 1,
+    "camera_id": null,
+    "timestamp": "2024-12-03T14:19:55.512118Z",
+    "image_width": 1082,
+    "image_height": 727
+}

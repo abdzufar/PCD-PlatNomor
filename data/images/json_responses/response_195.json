@@ -1,0 +1,54 @@
+{
+    "processing_time": 58.013,
+    "results": [
+        {
+            "box": {
+                "xmin": 210,
+                "ymin": 514,
+                "xmax": 353,
+                "ymax": 551
+            },
+            "plate": "gt1941",
+            "region": {
+                "code": "cn",
+                "score": 0.727
+            },
+            "score": 1.0,
+            "candidates": [
+                {
+                    "score": 1.0,
+                    "plate": "gt1941"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "gt194i"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "gti941"
+                },
+                {
+                    "score": 0.683,
+                    "plate": "gti94i"
+                }
+            ],
+            "dscore": 0.816,
+            "vehicle": {
+                "score": 0.697,
+                "type": "Sedan",
+                "box": {
+                    "xmin": 1,
+                    "ymin": 4,
+                    "xmax": 566,
+                    "ymax": 610
+                }
+            }
+        }
+    ],
+    "filename": "1352_jiwKb_G1_195.jpg",
+    "version": 1,
+    "camera_id": null,
+    "timestamp": "2024-12-03T13:52:52.262161Z",
+    "image_width": 1082,
+    "image_height": 727
+}

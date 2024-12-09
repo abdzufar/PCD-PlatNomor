@@ -1,0 +1,54 @@
+{
+    "processing_time": 69.006,
+    "results": [
+        {
+            "box": {
+                "xmin": 521,
+                "ymin": 602,
+                "xmax": 689,
+                "ymax": 656
+            },
+            "plate": "g16958",
+            "region": {
+                "code": "cn",
+                "score": 0.683
+            },
+            "score": 0.977,
+            "candidates": [
+                {
+                    "score": 0.977,
+                    "plate": "g16958"
+                },
+                {
+                    "score": 0.855,
+                    "plate": "gi6958"
+                },
+                {
+                    "score": 0.819,
+                    "plate": "g1695b"
+                },
+                {
+                    "score": 0.697,
+                    "plate": "gi695b"
+                }
+            ],
+            "dscore": 0.856,
+            "vehicle": {
+                "score": 0.931,
+                "type": "Sedan",
+                "box": {
+                    "xmin": 188,
+                    "ymin": 31,
+                    "xmax": 942,
+                    "ymax": 709
+                }
+            }
+        }
+    ],
+    "filename": "1418_kgZ3W_G1_713.jpg",
+    "version": 1,
+    "camera_id": null,
+    "timestamp": "2024-12-03T14:18:00.473590Z",
+    "image_width": 1082,
+    "image_height": 727
+}

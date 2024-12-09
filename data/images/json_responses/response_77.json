@@ -1,0 +1,46 @@
+{
+    "processing_time": 58.176,
+    "results": [
+        {
+            "box": {
+                "xmin": 360,
+                "ymin": 572,
+                "xmax": 528,
+                "ymax": 621
+            },
+            "plate": "g27668",
+            "region": {
+                "code": "cn",
+                "score": 0.712
+            },
+            "score": 0.999,
+            "candidates": [
+                {
+                    "score": 0.999,
+                    "plate": "g27668"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "g2766b"
+                }
+            ],
+            "dscore": 0.825,
+            "vehicle": {
+                "score": 0.917,
+                "type": "Sedan",
+                "box": {
+                    "xmin": 3,
+                    "ymin": 11,
+                    "xmax": 783,
+                    "ymax": 712
+                }
+            }
+        }
+    ],
+    "filename": "1347_NAJ2u_G1_77.jpg",
+    "version": 1,
+    "camera_id": null,
+    "timestamp": "2024-12-03T13:47:22.713436Z",
+    "image_width": 1082,
+    "image_height": 727
+}

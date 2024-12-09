@@ -1,0 +1,70 @@
+{
+    "processing_time": 65.408,
+    "results": [
+        {
+            "box": {
+                "xmin": 468,
+                "ymin": 588,
+                "xmax": 633,
+                "ymax": 636
+            },
+            "plate": "g18716",
+            "region": {
+                "code": "cn",
+                "score": 0.63
+            },
+            "score": 0.999,
+            "candidates": [
+                {
+                    "score": 0.999,
+                    "plate": "g18716"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "g187i6"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "g1b716"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "gi8716"
+                },
+                {
+                    "score": 0.683,
+                    "plate": "g1b7i6"
+                },
+                {
+                    "score": 0.683,
+                    "plate": "gi87i6"
+                },
+                {
+                    "score": 0.683,
+                    "plate": "gib716"
+                },
+                {
+                    "score": 0.525,
+                    "plate": "gib7i6"
+                }
+            ],
+            "dscore": 0.841,
+            "vehicle": {
+                "score": 0.839,
+                "type": "Sedan",
+                "box": {
+                    "xmin": 123,
+                    "ymin": 9,
+                    "xmax": 892,
+                    "ymax": 726
+                }
+            }
+        }
+    ],
+    "filename": "1403_Wr8e2_G1_424.jpg",
+    "version": 1,
+    "camera_id": null,
+    "timestamp": "2024-12-03T14:03:47.408974Z",
+    "image_width": 1082,
+    "image_height": 727
+}

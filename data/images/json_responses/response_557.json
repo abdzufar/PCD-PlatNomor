@@ -1,0 +1,78 @@
+{
+    "processing_time": 58.7,
+    "results": [
+        {
+            "box": {
+                "xmin": 263,
+                "ymin": 465,
+                "xmax": 421,
+                "ymax": 510
+            },
+            "plate": "g05813",
+            "region": {
+                "code": "cn",
+                "score": 0.733
+            },
+            "score": 0.999,
+            "candidates": [
+                {
+                    "score": 0.999,
+                    "plate": "g05813"
+                },
+                {
+                    "score": 0.876,
+                    "plate": "rg05813"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "g058i3"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "g05b13"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "go5813"
+                },
+                {
+                    "score": 0.741,
+                    "plate": "rg058i3"
+                },
+                {
+                    "score": 0.741,
+                    "plate": "rg05b13"
+                },
+                {
+                    "score": 0.741,
+                    "plate": "rgo5813"
+                },
+                {
+                    "score": 0.683,
+                    "plate": "g05bi3"
+                },
+                {
+                    "score": 0.683,
+                    "plate": "go58i3"
+                }
+            ],
+            "dscore": 0.743,
+            "vehicle": {
+                "score": 0.714,
+                "type": "Big Truck",
+                "box": {
+                    "xmin": 0,
+                    "ymin": 0,
+                    "xmax": 833,
+                    "ymax": 553
+                }
+            }
+        }
+    ],
+    "filename": "1410_uPsSk_G1_557.jpg",
+    "version": 1,
+    "camera_id": null,
+    "timestamp": "2024-12-03T14:10:20.289131Z",
+    "image_width": 1082,
+    "image_height": 727
+}

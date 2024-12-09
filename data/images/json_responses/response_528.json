@@ -1,0 +1,46 @@
+{
+    "processing_time": 29.373,
+    "results": [
+        {
+            "box": {
+                "xmin": 350,
+                "ymin": 507,
+                "xmax": 499,
+                "ymax": 550
+            },
+            "plate": "g06567",
+            "region": {
+                "code": "cn",
+                "score": 0.765
+            },
+            "score": 0.999,
+            "candidates": [
+                {
+                    "score": 0.999,
+                    "plate": "g06567"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "go6567"
+                }
+            ],
+            "dscore": 0.813,
+            "vehicle": {
+                "score": 0.479,
+                "type": "Van",
+                "box": {
+                    "xmin": 103,
+                    "ymin": 0,
+                    "xmax": 725,
+                    "ymax": 635
+                }
+            }
+        }
+    ],
+    "filename": "1408_AbhN3_G1_528.jpg",
+    "version": 1,
+    "camera_id": null,
+    "timestamp": "2024-12-03T14:08:49.266964Z",
+    "image_width": 1082,
+    "image_height": 727
+}

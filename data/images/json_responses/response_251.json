@@ -1,0 +1,54 @@
+{
+    "processing_time": 97.174,
+    "results": [
+        {
+            "box": {
+                "xmin": 624,
+                "ymin": 664,
+                "xmax": 791,
+                "ymax": 708
+            },
+            "plate": "g91321",
+            "region": {
+                "code": "cn",
+                "score": 0.79
+            },
+            "score": 1.0,
+            "candidates": [
+                {
+                    "score": 1.0,
+                    "plate": "g91321"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "g9132i"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "g9i321"
+                },
+                {
+                    "score": 0.683,
+                    "plate": "g9i32i"
+                }
+            ],
+            "dscore": 0.857,
+            "vehicle": {
+                "score": 0.948,
+                "type": "Van",
+                "box": {
+                    "xmin": 310,
+                    "ymin": 0,
+                    "xmax": 1025,
+                    "ymax": 726
+                }
+            }
+        }
+    ],
+    "filename": "1355_NPdPE_G1_251.jpg",
+    "version": 1,
+    "camera_id": null,
+    "timestamp": "2024-12-03T13:55:27.337967Z",
+    "image_width": 1082,
+    "image_height": 727
+}

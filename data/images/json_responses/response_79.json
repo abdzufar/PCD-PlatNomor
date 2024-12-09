@@ -1,0 +1,54 @@
+{
+    "processing_time": 58.579,
+    "results": [
+        {
+            "box": {
+                "xmin": 351,
+                "ymin": 587,
+                "xmax": 519,
+                "ymax": 639
+            },
+            "plate": "g04065",
+            "region": {
+                "code": "cn",
+                "score": 0.774
+            },
+            "score": 0.999,
+            "candidates": [
+                {
+                    "score": 0.999,
+                    "plate": "g04065"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "g04o65"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "go4065"
+                },
+                {
+                    "score": 0.683,
+                    "plate": "go4o65"
+                }
+            ],
+            "dscore": 0.834,
+            "vehicle": {
+                "score": 0.914,
+                "type": "Sedan",
+                "box": {
+                    "xmin": 3,
+                    "ymin": 5,
+                    "xmax": 772,
+                    "ymax": 709
+                }
+            }
+        }
+    ],
+    "filename": "1347_SKQnZ_G1_79.jpg",
+    "version": 1,
+    "camera_id": null,
+    "timestamp": "2024-12-03T13:47:28.133768Z",
+    "image_width": 1082,
+    "image_height": 727
+}

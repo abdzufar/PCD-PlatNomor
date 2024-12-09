@@ -1,0 +1,46 @@
+{
+    "processing_time": 29.126,
+    "results": [
+        {
+            "box": {
+                "xmin": 99,
+                "ymin": 609,
+                "xmax": 272,
+                "ymax": 662
+            },
+            "plate": "g96391",
+            "region": {
+                "code": "cn",
+                "score": 0.88
+            },
+            "score": 1.0,
+            "candidates": [
+                {
+                    "score": 1.0,
+                    "plate": "g96391"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "g9639i"
+                }
+            ],
+            "dscore": 0.847,
+            "vehicle": {
+                "score": 0.674,
+                "type": "Sedan",
+                "box": {
+                    "xmin": 0,
+                    "ymin": 52,
+                    "xmax": 512,
+                    "ymax": 725
+                }
+            }
+        }
+    ],
+    "filename": "1354_v31HD_G1_233.jpg",
+    "version": 1,
+    "camera_id": null,
+    "timestamp": "2024-12-03T13:54:38.368993Z",
+    "image_width": 1082,
+    "image_height": 727
+}

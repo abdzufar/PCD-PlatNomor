@@ -1,0 +1,46 @@
+{
+    "processing_time": 75.783,
+    "results": [
+        {
+            "box": {
+                "xmin": 188,
+                "ymin": 493,
+                "xmax": 357,
+                "ymax": 546
+            },
+            "plate": "g17629",
+            "region": {
+                "code": "cn",
+                "score": 0.604
+            },
+            "score": 0.999,
+            "candidates": [
+                {
+                    "score": 0.999,
+                    "plate": "g17629"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "gi7629"
+                }
+            ],
+            "dscore": 0.823,
+            "vehicle": {
+                "score": 0.415,
+                "type": "Pickup Truck",
+                "box": {
+                    "xmin": 1,
+                    "ymin": 0,
+                    "xmax": 611,
+                    "ymax": 716
+                }
+            }
+        }
+    ],
+    "filename": "1402_H2Dqi_G1_402.jpg",
+    "version": 1,
+    "camera_id": null,
+    "timestamp": "2024-12-03T14:02:37.409268Z",
+    "image_width": 1082,
+    "image_height": 727
+}

@@ -1,0 +1,46 @@
+{
+    "processing_time": 136.032,
+    "results": [
+        {
+            "box": {
+                "xmin": 396,
+                "ymin": 524,
+                "xmax": 538,
+                "ymax": 566
+            },
+            "plate": "g95750",
+            "region": {
+                "code": "cn",
+                "score": 0.786
+            },
+            "score": 1.0,
+            "candidates": [
+                {
+                    "score": 1.0,
+                    "plate": "g95750"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "g9575o"
+                }
+            ],
+            "dscore": 0.798,
+            "vehicle": {
+                "score": 0.906,
+                "type": "Sedan",
+                "box": {
+                    "xmin": 155,
+                    "ymin": 10,
+                    "xmax": 772,
+                    "ymax": 631
+                }
+            }
+        }
+    ],
+    "filename": "1420_YT8Ca_G1_765.jpg",
+    "version": 1,
+    "camera_id": null,
+    "timestamp": "2024-12-03T14:20:41.113506Z",
+    "image_width": 1082,
+    "image_height": 727
+}

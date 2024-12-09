@@ -1,0 +1,54 @@
+{
+    "processing_time": 94.853,
+    "results": [
+        {
+            "box": {
+                "xmin": 500,
+                "ymin": 583,
+                "xmax": 668,
+                "ymax": 633
+            },
+            "plate": "b22n78",
+            "region": {
+                "code": "cn",
+                "score": 0.573
+            },
+            "score": 0.999,
+            "candidates": [
+                {
+                    "score": 0.999,
+                    "plate": "b22n78"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "b22n7b"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "822n78"
+                },
+                {
+                    "score": 0.683,
+                    "plate": "822n7b"
+                }
+            ],
+            "dscore": 0.863,
+            "vehicle": {
+                "score": 0.732,
+                "type": "Sedan",
+                "box": {
+                    "xmin": 116,
+                    "ymin": 0,
+                    "xmax": 932,
+                    "ymax": 716
+                }
+            }
+        }
+    ],
+    "filename": "1406_z9EIT_G1_479.jpg",
+    "version": 1,
+    "camera_id": null,
+    "timestamp": "2024-12-03T14:06:43.181486Z",
+    "image_width": 1082,
+    "image_height": 727
+}

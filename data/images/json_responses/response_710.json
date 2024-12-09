@@ -1,0 +1,70 @@
+{
+    "processing_time": 44.967,
+    "results": [
+        {
+            "box": {
+                "xmin": 410,
+                "ymin": 620,
+                "xmax": 582,
+                "ymax": 672
+            },
+            "plate": "g11487",
+            "region": {
+                "code": "cn",
+                "score": 0.699
+            },
+            "score": 0.999,
+            "candidates": [
+                {
+                    "score": 0.999,
+                    "plate": "g11487"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "g114b7"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "g1i487"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "gi1487"
+                },
+                {
+                    "score": 0.683,
+                    "plate": "gi14b7"
+                },
+                {
+                    "score": 0.683,
+                    "plate": "gii487"
+                },
+                {
+                    "score": 0.682,
+                    "plate": "g1i4b7"
+                },
+                {
+                    "score": 0.525,
+                    "plate": "gii4b7"
+                }
+            ],
+            "dscore": 0.859,
+            "vehicle": {
+                "score": 0.482,
+                "type": "Van",
+                "box": {
+                    "xmin": 116,
+                    "ymin": 0,
+                    "xmax": 793,
+                    "ymax": 708
+                }
+            }
+        }
+    ],
+    "filename": "1417_1zo5x_G1_710.jpg",
+    "version": 1,
+    "camera_id": null,
+    "timestamp": "2024-12-03T14:17:51.765390Z",
+    "image_width": 1082,
+    "image_height": 727
+}

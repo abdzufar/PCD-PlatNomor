@@ -1,0 +1,46 @@
+{
+    "processing_time": 64.669,
+    "results": [
+        {
+            "box": {
+                "xmin": 278,
+                "ymin": 604,
+                "xmax": 447,
+                "ymax": 652
+            },
+            "plate": "g05795",
+            "region": {
+                "code": "cn",
+                "score": 0.806
+            },
+            "score": 0.999,
+            "candidates": [
+                {
+                    "score": 0.999,
+                    "plate": "g05795"
+                },
+                {
+                    "score": 0.841,
+                    "plate": "go5795"
+                }
+            ],
+            "dscore": 0.857,
+            "vehicle": {
+                "score": 0.473,
+                "type": "Van",
+                "box": {
+                    "xmin": 0,
+                    "ymin": 0,
+                    "xmax": 766,
+                    "ymax": 722
+                }
+            }
+        }
+    ],
+    "filename": "1344_zbzcF_G1_13.jpg",
+    "version": 1,
+    "camera_id": null,
+    "timestamp": "2024-12-03T13:44:12.618220Z",
+    "image_width": 1082,
+    "image_height": 727
+}
